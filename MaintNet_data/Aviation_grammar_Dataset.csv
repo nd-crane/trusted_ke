@@ -1,0 +1,58 @@
+Word,Description,Compound,Lemma,Stem,Part of Speech (POS)
+engine,aircraft engine,engine-holder,engine,engin,NN
+cylinder,cylinder baffle,-,cylinder,cylinder,NN
+gasket,rocker cover gasket,-,gasket,gasket,NN
+thrust,aircraft engine thrust,-,thrust,thrust,NN
+inoperable,engine inoperable,-,inoperate,inoperabl,ADJ
+hydraulic,aircraft hydraulic,-,hydraulic,hydraulic,NN
+magnetos,cylender magnetos,-,magnetos,magnetos,NN
+pressure,cylinder pressure,-,pressure,pressur,VB
+ignition,aircraft ignition,-,ignition,ignition,NN
+forward,forward cylinder,-,forward,forward,VB
+replacement,valve or gasket replacement,-,replace,replacement,NN
+external,external oil cover,-,external,external,NN
+lower,lower altitute,-,lower,lower,VB
+increasing,increasing cylinder power,-,increase,increas,ADJ
+maintenance,aircraft maintenance,-,maintenance,maintenanc,NN
+battery,aircraft battery,-,battery,battery,NN
+broke,cylinder or baffle broke,-,broke,broke,NN
+control,engine power control,-,control,control,NN
+quit,engine suddendly stop or quit,-,quit,quit,NN
+check,check or monitor the maintenance,-,check,check,ADJ
+alternator,aircraft alternator,-,alternator,alternator,NN
+turn,turn the power on/off,-,turn,turn,VB
+exhaust ,aircraft exhaust vavle,exhaust gas tempreture ,exhaust ,exhaust ,NN
+cylinder,left or right aircraft cylinders ,cylinder head temperature,cylinder,cylinder,NN
+open,open engine,-,open,open,ADJ
+upper,upper proppler,-,upper,upper,VP
+tighten,tighten screw,-,tighten,tighten,NN
+celsius,temprature,-,celsius,celsius,NN
+airmet,airmet gormet,-,airmet,airmet,NN
+alarm,emergency alarm,-,alarm,alarm,ADJ
+assystant,aircrfat start assytant ,-,assystant,assystant,NN
+fahrenheit,temprature,-,fahrenheit,fahrenheit,NN
+channel,cylinder channel,-,channel,channel,NN
+low,lowe power or temprature,-,low,low,PP
+external,external rocker cover,-,external,external,NN
+alpha,alpha temperature control,-,alpha,alpha,NN
+service,service or maintenance,service-bulletin,service,servic,NN
+failed,aircraft start failed,-,failed,fail,NN
+suddenly,engine suddendly stop,-,suddenly,sudden,NN
+assistant,service bulletin service,-,assistant,assistant,NN
+loss,engine loss power,-,loss,loss,VB
+edge,cylinder edge,leading-edge,edge,edg,NN
+normal,normal start engine,-,normal,normal,ADJ
+driftangle,aircraft drift-angle,driftangle,drift,drift,NN
+weight,aircraft weight,-,weight,weight,NN
+cuttoff,flight cuttoff,cuttoff,cuttoff,cuttoff,NN
+knot,engine knot,-,knot,knot,NN
+resistance,oil valve resistance,-,resist,resistanc,NN
+flight,flighting operation,-,flight,flight,NN
+aircraft,aircraft itself,-,aircraft,aircraft,NN
+tapper,baffle tapper,-,tapper,tapper,NN
+alert,emergency alert,-,alert,alert,NP
+vibration,engine vibration,-,vibrate,vibration,NN
+interface,flight user interface,digital-interface,interface,interfac,NN
+deficiency,alram or red deficiency,-,deficient,deficienc,NN
+baffle,cylender baffle,-,baffle,baffl,NN
+drill,aircraft stopping the drill,pilot-drill,drill,drill,NN
