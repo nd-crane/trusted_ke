@@ -1,0 +1,24 @@
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 0 4 gold 举行-v 举行.01 ----- 4:0-rel 0:1-ARGM-ADV 1:1-ARGM-LOC 8:1-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 0 11 gold 进行-v 进行.01 ----- 11:0-rel 0:6-ARG1 10:1-ARGM-TMP 13:1-ARGM-TMP
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 0 12 gold 到-v 到.01 ----- 12:0-rel
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 0 24 gold 达成-v 达成.01 ----- 24:0-rel 25:1-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 0 36 gold 取得-v 取得.01 ----- 36:0-rel 16:2-ARGM-ADV 28:1-ARGM-DIS 29:1-ARGM-TMP 32:2-ARG0 34:1-ARGM-ADV 35:1-ARGM-ADV 37:2-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 0 gold 参加-v 参加.01 ----- 0:0-rel 1:1-ARG1 7:1-ARG0
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 8 gold 表示-v 表示.01 ----- 8:0-rel 0:5-ARG0 10:2-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 23 gold 取得-v 取得.01 ----- 23:0-rel 10:1-ARG0 11:1-ARGM-TMP 12:1-ARG2 21:1-ARGM-ADV 22:1-ARGM-ADV 24:1-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 28 gold 参加-v 参加.01 ----- 28:0-rel 26:1-ARGM-LOC 29:1-ARG1 37:1-ARG0
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 39 gold 表示-v 表示.01 ----- 39:0-rel 26:6-ARG0 38:1-ARGM-TMP 41:2-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 49 gold 僵持不下-v 僵持不下.01 ----- 49:0-rel 42:1-ARG0 44:1-ARGM-LOC
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 57 gold 达成-v 达成.01 ----- 57:0-rel 51:1-ARG0 52:1-ARGM-TMP 58:1-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 1 62 gold 大-v 大.01 ----- 62:0-rel 41:1-ARGM-PRP 51:4-ARG0 61:1-ARGM-ADV
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 2 4 gold 会晤-v 会晤.01 ----- 4:0-rel 0:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG0
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 2 19 gold 参加-v 参加.01 ----- 19:0-rel 12:1-ARGM-DIS 13:4-ARG0 18:1-ARGM-ADV 20:1-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 3 16 gold 发生-v 发生.01 ----- 16:0-rel 0:1-ARGM-MNR 3:2-ARG1 7:1-ARGM-TMP 8:1-ARGM-LOC 13:1-ARG1 17:1-ARG0
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 3 20 gold 发射-v 发射.01 ----- 20:0-rel 19:1-ARG0 21:2-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 3 31 gold 有-v 有.05 ----- 31:0-rel 29:2-ARG0 32:3-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 3 37 gold 打伤-v 打伤.01 ----- 37:0-rel
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 4 0 gold 持续-v 持续.01 ----- 0:0-rel 6:1-ARG0 1:1-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 4 8 gold 造成-v 造成.01 ----- 8:0-rel 0:5-ARG0 7:1-ARGM-ADV 9:4-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 4 12 gold 死亡-v 死亡.01 ----- 12:0-rel 9:3-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 4 16 gold 是-v 是.01 ----- 16:0-rel 14:2-ARG0 17:2-ARG1
+bn/ctv/00/ctv_0089@0089@ctv@bn@ch@on 5 2 gold 报道-v 报道.01 ----- 2:0-rel 0:1-ARG0

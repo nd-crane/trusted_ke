@@ -1,0 +1,58 @@
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 0 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 0 6 gold report-v report.01 ----- 6:0-rel 7:1-ARGM-TMP 2:1-LINK-SLC
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 0 8 gold involve-v involve.01 ----- 8:0-rel 2:2-ARG2 9:2-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 0 10 gold crash-n crash.01 ----- 10:0-rel 11:1-ARG1 16:1-ARGM-LOC 18:1-ARGM-TMP
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 1 4 gold say-v say.01 ----- 4:0-rel 0:1,2:0-ARG0 3:1-ARGM-TMP
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 2 1 gold confirm-v confirm.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 2 7 gold turn-n turn.01 ----- 7:0-rel 2:1-ARG0 4:0-ARGM-LVB 6:0-ARGM-ADJ 9:2-ARGM-DIR
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 3 3 gold have-v have.03 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 3 5 gold report-n report.01 ----- 5:0-rel 4:0-ARG0
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 4 2 gold appear-v appear.02 ----- 2:0-rel 0:1-ARGM-TMP 3:5-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 4 6 gold be-v be.01 ----- 6:0-rel 3:3-ARG1 7:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 4 11 gold have-v have.01 ----- 11:0-rel
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 4 12 gold be-v be.01 ----- 12:0-rel 10:0-ARGM-MOD 13:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 4 15 gold turn-n turn.01 ----- 15:0-rel 14:0-ARGM-ADJ
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 5 5 gold tell-v tell.01 ----- 5:0-rel 0:2-ARG0 6:1-ARG2 8:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 5 13 gold try-v try.01 ----- 13:0-rel 9:2-ARG0 14:2-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 5 15 gold take-v take.19 ----- 15:0,16:1-rel 17:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 5 20 gold close-v close.01 ----- 20:0-rel 18:1-ARG1 21:1-ARGM-PNC
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 5 22 gold repair-n repair.01 ----- 22:0-rel
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 7 6 gold stretch-v stretch.01 ----- 6:0-rel 0:2-ARG1 7:1-ARGM-MNR 11:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 8 0 gold twist-v twist.01 ----- 0:0-rel 2:0,3:0-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 8 1 gold overturn-v overturn.01 ----- 1:0-rel 2:0,3:0-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 9 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 9 5 gold slam-v slam.02 ----- 5:0-rel 3:1-ARG1 6:1-ARG2 7:1-ARGM-TMP 9:1-ARGM-LOC
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 9 11 gold blind-v blind.01 ----- 11:0-rel 12:0,13:0-ARG0
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 2 gold say-v say.01 ----- 2:0-rel 0:1-ARGM-TMP 1:1-ARG0 3:3-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 5 gold have-v have.01 ----- 5:0-rel
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 6 gold confirm-v confirm.01 ----- 6:0-rel 3:1-ARG0 7:1-ARG2 11:2-ARGM-TMP 15:3-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 13 gold take-v take.19 ----- 13:0,14:1-rel 3:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 16 gold have-v have.01 ----- 16:0-rel
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 17 gold turn-v turn.01 ----- 17:0-rel 15:1-ARG1 18:1-ARGM-DIR
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 26 gold say-v say.01 ----- 26:0-rel 23:2-ARG0 27:3-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 10 28 gold turn-v turn.01 ----- 28:0-rel 27:1-ARG1 29:1-ARGM-DIR
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 11 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 11 4 gold take-v take.19 ----- 4:0,5:1-rel 2:1-ARG1 7:2-ARGM-ADV 12:3-ARGM-ADV
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 11 7 gold click-v click.01 ----- 7:0-rel 8:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 11 12 gold slam-v slam.02 ----- 12:0-rel 13:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 11 18 gold break-v break.08 ----- 18:0,19:1-rel 17:1-ARGM-TMP
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 12 3 gold be-v be.03 ----- 3:0-rel
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 12 4 gold take-v take.19 ----- 4:0,5:1-rel 1:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 12 8 gold notice-v notice.01 ----- 8:0-rel 0:1-ARGM-TMP 6:1-ARG0 9:3-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 12 10 gold do-v do.01 ----- 10:0-rel
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 12 12 gold see-v see.01 ----- 12:0-rel 9:1-ARG0 11:0-ARGM-NEG 13:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 13 1 gold use-v use.03 ----- 1:0-rel
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 13 3 gold see-v see.01 ----- 3:0-rel 4:2-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 13 6 gold go-v go.01 ----- 6:0-rel 4:1-ARG1 7:1-ARGM-DIR
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 13 10 gold look-v look.01 ----- 10:0-rel 9:1-ARG0 11:1-ARGM-DIR
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 13 13 gold say-v say.01 ----- 13:0-rel 9:1-ARG0 14:2-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 14 3 gold fly-v fly.01 ----- 3:0-rel 0:1-ARG1 4:1-ARGM-DIR 8:2-ARGM-PRD 15:2-ARGM-ADV
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 14 12 gold be-v be.01 ----- 12:0-rel 10:1-ARG1 13:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 14 17 gold identify-v identify.01 ----- 17:0-rel 15:1-ARGM-TMP 18:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 14 26 gold begin-v begin.01 ----- 26:0-rel 22:1-ARGM-TMP 23:1-ARG0 27:2-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 14 29 gold trip-n trip.01 ----- 29:0-rel 28:0-ARGM-TMP 30:1-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 15 2 gold want-v want.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 15 4 gold get-v get.05 ----- 4:0-rel 5:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 15 8 gold be-v be.01 ----- 8:0-rel 7:1-ARGM-TMP 9:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 15 12 gold get-v get.05 ----- 12:0-rel 0:1-ARG1 13:1-ARG2
+bn/mnb/00/mnb_0009@0009@mnb@bn@en@on 16 13 gold survive-v survive.01 ----- 13:0-rel 12:1-ARG0 14:1-ARGM-TMP 9:1-LINK-SLC

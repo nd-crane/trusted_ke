@@ -1,0 +1,19 @@
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 0 1 gold damage-v damage.01 ----- 1:0-rel 3:0,4:0-ARG1
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 0 6 gold come-v come.01 ----- 6:0-rel 0:1-ARG1 7:1-ARG4 8:1-ARGM-TMP
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 1 4 gold arrive-v arrive.01 ----- 4:0-rel 5:1-ARG4 10:1-ARGM-TMP
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 2 2 gold be-v be.03 ----- 2:0-rel
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 2 3 gold christen-v christen.01 ----- 3:0-rel 4:1-ARGM-LOC 5:2-ARGM-TMP
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 3 0 gold repair-n repair.01 ----- 0:0-rel
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 3 1 gold be-v be.03 ----- 1:0-rel
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 3 2 gold expect-v expect.01 ----- 2:0-rel 3:2-ARG1
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 3 4 gold cost-v cost.01 ----- 4:0-rel 5:2-ARG2
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 4 4 gold be-v be.03 ----- 4:0-rel
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 4 6 gold investigate-v investigate.01 ----- 6:0-rel 0:2-ARG0 5:1-ARGM-TMP 7:1-ARG1
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 5 2 gold be-v be.03 ----- 2:0-rel
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 5 3 gold kill-v kill.01 ----- 3:0-rel
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 6 4 gold say-v say.01 ----- 4:0-rel 0:2-ARG0 5:5-ARG1
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 6 10 gold go-v go.08 ----- 10:0-rel 5:3-ARG1 9:0-ARGM-MOD 11:1-ARG2 13:1-ARGM-TMP 15:1-ARGM-CAU
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 6 12 gold trial-n trial.02 ----- 12:0-rel
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 6 16 gold connection-n connection.01 ----- 16:0-rel 17:1-ARG2
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 7 2 gold suspect-v suspect.01 ----- 2:0-rel 3:1-ARG2
+bn/cnn/01/cnn_0139@0139@cnn@bn@en@on 7 4 gold belong-v belong.01 ----- 4:0-rel 5:1-ARG1

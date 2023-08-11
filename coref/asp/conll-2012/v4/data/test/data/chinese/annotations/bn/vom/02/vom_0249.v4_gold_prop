@@ -1,0 +1,13 @@
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 0 9 gold 逮捕-v 逮捕.01 ----- 9:0-rel
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 0 13 gold 控-v 控.01 ----- 13:0-rel 14:3-ARG2
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 1 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 1 7 gold 控-v 控.01 ----- 7:0-rel 8:3-ARG2
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 1 23 gold 闹事-v 闹事.01 ----- 23:0-rel 8:1-ARGM-TMP 17:1-ARGM-LOC
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 2 2 gold 举行-v 举行.01 ----- 2:0-rel 0:1-ARGM-LOC 4:2-ARG1
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 2 10 gold 击败-v 击败.01 ----- 10:0-rel 0:7-ARGM-TMP 8:2-ARG0 11:4-ARG1
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 3 13 gold 下令-v 下令.01 ----- 13:0-rel 11:2-ARG0 14:2-ARG1
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 3 14 gold 让-v 让.02 ----- 14:0-rel 15:1-ARG1 16:2-ARG2
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 4 2 gold 指责-v 指责.02 ----- 2:0-rel 0:2-ARG0 3:2-ARG1 5:3-ARG2
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 4 10 gold 失利-v 失利.01 ----- 10:0-rel 6:1-ARGM-LOC
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 4 12 gold 下令-v 下令.01 ----- 12:0-rel 5:1-ARGM-PRP 13:2-ARG1
+bn/vom/02/vom_0249@0249@vom@bn@ch@on 4 13 gold 逮捕-v 逮捕.01 ----- 13:0-rel 14:2-ARG1

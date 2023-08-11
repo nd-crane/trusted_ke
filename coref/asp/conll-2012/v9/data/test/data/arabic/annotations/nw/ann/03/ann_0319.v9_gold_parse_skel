@@ -1,0 +1,322 @@
+#begin document (nw/ann/03/ann_0319); part 000
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NNS   (TOP(NP*))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   CC   (TOP(FRAG*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN         (NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   JJ            *)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    RP   (TOP(FRAG(PRT*)      [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   VBN                *))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP(NP*)         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   JJ        (ADJP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   IN          (PP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   NN          (NP*)))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]       CC   (TOP(S*         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]       NN      (NP*)        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NOFUNC      (VP*         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]       NN      (NP*))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   CC   (TOP(FRAG*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN         (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBD   (TOP(S(S(VP*         [LEMMA]  -   2   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN           (PP*         [LEMMA]  -   -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN           (NP*))))     [LEMMA]  -   -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    CC              *         [LEMMA]  -   -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   VBD         (S(VP*))))     [LEMMA]  -   -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN    (NP(NP*)         [LEMMA]  -   2   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   IN       (NP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   NN       (NP*)))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN         (NP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*)))))     [LEMMA]  -   2   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    CC   (TOP(S*         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN      (NP*)        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   VBP      (VP*         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN      (NP*))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*         [LEMMA]  -   1   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN         (NP*))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN         (NP*)        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    CC   (TOP(S*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   VBP      (VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    IN      (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN      (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]    NN      (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN      (TOP(PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   JJ   (SBAR(S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN          (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NNS   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN       (NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    CC          *        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN          *)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]     NN   (TOP(NP(NP*           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]     NN          (NP*))         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   PUNC             *           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]     JJ        (ADJP*           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]     IN          (PP*           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   5    [WORD]     NN          (NP*           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   6    [WORD]     NN          (NP*))))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (NP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*)))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   JJ          *)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN         (NP*))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (PP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*)))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    IN   (TOP(FRAG(PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN            (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP(NP*)          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   VBD     (SBAR(S(VP*))))))     [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]    CC               *           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   5    [WORD]    NN            (NP*)))        [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    NN   (TOP(NP(NP*)         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   VBD   (SBAR(S(VP*)))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBD   (TOP(S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NNS      (NP(NP*)          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    IN         (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN         (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   CD       (NP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   CD       (NP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   NN       (NP*)))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   JJ   (TOP(SBAR(S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN              (NP*)          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   IN              (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   NN              (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]     NN   (TOP(NP*       [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]     CC          *       [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]     NN          *       [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   PUNC          *))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   UH   (TOP(NP(PRT*)      [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   UH          (PRT*)      [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN              *))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN       (NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    WP   (TOP(SBAR(WHNP*)          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   VBD            (S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    IN              (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN              (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBD   (TOP(S(VP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (PP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    JJ            *)))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN       (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   CC          *         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   NN          *))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]     CC   (TOP(S*        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]     VB      (VP*        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   PUNC         *)))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NNS   (TOP(NP*))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   CC   (TOP(S*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN      (NP*)       [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN      (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN       (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   CC          *         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   NN          *))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*            [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN         (NP*            [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*            [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN         (NP*            [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]    NN         (NP*)))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (NP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*)))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP(PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN          (NP*))       [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   CC             *         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   IN          (PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   NN          (NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    RP   (TOP(SBARQ(WHNP*)          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   VBP             (S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN               (NP*)          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    IN               (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   PRP               (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   CC   (TOP(FRAG*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN         (NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   JJ            *)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN       (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   CC          *         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   NN          *))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   CC   (TOP(FRAG*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN         (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN         (NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   WRB   (TOP(SQ(WHADVP*)        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NN            (S(NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]     IN   (TOP(PP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NNP    (NP(NP*)         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   PUNC          *          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   PUNC          *          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   PUNC          *          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   5    [WORD]     CC          *          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   6    [WORD]     NN       (NP*          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   7    [WORD]    NNP       (NP*)))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]     CC       (TOP(FRAG*           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    NNP             (NP*           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NNP                *)          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   PUNC                *           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]     RP   (SBARQ(WHADVP*)          [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   5    [WORD]     NN           (S(NP*           [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   6    [WORD]     NN             (NP*))))))     [LEMMA]  -   1   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    VBP   (TOP(S(VP*        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   PUNC            *)))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(FRAG(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN            (NP*))      [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   WP          (WHNP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    RP   (TOP(S(VP(PRT*)        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   VBD                *         [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    RP         (NP(PRT*)        [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN                *))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    VBP   (TOP(S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]     IN         (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]     NN         (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   PRP$         (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP(NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN          (NP*))       [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   IN          (PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   NN          (NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   RP   (TOP(SBARQ(WHADVP*)        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN               (S(NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   RP   (TOP(SBARQ(WHADVP*)        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN               (S(NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN         (NP*))))))     [LEMMA]  -   1   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP(NP*)        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   IN          (PP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   NN          (NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    RP   (TOP(SBARQ(WHADVP*)         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NNS            (S(NP(NP*)         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    WP               (WHNP*)))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*           [LEMMA]  -   2   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NN         (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]    CC            *           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   5    [WORD]    NN            *))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   NN   (TOP(NP(NP*)        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   CC             *         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   IN          (NP*         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   NN          (NP*))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   RP   (TOP(SBARQ(WHADVP*)         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN            (S(NP(NP*)         [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   WP               (WHNP*)))))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (NP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    NN         (NP*          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    CC            *          [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]    NN            *)))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   VBP   (TOP(S(VP*             [LEMMA]  -   5   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    IN         (PP*             [LEMMA]  -   -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]    IN       (SBAR*             [LEMMA]  -   -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]   VBP       (S(VP*             [LEMMA]  -   3   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]    NN         (NP*))))))))     [LEMMA]  -   -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]   IN   (TOP(PP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]   NN       (NP*        [LEMMA]  -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   JJ          *)))     [LEMMA]  -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]    VBP   (TOP(S(VP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]     NN         (NP*)          [LEMMA]  -   1   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]     IN         (PP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   3    [WORD]    NNS         (NP*           [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   4    [WORD]   PRP$         (NP*))))))     [LEMMA]  -   -   -   -   -   -
+
+nw/ann/03/ann_0319   0   0    [WORD]     CC   (TOP(S*       [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   1    [WORD]    VBP      (VP*)      [LEMMA]  -   -   -   -   -   -
+nw/ann/03/ann_0319   0   2    [WORD]   PUNC         *))     [LEMMA]  -   -   -   -   -   -
+
+#end document

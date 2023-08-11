@@ -1,0 +1,150 @@
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 5 move-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 7 reduce-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 9 cost-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 11 woo-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 16 lower-v ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 18 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 19 guarantee-n 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 28 increase-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 31 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 0 33 cut-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 2 announcement-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 5 staff-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 16 magazine-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 17 say-v ?,? 4
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 25 use-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 31 telephone-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 33 television-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 35 drive-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 37 cut-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 39 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 41 guarantee-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 51 increase-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 53 cost-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 1 58 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 3 development-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 16 row-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 18 say-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 22 increase-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 24 advertising-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 25 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 35 page-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 38 magazine-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 2 39 cost-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 3 5 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 3 6 base-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 3 9 lower-v ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 3 12 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 3 14 be-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 2 follow-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 4 course-n 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 11 magazine-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 17 challenge-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 22 maintain-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 29 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 30 be-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 32 way-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 4 34 draw-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 26 cut-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 29 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 30 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 31 base-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 33 eliminate-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 35 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 37 hold-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 5 39 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 1 discount-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 5 offer-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 11 watch-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 13 become-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 15 form-n ?,? 5
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 17 attract-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 23 world-n 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 6 25 magazine-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 7 4 part-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 7 14 want-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 8 4 think-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 8 5 sell-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 8 13 be-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 9 3 give-v ?,? 4
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 9 4 people-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 9 7 image-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 9 10 say-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 10 2 perception-n 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 10 3 take-v ?,? 4
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 10 5 focus-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 10 8 magazine-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 11 4 paint-v 5
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 11 6 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 11 7 cut-n ?,? 9
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 11 10 show-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 11 12 strength-n ?,? 6
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 11 16 benefit-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 12 4 do-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 12 5 be-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 12 6 screen-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 12 11 be-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 12 17 magazine-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 12 22 read-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 12 26 say-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 13 3 try-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 13 5 create-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 13 6 quality-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 13 8 involvement-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 14 4 use-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 14 7 explanation-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 14 13 magazine-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 14 14 cut-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 14 17 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 15 4 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 15 13 drop-v ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 15 21 month-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 15 22 end-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 16 4 move-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 16 7 receive-v ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 17 2 be-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 17 7 know-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 17 12 pay-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 17 16 say-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 17 21 medium-n ?,? 8
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 17 22 director-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 17 27 agency-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 18 3 drop-n ?,? 5
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 18 5 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 18 6 be-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 18 9 consequence-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 1 be-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 4 show-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 6 weakness-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 10 improve-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 12 quality-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 14 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 16 insure-v ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 19 18 profit-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 2 say-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 4 change-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 5 represent-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 8 focus-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 15 magazine-n 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 18 revenue-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 25 revenue-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 29 discount-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 32 cost-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 34 premium-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 20 37 strip-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 21 2 question-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 21 3 be-v 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 21 8 get-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 21 14 say-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 22 19 be-v 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 22 33 increase-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 22 35 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 22 36 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 22 37 base-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 23 1 magazine-n 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 23 3 expect-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 23 5 announce-v ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 23 8 rate-n ?,? 1
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 23 10 circulation-n ?,? 3
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 23 11 level-n ?,? 2
+nw/wsj/23/wsj_2350@2350@wsj@nw@en@on 23 16 month-n ?,? 1

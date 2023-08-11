@@ -1,0 +1,67 @@
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 0 7 gold Oanojaz-v Oanojaz.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 1 9 gold kAn-u-v kAn-u.01 ----- 9:0-rel 10:1-ARG2 21:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 1 17 gold tabaq~aY-v tabaq~aY.01 ----- 17:0-rel 16:1-ARG1 18:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 2 8 gold {it~afaq-v {it~afaq.01 ----- 8:0-rel 9:1-ARG2 11:1-ARGM-TMP 16:1-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 2 19 gold {iEotabar-v {iEotabar.01 ----- 19:0-rel 20:3,23:2-ARG1 21:1-ARG0 29:1-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 2 42 gold Oaqar~-v Oaqar~.01 ----- 42:0-rel 43:1-ARG1 44:1-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 3 1 gold badaO-a-v badaO-a.01 ----- 1:0-rel 2:1-ARGM-TMP 3:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 3 9 gold {isotamar~-v {isotamar~.01 ----- 9:0-rel 3:2-ARG1 10:2-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 4 1 gold sAfar-v sAfar.01 ----- 1:0-rel 2:2-ARG0 6:1-ARG1 13:1-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 4 14 gold OamoDaY-v OamoDaY.01 ----- 14:0-rel 15:2-ARG0 19:1-ARG1 21:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 5 2 gold Eaqad-i-v Eaqad-i.01 ----- 2:0-rel 3:1-ARG0 5:2-ARG1 8:1-ARGM-TMP 11:1-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 6 5 gold Eamad-i-v Eamad-i.01 ----- 5:0-rel 6:2-ARG0 11:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 6 18 gold mutaEal~iq-j mutaEal~iq.01 ----- 18:0-rel 19:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 6 23 gold Oaqar~-v Oaqar~.01 ----- 23:0-rel 24:1-ARG0 26:1-ARG1 30:1-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 6 31 gold Oaqar~-v Oaqar~.01 ----- 31:0-rel 32:1-ARG0 34:2-ARG1 42:1-ARGM-PRP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 7 7 gold kAn-u-v kAn-u.03 ----- 7:0-rel
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 7 11 gold Oaqar~-v Oaqar~.01 ----- 11:0-rel 8:1-ARG0 12:1-ARGM-TMP 16:2-ARG1 26:1-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 8 2 gold Oadoxal-v Oadoxal.01 ----- 2:0-rel 3:1-ARG2 5:2-ARG1 18:1-ARGM-MNR
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 8 6 gold taEal~aq-v taEal~aq.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 8 20 gold Tab~aq-v Tab~aq.01 ----- 20:0-rel 21:1-ARG2 23:2-ARG1 27:2-ARGM-MNR 19:1-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 8 44 gold taEal~aq-v taEal~aq.01 ----- 44:0-rel 43:1-ARG0 45:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 9 5 gold OanohaY-v OanohaY.01 ----- 5:0-rel 6:1-ARG0 10:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 9 15 gold EAwad-v EAwad.01 ----- 15:0-rel 16:1-ARG0 19:1-ARG1 20:1-ARGM-MNR 21:2-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 10 2 gold wAjah-v wAjah.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 11 7 gold manaE-a-v manaE-a.01 ----- 7:0-rel 6:1-ARG0 8:2-ARG2 18:1-ARG1 20:2-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 11 10 gold {it~asaE-v {it~asaE.02 ----- 10:0-rel 8:1*9:1-ARG1 11:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 12 2 gold OaEolan-v OaEolan.01 ----- 2:0-rel 3:1-ARG0 5:1-ARGM-LOC 7:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 12 13 gold Oabolag-v Oabolag.01 ----- 13:0-rel 8:2-ARG0 14:1-ARG1 15:1-ARGM-TMP 20:2-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 12 32 gold Oaqar~-v Oaqar~.01 ----- 32:0-rel 33:1-ARG0 35:1-ARGM-TMP 36:2-ARG1 44:1-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 12 46 gold manaH-a-v manaH-a.01 ----- 46:0-rel 47:1-ARG0 52:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 13 2 gold OaSobaH-v OaSobaH.01 ----- 2:0-rel 3:1-ARG1 5:2-ARGM-TMP 10:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 14 4 gold Oaworad-v Oaworad.01 ----- 4:0-rel 5:1-ARG0 3:1-ARG1 8:1-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 14 10 gold OaSodar-v OaSodar.01 ----- 10:0-rel 11:1-ARG0 13:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 15 2 gold Eay~an-v Eay~an.01 ----- 2:0-rel 3:2-ARG1 7:3-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 16 18 gold Oaqar~-v Oaqar~.01 ----- 18:0-rel 17:1-ARG0 19:2,26:1-ARG1 23:1-ARGM-MNR
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 16 32 gold {isotamar~-v {isotamar~.01 ----- 32:0-rel 4:1-ARG1 33:1-ARG2 37:1-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 17 2 gold OavAr-v OavAr.02 ----- 2:0-rel 3:2-ARG0 6:1-ARGM-TMP 8:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 1 gold taHad~av-v taHad~av.01 ----- 1:0-rel 2:1-ARG0 4:1-ARG1 7:2-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 7 gold mu$iyr-j mu$iyr.01 ----- 7:0-rel 2:1-ARG0 8:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 14 gold TaraH-a-v TaraH-a.01 ----- 14:0-rel 15:1-ARG1 12:1-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 17 gold OabodaY-v OabodaY.01 ----- 17:0-rel 18:1-ARG1 22:1-ARGM-ADV
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 26 gold kAn-u-v kAn-u.03 ----- 26:0-rel
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 27 gold OaHAl-v OaHAl.01 ----- 27:0-rel 24:1-ARG0 28:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 34 gold Oaqar~-v Oaqar~.01 ----- 34:0-rel 35:2-ARG1 36:1-ARG0
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 18 40 gold rad~-u-v rad~-u.02 ----- 40:0-rel 41:2-ARG1 42:1-ARG0 44:1-ARGM-CAU
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 19 1 gold OaDAf-v OaDAf.01 ----- 1:0-rel 2:1-ARG0 4:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 19 6 gold sabaq-iu-v sabaq-iu.02 ----- 6:0-rel 7:1-ARG2 10:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 19 11 gold qar~ar-v qar~ar.01 ----- 11:0-rel 8:1-ARG0 12:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 19 16 gold mutaEal~iq-j mutaEal~iq.01 ----- 16:0-rel 17:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 19 27 gold kal~af-v kal~af.02 ----- 27:0-rel 8:1-ARG0 28:1-ARG1 31:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 20 2 gold OaSobaH-v OaSobaH.01 ----- 2:0-rel 3:2-ARG1 1:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 21 3 gold EaraD-i-v EaraD-i.01 ----- 3:0-rel 4:1-ARGM-TMP 5:1-ARG2 8:1-ARGM-PRP 1:1-ARGM-PRP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 22 1 gold {isotaEojal-v {isotaEojal.01 ----- 1:0-rel 2:1-ARG1 5:1-ARGM-PRP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 22 7 gold waDaE-v waDaE.03 ----- 7:0-rel 8:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 22 22 gold kAn-u-v kAn-u.01 ----- 22:0-rel 23:1-ARG1 24:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 23 1 gold Ealim-a-v Ealim-a.01 ----- 1:0-rel 2:1-ARG0 5:1-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 23 8 gold {iT~alaE-v {iT~alaE.01 ----- 8:0-rel 6:1-ARG1 9:1-ARG3 12:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 23 19 gold $amil-a-v $amil-a.01 ----- 19:0-rel 16:1-ARG1 20:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 23 22 gold kAn-u-v kAn-u.03 ----- 22:0-rel
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 23 23 gold TaraH-a-v TaraH-a.01 ----- 23:0-rel 24:2-ARG1 25:2-ARG0 29:1-ARG2 31:2-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 24 14 gold taDam~an-v taDam~an.01 ----- 14:0-rel 1:2-ARG1 15:2-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 26 1 gold OafAd-v OafAd.01 ----- 1:0-rel 2:1-ARG0 3:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 26 8 gold baqiy-a-v baqiy-a.01 ----- 8:0-rel 4:1-ARG1 9:1-ARG2
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 26 22 gold maToruwH-j maToruwH.01 ----- 22:0-rel 17:3-ARG1 23:1-ARGM-PRP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 27 3 gold TaraO-a-v TaraO-a.01 ----- 3:0-rel 4:2-ARG1
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 27 12 gold Oaqar~-v Oaqar~.01 ----- 12:0-rel 10:1-ARG1 13:1-ARGM-ADV 15:1-ARGM-TMP
+nw/ann/03/ann_0389@0389@ann@nw@ar@on 27 19 gold Eaqad-i-v Eaqad-i.01 ----- 19:0-rel 20:2-ARG1 21:1-ARG0 23:1-ARGM-TMP

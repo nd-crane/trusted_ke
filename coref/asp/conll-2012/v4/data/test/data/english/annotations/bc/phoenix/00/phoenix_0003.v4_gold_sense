@@ -1,0 +1,729 @@
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 1 2 leave-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 1 12 leave-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 1 14 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 3 6 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 4 4 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 4 9 make-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 5 1 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 5 6 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 5 17 create-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 6 1 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 6 3 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 6 7 miss-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 7 15 wait-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 8 1 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 8 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 8 8 have-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 9 0 visit-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 11 17 draw-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 12 11 put-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 12 28 enter-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 13 2 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 14 8 lead-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 14 13 conduct-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 15 3 pick-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 15 18 conduct-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 7 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 29 engage-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 36 leave-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 41 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 17 1 be-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 17 7 bring-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 2 conduct-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 9 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 11 analyse-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 20 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 19 4 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 19 12 absence-n ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 3 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 7 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 22 research-n ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 24 conduct-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 30 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 21 11 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 22 3 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 23 12 leave-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 23 16 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 23 23 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 24 12 cite-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 25 2 quote-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 3 use-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 13 leave-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 17 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 28 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 34 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 28 10 have-v 9
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 29 5 have-v ?,? 9
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 30 3 imagine-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 31 1 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 31 8 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 32 10 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 33 6 conduct-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 34 1 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 34 8 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 35 23 include-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 35 50 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 35 55 account-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 3 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 9 account-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 17 live-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 22 entrust-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 29 make-v 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 37 13 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 37 23 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 38 4 have-v 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 39 9 create-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 39 12 compare-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 40 7 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 40 14 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 41 1 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 42 4 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 43 3 create-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 43 7 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 44 4 mean-v ?,? 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 44 7 look-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 1 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 8 ask-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 13 look-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 20 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 46 3 create-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 47 2 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 47 4 discuss-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 47 12 say-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 48 14 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 48 22 compare-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 49 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 50 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 51 1 have-v ?,? 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 52 3 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 53 2 have-v 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 54 2 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 54 4 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 54 9 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 55 2 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 55 9 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 55 11 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 56 1 happen-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 2 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 5 take-v 14.1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 16 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 18 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 58 7 send-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 58 19 study-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 2 go-v ?,? 9
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 16 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 26 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 28 visit-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 60 1 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 60 3 visit-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 2 see-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 8 cry-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 12 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 19 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 21 stay-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 62 1 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 62 3 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 7 bring-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 13 have-v 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 16 look-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 64 7 leave-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 65 7 return-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 65 11 continue-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 65 13 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 66 2 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 66 11 find-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 66 18 dot-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 67 2 discover-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 67 11 wash-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 3 mention-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 5 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 9 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 21 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 26 love-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 28 care-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 69 5 mention-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 69 6 regard-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 69 11 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 70 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 71 1 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 71 5 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 72 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 73 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 73 6 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 74 22 love-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 74 25 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 76 4 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 76 8 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 77 4 ask-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 77 7 take-v ?,? 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 78 4 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 79 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 80 6 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 82 2 raise-v 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 4 mention-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 5 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 8 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 10 take-v 14.1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 5 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 13 fall-v 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 22 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 24 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 5 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 6 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 8 feed-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 11 make-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 15 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 86 2 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 86 4 face-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 86 14 resolve-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 87 6 have-v 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 87 20 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 88 2 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 89 6 help-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 11 find-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 23 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 39 form-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 46 meet-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 2 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 6 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 17 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 24 attend-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 92 3 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 92 15 receive-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 93 4 need-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 93 9 guidance-n 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 94 5 absence-n ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 94 13 create-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 95 6 make-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 95 17 become-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 96 2 see-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 97 0 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 97 11 leave-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 97 21 remember-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 98 4 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 98 11 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 99 7 do-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 100 1 impress-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 100 7 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 100 11 miss-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 101 1 feel-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 101 6 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 101 10 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 102 1 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 102 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 103 2 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 104 3 learn-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 104 6 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 104 11 run-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 2 arrive-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 10 say-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 15 put-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 21 carry-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 27 see-v 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 106 2 carry-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 106 7 say-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 6 take-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 10 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 14 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 17 cure-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 22 carry-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 3 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 6 happen-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 9 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 16 buy-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 109 5 buy-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 109 14 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 109 23 eat-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 111 2 hear-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 111 8 understand-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 111 10 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 112 3 feel-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 2 feel-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 3 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 7 go-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 10 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 12 leave-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 1 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 5 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 7 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 12 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 18 encourage-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 2 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 9 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 12 get-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 22 have-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 116 3 receive-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 116 12 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 117 3 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 117 5 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 118 8 imagine-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 118 10 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 119 1 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 119 4 feel-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 120 4 feel-v ?,? 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 120 12 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 120 17 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 121 4 make-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 122 3 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 123 1 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 4 ask-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 10 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 11 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 17 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 22 cause-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 29 answer-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 125 1 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 125 4 get-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 126 1 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 127 1 be-v 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 128 1 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 1 happen-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 2 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 9 leave-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 11 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 18 look-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 130 1 have-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 130 8 be-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 131 2 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 131 5 play-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 131 11 happen-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 132 2 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 132 8 help-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 133 3 keep-v ?,? 8.12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 133 5 eye-n ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 3 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 5 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 12 watch-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 15 forbid-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 18 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 135 2 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 135 6 do-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 3 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 7 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 11 ask-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 14 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 137 1 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 137 4 turn-v ?,? 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 139 1 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 140 14 have-v 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 140 17 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 142 6 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 2 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 4 save-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 9 earn-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 16 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 23 return-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 144 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 145 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 145 6 exist-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 2 be-v ?,? 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 14 send-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 19 live-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 147 2 rely-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 147 9 support-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 148 1 live-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 149 4 see-v 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 150 3 see-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 150 10 turn-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 152 5 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 152 7 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 152 10 turn-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 153 1 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 153 7 miss-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 155 1 have-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 156 6 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 156 9 buy-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 157 2 wish-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 157 7 buy-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 159 1 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 159 4 miss-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 160 1 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 161 12 send-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 161 15 live-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 162 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 163 6 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 163 11 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 163 13 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 164 8 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 165 5 call-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 167 3 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 168 2 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 169 2 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 169 9 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 170 2 scold-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 170 10 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 171 1 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 171 5 lose-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 172 2 cry-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 172 9 cry-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 173 2 move-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 173 11 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 173 22 have-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 8 limit-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 10 provide-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 20 have-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 23 stay-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 29 fulfill-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 33 educate-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 175 2 find-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 175 11 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 176 7 contact-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 177 5 contact-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 178 3 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 178 10 communicate-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 178 12 exchange-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 179 2 find-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 179 22 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 9 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 19 call-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 31 survey-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 32 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 181 3 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 182 1 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 182 3 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 182 6 say-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 183 5 study-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 183 9 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 184 5 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 184 9 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 1 touch-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 5 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 11 content-n ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 20 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 22 ask-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 37 earn-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 186 3 content-n ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 186 16 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 187 2 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 187 8 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 188 3 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 188 12 eat-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 189 13 have-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 190 1 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 190 6 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 190 14 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 191 7 realize-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 192 6 stop-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 192 7 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 1 stop-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 2 talk-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 5 need-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 7 pause-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 9 consider-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 12 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 14 be-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 194 5 realize-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 194 11 hang-v 8
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 195 8 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 196 5 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 196 8 worry-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 197 6 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 197 11 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 197 13 call-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 198 5 consider-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 198 16 have-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 199 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 199 7 borrow-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 200 5 consider-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 200 8 need-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 200 11 make-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 201 2 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 201 8 call-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 201 14 be-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 202 2 have-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 203 6 understand-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 203 10 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 204 5 conduct-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 205 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 205 5 find-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 205 15 have-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 206 3 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 207 3 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 208 1 interview-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 208 15 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 209 5 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 209 8 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 4 tell-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 7 content-n ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 16 mention-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 20 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 30 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 211 10 engage-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 211 12 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 211 16 include-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 211 28 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 3 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 13 choose-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 16 take-v ?,? 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 20 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 213 3 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 214 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 214 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 214 10 worry-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 215 9 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 215 13 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 4 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 8 know-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 16 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 20 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 217 4 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 217 6 destroy-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 218 9 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 218 11 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 218 18 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 219 2 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 219 4 make-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 220 1 happen-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 221 2 look-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 221 7 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 222 6 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 223 4 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 223 9 finish-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 223 10 eat-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 224 2 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 224 6 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 224 13 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 12 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 15 hurry-n 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 26 help-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 27 do-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 227 3 remember-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 229 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 230 5 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 230 7 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 230 8 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 231 3 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 231 5 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 232 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 232 4 care-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 233 7 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 233 10 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 233 20 care-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 3 wear-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 6 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 11 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 16 make-v ?,? 7
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 235 1 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 235 3 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 235 11 care-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 236 5 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 5 have-v ?,? 9
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 9 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 14 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 22 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 238 2 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 238 7 live-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 238 13 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 239 10 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 239 14 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 239 17 live-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 8 survey-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 9 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 12 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 20 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 26 live-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 4 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 8 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 18 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 20 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 242 2 ask-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 242 8 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 242 10 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 243 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 244 1 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 244 5 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 244 10 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 6 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 14 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 17 assimilate-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 246 3 realize-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 246 6 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 246 16 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 247 2 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 247 4 send-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 248 2 go-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 248 3 live-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 248 9 add-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 2 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 9 live-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 18 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 24 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 250 12 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 250 18 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 250 26 have-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 251 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 251 9 bring-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 251 15 leave-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 252 1 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 252 4 make-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 252 11 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 253 5 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 253 13 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 253 15 live-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 7 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 9 face-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 12 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 17 solve-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 255 4 know-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 255 8 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 256 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 257 7 leave-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 257 12 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 258 1 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 258 3 make-v ?,? 7
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 258 6 support-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 259 2 need-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 259 11 bring-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 260 3 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 260 5 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 261 2 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 261 4 consider-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 261 9 go-v ?,? 9
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 262 1 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 262 3 find-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 262 7 live-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 263 2 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 263 6 need-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 263 8 resolve-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 264 3 face-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 264 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 265 3 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 265 11 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 266 4 permit-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 266 9 bring-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 267 2 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 267 5 bring-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 268 3 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 268 9 see-v ?,? 6
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 269 1 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 269 3 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 269 7 miss-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 270 0 judge-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 270 5 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 271 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 271 4 tell-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 272 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 273 5 depend-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 273 13 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 274 6 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 274 14 go-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 7 speak-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 14 conduct-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 17 test-n ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 19 comparison-n ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 276 6 report-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 276 14 become-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 277 1 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 278 3 like-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 278 5 speak-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 279 1 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 279 6 be-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 280 5 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 280 16 miss-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 281 1 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 282 5 visit-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 282 12 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 282 16 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 283 4 become-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 284 11 become-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 285 6 ask-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 285 14 have-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 1 say-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 6 be-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 12 encourage-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 17 exchange-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 287 3 course-n 13
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 287 6 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 287 12 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 288 11 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 288 16 cause-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 289 3 exist-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 290 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 290 8 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 291 1 believe-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 291 3 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 292 1 need-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 292 7 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 293 1 have-v 12
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 293 3 understand-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 293 11 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 2 say-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 3 be-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 9 form-v 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 16 affect-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 7 realize-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 14 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 17 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 20 love-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 296 1 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 297 25 have-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 298 6 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 298 16 receive-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 298 21 encounter-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 299 6 face-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 299 12 offer-v ?,? 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 5 believe-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 8 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 15 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 18 imagine-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 26 develop-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 29 grow-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 301 2 believe-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 301 4 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 302 2 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 302 5 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 302 16 experience-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 303 4 experience-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 11 realize-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 26 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 28 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 35 want-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 37 imagine-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 15 get-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 19 work-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 24 make-v ?,? 7
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 30 have-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 38 require-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 307 8 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 307 11 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 308 0 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 308 5 leave-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 309 2 understand-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 310 1 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 310 4 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 310 15 face-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 311 2 condemn-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 312 4 think-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 312 12 have-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 314 1 believe-v ?,? 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 314 3 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 315 2 face-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 315 15 be-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 3 consider-v ?,? 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 21 satisfy-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 317 4 be-v 3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 317 8 live-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 318 4 interview-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 318 5 live-v 2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 319 2 be-v 5
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 320 3 stay-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 320 9 look-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 321 1 happen-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 322 4 look-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 323 2 save-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 323 7 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 324 2 call-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 324 5 see-v 4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 324 8 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 325 2 tell-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 325 6 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 326 3 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 327 3 come-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 327 6 check-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 327 9 be-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 1 believe-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 7 return-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 8 be-v ?,? 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 12 ponder-v 1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 16 return-v 1

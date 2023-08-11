@@ -1,0 +1,9 @@
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 2 5 gold be-v be.03 ----- 5:0-rel
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 2 6 gold move-v move.01 ----- 6:0-rel 0:2-ARG1 7:1-ARGM-DIR
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 3 gold jump-v jump.01 ----- 3:0-rel 0:2-ARG1 4:1-ARG2 6:1-ARGM-TMP 9:2-ARGM-PRD
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 9 gold surprise-v surprise.01 ----- 9:0-rel 10:1-ARG1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 18 gold hit-v hit.02 ----- 18:0-rel 13:1-ARG0 19:2-ARG1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 2 gold show-v show.01 ----- 2:0-rel 0:1-ARG0 3:5-ARG1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 9 gold be-v be.03 ----- 9:0-rel
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 10 gold loosen-v loosen.02 ----- 10:0,11:1-rel 3:2-ARG1 12:1-ARGM-EXT
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 18 gold be-v be.01 ----- 18:0-rel 16:1-ARGM-DIS 17:1-ARG1 19:1-ARG2

@@ -1,0 +1,16 @@
+bn/voa/00/voa_0059@0059@voa@bn@en@on 0 2 gold scribble-v scribble.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG0
+bn/voa/00/voa_0059@0059@voa@bn@en@on 0 12 gold have-v have.01 ----- 12:0-rel
+bn/voa/00/voa_0059@0059@voa@bn@en@on 0 13 gold reveal-v reveal.01 ----- 13:0-rel 0:2-ARG0 15:5-ARG1
+bn/voa/00/voa_0059@0059@voa@bn@en@on 0 22 gold survive-v survive.01 ----- 22:0-rel 15:4-ARG0 23:2-ARG1
+bn/voa/00/voa_0059@0059@voa@bn@en@on 0 26 gold sink-v sink.01 ----- 26:0-rel 27:1-ARG1 23:1-LINK-SLC
+bn/voa/00/voa_0059@0059@voa@bn@en@on 1 2 gold be-v be.03 ----- 2:0-rel
+bn/voa/00/voa_0059@0059@voa@bn@en@on 1 3 gold find-v find.01 ----- 3:0-rel 4:1-ARGM-LOC
+bn/voa/00/voa_0059@0059@voa@bn@en@on 1 13 gold be-v be.01 ----- 13:0-rel 14:2-ARG2 8:1-LINK-SLC
+bn/voa/00/voa_0059@0059@voa@bn@en@on 1 19 gold be-v be.03 ----- 19:0-rel
+bn/voa/00/voa_0059@0059@voa@bn@en@on 1 20 gold recover-v recover.01 ----- 20:0-rel 16:1-LINK-SLC
+bn/voa/00/voa_0059@0059@voa@bn@en@on 1 24 gold shatter-v shatter.01 ----- 24:0-rel 25:1-ARG1 21:1-LINK-SLC
+bn/voa/00/voa_0059@0059@voa@bn@en@on 2 7 gold die-v die.01 ----- 7:0-rel 0:2-ARG1 6:1-ARGM-ADV 8:1-ARGM-MNR 9:1-ARGM-LOC
+bn/voa/00/voa_0059@0059@voa@bn@en@on 2 13 gold tear-v tear.01 ----- 13:0-rel 14:2-ARG2 15:2-ARG1 10:1-LINK-SLC
+bn/voa/00/voa_0059@0059@voa@bn@en@on 2 26 gold roar-v roar.02 ----- 26:0-rel 25:1-ARG0 27:1-ARG1
+bn/voa/00/voa_0059@0059@voa@bn@en@on 3 4 gold indicate-v indicate.01 ----- 4:0-rel 0:2-ARG0 5:3-ARG1
+bn/voa/00/voa_0059@0059@voa@bn@en@on 3 7 gold survive-v survive.01 ----- 7:0-rel 5:1-ARG0 8:1-ARGM-TMP

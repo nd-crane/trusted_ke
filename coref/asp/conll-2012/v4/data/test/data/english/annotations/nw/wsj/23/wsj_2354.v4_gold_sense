@@ -1,0 +1,108 @@
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 0 0 call-v ?,? 5
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 0 5 be-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 0 9 fight-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 0 11 defense-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 1 5 saving-n ?,? 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 1 7 loan-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 1 10 try-v ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 1 16 effort-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 1 19 suit-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 1 20 file-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 1 thrift-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 4 claim-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 7 suit-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 9 number-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 19 dismiss-v ?,? 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 35 have-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 37 money-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 39 pay-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 2 40 judgment-n ?,? 6
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 3 2 argument-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 3 4 have-v 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 3 9 ring-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 3 17 concede-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 3 19 be-v 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 3 23 back-v ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 3 25 position-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 4 appeal-n ?,? 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 5 court-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 7 signal-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 9 be-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 12 entertain-v 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 14 notion-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 20 renew-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 22 argument-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 28 state-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 31 defense-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 4 33 permit-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 1 dismissal-n ?,? 4
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 5 suit-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 7 go-v ?,? 14
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 10 way-n ?,? 7
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 12 clear-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 13 court-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 18 reduce-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 24 bill-n ?,? 4
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 5 27 top-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 6 4 encourage-v ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 6 6 month-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 6 15 case-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 6 16 bring-v ?,? 7
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 6 35 know-v ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 6 45 team-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 8 4 argue-v 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 8 18 be-v 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 8 20 asset-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 8 24 satisfy-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 8 26 judgment-n ?,? 6
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 8 34 collect-v ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 8 40 include-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 9 6 court-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 9 7 write-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 9 11 contention-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 9 13 justify-v ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 9 14 dismissal-n ?,? 4
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 9 17 action-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 9 20 ground-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 2 court-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 3 say-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 5 lack-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 8 information-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 15 send-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 17 case-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 21 district-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 10 22 court-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 8 say-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 10 plan-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 12 file-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 17 urge-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 19 district-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 20 judge-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 22 dismiss-v ?,? 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 24 suit-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 30 exceed-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 32 asset-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 40 regulator-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 11 41 close-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 12 2 institution-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 12 3 be-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 12 9 say-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 12 14 partner-n ?,? 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 13 14 dismiss-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 13 16 argument-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 13 20 defense-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 14 5 say-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 14 7 judgment-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 14 11 be-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 14 14 way-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 14 19 award-n ?,? 3
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 14 21 include-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 3 ask-v ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 5 court-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 8 number-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 10 thing-n ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 13 grant-v 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 15 addition-n ?,? 6
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 18 thrill-n ?,? 2
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 15 24 say-v ?,? 1
+nw/wsj/23/wsj_2354@2354@wsj@nw@en@on 16 3 take-v 5

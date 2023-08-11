@@ -1,0 +1,72 @@
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 0 2 gold 上台-v 上台.01 ----- 2:0-rel 0:2-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 0 3 gold 执政-v 执政.01 ----- 3:0-rel 0:2-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 0 5 gold 满-v 满.02 ----- 5:0-rel 0:2-ARG0 2:2-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 0 18 gold 投票-v 投票.01 ----- 18:0-rel 16:1-ARGM-DIS 17:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 1 9 gold 有-v 有.05 ----- 9:0-rel 0:1-ARGM-MNR 10:5-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 1 13 gold 受访-v 受访.01 ----- 13:0-rel 14:1-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 1 15 gold 表示-v 表示.01 ----- 15:0-rel 10:4-ARG0 16:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 1 17 gold 会-v 会.01 ----- 17:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 1 18 gold 改变-v 改变.01 ----- 18:0-rel 16:1-ARGM-ADV 19:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 2 1 gold 有-v 有.05 ----- 1:0-rel 0:1-ARGM-ADV 2:5-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 2 6 gold 认为-v 认为.01 ----- 6:0-rel 2:4-ARG0 8:4-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 2 16 gold 好-v 好.01 ----- 16:0-rel 8:1-ARGM-DIS 9:4-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 2 25 gold 给-v 给.01 ----- 25:0-rel 22:1-ARGM-ADV 23:1-ARGM-ADV 26:1-ARG2
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 2 28 gold 要-v 要.04 ----- 28:0-rel 29:1-ARG1 30:2-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 2 30 gold 来-v 来.05 ----- 30:0-rel 31:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 2 31 gold 负起-v 负起.01 ----- 31:0-rel 32:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 3 2 gold 上台-v 上台.01 ----- 2:0-rel 0:1-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 3 3 gold 满-v 满.02 ----- 3:0-rel 0:1-ARG0 2:1-ARG0 4:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 3 20 gold 支持-v 支持.01 ----- 20:0-rel 12:1-ARG0 13:1-ARG1 16:1-ARGM-ADV 17:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 4 5 gold 做-v 做.01 ----- 5:0-rel 1:2-ARG0 8:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 4 11 gold 投票-v 投票.01 ----- 11:0-rel 13:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 4 12 gold 给-v 给.01 ----- 12:0-rel 13:1-ARG2
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 4 16 gold 多-v 多.03 ----- 16:0-rel 0:1-ARGM-MNR 10:1-ARG0 11:6-ARG0 15:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 4 18 gold 占-v 占.01 ----- 18:0-rel 0:1-ARGM-MNR 10:1-ARGM-TPC 11:6-ARG0 19:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 4 21 gold 投-v 投.01 ----- 21:0-rel 23:1-ARG2
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 4 25 gold 占-v 占.01 ----- 25:0-rel 21:6-ARG0 26:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 1 gold 问到-v 问到.01 ----- 1:0-rel 2:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 4 gold 投票-v 投票.01 ----- 4:0-rel 2:1-ARGM-DIS 3:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 5 gold 会-v 会.01 ----- 5:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 7 gold 会-v 会.01 ----- 7:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 8 gold 改-v 改.01 ----- 8:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 15 gold 表示-v 表示.01 ----- 15:0-rel 0:1-ARGM-TMP 13:2-ARG0 17:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 18 gold 会-v 会.01 ----- 18:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 5 19 gold 改变-v 改变.01 ----- 19:0-rel 17:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 6 2 gold 问-v 问.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG2 4:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 6 7 gold 看到-v 看到.01 ----- 7:0-rel 4:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-DIS 8:5-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 6 11 gold 提到-v 提到.01 ----- 11:0-rel 8:3-ARG0 12:4-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 6 19 gold 在-v 在.01 ----- 19:0-rel 12:3-ARG0 17:1-ARGM-ADV 18:1-ARGM-ADV 20:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 6 27 gold 掉到-v 掉到.01 ----- 27:0-rel 23:1-ARGM-ADV 29:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 7 8 gold 好-v 好.01 ----- 8:0-rel 5:1-ARG0 7:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 7 14 gold 紧张-v 紧张.01 ----- 14:0-rel 12:2-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 7 23 gold 说-v 说.01 ----- 23:0-rel 21:1-ARGM-ADV 22:1-ARGM-ADV 24:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 7 28 gold 加-v 加.02 ----- 28:0-rel 24:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 7 29 gold 起来-v 起来.01 ----- 29:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 7 30 gold 占-v 占.01 ----- 30:0-rel 24:2-ARG0 31:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 0 gold 肯定-v 肯定.01 ----- 0:0-rel 1:2-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 3 gold 确定-v 确定.01 ----- 3:0-rel 1:1-ARG1 2:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 4 gold 占-v 占.01 ----- 4:0-rel 0:2-ARG0 5:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 7 gold 同意-v 同意.02 ----- 7:0-rel 8:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 9 gold 停-v 停.01 ----- 9:0-rel 8:1-ARGM-ADV 10:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 11 gold 占-v 占.01 ----- 11:0-rel 7:2-ARG0 12:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 14 gold 显示-v 显示.01 ----- 14:0-rel 15:5-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 8 21 gold 左右-v 左右.01 ----- 21:0-rel 15:4-ARG0 22:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 11 gold 有-v 有.03 ----- 11:0-rel 0:1-ARGM-DIS 1:1-ARG1 10:1-ARGM-DIS 12:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 21 gold 做-v 做.01 ----- 21:0-rel 18:2-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 24 gold 显示-v 显示.01 ----- 24:0-rel 18:6-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 29 gold 扫除-v 扫除.01 ----- 29:0-rel 28:1-ARG0 30:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 32 gold 是-v 是.01 ----- 32:0-rel 17:1-ARGM-MNR 26:1-ARG0 31:1-ARGM-ADV 33:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 39 gold 认为-v 认为.01 ----- 39:0-rel 40:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 42 gold 不善-v 不善.01 ----- 42:0-rel 40:1-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 43 gold 是-v 是.01 ----- 43:0-rel 40:2-ARG0 44:3-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 49 gold 同意-v 同意.01 ----- 49:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 9 51 gold 有-v 有.02 ----- 51:0-rel 39:2-ARGM-TPC 49:5-ARG0 52:1-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 10 2 gold 必须-v 必须.01 ----- 2:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 10 3 gold 没有-v 没有.02 ----- 3:0-rel 0:2-ARG1 4:2-ARG0
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 10 8 gold 可以-v 可以.01 ----- 8:0-rel 0:2-ARG0 7:1-ARGM-ADV 9:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 10 11 gold 认为-v 认为.01 ----- 11:0-rel 12:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 10 12 gold 合理-v 合理.01 ----- 12:0-rel
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 10 14 gold 有-v 有.02 ----- 14:0-rel 0:3-ARGM-TPC 11:5-ARG0 15:2-ARG1
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 11 10 gold 通过-v 通过.01 ----- 10:0-rel 1:2-ARG1 6:1-ARGM-TMP
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 11 14 gold 低-v 低.01 ----- 14:0-rel 0:1-ARGM-DIS 1:5-ARG0 13:1-ARGM-ADV
+bn/cts/00/cts_0069@0069@cts@bn@ch@on 11 21 gold 表示-v 表示.01 ----- 21:0-rel 16:1-ARG0 17:1-ARG3 20:1-ARGM-ADV 22:1-ARG1

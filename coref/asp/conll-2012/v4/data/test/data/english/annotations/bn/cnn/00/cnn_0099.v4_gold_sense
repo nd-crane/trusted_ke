@@ -1,0 +1,19 @@
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 0 6 line-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 1 1 be-v ?,? 2
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 2 1 claim-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 2 4 benefit-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 2 6 move-v 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 1 time-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 2 claim-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 3 jump-v 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 9 surprise-v 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 10 analyst-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 18 hit-v 3
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 3 21 level-n 6
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 1 report-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 2 show-v 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 4 nation-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 7 job-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 8 market-n ?,? 1
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 10 loosen-v 2
+bn/cnn/00/cnn_0099@0099@cnn@bn@en@on 4 18 be-v 1

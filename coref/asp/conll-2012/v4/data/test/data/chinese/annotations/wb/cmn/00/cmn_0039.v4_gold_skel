@@ -1,0 +1,589 @@
+#begin document (wb/cmn/00/cmn_0039); part 000
+wb/cmn/00/cmn_0039   0    0    [WORD]    VV   (TOP(IP(VP(VP*            -   01   -   -        *       (V*)              *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    PN          (NP(NP*)           -    -   -   -        *    (ARG1*               *               *      (2
+wb/cmn/00/cmn_0039   0    2    [WORD]    NR         (DNP(NP*)           -    -   -   -     (GPE)        *               *               *      (5)
+wb/cmn/00/cmn_0039   0    3    [WORD]   DEG                *)           -    -   -   -        *         *               *               *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]    NN             (NP*)))         -    -   -   -        *         *)              *               *       2)
+wb/cmn/00/cmn_0039   0    5    [WORD]    PU                *            -    -   -   -        *         *               *               *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    AD        (VP(ADVP*)           -    -   -   -        *         *      (ARGM-DIS*)              *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    VV             (VP*            -   01   -   -        *         *             (V*)              *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]    PN             (NP*)           -    -   -   -        *         *          (ARG2*)              *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    NT       (IP(VP(NP*)           -    -   -   -    (DATE)        *          (ARG1*      (ARGM-TMP*)     (6)
+wb/cmn/00/cmn_0039   0   10    [WORD]    VV             (VP*))))))))    -   01   -   -        *         *               *)            (V*)      -
+
+wb/cmn/00/cmn_0039   0   0    [WORD]   NR   (TOP(FRAG(NP*)))    -   -   -   -    (PERSON)   (4)
+
+wb/cmn/00/cmn_0039   0   0    [WORD]   NN   (TOP(FRAG(NP(NP*)       -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   1    [WORD]   PU                  *        -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   2    [WORD]   NR               (NP*        -   -   -    _mikecat_   (PERSON)  (4
+wb/cmn/00/cmn_0039   0   3    [WORD]   PU                  *        -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   4    [WORD]   NR                  *))      -   -   -    _mikecat_   (PERSON)   4)
+wb/cmn/00/cmn_0039   0   5    [WORD]   PU                  *        -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   6    [WORD]   PU                  *        -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   7    [WORD]   NN            (NP(NP*)       -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   8    [WORD]   PU                  *        -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   9    [WORD]   NR               (NP*))))    -   -   -    _mikecat_      (GPE)   -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    NN   (TOP(IP(NP*)            -    -   -    _mikecat_       *         *               *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    PU             *             -    -   -    _mikecat_       *         *               *               *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    VV    (IP(VP(VP*             -   01   -    _mikecat_       *       (V*)              *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    PN       (NP(NP*)            -    -   -    _mikecat_       *    (ARG1*               *               *      (2
+wb/cmn/00/cmn_0039   0    4    [WORD]    NR      (DNP(NP*)            -    -   -    _mikecat_    (GPE)        *               *               *      (5)
+wb/cmn/00/cmn_0039   0    5    [WORD]   DEG             *)            -    -   -    _mikecat_       *         *               *               *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    NN          (NP*)))          -    -   -    _mikecat_       *         *)              *               *       2)
+wb/cmn/00/cmn_0039   0    7    [WORD]    PU             *             -    -   -    _mikecat_       *         *               *               *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]    AD     (VP(ADVP*)            -    -   -    _mikecat_       *         *      (ARGM-DIS*)              *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    VV          (VP*             -   01   -    _mikecat_       *         *             (V*)              *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    PN          (NP*)            -    -   -    _mikecat_       *         *          (ARG2*)              *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    NT    (IP(VP(NP*)            -    -   -    _mikecat_   (DATE)        *          (ARG1*      (ARGM-TMP*)     (6)
+wb/cmn/00/cmn_0039   0   12    [WORD]    VV          (VP*)))))))))    -   01   -    _mikecat_       *         *               *)            (V*)      -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]   NN   (TOP(FRAG(NP(NP*)      -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    1    [WORD]   PU                  *       -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    2    [WORD]   NN               (NP*       -   -   -    _mikecat_       *   (8
+wb/cmn/00/cmn_0039   0    3    [WORD]   NR                  *       -   -   -    _mikecat_   (ORG*    -
+wb/cmn/00/cmn_0039   0    4    [WORD]   NR                  *)      -   -   -    _mikecat_       *)   8)
+wb/cmn/00/cmn_0039   0    5    [WORD]   PU                  *       -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    6    [WORD]   NT           (PRN(NP*       -   -   -    _mikecat_  (TIME*    -
+wb/cmn/00/cmn_0039   0    7    [WORD]   NT                  *       -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    8    [WORD]   NT                  *       -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    9    [WORD]   NT                  *       -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0   10    [WORD]   NT                  *)))    -   -   -    _mikecat_       *)   -
+wb/cmn/00/cmn_0039   0   11    [WORD]   PU                  *))     -   -   -    _mikecat_       *    -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(IP(PP(ADVP*)            -    -   -    _mikecat_           *      *      (ARGM-TMP*      (ARGM-TMP*        *      (ARGM-TMP*      (ARGM-TMP*               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]     P                  (PP*             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    CD           (LCP(NP(QP*             -    -   -    _mikecat_      (DATE*      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]     M                 (CLP*))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]    NN                  (NP*))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    LC                     *)))          -    -   -    _mikecat_           *)     *               *)              *)       *               *)              *)              *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    PU                     *             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    PN                  (NP*)            -    -   -    _mikecat_           *      *          (ARG0*)         (ARG0*)       *          (ARG0*)         (ARG0*)              *               *               *               *        *               *      (4)
+wb/cmn/00/cmn_0039   0    8    [WORD]    VC               (VP(VP*             -   04   -    _mikecat_           *    (V*)              *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    AD             (VP(ADVP*)            -    -   -    _mikecat_           *      *      (ARGM-ADV*)              *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    VA                  (VP*)))          -   01   -    _mikecat_           *      *             (V*)              *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    PU                     *             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   12    [WORD]    AD      (VP(DVP(VP(ADVP*)            -    -   -    _mikecat_           *      *               *      (ARGM-ADV*        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]    VE                  (VP*             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   14    [WORD]    NN                  (NP*)))          -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   15    [WORD]   DEV                     *)            -    -   -    _mikecat_           *      *               *               *)       *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   16    [WORD]    VV                  (VP*             -   01   -    _mikecat_           *      *               *             (V*)       *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   17    [WORD]    AS                     *             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]    NT           (NP(DNP(NP*)            -    -   -    _mikecat_           *      *               *          (ARG1*        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   19    [WORD]   DEG                     *)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   20    [WORD]    NN                  (NP*))))         -    -   -    _mikecat_           *      *               *               *)       *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   21    [WORD]    PU                     *             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   22    [WORD]    VV                  (VP*             -   03   -    _mikecat_           *      *               *               *      (V*)              *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   23    [WORD]     P               (VP(PP*             -    -   -    _mikecat_           *      *               *               *        *      (ARGM-TMP*      (ARGM-TMP*               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   24    [WORD]    CD           (LCP(NP(QP*             -    -   -    _mikecat_      (DATE*      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   25    [WORD]     M                 (CLP*))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   26    [WORD]    NN                  (NP*))           -    -   -    _mikecat_           *)     *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   27    [WORD]    LC                     *))           -    -   -    _mikecat_           *      *               *               *        *               *)              *)              *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   28    [WORD]    VV               (VP(VP*             -   01   -    _mikecat_           *      *               *               *        *             (V*)              *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   29    [WORD]    CD               (NP(QP*             -    -   -    _mikecat_   (CARDINAL)     *               *               *        *          (ARG1*               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   30    [WORD]     M                 (CLP*))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   31    [WORD]    NN                  (NP*)))          -    -   -    _mikecat_           *      *               *               *        *               *)              *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   32    [WORD]    VV                  (VP*             -   01   -    _mikecat_           *      *               *               *        *               *             (V*)              *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   33    [WORD]    NN                  (NP*)))))))      -    -   -    _mikecat_           *      *               *               *        *               *          (ARG1*)              *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   34    [WORD]    PU                     *             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   35    [WORD]    AD             (IP(ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *      (ARGM-DIS*)              *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   36    [WORD]    DT               (NP(DP*)            -    -   -    _mikecat_      (DATE*      *               *               *        *               *               *          (ARG0*               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   37    [WORD]    NN                  (NP*))           -    -   -    _mikecat_           *)     *               *               *        *               *               *               *)              *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   38    [WORD]    AD             (VP(ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *      (ARGM-DIS*)              *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   39    [WORD]    VE                  (VP*             -   03   -    _mikecat_           *      *               *               *        *               *               *             (V*)              *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   40    [WORD]    NN                  (NP*             -    -   -    _mikecat_      (DATE*      *               *               *        *               *               *          (ARG1*               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   41    [WORD]    NN                     *))))         -    -   -    _mikecat_           *)     *               *               *        *               *               *               *)              *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   42    [WORD]    AD             (IP(ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *      (ARGM-ADV*)              *        *               *       -
+wb/cmn/00/cmn_0039   0   43    [WORD]    VV   (NP(CP(CP(IP(VP(VP*)))          -   01   -    _mikecat_           *      *               *               *        *               *               *               *             (V*)         (ARG0*               *        *               *       -
+wb/cmn/00/cmn_0039   0   44    [WORD]   DEC                     *))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   45    [WORD]    NN                  (NP*))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *      (ARGM-TMP*)              *)              *        *               *       -
+wb/cmn/00/cmn_0039   0   46    [WORD]    AD             (VP(ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *      (ARGM-ADV*)              *        *               *       -
+wb/cmn/00/cmn_0039   0   47    [WORD]    AD                (ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *      (ARGM-ADV*)              *        *               *       -
+wb/cmn/00/cmn_0039   0   48    [WORD]    VE                  (VP*             -   02   -    _mikecat_           *      *               *               *        *               *               *               *               *             (V*)              *        *               *       -
+wb/cmn/00/cmn_0039   0   49    [WORD]    CD                  (QP*             -    -   -    _mikecat_      (DATE*      *               *               *        *               *               *               *               *          (ARG1*               *        *               *       -
+wb/cmn/00/cmn_0039   0   50    [WORD]     M                 (CLP*)))))        -    -   -    _mikecat_           *)     *               *               *        *               *               *               *               *               *)              *        *               *       -
+wb/cmn/00/cmn_0039   0   51    [WORD]    PU                     *             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   52    [WORD]    PN               (IP(NP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *          (ARG0*)       *               *       -
+wb/cmn/00/cmn_0039   0   53    [WORD]    AD             (VP(ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *      (ARGM-ADV*)       *               *       -
+wb/cmn/00/cmn_0039   0   54    [WORD]    AD                (ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *      (ARGM-ADV*)       *               *       -
+wb/cmn/00/cmn_0039   0   55    [WORD]    VV                  (VP*             -   02   -    _mikecat_           *      *               *               *        *               *               *               *               *               *             (V*)       *               *       -
+wb/cmn/00/cmn_0039   0   56    [WORD]    DT            (IP(NP(DP*             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *          (ARG1*        *          (ARG0*       -
+wb/cmn/00/cmn_0039   0   57    [WORD]     M                 (CLP*))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   58    [WORD]    NN                  (NP*))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *)      -
+wb/cmn/00/cmn_0039   0   59    [WORD]    AD             (VP(ADVP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *      (ARGM-ADV*)      -
+wb/cmn/00/cmn_0039   0   60    [WORD]    VC              (VP(VNV*             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   61    [WORD]    AD                     *             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   62    [WORD]    VC                     *)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   63    [WORD]    VV                  (VP*             -   02   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *      (V*)              *       -
+wb/cmn/00/cmn_0039   0   64    [WORD]     P               (VP(PP*             -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *      (ARGM-TMP*       -
+wb/cmn/00/cmn_0039   0   65    [WORD]    DT               (NP(DP*)            -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+wb/cmn/00/cmn_0039   0   66    [WORD]    NN                  (NP*)))          -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *)      -
+wb/cmn/00/cmn_0039   0   67    [WORD]    VV                  (VP*)))))))))    -   01   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *)       *             (V*)      -
+wb/cmn/00/cmn_0039   0   68    [WORD]    PU                     *))           -    -   -    _mikecat_           *      *               *               *        *               *               *               *               *               *               *        *               *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    NN           (TOP(IP(NP*)        -    -   -    _mikecat_  *        (ARG0*)         (ARG0*)          *           *        *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    PU                     *         -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    AD   (VP(VP(DVP(VP(ADVP*)        -    -   -    _mikecat_  *    (ARGM-ADV*               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    VA                  (VP*))       -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]   DEV                     *)        -    -   -    _mikecat_  *             *)              *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VV                  (VP*         -   02   -    _mikecat_  *           (V*)              *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]     P                  (PP*         -    -   -    _mikecat_  *    (ARGM-LOC*               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    PN           (NP(DNP(NP*)        -    -   -    _mikecat_  *             *               *           *           *        *               *      (4)
+wb/cmn/00/cmn_0039   0    8    [WORD]   DEG                     *)        -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    NN                  (NP*)))))    -    -   -    _mikecat_  *             *)              *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    PU                     *         -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    VV                  (VP*         -   02   -    _mikecat_  *             *             (V*)          *           *        *               *       -
+wb/cmn/00/cmn_0039   0   12    [WORD]   DER                     *         -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]    PN            (CP(IP(NP*)        -    -   -    _mikecat_  *             *      (ARGM-EXT*      (ARG0*)     (ARG0*)       *          (ARG0*)     (4)
+wb/cmn/00/cmn_0039   0   14    [WORD]    VV           (VP(VP(VPT*         -   01   -    _mikecat_  *             *               *         (V*)          *        *               *       -
+wb/cmn/00/cmn_0039   0   15    [WORD]    AD                     *         -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   16    [WORD]    VV                     *)        -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   17    [WORD]    NN                  (NP*))       -    -   -    _mikecat_  *             *               *      (ARG1*)          *        *               *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]    PU                     *         -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   19    [WORD]    VV              (VP(VPT*         -   01   -    _mikecat_  *             *               *           *         (V*)       *               *       -
+wb/cmn/00/cmn_0039   0   20    [WORD]    AD                     *         -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   21    [WORD]    VA                     *)        -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   22    [WORD]    NN                  (NP*))       -    -   -    _mikecat_  *             *               *           *      (ARG1*)       *               *       -
+wb/cmn/00/cmn_0039   0   23    [WORD]    PU                     *         -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+wb/cmn/00/cmn_0039   0   24    [WORD]    AD             (VP(ADVP*)        -    -   -    _mikecat_  *             *               *           *           *        *      (ARGM-ADV*)      -
+wb/cmn/00/cmn_0039   0   25    [WORD]    VV                  (VP*         -   03   -    _mikecat_  *             *               *           *           *      (V*)              *       -
+wb/cmn/00/cmn_0039   0   26    [WORD]    VV                  (VP*)))))    -   01   -    _mikecat_  *             *               *           *           *        *             (V*)      -
+wb/cmn/00/cmn_0039   0   27    [WORD]    SP                     *)))      -    -   -    _mikecat_  *             *               *)          *           *        *               *       -
+wb/cmn/00/cmn_0039   0   28    [WORD]    PU                     *))       -    -   -    _mikecat_  *             *               *           *           *        *               *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(IP(ADVP*)       -    -   -    _mikecat_  *      *      (ARGM-DIS*)          *     -
+wb/cmn/00/cmn_0039   0    1    [WORD]    PU                  *        -    -   -    _mikecat_  *      *               *           *     -
+wb/cmn/00/cmn_0039   0    2    [WORD]    NN               (NP*)       -    -   -    _mikecat_  *      *          (ARG1*)          *     -
+wb/cmn/00/cmn_0039   0    3    [WORD]    AD          (VP(ADVP*)       -    -   -    _mikecat_  *      *      (ARGM-ADV*)          *     -
+wb/cmn/00/cmn_0039   0    4    [WORD]    VV               (VP*        -   03   -    _mikecat_  *    (V*)              *           *     -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VV               (VP*))))    -   01   -    _mikecat_  *      *             (V*)          *     -
+wb/cmn/00/cmn_0039   0    6    [WORD]    PU                  *        -    -   -    _mikecat_  *      *               *           *     -
+wb/cmn/00/cmn_0039   0    7    [WORD]    JJ   (IP(NP(DNP(ADJP*)       -    -   -    _mikecat_  *      *               *      (ARG0*     -
+wb/cmn/00/cmn_0039   0    8    [WORD]   DEG                  *)       -    -   -    _mikecat_  *      *               *           *     -
+wb/cmn/00/cmn_0039   0    9    [WORD]    NN               (NP*))      -    -   -    _mikecat_  *      *               *           *)    -
+wb/cmn/00/cmn_0039   0   10    [WORD]    VE               (VP*        -   02   -    _mikecat_  *      *               *         (V*)    -
+wb/cmn/00/cmn_0039   0   11    [WORD]    DT            (NP(DP*)       -    -   -    _mikecat_  *      *               *      (ARG1*     -
+wb/cmn/00/cmn_0039   0   12    [WORD]    NN               (NP*))))    -    -   -    _mikecat_  *      *               *           *)    -
+wb/cmn/00/cmn_0039   0   13    [WORD]    PU                  *))      -    -   -    _mikecat_  *      *               *           *     -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(VP(VP(ADVP*)        -    -   -    _mikecat_      *    (ARGM-DIS*)     (ARGM-DIS*)          *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    PU                     *         -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    VV                  (VP*         -   02   -    _mikecat_      *           (V*)              *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    VV                  (VP*         -   01   -    _mikecat_      *        (ARG0*             (V*)          *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]     P           (NP(DNP(PP*         -    -   -    _mikecat_      *             *          (ARG1*           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    NR                  (NP*))       -    -   -    _mikecat_   (GPE)            *               *           *           *           *           *               *      (3)
+wb/cmn/00/cmn_0039   0    6    [WORD]   DEG                     *)        -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    DT                  (DP*)        -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]    NN                  (NP*)))))    -    -   -    _mikecat_      *             *)              *)          *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    PU                     *         -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    VV                  (VP*         -   01   -    _mikecat_      *             *               *         (V*)          *           *           *               *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    NR                  (NP*))       -    -   -    _mikecat_   (ORG)            *               *      (ARG1*)          *           *           *               *       -
+wb/cmn/00/cmn_0039   0   12    [WORD]    VV                  (VP*         -   01   -    _mikecat_      *             *               *           *         (V*)          *           *               *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]    NN                  (NP*))       -    -   -    _mikecat_      *             *               *           *      (ARG1*)          *           *               *       -
+wb/cmn/00/cmn_0039   0   14    [WORD]    PU                     *         -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0   15    [WORD]    VV                  (VP*         -   01   -    _mikecat_      *             *               *           *           *         (V*)          *               *       -
+wb/cmn/00/cmn_0039   0   16    [WORD]    NN           (NP(DNP(NP*)        -    -   -    _mikecat_      *             *               *           *           *      (ARG1*           *               *       -
+wb/cmn/00/cmn_0039   0   17    [WORD]   DEG                     *)        -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]    NN                  (NP*)))      -    -   -    _mikecat_      *             *               *           *           *           *)          *               *       -
+wb/cmn/00/cmn_0039   0   19    [WORD]    PU                     *         -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0   20    [WORD]    VV                  (VP*         -   01   -    _mikecat_      *             *               *           *           *           *         (V*)              *       -
+wb/cmn/00/cmn_0039   0   21    [WORD]    VV   (NP(CP(CP(IP(VP(VP*)))      -   01   -    _mikecat_      *             *               *           *           *           *      (ARG1*             (V*)      -
+wb/cmn/00/cmn_0039   0   22    [WORD]   DEC                     *))       -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+wb/cmn/00/cmn_0039   0   23    [WORD]    NN                  (NP*))))     -    -   -    _mikecat_      *             *               *           *           *           *           *)     (ARGM-MNR*)      -
+wb/cmn/00/cmn_0039   0   24    [WORD]    PU                     *))       -    -   -    _mikecat_      *             *               *           *           *           *           *               *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(NP(ADVP*)       -    -   -    _mikecat_      *        (ARG1*       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    NN         (NP(NP(NP*)       -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]     P           (DNP(PP*        -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    NR               (NP*))      -    -   -    _mikecat_   (GPE)            *      (3)
+wb/cmn/00/cmn_0039   0    4    [WORD]   DEG                  *)       -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    NN               (NP*))      -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    CC                  *        -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    NN        (NP(DNP(NP*)       -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]   DEG                  *)       -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    NN               (NP*))))    -    -   -    _mikecat_      *             *)      -
+wb/cmn/00/cmn_0039   0   10    [WORD]    AD          (VP(ADVP*)       -    -   -    _mikecat_      *    (ARGM-ADV*)      -
+wb/cmn/00/cmn_0039   0   11    [WORD]    VV           (VP(VRD*        -   01   -    _mikecat_      *           (V*)      -
+wb/cmn/00/cmn_0039   0   12    [WORD]    VV                  *)       -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]    AS                  *))      -    -   -    _mikecat_      *             *       -
+wb/cmn/00/cmn_0039   0   14    [WORD]    PU                  *))      -    -   -    _mikecat_      *             *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    NN   (TOP(IP(NP*)          -    -   -    _mikecat_  *    (ARGM-TPC*)       *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    PU             *           -    -   -    _mikecat_  *             *        *               *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    AD     (VP(ADVP*)          -    -   -    _mikecat_  *    (ARGM-ADV*)       *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    VC          (VP*           -   01   -    _mikecat_  *           (V*)       *               *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]    NN       (IP(NP*)          -    -   -    _mikecat_  *        (ARG1*        *          (ARG0*)      -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VV          (VP*           -   02   -    _mikecat_  *             *      (V*)              *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]     P       (VP(PP*           -    -   -    _mikecat_  *             *        *      (ARGM-TMP*       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    NN   (NP(DNP(NP*)          -    -   -    _mikecat_  *             *        *               *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]   DEG             *)          -    -   -    _mikecat_  *             *        *               *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    NN          (NP*)))        -    -   -    _mikecat_  *             *        *               *)      -
+wb/cmn/00/cmn_0039   0   10    [WORD]    VV          (VP*           -   01   -    _mikecat_  *             *        *             (V*)      -
+wb/cmn/00/cmn_0039   0   11    [WORD]    PN          (NP*)))))))    -    -   -    _mikecat_  *             *)       *          (ARG1*)     (4)
+wb/cmn/00/cmn_0039   0   12    [WORD]    PU             *))         -    -   -    _mikecat_  *             *        *               *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    CD   (TOP(IP(NP(QP*)         -    -   -    _mikecat_  *    (ARG0*           *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    NN             (NP*))        -    -   -    _mikecat_  *         *)          *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    VV             (VP*          -   02   -    _mikecat_  *       (V*)          *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    NN      (NP(DNP(NP*)         -    -   -    _mikecat_  *    (ARG1*           *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]   DEG                *)         -    -   -    _mikecat_  *         *           *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    NN             (NP*))        -    -   -    _mikecat_  *         *)          *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    VV    (IP(VP(VP(VP*          -   01   -    _mikecat_  *    (ARG2*         (V*)       *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    PN             (NP*)         -    -   -    _mikecat_  *         *      (ARG1*)       *           *           *           *           *      (4)
+wb/cmn/00/cmn_0039   0    8    [WORD]    VV          (IP(VP*)))       -   01   -    _mikecat_  *         *      (ARG2*)     (V*)          *           *           *           *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    PU                *          -    -   -    _mikecat_  *         *           *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    VV             (VP*          -   01   -    _mikecat_  *         *           *        *         (V*)          *           *           *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    PN             (NP*)         -    -   -    _mikecat_  *         *           *        *      (ARG1*)          *           *           *      (4)
+wb/cmn/00/cmn_0039   0   12    [WORD]    VV          (IP(VP*          -   01   -    _mikecat_  *         *           *        *      (ARG2*         (V*)          *           *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]    NN             (NP*)))))     -    -   -    _mikecat_  *         *           *        *           *)     (ARG1*)          *           *       -
+wb/cmn/00/cmn_0039   0   14    [WORD]    PU                *          -    -   -    _mikecat_  *         *           *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0   15    [WORD]    CC                *          -    -   -    _mikecat_  *         *           *        *           *           *           *           *       -
+wb/cmn/00/cmn_0039   0   16    [WORD]    VV          (VP(VP*          -   01   -    _mikecat_  *         *           *        *           *           *         (V*)          *       -
+wb/cmn/00/cmn_0039   0   17    [WORD]    NN             (NP*))        -    -   -    _mikecat_  *         *           *        *           *           *      (ARG1*)          *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]    VV             (VP*          -   01   -    _mikecat_  *         *           *        *           *           *           *         (V*)      -
+wb/cmn/00/cmn_0039   0   19    [WORD]    PN             (NP*))))))    -    -   -    _mikecat_  *         *)          *        *           *           *           *      (ARG1*)     (4)
+wb/cmn/00/cmn_0039   0   20    [WORD]    PU                *))        -    -   -    _mikecat_  *         *           *        *           *           *           *           *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]   AD   (TOP(IP(IP(VP(ADVP*)           -    -   -    _mikecat_           *    (ARGM-ADV*)              *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]   VE                  (VP*            -   01   -    _mikecat_           *           (V*)              *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    M           (IP(NP(CLP*)           -    -   -    _mikecat_           *        (ARG1*          (ARG0*               *        *               *               *               *        *               *           *               *        *      (0
+wb/cmn/00/cmn_0039   0    3    [WORD]   NN                  (NP*))          -    -   -    _mikecat_           *             *               *)              *        *               *               *               *        *               *           *               *        *       0)
+wb/cmn/00/cmn_0039   0    4    [WORD]   AD             (VP(ADVP*)           -    -   -    _mikecat_           *             *      (ARGM-ADV*)              *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]   VV                  (VP*            -   01   -    _mikecat_           *             *             (V*)              *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]   CD               (NP(QP*            -    -   -    _mikecat_   (CARDINAL)            *          (ARG1*               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    M                 (CLP*))          -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]   NN                  (NP*))))))))    -    -   -    _mikecat_           *             *)              *)              *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]   PU                     *            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]   AD             (IP(ADVP*)           -    -   -    _mikecat_           *             *               *      (ARGM-DIS*)       *      (ARGM-DIS*)              *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]   PN                  (NP*)           -    -   -    _mikecat_           *             *               *          (ARG0*)       *          (ARG0*)              *               *        *               *           *               *        *      (0)
+wb/cmn/00/cmn_0039   0   12    [WORD]   AD          (VP(VP(ADVP*)           -    -   -    _mikecat_           *             *               *      (ARGM-ADV*)       *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]   VV                  (VP*            -   02   -    _mikecat_           *             *               *             (V*)       *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   14    [WORD]   VV               (IP(VP*))))        -   01   -    _mikecat_           *             *               *          (ARG1*)     (V*)              *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   15    [WORD]   PU                     *            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   16    [WORD]   AD             (VP(ADVP*)           -    -   -    _mikecat_           *             *               *               *        *      (ARGM-DIS*)              *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   17    [WORD]   AD                (ADVP*)           -    -   -    _mikecat_           *             *               *               *        *      (ARGM-ADV*)              *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]   BA                  (VP*            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   19    [WORD]   PN               (IP(NP*)           -    -   -    _mikecat_           *             *               *               *        *          (ARG1*)              *               *        *               *           *               *        *      (4)
+wb/cmn/00/cmn_0039   0   20    [WORD]   VV              (VP(VRD*            -   01   -    _mikecat_           *             *               *               *        *             (V*)              *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   21    [WORD]   VV                     *)           -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   22    [WORD]   AS                     *))))))      -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   23    [WORD]   PU                     *            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   24    [WORD]   AD          (IP(VP(ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *      (ARGM-ADV*)              *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   25    [WORD]   AD                (ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *      (ARGM-ADV*)              *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   26    [WORD]   AD                (ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *      (ARGM-ADV*)              *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   27    [WORD]   VV                  (VP*            -   01   -    _mikecat_           *             *               *               *        *               *             (V*)              *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   28    [WORD]   NR                  (NP*))))        -    -   -    _mikecat_        (GPE)            *               *               *        *               *          (ARG1*)              *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   29    [WORD]   PU                     *            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   30    [WORD]   AD             (IP(ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *      (ARGM-DIS*)       *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   31    [WORD]   NN                  (NP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *          (ARG0*)       *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   32    [WORD]   AD             (VP(ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *      (ARGM-DIS*)       *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   33    [WORD]   AD                (ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *      (ARGM-ADV*)       *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   34    [WORD]   VC                  (VP*            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   35    [WORD]   AD             (VP(ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *      (ARGM-ADV*)       *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   36    [WORD]   VA                  (VP*)))))       -   01   -    _mikecat_           *             *               *               *        *               *               *             (V*)       *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   37    [WORD]   PU                     *            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   38    [WORD]   AD          (IP(VP(ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *      (ARGM-DIS*)          *               *        *       -
+wb/cmn/00/cmn_0039   0   39    [WORD]   AD                (ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *      (ARGM-ADV*)          *               *        *       -
+wb/cmn/00/cmn_0039   0   40    [WORD]   VV                  (VP*            -   01   -    _mikecat_           *             *               *               *        *               *               *               *      (V*)              *           *               *        *       -
+wb/cmn/00/cmn_0039   0   41    [WORD]   VV                  (VP*            -   01   -    _mikecat_           *             *               *               *        *               *               *               *        *             (V*)          *               *        *       -
+wb/cmn/00/cmn_0039   0   42    [WORD]   PN                  (NP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *          (ARG1*)          *               *        *      (4)
+wb/cmn/00/cmn_0039   0   43    [WORD]   VV               (IP(VP*            -   01   -    _mikecat_           *             *               *               *        *               *               *               *        *          (ARG2*         (V*)              *        *       -
+wb/cmn/00/cmn_0039   0   44    [WORD]   NN                  (NP*)))))))     -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *)     (ARG1*)              *        *       -
+wb/cmn/00/cmn_0039   0   45    [WORD]   PU                     *            -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+wb/cmn/00/cmn_0039   0   46    [WORD]   AD          (IP(VP(ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *      (ARGM-DIS*)       *       -
+wb/cmn/00/cmn_0039   0   47    [WORD]   AD                (ADVP*)           -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *      (ARGM-ADV*)       *       -
+wb/cmn/00/cmn_0039   0   48    [WORD]   VV                  (VP*            -   01   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *             (V*)       *       -
+wb/cmn/00/cmn_0039   0   49    [WORD]   VV               (IP(VP*)))))       -   01   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *          (ARG1*)     (V*)      -
+wb/cmn/00/cmn_0039   0   50    [WORD]   PU                     *))          -    -   -    _mikecat_           *             *               *               *        *               *               *               *        *               *           *               *        *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]   NN   (TOP(IP(VP(VP(LCP(NP*       -    -   -    _mikecat_       *    (ARGM-TMP*               *               *      -
+wb/cmn/00/cmn_0039   0    1    [WORD]   NN                       *)      -    -   -    _mikecat_       *             *               *               *      -
+wb/cmn/00/cmn_0039   0    2    [WORD]   LC                       *)      -    -   -    _mikecat_       *             *)              *               *      -
+wb/cmn/00/cmn_0039   0    3    [WORD]   AD                  (ADVP*)      -    -   -    _mikecat_       *    (ARGM-ADV*)              *               *      -
+wb/cmn/00/cmn_0039   0    4    [WORD]   VV                    (VP*       -   01   -    _mikecat_       *           (V*)              *               *      -
+wb/cmn/00/cmn_0039   0    5    [WORD]   NR                    (NP*)))    -    -   -    _mikecat_    (GPE)       (ARG1*)              *               *      -
+wb/cmn/00/cmn_0039   0    6    [WORD]   PU                       *       -    -   -    _mikecat_       *             *               *               *      -
+wb/cmn/00/cmn_0039   0    7    [WORD]   NT                 (VP(NP*       -    -   -    _mikecat_  (TIME*             *      (ARGM-TMP*               *      -
+wb/cmn/00/cmn_0039   0    8    [WORD]   NT                       *)      -    -   -    _mikecat_       *)            *               *)              *      -
+wb/cmn/00/cmn_0039   0    9    [WORD]   VV                    (VP*))     -   01   -    _mikecat_       *             *             (V*)              *      -
+wb/cmn/00/cmn_0039   0   10    [WORD]   PU                       *       -    -   -    _mikecat_       *             *               *               *      -
+wb/cmn/00/cmn_0039   0   11    [WORD]   NT                 (VP(NP*       -    -   -    _mikecat_  (TIME*             *               *      (ARGM-TMP*     (9
+wb/cmn/00/cmn_0039   0   12    [WORD]   NT                       *)      -    -   -    _mikecat_       *)            *               *               *)     9)
+wb/cmn/00/cmn_0039   0   13    [WORD]   AD                  (ADVP*)      -    -   -    _mikecat_       *             *               *      (ARGM-ADV*)     -
+wb/cmn/00/cmn_0039   0   14    [WORD]   VV                    (NP*)))    -   01   -    _mikecat_       *             *               *             (V*)     -
+wb/cmn/00/cmn_0039   0   15    [WORD]   PU                       *))     -    -   -    _mikecat_       *             *               *               *      -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]   NT   (TOP(CP(IP(VP(NP*)       -    -   -    _mikecat_       *             *      (9)
+wb/cmn/00/cmn_0039   0    1    [WORD]    P                (PP*        -    -   -    _mikecat_       *             *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]   NN       (IP(VP(NP(NP*        -    -   -    _mikecat_  (TIME*    (ARGM-TMP*       -
+wb/cmn/00/cmn_0039   0    3    [WORD]   NN                   *)       -    -   -    _mikecat_       *             *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]   NT                (NP*        -    -   -    _mikecat_       *             *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]   NT                   *))      -    -   -    _mikecat_       *)            *)      -
+wb/cmn/00/cmn_0039   0    6    [WORD]   VV                (VP*))))    -   01   -    _mikecat_       *           (V*)      -
+wb/cmn/00/cmn_0039   0    7    [WORD]   AD              (ADVP*)       -    -   -    _mikecat_       *             *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]   CD             (NP(QP*        -    -   -    _mikecat_  (TIME*             *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    M               (CLP*))      -    -   -    _mikecat_       *             *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]   NN                (NP*))))    -    -   -    _mikecat_       *)            *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]   SP                   *        -    -   -    _mikecat_       *             *       -
+wb/cmn/00/cmn_0039   0   12    [WORD]   PU                   *))      -    -   -    _mikecat_       *             *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    CS   (TOP(IP(VP(CP(ADVP*)         -    -   -    _mikecat_  *    (ARGM-DIS*)              *        *      (ARGM-ADV*           *        *      (ARGM-ADV*     -
+wb/cmn/00/cmn_0039   0    1    [WORD]    VA            (CP(IP(VP*          -   01   -    _mikecat_  *           (V*)              *        *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0    2    [WORD]   DER                     *          -    -   -    _mikecat_  *             *               *        *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0    3    [WORD]    AD             (VP(ADVP*)         -    -   -    _mikecat_  *    (ARGM-EXT*      (ARGM-ADV*)       *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0    4    [WORD]    AD                (ADVP*)         -    -   -    _mikecat_  *             *      (ARGM-ADV*)       *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VV              (VP(VPT*          -   06   -    _mikecat_  *             *             (V*)       *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0    6    [WORD]    AD                     *          -    -   -    _mikecat_  *             *               *        *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0    7    [WORD]    VV                     *)))))     -    -   -    _mikecat_  *             *)              *        *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0    8    [WORD]    SP                     *))        -    -   -    _mikecat_  *             *               *        *               *)          *        *               *)    -
+wb/cmn/00/cmn_0039   0    9    [WORD]    PU                     *          -    -   -    _mikecat_  *             *               *        *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0   10    [WORD]    AD                (ADVP*)         -    -   -    _mikecat_  *             *               *        *      (ARGM-DIS*)          *        *      (ARGM-DIS*)    -
+wb/cmn/00/cmn_0039   0   11    [WORD]    AD                (ADVP*)         -    -   -    _mikecat_  *             *               *        *      (ARGM-ADV*)          *        *      (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   12    [WORD]    VV                  (VP*          -   03   -    _mikecat_  *             *               *      (V*)              *           *        *               *     -
+wb/cmn/00/cmn_0039   0   13    [WORD]    AD          (VP(VP(ADVP*)         -    -   -    _mikecat_  *             *               *        *      (ARGM-ADV*)          *        *               *     -
+wb/cmn/00/cmn_0039   0   14    [WORD]    VV                  (VP*          -   03   -    _mikecat_  *             *               *        *             (V*)          *        *               *     -
+wb/cmn/00/cmn_0039   0   15    [WORD]    NN                  (NP*)))       -    -   -    _mikecat_  *             *               *        *          (ARG1*)          *        *               *     -
+wb/cmn/00/cmn_0039   0   16    [WORD]    PU                     *          -    -   -    _mikecat_  *             *               *        *               *           *        *               *     -
+wb/cmn/00/cmn_0039   0   17    [WORD]    NN        (VP(DVP(IP(NP*)         -    -   -    _mikecat_  *             *               *        *               *      (ARG0*)       *      (ARGM-ADV*     -
+wb/cmn/00/cmn_0039   0   18    [WORD]    VA                  (VP*))        -   01   -    _mikecat_  *             *               *        *               *         (V*)       *               *     -
+wb/cmn/00/cmn_0039   0   19    [WORD]   DEV                     *)         -    -   -    _mikecat_  *             *               *        *               *           *        *               *)    -
+wb/cmn/00/cmn_0039   0   20    [WORD]    VV                  (VP*          -   02   -    _mikecat_  *             *               *        *               *           *      (V*)              *     -
+wb/cmn/00/cmn_0039   0   21    [WORD]    VV                  (VP*))))))    -   01   -    _mikecat_  *             *               *        *               *           *        *             (V*)    -
+wb/cmn/00/cmn_0039   0   22    [WORD]    PU                     *))        -    -   -    _mikecat_  *             *               *        *               *           *        *               *     -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(IP(ADVP*)        -    -   -    _mikecat_       *      *      (ARGM-ADV*)              *     -
+wb/cmn/00/cmn_0039   0    1    [WORD]    NN        (NP(DNP(NP*)        -    -   -    _mikecat_       *      *          (ARG0*               *     -
+wb/cmn/00/cmn_0039   0    2    [WORD]   DEG                  *)        -    -   -    _mikecat_       *      *               *               *     -
+wb/cmn/00/cmn_0039   0    3    [WORD]    NN               (NP*))       -    -   -    _mikecat_       *      *               *)              *     -
+wb/cmn/00/cmn_0039   0    4    [WORD]    AD          (VP(ADVP*)        -    -   -    _mikecat_       *      *      (ARGM-ADV*)              *     -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VC               (VP*         -   04   -    _mikecat_       *    (V*)              *               *     -
+wb/cmn/00/cmn_0039   0    6    [WORD]    AD          (VP(ADVP*)        -    -   -    _mikecat_       *      *      (ARGM-ADV*)              *     -
+wb/cmn/00/cmn_0039   0    7    [WORD]    VA               (VP*)))))    -   02   -    _mikecat_       *      *             (V*)              *     -
+wb/cmn/00/cmn_0039   0    8    [WORD]    PU                  *         -    -   -    _mikecat_       *      *               *               *     -
+wb/cmn/00/cmn_0039   0    9    [WORD]    CD      (IP(NP(QP(QP*         -    -   -    _mikecat_  (TIME*      *               *          (ARG0*     -
+wb/cmn/00/cmn_0039   0   10    [WORD]     M              (CLP*))       -    -   -    _mikecat_       *      *               *               *     -
+wb/cmn/00/cmn_0039   0   11    [WORD]    AD             (ADVP*))       -    -   -    _mikecat_       *      *               *               *     -
+wb/cmn/00/cmn_0039   0   12    [WORD]    NN               (NP*))       -    -   -    _mikecat_       *)     *               *               *)    -
+wb/cmn/00/cmn_0039   0   13    [WORD]    AD          (VP(ADVP*)        -    -   -    _mikecat_       *      *               *      (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   14    [WORD]    VV               (VP*         -   01   -    _mikecat_       *      *               *             (V*)    -
+wb/cmn/00/cmn_0039   0   15    [WORD]    AS                  *)))      -    -   -    _mikecat_       *      *               *               *     -
+wb/cmn/00/cmn_0039   0   16    [WORD]    PU                  *))       -    -   -    _mikecat_       *      *               *               *     -
+
+wb/cmn/00/cmn_0039   0   0    [WORD]   VV   (TOP(IP(IP(VP*        -   01   -    _mikecat_  *       (V*)       *               *     -
+wb/cmn/00/cmn_0039   0   1    [WORD]   VV          (IP(VP*))))    -   01   -    _mikecat_  *    (ARG1*)     (V*)              *     -
+wb/cmn/00/cmn_0039   0   2    [WORD]   PU                *        -    -   -    _mikecat_  *         *        *               *     -
+wb/cmn/00/cmn_0039   0   3    [WORD]   NN       (CP(IP(NP*)       -    -   -    _mikecat_  *         *        *          (ARG0*)    -
+wb/cmn/00/cmn_0039   0   4    [WORD]   AD        (VP(ADVP*)       -    -   -    _mikecat_  *         *        *      (ARGM-DIS*)    -
+wb/cmn/00/cmn_0039   0   5    [WORD]   AD           (ADVP*)       -    -   -    _mikecat_  *         *        *      (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   6    [WORD]   VA             (VP*)))     -   01   -    _mikecat_  *         *        *             (V*)    -
+wb/cmn/00/cmn_0039   0   7    [WORD]   SP                *)       -    -   -    _mikecat_  *         *        *               *     -
+wb/cmn/00/cmn_0039   0   8    [WORD]   PU                *))      -    -   -    _mikecat_  *         *        *               *     -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(IP(ADVP*)        -    -   -    _mikecat_       *    (ARGM-DIS*)       *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    NN            (NP(NP*)        -    -   -    _mikecat_       *        (ARG0*        *               *      (7
+wb/cmn/00/cmn_0039   0    2    [WORD]    CD               (QP*         -    -   -    _mikecat_       *             *        *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]     M              (CLP*))       -    -   -    _mikecat_       *             *        *               *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]    NN           (DNP(NP*)        -    -   -    _mikecat_       *             *        *               *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]   DEG                  *)        -    -   -    _mikecat_       *             *        *               *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    NN               (NP*))       -    -   -    _mikecat_       *             *)       *               *       7)
+wb/cmn/00/cmn_0039   0    7    [WORD]    DT            (VP(DP*         -    -   -    _mikecat_       *    (ARGM-TMP*        *               *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]     M              (CLP*))       -    -   -    _mikecat_       *             *)       *               *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    AD             (ADVP*)        -    -   -    _mikecat_       *    (ARGM-ADV*)       *               *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    VV               (VP*)))      -   01   -    _mikecat_       *           (V*)       *               *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    PU                  *         -    -   -    _mikecat_       *             *        *               *       -
+wb/cmn/00/cmn_0039   0   12    [WORD]    PN            (IP(NP*)        -    -   -    _mikecat_       *             *        *          (ARG0*)     (4)
+wb/cmn/00/cmn_0039   0   13    [WORD]    OD            (VP(QP*         -    -   -    _mikecat_  (TIME*             *        *      (ARGM-TMP*       -
+wb/cmn/00/cmn_0039   0   14    [WORD]     M              (CLP*))       -    -   -    _mikecat_       *             *        *               *)      -
+wb/cmn/00/cmn_0039   0   15    [WORD]    AD             (ADVP*)        -    -   -    _mikecat_       *)            *        *      (ARGM-TMP*)      -
+wb/cmn/00/cmn_0039   0   16    [WORD]    AD             (ADVP*)        -    -   -    _mikecat_       *             *        *      (ARGM-ADV*)      -
+wb/cmn/00/cmn_0039   0   17    [WORD]    VV               (VP*         -   03   -    _mikecat_       *             *      (V*)              *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]    AD          (VP(ADVP*)        -    -   -    _mikecat_       *             *        *      (ARGM-ADV*)      -
+wb/cmn/00/cmn_0039   0   19    [WORD]     P               (PP*         -    -   -    _mikecat_       *             *        *          (ARG0*       -
+wb/cmn/00/cmn_0039   0   20    [WORD]    PN               (NP*))       -    -   -    _mikecat_       *             *        *               *)     (7)
+wb/cmn/00/cmn_0039   0   21    [WORD]    VV               (VP*)))))    -   01   -    _mikecat_       *             *        *             (V*)      -
+wb/cmn/00/cmn_0039   0   22    [WORD]    PU                  *))       -    -   -    _mikecat_       *             *        *               *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(IP(VP(ADVP*)         -    -   -    _mikecat_       *    (ARGM-ADV*)     (ARGM-DIS*)     (ARGM-DIS*)              *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    OD               (NP(QP*          -    -   -    _mikecat_  (TIME*    (ARGM-TMP*      (ARGM-TMP*      (ARGM-TMP*               *               *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]     M                 (CLP*))        -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    NT                  (NP*))        -    -   -    _mikecat_       *)            *)              *)              *)              *               *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]    VV           (VP(VP(VRD*          -   01   -    _mikecat_       *           (V*)              *               *               *               *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VV                     *))        -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    AD             (VP(ADVP*)         -    -   -    _mikecat_       *             *      (ARGM-DIS*)              *               *               *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    VV              (VP(VRD*          -   01   -    _mikecat_       *             *             (V*)              *               *               *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]    NT                     *)))       -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    VV                  (VP*          -   01   -    _mikecat_       *             *               *             (V*)              *               *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    AS                     *          -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    CD               (NP(QP*          -    -   -    _mikecat_  (TIME*             *               *      (ARGM-EXT*               *               *      (1
+wb/cmn/00/cmn_0039   0   12    [WORD]     M                 (CLP*))        -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]    NN                  (NP*))))))    -    -   -    _mikecat_       *)            *               *               *)              *               *       1)
+wb/cmn/00/cmn_0039   0   14    [WORD]    PU                     *          -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   15    [WORD]    DT            (IP(NP(DP*)         -    -   -    _mikecat_       *             *               *               *          (ARG0*               *      (7
+wb/cmn/00/cmn_0039   0   16    [WORD]    NN                  (NP*))        -    -   -    _mikecat_       *             *               *               *               *)              *       7)
+wb/cmn/00/cmn_0039   0   17    [WORD]    AD          (VP(VP(ADVP*)         -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]    VA                  (VP*))        -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   19    [WORD]    PU                     *          -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   20    [WORD]    AD             (VP(ADVP*)         -    -   -    _mikecat_       *             *               *               *      (ARGM-ADV*)              *       -
+wb/cmn/00/cmn_0039   0   21    [WORD]    VV                  (VP*          -   01   -    _mikecat_       *             *               *               *             (V*)              *       -
+wb/cmn/00/cmn_0039   0   22    [WORD]    PN                  (NP*)))))     -    -   -    _mikecat_       *             *               *               *          (ARG1*)              *      (4)
+wb/cmn/00/cmn_0039   0   23    [WORD]    PU                     *          -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   24    [WORD]    AD             (IP(ADVP*)         -    -   -    _mikecat_       *             *               *               *               *      (ARGM-DIS*)      -
+wb/cmn/00/cmn_0039   0   25    [WORD]    CD               (NP(QP*          -    -   -    _mikecat_  (TIME*             *               *               *               *          (ARG1*      (1
+wb/cmn/00/cmn_0039   0   26    [WORD]     M                 (CLP*))        -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   27    [WORD]    NN                  (NP*))        -    -   -    _mikecat_       *)            *               *               *               *               *)      1)
+wb/cmn/00/cmn_0039   0   28    [WORD]    AD             (VP(ADVP*)         -    -   -    _mikecat_       *             *               *               *               *      (ARGM-ADV*)      -
+wb/cmn/00/cmn_0039   0   29    [WORD]    VA              (DVP(VP*)         -    -   -    _mikecat_       *             *               *               *               *      (ARGM-ADV*       -
+wb/cmn/00/cmn_0039   0   30    [WORD]   DEV                     *)         -    -   -    _mikecat_       *             *               *               *               *               *)      -
+wb/cmn/00/cmn_0039   0   31    [WORD]    VV                  (VP*          -   01   -    _mikecat_       *             *               *               *               *             (V*)      -
+wb/cmn/00/cmn_0039   0   32    [WORD]    AS                     *)))       -    -   -    _mikecat_       *             *               *               *               *               *       -
+wb/cmn/00/cmn_0039   0   33    [WORD]    PU                     *))        -    -   -    _mikecat_       *             *               *               *               *               *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    NT      (TOP(IP(NP*)           -    -   -    _mikecat_       *    (ARGM-TMP*)          *      (ARGM-TMP*)     (ARGM-TMP*)              *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    NN             (NP*)           -    -   -    _mikecat_       *        (ARG0*)          *          (ARG0*)         (ARG0*)              *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    2    [WORD]    VV          (VP(VP*            -   03   -    _mikecat_       *           (V*)          *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    PN             (NP*)           -    -   -    _mikecat_       *        (ARG1*)          *               *               *               *               *               *           *           *           *               *               *      (4)
+wb/cmn/00/cmn_0039   0    4    [WORD]    VV          (IP(VP*            -   01   -    _mikecat_       *        (ARG2*         (V*)              *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    NN      (NP(DNP(NP*)           -    -   -    _mikecat_       *             *      (ARG1*               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]   DEG                *)           -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    NN             (NP*)))))       -    -   -    _mikecat_       *             *)          *)              *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]    PU                *            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    NN          (VP(NP*)           -    -   -    _mikecat_       *             *           *      (ARGM-LOC*)              *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    AD           (ADVP*)           -    -   -    _mikecat_       *             *           *      (ARGM-ADV*)              *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]    VV             (VP*            -   01   -    _mikecat_       *             *           *             (V*)              *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   12    [WORD]    AS                *            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   13    [WORD]    JJ        (NP(ADJP*)           -    -   -    _mikecat_       *             *           *          (ARG1*               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   14    [WORD]    NN             (NP*))))        -    -   -    _mikecat_       *             *           *               *)              *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   15    [WORD]    PU                *            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   16    [WORD]    AD        (VP(ADVP*)           -    -   -    _mikecat_       *             *           *               *      (ARGM-DIS*)              *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   17    [WORD]    VV             (VP*            -   01   -    _mikecat_       *             *           *               *             (V*)              *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   18    [WORD]    PN          (IP(NP*)           -    -   -    _mikecat_       *             *           *               *          (ARG1*          (ARG0*)         (ARG0*)         (ARG0*)     (ARG0*)     (ARG0*)          *               *          (ARG0*)     (4)
+wb/cmn/00/cmn_0039   0   19    [WORD]    VV       (VP(VP(VP*            -   01   -    _mikecat_       *             *           *               *               *             (V*)              *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   20    [WORD]    CD             (QP*            -    -   -    _mikecat_       *             *           *               *               *      (ARGM-EXT*               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   21    [WORD]     M            (CLP*)))         -    -   -    _mikecat_       *             *           *               *               *               *)              *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   22    [WORD]    AD        (VP(ADVP*)           -    -   -    _mikecat_       *             *           *               *               *               *      (ARGM-ADV*)              *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   23    [WORD]    VA             (VP*)))         -   01   -    _mikecat_       *             *           *               *               *               *             (V*)              *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   24    [WORD]    PU                *            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   25    [WORD]    AD        (VP(ADVP*)           -    -   -    _mikecat_       *             *           *               *               *               *               *      (ARGM-ADV*)          *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   26    [WORD]    AD           (ADVP*)           -    -   -    _mikecat_       *             *           *               *               *               *               *      (ARGM-ADV*)          *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   27    [WORD]    BA             (VP*            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   28    [WORD]    NN          (IP(NP*)           -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   29    [WORD]    VV             (VP*            -   01   -    _mikecat_       *             *           *               *               *               *               *             (V*)          *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   30    [WORD]    AS                *))))        -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   31    [WORD]    PU                *            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   32    [WORD]    BA             (VP*            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   33    [WORD]    DT   (IP(NP(DNP(DP*)           -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   34    [WORD]   DEG                *)           -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   35    [WORD]    NN             (NP*))          -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   36    [WORD]    VV             (VP*            -   01   -    _mikecat_       *             *           *               *               *               *               *               *         (V*)          *           *               *               *       -
+wb/cmn/00/cmn_0039   0   37    [WORD]    AS                *)))         -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   38    [WORD]    PU                *            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   39    [WORD]    VV             (VP*            -   01   -    _mikecat_       *             *           *               *               *               *               *               *           *         (V*)          *               *               *       -
+wb/cmn/00/cmn_0039   0   40    [WORD]    NN       (IP(IP(NP*)           -    -   -    _mikecat_   (DATE)            *           *               *               *               *               *               *           *      (ARG1*      (ARG0*)     (ARGM-TMP*               *       -
+wb/cmn/00/cmn_0039   0   41    [WORD]    VV             (VP*            -   01   -    _mikecat_       *             *           *               *               *               *               *               *           *           *         (V*)              *               *       -
+wb/cmn/00/cmn_0039   0   42    [WORD]    AS                *))          -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *)              *       -
+wb/cmn/00/cmn_0039   0   43    [WORD]    PU                *            -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+wb/cmn/00/cmn_0039   0   44    [WORD]    NN             (NP*            -    -   -    _mikecat_    (ORG)            *           *               *               *               *               *               *           *           *           *          (ARG0*               *       -
+wb/cmn/00/cmn_0039   0   45    [WORD]    NN                *)           -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *)              *       -
+wb/cmn/00/cmn_0039   0   46    [WORD]    VV             (VP*)))         -   01   -    _mikecat_       *             *           *               *               *               *               *               *           *           *)          *             (V*)              *       -
+wb/cmn/00/cmn_0039   0   47    [WORD]    AD        (VP(ADVP*)           -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *      (ARGM-ADV*)      -
+wb/cmn/00/cmn_0039   0   48    [WORD]    VV             (VP*            -   01   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *             (V*)      -
+wb/cmn/00/cmn_0039   0   49    [WORD]    NN             (NP*))))))))    -    -   -    _mikecat_       *             *           *               *               *)              *               *               *           *           *           *               *          (ARG1*)      -
+wb/cmn/00/cmn_0039   0   50    [WORD]    PU                *))          -    -   -    _mikecat_       *             *           *               *               *               *               *               *           *           *           *               *               *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    AD   (TOP(IP(VP(VP(ADVP*)       -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0    1    [WORD]    AD                (ADVP*)       -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0    2    [WORD]    VV                  (VP*        -   04   -    _mikecat_  *    (V*)          *     -
+wb/cmn/00/cmn_0039   0    3    [WORD]    AD             (VP(ADVP*)       -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0    4    [WORD]    VV                  (VP*))))    -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0    5    [WORD]    PU                     *        -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0    6    [WORD]    VV                  (VP*        -   01   -    _mikecat_  *      *         (V*)    -
+wb/cmn/00/cmn_0039   0    7    [WORD]    NN                  (NP*        -    -   -    _mikecat_  *      *      (ARG1*     -
+wb/cmn/00/cmn_0039   0    8    [WORD]    PU                     *        -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0    9    [WORD]    NN                     *        -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0   10    [WORD]    NN                     *        -    -   -    _mikecat_  *      *           *     -
+wb/cmn/00/cmn_0039   0   11    [WORD]   ETC                     *)))     -    -   -    _mikecat_  *      *           *)    -
+wb/cmn/00/cmn_0039   0   12    [WORD]    PU                     *))      -    -   -    _mikecat_  *      *           *     -
+
+wb/cmn/00/cmn_0039   0   0    [WORD]   NT   (TOP(IP(NP*      -    -   -    _mikecat_  (TIME*    (ARGM-TMP*     -
+wb/cmn/00/cmn_0039   0   1    [WORD]   NT             *)     -    -   -    _mikecat_       *)            *)    -
+wb/cmn/00/cmn_0039   0   2    [WORD]   PU             *      -    -   -    _mikecat_       *             *     -
+wb/cmn/00/cmn_0039   0   3    [WORD]   AD        (ADVP*)     -    -   -    _mikecat_       *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   4    [WORD]   DT          (DP*)     -    -   -    _mikecat_       *        (ARG0*)    -
+wb/cmn/00/cmn_0039   0   5    [WORD]   VV          (VP*)     -   01   -    _mikecat_       *           (V*)    -
+wb/cmn/00/cmn_0039   0   6    [WORD]   PU             *))    -    -   -    _mikecat_       *             *     -
+
+wb/cmn/00/cmn_0039   0   0    [WORD]   AD   (TOP(IP(VP(ADVP*)       -    -   -    _mikecat_           *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   1    [WORD]    P               (PP*        -    -   -    _mikecat_           *    (ARGM-TMP*     -
+wb/cmn/00/cmn_0039   0   2    [WORD]   NN           (LCP(NP*)       -    -   -    _mikecat_       (DATE)            *     -
+wb/cmn/00/cmn_0039   0   3    [WORD]   LC                  *))      -    -   -    _mikecat_           *             *)    -
+wb/cmn/00/cmn_0039   0   4    [WORD]   VV               (VP*        -   01   -    _mikecat_           *           (V*)    -
+wb/cmn/00/cmn_0039   0   5    [WORD]   CD            (NP(QP*        -    -   -    _mikecat_   (CARDINAL)       (ARG1*     -
+wb/cmn/00/cmn_0039   0   6    [WORD]    M              (CLP*))      -    -   -    _mikecat_           *             *     -
+wb/cmn/00/cmn_0039   0   7    [WORD]   NN               (NP*        -    -   -    _mikecat_           *             *     -
+wb/cmn/00/cmn_0039   0   8    [WORD]   NN                  *))))    -    -   -    _mikecat_           *             *)    -
+wb/cmn/00/cmn_0039   0   9    [WORD]   PU                  *))      -    -   -    _mikecat_           *             *     -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    CS   (TOP(CP(IP(VP(CP(ADVP*)         -    -   -    _mikecat_           *    (ARGM-DIS*)       *      (ARGM-ADV*           *       -
+wb/cmn/00/cmn_0039   0    1    [WORD]    PN                  (IP(NP*)         -    -   -    _mikecat_           *        (ARG0*)       *               *           *      (4)
+wb/cmn/00/cmn_0039   0    2    [WORD]    AD                (VP(ADVP*)         -    -   -    _mikecat_           *    (ARGM-ADV*)       *               *           *       -
+wb/cmn/00/cmn_0039   0    3    [WORD]    AD                   (ADVP*)         -    -   -    _mikecat_           *    (ARGM-ADV*)       *               *           *       -
+wb/cmn/00/cmn_0039   0    4    [WORD]    VV                     (VP*          -   01   -    _mikecat_           *           (V*)       *               *           *       -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VV                  (IP(VP*))))))    -   01   -    _mikecat_           *        (ARG1*)     (V*)              *)          *       -
+wb/cmn/00/cmn_0039   0    6    [WORD]    PU                        *          -    -   -    _mikecat_           *             *        *               *           *       -
+wb/cmn/00/cmn_0039   0    7    [WORD]    AD                   (ADVP*)         -    -   -    _mikecat_           *             *        *      (ARGM-DIS*)          *       -
+wb/cmn/00/cmn_0039   0    8    [WORD]    AD                (VP(ADVP*)         -    -   -    _mikecat_           *             *        *      (ARGM-ADV*)          *       -
+wb/cmn/00/cmn_0039   0    9    [WORD]    VE                     (VP*          -   01   -    _mikecat_           *             *        *             (V*)          *       -
+wb/cmn/00/cmn_0039   0   10    [WORD]    CD                  (NP(QP*          -    -   -    _mikecat_   (CARDINAL)            *        *          (ARG1*           *       -
+wb/cmn/00/cmn_0039   0   11    [WORD]     M                    (CLP*))        -    -   -    _mikecat_           *             *        *               *           *       -
+wb/cmn/00/cmn_0039   0   12    [WORD]    VV            (CP(CP(IP(VP*))        -   01   -    _mikecat_           *             *        *               *         (V*)      -
+wb/cmn/00/cmn_0039   0   13    [WORD]   DEC                        *))        -    -   -    _mikecat_           *             *        *               *           *       -
+wb/cmn/00/cmn_0039   0   14    [WORD]    NN                     (NP*))))))    -    -   -    _mikecat_           *             *        *               *)     (ARG0*)      -
+wb/cmn/00/cmn_0039   0   15    [WORD]    SP                        *          -    -   -    _mikecat_           *             *        *               *           *       -
+wb/cmn/00/cmn_0039   0   16    [WORD]    PU                        *))        -    -   -    _mikecat_           *             *        *               *           *       -
+
+wb/cmn/00/cmn_0039   0   0    [WORD]    AD   (TOP(IP(VP(ADVP*)       -    -   -    _mikecat_  *    (ARGM-DIS*)      -
+wb/cmn/00/cmn_0039   0   1    [WORD]    VV               (VP*        -   01   -    _mikecat_  *           (V*)      -
+wb/cmn/00/cmn_0039   0   2    [WORD]    PN            (NP(NP*)       -    -   -    _mikecat_  *        (ARG1*       -
+wb/cmn/00/cmn_0039   0   3    [WORD]     P           (DNP(PP*        -    -   -    _mikecat_  *             *       -
+wb/cmn/00/cmn_0039   0   4    [WORD]    PN               (NP*))      -    -   -    _mikecat_  *             *      (4)
+wb/cmn/00/cmn_0039   0   5    [WORD]   DEG                  *)       -    -   -    _mikecat_  *             *       -
+wb/cmn/00/cmn_0039   0   6    [WORD]    NN               (NP*))))    -    -   -    _mikecat_  *             *)      -
+wb/cmn/00/cmn_0039   0   7    [WORD]    PU                  *))      -    -   -    _mikecat_  *             *       -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    VV          (TOP(IP(VP*           -   01   -    _mikecat_       *       (V*)              *        *               *     -
+wb/cmn/00/cmn_0039   0    1    [WORD]    DT              (NP(DP*)          -    -   -    _mikecat_       *    (ARG1*               *        *               *     -
+wb/cmn/00/cmn_0039   0    2    [WORD]    AD   (CP(CP(IP(VP(ADVP*)          -    -   -    _mikecat_       *         *      (ARGM-ADV*)       *               *     -
+wb/cmn/00/cmn_0039   0    3    [WORD]    AD               (ADVP*)          -    -   -    _mikecat_       *         *      (ARGM-ADV*)       *               *     -
+wb/cmn/00/cmn_0039   0    4    [WORD]    AD               (ADVP*)          -    -   -    _mikecat_       *         *      (ARGM-ADV*)       *               *     -
+wb/cmn/00/cmn_0039   0    5    [WORD]    VV                 (VP*           -   01   -    _mikecat_       *         *             (V*)       *               *     -
+wb/cmn/00/cmn_0039   0    6    [WORD]    NN                 (NP*))))       -    -   -    _mikecat_       *         *          (ARG1*)       *               *     -
+wb/cmn/00/cmn_0039   0    7    [WORD]   DEC                    *))         -    -   -    _mikecat_       *         *               *        *               *     -
+wb/cmn/00/cmn_0039   0    8    [WORD]    NN                 (NP*))         -    -   -    _mikecat_       *         *)         (ARG0*)       *               *     -
+wb/cmn/00/cmn_0039   0    9    [WORD]     P           (IP(VP(PP*           -    -   -    _mikecat_       *    (ARG2*               *        *      (ARGM-TMP*     -
+wb/cmn/00/cmn_0039   0   10    [WORD]    NT             (LCP(NP*)          -    -   -    _mikecat_   (DATE)        *               *        *               *     -
+wb/cmn/00/cmn_0039   0   11    [WORD]    LC                    *))         -    -   -    _mikecat_       *         *               *        *               *)    -
+wb/cmn/00/cmn_0039   0   12    [WORD]    VV                 (VP*           -   01   -    _mikecat_       *         *               *      (V*)              *     -
+wb/cmn/00/cmn_0039   0   13    [WORD]    VV                 (VP*           -   01   -    _mikecat_       *         *               *        *             (V*)    -
+wb/cmn/00/cmn_0039   0   14    [WORD]    JJ        (NP(DNP(ADJP*)          -    -   -    _mikecat_       *         *               *        *          (ARG1*     -
+wb/cmn/00/cmn_0039   0   15    [WORD]   DEG                    *)          -    -   -    _mikecat_       *         *               *        *               *     -
+wb/cmn/00/cmn_0039   0   16    [WORD]    NN                 (NP*)))))))    -    -   -    _mikecat_       *         *)              *        *               *)    -
+wb/cmn/00/cmn_0039   0   17    [WORD]    PU                    *))         -    -   -    _mikecat_       *         *               *        *               *     -
+
+wb/cmn/00/cmn_0039   0   0    [WORD]   PU   (TOP(FRAG*))    -   -   -   -   *   -
+
+wb/cmn/00/cmn_0039   0    0    [WORD]    PU   (TOP(FRAG*      -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    1    [WORD]    NN         (NP*)     -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    2    [WORD]    PU            *      -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    3    [WORD]    CD         (QP*)     -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    4    [WORD]    NN         (NP*      -   -   -    _mikecat_      *   (8
+wb/cmn/00/cmn_0039   0    5    [WORD]    NR            *      -   -   -    _mikecat_  (ORG*    -
+wb/cmn/00/cmn_0039   0    6    [WORD]    NR            *)     -   -   -    _mikecat_      *)   8)
+wb/cmn/00/cmn_0039   0    7    [WORD]   URL         (NP*)     -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    8    [WORD]    CD         (QP*)     -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    9    [WORD]    PU            *      -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   10    [WORD]     P         (PP*      -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   11    [WORD]    PU            *      -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   12    [WORD]   URL         (NP*))    -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   13    [WORD]    PU            *))    -   -   -    _mikecat_      *    -
+
+#end document

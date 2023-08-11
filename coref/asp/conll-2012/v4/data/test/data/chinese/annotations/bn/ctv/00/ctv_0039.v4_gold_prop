@@ -1,0 +1,10 @@
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 0 3 gold 进行-v 进行.01 ----- 3:0-rel 0:1-ARGM-ADV 1:1-ARGM-LOC 4:1-ARG1 8:1-ARG0
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 0 14 gold 参加-v 参加.01 ----- 14:0-rel 0:7-ARG0 13:1-ARGM-TMP 16:2-ARG1
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 0 23 gold 距离-v 距离.01 ----- 23:0-rel 29:1-ARG0 24:2-ARG0 26:1-ARG1
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 0 30 gold 举行-v 举行.01 ----- 30:0-rel 21:1-ARG1 22:1-ARGM-LOC
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 1 1 gold 代表-v 代表.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 1 11 gold 上场-v 上场.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-DIS
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 1 12 gold 进行-v 进行.01 ----- 12:0-rel 9:1-ARG0 13:1-ARG1
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 1 22 gold 战胜-v 战胜.01 ----- 22:0-rel 16:1-ARGM-ADV 17:1-ARG0 18:1-ARGM-MNR 24:1-ARG1
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 2 9 gold 签署-v 签署.01 ----- 9:0-rel 0:1-ARGM-LOC 6:1-ARG0 10:3-ARG1
+bn/ctv/00/ctv_0039@0039@ctv@bn@ch@on 2 14 gold 出口-v 出口.01 ----- 14:0-rel 11:1-ARG0 12:1-ARG2 15:1-ARG1

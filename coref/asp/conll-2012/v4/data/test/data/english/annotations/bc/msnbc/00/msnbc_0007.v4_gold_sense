@@ -1,0 +1,2308 @@
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 0 3 crime-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 1 2 see-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 1 4 emerge-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 1 5 behaviour-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 2 see-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 7 behaviour-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 11 go-v ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 13 stop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 2 have-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 5 individual-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 10 narrow-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 12 focus-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 15 investigation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 19 pool-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 21 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 4 2 give-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 4 6 point-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 2 news-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 9 point-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 11 time-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 14 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 16 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 21 crime-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 24 get-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 27 catch-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 32 catch-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 39 wait-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 42 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 43 commit-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 45 crime-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 51 murder-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 52 take-v ?,? 14.1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 53 place-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 56 catch-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 61 catch-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 68 murder-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 6 6 learn-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 6 11 become-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 3 work-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 7 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 10 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 13 take-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 15 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 19 explore-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 25 ability-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 27 experiment-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 30 ability-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 32 study-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 38 basis-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 8 4 learn-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 6 interview-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 9 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 10 conduct-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 13 case-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 16 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 17 review-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 20 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 21 learn-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 22 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 25 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 33 level-n 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 35 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 10 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 10 3 learn-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 10 6 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 10 9 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 4 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 10 book-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 12 award-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 14 film-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 16 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 20 use-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 22 solve-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 23 crime-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 1 fact-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 7 catch-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 9 commit-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 11 crime-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 13 traffic-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 19 raise-v ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 20 suspicion-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 13 1 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 13 3 crime-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 13 4 file-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 13 5 investigation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 14 1 be-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 15 2 news-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 15 6 be-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 1 issue-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 11 defy-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 14 test-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 16 range-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 20 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 22 deliver-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 17 2 man-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 17 4 stop-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 9 official-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 34 man-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 36 lead-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 38 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 45 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 72 visit-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 76 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 19 8 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 19 11 turn-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 2 appear-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 4 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 15 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 17 age-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 20 state-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 22 mind-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 22 7 test-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 22 11 range-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 23 3 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 23 4 appear-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 23 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 23 8 speed-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 24 5 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 24 7 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 26 3 morning-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 27 0 thank-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 28 1 morning-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 29 4 insist-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 29 9 impose-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 30 3 pursue-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 30 7 resolution-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 4 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 5 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 7 vote-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 9 pass-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 32 4 operate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 32 8 front-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 33 1 have-v ?,? 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 34 7 work-v ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 34 9 phone-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 35 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 35 4 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 35 8 development-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 35 9 today-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 36 2 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 36 4 send-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 36 9 delegation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 2 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 5 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 7 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 8 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 12 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 14 influence-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 2 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 3 influence-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 13 member-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 17 community-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 18 deal-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 21 problem-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 2 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 6 put-v 7.18
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 9 foot-n ?,? 14
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 13 send-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 19 message-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 23 test-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 33 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 35 come-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 44 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 47 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 51 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 55 ambition-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 57 abide-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 60 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 63 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 66 rest-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 7 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 9 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 13 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 16 be-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 41 4 insist-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 41 7 be-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 41 12 resolution-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 2 look-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 6 resolution-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 8 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 10 debate-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 3 chapter-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 5 resolution-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 8 have-v 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 10 effect-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 13 behaviour-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 17 member-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 18 state-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 1 say-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 7 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 8 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 10 threat-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 13 peace-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 15 security-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 2 ask-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 4 member-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 5 state-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 8 engage-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 11 trade-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 46 1 strike-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 46 6 point-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 5 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 7 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 10 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 12 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 18 couple-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 20 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 48 2 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 48 4 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 48 10 react-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 2 view-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 3 be-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 10 remain-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 15 goal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 21 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 23 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 26 leverage-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 41 force-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 49 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 50 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 50 5 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 51 0 force-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 51 8 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 5 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 9 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 13 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 15 launch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 22 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 24 attention-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 27 see-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 29 way-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 32 treat-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 38 treat-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 53 1 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 54 6 make-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 54 8 offer-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 4 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 7 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 10 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 14 assume-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 19 suspension-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 23 activity-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 26 plant-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 2 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 7 way-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 11 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 14 stop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 15 develop-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 17 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 57 3 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 57 7 one-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 58 4 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 58 6 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 58 19 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 3 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 5 month-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 10 step-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 12 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 17 return-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 20 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 5 see-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 9 turn-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 13 test-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 15 will-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 18 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 61 1 fact-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 61 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 61 5 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 61 8 interest-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 62 2 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 62 5 interest-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 63 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 63 4 stop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 63 9 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 64 6 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 64 9 interest-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 3 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 9 work-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 12 framework-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 17 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 20 get-v ?,? 11.23
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 23 process-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 26 leverage-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 29 strength-n 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 34 pressure-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 42 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 4 see-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 7 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 10 interest-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 16 get-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 18 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 22 way-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 25 deal-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 68 2 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 68 4 be-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 68 9 discussion-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 69 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 69 5 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 69 13 environment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 3 sense-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 11 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 13 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 2 announce-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 5 month-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 11 meet-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 13 condition-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 15 suspension-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 20 activity-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 23 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 26 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 72 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 73 3 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 73 7 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 73 8 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 73 11 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 2 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 5 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 9 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 11 disrupt-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 13 peace-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 18 relation-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 22 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 75 3 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 75 4 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 75 10 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 76 0 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 76 3 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 76 11 like-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 76 13 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 76 15 change-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 77 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 78 1 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 79 1 be-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 3 hope-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 6 day-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 8 come-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 11 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 13 live-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 15 peace-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 18 govern-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 22 type-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 24 government-n ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 3 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 6 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 9 course-n 13
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 10 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 11 focus-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 16 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 82 2 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 82 3 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 82 5 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 83 1 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 83 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 83 5 launch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 83 9 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 3 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 5 remember-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 8 launch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 11 way-n 10
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 13 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 17 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 21 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 85 1 fire-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 85 6 range-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 86 1 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 86 3 fire-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 86 6 range-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 87 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 88 1 crash-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 3 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 14 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 17 strength-n 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 21 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 23 provide-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 25 leverage-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 26 put-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 28 leverage-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 6 continue-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 8 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 10 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 14 day-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 4 give-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 7 security-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 13 attack-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 15 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 17 seek-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 19 undermine-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 2 look-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 7 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 10 sign-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 15 framework-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 24 type-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 27 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 30 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 93 4 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 4 take-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 8 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 9 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 11 dismantle-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 13 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 17 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 21 way-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 27 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 29 place-n ?,? 9
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 95 3 element-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 95 6 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 95 9 put-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 95 11 place-n ?,? 9
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 3 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 4 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 7 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 9 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 10 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 25 go-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 29 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 33 implement-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 36 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 40 refer-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 97 2 see-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 97 6 walk-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 2 have-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 5 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 13 combine-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 17 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 19 pressure-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 24 live-v 5.8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 28 commitment-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 6 give-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 11 aid-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 20 security-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 21 assurance-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 24 fact-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 26 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 29 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 100 3 know-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 100 5 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 100 10 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 13 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 16 take-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 18 step-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 24 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 28 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 31 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 102 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 102 3 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 102 4 responsibility-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 102 7 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 103 2 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 103 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 103 7 side-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 103 8 meet-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 103 10 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 3 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 4 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 10 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 19 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 22 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 105 3 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 105 7 choose-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 106 4 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 106 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 107 1 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 107 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 2 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 4 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 6 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 8 react-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 12 statement-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 15 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 109 3 choose-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 109 6 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 109 8 attention-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 109 14 community-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 4 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 7 realize-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 8 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 10 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 111 4 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 111 8 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 112 3 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 113 3 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 114 5 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 10 development-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 12 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 15 delegation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 16 go-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 116 4 ambassador-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 116 5 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 116 10 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 1 make-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 3 point-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 7 make-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 9 point-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 10 yesterday-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 15 minister-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 18 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 20 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 22 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 24 influence-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 1 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 3 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 5 push-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 8 ask-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 13 meet-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 15 commitment-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 18 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 19 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 119 7 weigh-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 119 11 debate-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 119 14 way-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 120 1 offer-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 1 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 3 replace-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 11 strategy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 13 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 19 come-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 122 7 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 122 14 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 8 lie-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 13 continue-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 15 build-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 17 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 124 1 strategy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 124 5 fail-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 125 2 action-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 125 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 125 16 know-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 126 2 act-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 126 4 defiance-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 126 10 commitment-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 127 2 time-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 127 4 talk-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 127 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 128 2 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 129 6 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 5 respect-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 10 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 13 course-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 15 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 18 chance-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 20 success-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 3 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 8 track-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 11 track-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 14 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 17 resolve-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 19 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 22 fashion-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 132 3 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 132 6 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 132 11 endeavor-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 133 1 have-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 133 2 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 133 8 apply-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 133 11 type-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 133 13 pressure-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 9 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 15 go-v ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 17 give-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 19 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 21 strength-n 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 24 effort-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 26 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 29 defense-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 30 system-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 2 see-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 5 statement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 9 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 10 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 12 work-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 4 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 6 pursue-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 12 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 19 focus-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 27 pressure-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 30 come-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 34 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 39 provide-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 43 defense-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 46 defense-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 137 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 137 5 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 137 7 move-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 137 12 direction-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 2 ambassador-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 6 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 13 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 14 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 18 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 20 develop-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 25 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 35 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 39 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 139 1 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 139 4 study-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 1 estimate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 3 report-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 7 have-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 12 develop-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 15 arsenal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 21 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 24 estimate-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 30 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 37 become-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 38 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 141 1 group-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 141 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 141 11 have-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 141 19 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 1 group-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 3 assessment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 4 base-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 6 analysis-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 11 report-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 13 statement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 17 official-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 19 lead-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 24 critic-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 31 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 143 1 offer-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 16 seem-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 21 leader-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 22 seem-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 25 conclude-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 31 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 32 consist-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 36 word-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 41 warning-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 145 7 success-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 145 11 watch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 146 2 acknowledge-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 146 5 increase-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 146 9 capability-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 146 15 watch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 5 disagree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 11 statement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 14 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 16 hear-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 2 know-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 4 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 5 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 10 force-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 13 force-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 15 work-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 149 4 handle-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 149 9 arise-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 2 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 6 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 9 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 12 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 14 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 16 defense-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 18 handle-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 5 combine-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 7 measure-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 11 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 15 situation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 1 fact-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 5 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 8 criticism-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 9 seem-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 11 direct-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 18 test-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 20 will-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 2 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 4 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 5 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 7 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 9 ask-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 10 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 13 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 16 deal-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 18 influence-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 26 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 28 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 30 influence-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 154 2 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 154 5 channel-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 154 7 effort-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 154 12 framework-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 155 2 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 155 7 succeed-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 155 10 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 156 2 take-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 156 4 month-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 156 9 succeed-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 3 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 6 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 8 place-n ?,? 9
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 12 know-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 16 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 18 accomplish-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 22 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 28 apply-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 30 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 33 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 4 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 6 hope-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 10 engineer-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 12 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 16 put-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 23 box-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 24 take-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 28 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 30 take-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 33 ability-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 35 inflict-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 36 threat-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 38 damage-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 159 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 160 2 understand-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 160 7 challenge-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 160 8 pose-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 5 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 9 offer-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 14 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 17 prospect-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 19 success-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 21 lead-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 25 consequence-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 29 go-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 32 road-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 38 suggest-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 4 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 5 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 8 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 10 place-n ?,? 9
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 3 assure-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 7 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 9 drive-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 13 deal-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 15 energy-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 17 determination-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 164 4 deny-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 164 10 capability-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 164 12 increase-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 165 3 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 165 6 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 165 9 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 165 10 capability-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 166 2 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 166 6 produce-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 5 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 6 put-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 8 place-n ?,? 9
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 10 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 13 take-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 168 4 have-v 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 168 11 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 168 12 implement-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 168 15 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 170 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 170 6 bet-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 4 goal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 7 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 13 cite-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 15 share-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 4 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 5 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 14 strategy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 15 put-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 17 place-n ?,? 9
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 19 deal-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 22 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 173 3 be-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 173 6 change-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 173 16 subject-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 174 1 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 174 7 news-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 174 8 conference-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 175 1 take-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 175 6 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 175 10 grow-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 176 3 take-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 176 7 solve-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 177 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 178 0 wish-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 178 3 solve-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 179 1 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 179 3 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 179 18 speech-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 180 0 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 180 2 watch-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 181 2 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 181 5 arm-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 181 9 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 181 14 starve-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 0 state-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 7 constitute-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 12 arm-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 14 threaten-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 16 peace-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 183 1 seek-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 183 2 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 183 8 pose-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 183 13 danger-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 184 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 185 1 time-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 185 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 185 6 side-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 186 3 wait-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 186 5 event-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 186 7 danger-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 186 8 gather-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 187 3 stand-v ?,? 7.14
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 187 6 peril-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 187 7 draw-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 188 7 permit-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 188 15 threaten-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 188 23 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 3 utter-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 5 word-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 9 estimate-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 10 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 15 double-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 17 capacity-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 19 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 21 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 3 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 4 drive-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 8 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 11 respond-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 15 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 18 talk-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 12 proposition-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 15 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 17 oppose-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 21 abuse-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 24 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 3 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 5 draw-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 7 net-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 10 fact-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 14 be-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 21 technology-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 193 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 193 2 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 193 4 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 193 6 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 3 create-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 5 drive-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 12 bring-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 18 deny-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 26 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 195 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 196 2 follow-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 196 4 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 196 7 number-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 197 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 198 3 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 4 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 17 come-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 20 end-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 22 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 24 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 28 fail-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 13 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 15 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 17 apply-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 19 weight-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 22 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 29 test-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 201 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 201 6 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 3 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 9 come-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 12 end-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 15 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 17 put-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 24 place-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 30 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 32 threat-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 203 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 0 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 2 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 5 review-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 9 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 13 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 206 1 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 206 4 reaction-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 207 7 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 207 14 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 207 16 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 207 19 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 209 2 call-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 209 7 compare-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 209 12 child-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 209 16 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 210 4 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 210 10 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 210 18 child-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 211 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 212 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 212 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 213 3 test-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 213 6 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 213 7 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 214 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 215 6 change-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 215 8 opinion-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 216 1 one-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 216 4 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 216 5 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 9 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 13 represent-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 18 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 19 deny-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 22 people-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 28 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 30 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 218 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 218 7 question-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 5 be-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 7 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 12 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 16 substance-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 19 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 23 way-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 25 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 26 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 220 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 220 6 press-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 221 3 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 221 10 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 222 3 invade-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 222 7 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 2 make-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 4 case-n ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 10 take-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 15 lesson-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 19 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 24 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 32 invade-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 224 4 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 224 10 situation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 4 feel-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 6 guess-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 9 test-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 16 put-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 20 position-n 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 23 weight-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 26 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 5 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 6 see-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 9 statement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 26 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 27 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 227 2 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 227 4 build-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 227 14 chapter-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 227 16 resolution-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 229 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 229 5 divide-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 230 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 230 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 230 6 craft-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 230 15 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 231 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 231 4 give-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 231 9 choice-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 3 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 5 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 8 unfold-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 17 meet-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 26 summit-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 32 end-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 38 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 39 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 233 3 go-v ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 233 5 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 233 7 choose-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 234 0 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 234 5 suspend-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 234 8 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 234 11 action-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 235 4 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 235 8 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 235 9 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 236 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 236 6 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 236 7 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 237 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 237 4 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 237 5 defend-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 238 3 run-v 13.4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 238 6 option-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 4 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 10 craft-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 14 tighten-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 16 pressure-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 20 go-v ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 22 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 240 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 240 5 way-n 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 240 7 go-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 241 1 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 241 3 exhaust-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 241 8 consider-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 0 base-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 3 experience-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 9 emphasis-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 12 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 19 materialize-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 24 head-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 28 offer-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 30 observation-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 2 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 4 intervention-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 6 judge-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 9 combat-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 11 spread-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 13 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 18 example-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 23 be-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 27 quality-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 244 2 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 246 3 case-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 246 10 case-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 3 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 7 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 12 month-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 14 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 5 person-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 9 level-n 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 12 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 16 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 19 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 21 create-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 24 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 25 capability-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 5 person-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 8 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 21 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 25 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 28 build-v 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 32 capability-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 3 argument-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 8 today-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 13 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 19 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 21 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 251 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 251 3 argument-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 251 9 go-v ?,? 15
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 252 1 fact-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 252 10 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 3 look-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 11 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 13 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 21 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 27 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 29 intend-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 31 create-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 34 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 35 capability-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 37 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 40 assessment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 4 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 9 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 16 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 28 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 255 0 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 255 2 conclude-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 255 4 comment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 256 1 use-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 256 3 work-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 257 3 fire-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 258 2 go-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 259 2 control-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 260 3 get-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 261 3 get-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 262 1 give-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 262 5 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 262 7 credit-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 262 9 hang-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 7 make-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 12 confront-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 15 threat-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 0 have-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 5 allow-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 11 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 16 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 18 limit-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 20 option-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 265 3 disagree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 265 6 criticism-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 266 2 disagree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 266 5 reason-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 267 1 have-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 267 7 government-n 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 268 12 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 268 17 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 1 create-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 6 month-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 12 corner-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 15 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 18 isolate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 270 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 270 6 success-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 270 11 month-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 3 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 7 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 8 framework-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 10 hope-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 11 come-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 272 4 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 272 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 273 3 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 273 7 morning-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 274 3 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 274 6 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 3 give-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 5 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 6 president-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 7 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 10 support-n 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 13 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 276 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 276 3 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 276 6 operate-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 277 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 277 4 operate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 277 7 part-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 278 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 279 1 have-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 279 3 resource-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 279 6 disposal-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 280 3 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 280 4 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 280 7 class-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 280 12 class-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 280 14 effort-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 281 4 take-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 281 8 issue-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 281 10 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 282 4 watch-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 283 4 thank-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 283 9 view-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 284 0 thanks-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 0 come-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 3 view-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 11 spend-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 13 deal-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 18 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 40 ambassador-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 286 1 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 287 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 289 6 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 291 2 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 291 7 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 292 3 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 292 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 293 4 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 293 6 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 294 2 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 294 9 discuss-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 294 11 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 295 1 need-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 295 3 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 295 6 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 296 1 need-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 296 3 destroy-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 2 way-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 4 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 8 judgment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 9 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 10 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 12 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 13 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 16 level-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 298 1 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 2 success-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 4 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 5 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 11 be-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 14 engagement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 17 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 19 pilot-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 27 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 30 framework-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 300 4 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 300 6 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 301 4 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 301 7 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 301 9 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 302 1 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 302 3 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 302 10 assure-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 3 hand-n ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 6 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 8 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 10 treat-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 12 respect-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 14 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 3 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 5 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 7 effort-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 13 give-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 16 recognition-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 19 feel-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 21 deserve-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 305 3 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 306 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 307 4 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 307 7 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 308 1 make-v ?,? 16
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 308 2 sense-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 308 4 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 309 6 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 309 9 see-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 310 1 test-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 311 1 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 311 4 attention-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 312 2 bring-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 312 7 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 313 1 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 313 6 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 314 0 look-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 314 3 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 315 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 316 2 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 316 7 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 317 1 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 317 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 3 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 5 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 10 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 13 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 319 1 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 319 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 320 1 control-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 320 3 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 320 6 debt-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 321 5 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 321 6 leverage-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 2 effort-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 5 judgment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 6 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 7 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 9 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 10 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 0 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 2 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 6 sign-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 14 abide-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 325 2 table-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 325 7 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 325 10 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 0 effort-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 2 set-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 4 bench-n ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 5 mark-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 7 exchange-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 16 attack-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 327 1 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 327 3 assistance-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 328 2 objective-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 328 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 329 1 get-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 329 4 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 329 7 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 2 way-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 4 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 6 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 7 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 9 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 10 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 331 4 change-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 331 6 course-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 331 11 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 331 13 blink-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 333 1 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 333 5 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 333 7 deal-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 334 1 reverse-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 334 3 policy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 334 7 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 335 4 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 2 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 3 nothing-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 6 idea-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 11 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 12 something-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 14 pound-v ?,? 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 338 13 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 339 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 340 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 340 3 problem-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 341 2 fact-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 341 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 341 7 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 2 make-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 4 form-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 9 substance-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 11 care-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 16 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 19 meet-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 24 stop-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 26 accumulation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 29 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 33 view-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 343 2 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 343 4 condition-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 11 take-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 16 launch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 20 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 21 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 23 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 3 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 4 launch-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 8 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 10 condition-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 13 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 17 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 5 rule-n 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 7 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 11 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 15 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 18 gun-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 23 head-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 9 work-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 14 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 17 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 19 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 348 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 348 5 take-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 348 7 view-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 348 11 foot-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 349 3 administration-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 349 4 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 1 need-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 3 find-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 5 way-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 7 get-v 11.2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 12 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 2 fact-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 6 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 13 reverse-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 14 course-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 18 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 21 case-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 25 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 31 find-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 33 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 37 course-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 352 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 353 4 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 353 7 be-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 353 12 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 3 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 7 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 8 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 13 include-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 17 speak-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 25 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 28 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 355 0 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 355 2 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 355 11 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 355 15 place-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 1 reason-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 3 have-v ?,? 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 7 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 12 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 17 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 19 stake-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 28 deal-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 33 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 35 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 357 4 trade-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 358 3 recognize-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 2 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 4 nothing-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 7 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 11 action-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 13 apply-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 14 pressure-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 360 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 360 5 action-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 361 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 361 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 361 10 course-n 13
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 362 9 be-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 363 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 363 5 support-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 364 1 make-v ?,? 16
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 364 2 sense-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 364 4 have-v ?,? 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 364 8 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 3 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 6 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 12 produce-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 13 nothing-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 21 amount-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 27 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 32 hand-n 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 36 launch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 366 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 366 4 run-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 367 2 reason-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 368 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 368 3 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 368 5 blame-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 368 7 go-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 369 1 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 369 3 start-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 370 8 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 371 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 371 3 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 5 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 7 stick-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 12 wield-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 4 side-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 7 matter-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 11 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 14 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 18 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 26 sit-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 2 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 4 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 17 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 20 camp-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 1 camp-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 3 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 6 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 8 give-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 13 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 16 pursue-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 2 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 4 camp-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 8 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 11 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 15 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 17 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 19 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 24 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 27 game-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 29 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 3 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 6 view-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 9 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 11 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 15 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 18 go-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 22 try-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 24 reach-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 26 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 378 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 378 6 mind-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 5 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 9 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 11 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 18 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 1 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 9 part-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 12 segment-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 15 see-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 18 government-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 19 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 21 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 24 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 27 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 31 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 381 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 381 6 get-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 381 8 story-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 382 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 382 8 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 382 11 table-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 2 advocate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 9 strike-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 14 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 18 test-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 384 1 criticize-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 385 4 trigger-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 385 8 response-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 386 1 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 387 5 stand-v 7.2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 387 10 strike-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 389 2 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 389 4 put-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 2 way-n 10
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 5 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 8 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 11 position-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 12 today-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 19 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 23 launch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 26 erect-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 30 prepare-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 32 launch-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 36 destroy-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 42 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 391 1 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 391 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 391 9 action-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 5 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 7 start-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 9 war-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 11 response-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 17 action-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 4 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 12 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 16 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 18 draw-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 20 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 2 point-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 4 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 6 draw-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 8 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 13 defend-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 395 1 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 395 2 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 395 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 396 1 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 396 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 397 3 tolerate-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 397 5 accept-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 9 way-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 11 draw-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 13 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 400 2 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 400 4 emphasize-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 400 6 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 400 7 risk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 401 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 401 4 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 401 5 risk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 401 8 action-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 2 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 4 emphasize-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 6 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 7 risk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 15 go-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 6 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 11 react-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 14 take-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 17 test-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 404 3 disagree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 5 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 8 idea-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 11 administration-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 14 put-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 6 attack-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 8 threaten-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 13 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 15 test-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 28 ally-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 29 responsibility-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 407 3 take-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 407 5 step-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 408 2 fact-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 408 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 408 6 risk-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 408 12 shoot-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 409 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 409 3 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 409 8 force-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 4 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 6 reason-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 9 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 11 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 12 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 13 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 16 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 18 issue-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 20 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 26 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 28 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 31 grievance-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 34 relationship-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 411 1 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 411 3 fact-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 411 7 freeze-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 411 9 asset-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 412 1 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 413 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 413 6 issue-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 4 objection-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 6 deal-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 11 request-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 15 water-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 19 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 26 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 3 way-n 10
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 5 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 8 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 12 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 14 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 15 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 22 continue-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 24 effort-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 29 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 32 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 41 provide-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 416 4 cut-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 4 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 7 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 8 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 13 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 418 3 end-n 10
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 418 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 418 7 judgment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 418 11 intention-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 419 2 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 419 5 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 420 1 know-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 10 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 14 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 17 go-v ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 19 test-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 3 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 5 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 9 go-v ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 11 test-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 424 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 425 3 sense-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 425 6 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 425 8 deal-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 1 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 3 day-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 4 go-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 9 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 12 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 14 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 427 4 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 2 point-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 7 deal-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 14 deal-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 16 individual-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 429 2 believe-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 430 1 believe-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 430 5 way-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 431 1 view-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 431 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 431 5 cause-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 431 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 432 3 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 432 5 wait-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 433 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 2 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 5 way-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 7 deal-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 13 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 23 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 27 get-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 30 curb-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 33 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 435 3 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 435 6 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 436 3 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 436 6 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 436 10 violate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 1 point-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 4 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 6 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 7 discussion-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 14 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 15 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 438 6 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 438 7 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 438 10 way-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 438 12 go-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 439 3 keep-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 439 5 word-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 440 1 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 441 1 appear-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 441 4 program-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 442 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 442 4 exchange-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 443 5 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 443 13 watch-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 4 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 8 turn-v 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 13 cheat-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 2 reason-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 5 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 6 arm-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 7 control-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 8 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 9 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 14 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 21 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 25 enemy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 4 process-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 9 hold-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 11 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 447 3 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 447 7 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 448 3 stop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 448 7 plant-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 449 3 find-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 449 9 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 449 12 make-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 449 16 plant-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 451 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 451 6 find-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 1 happen-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 2 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 5 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 7 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 453 2 stop-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 453 8 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 453 9 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 1 make-v ?,? 16
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 7 rod-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 8 contain-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 16 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 20 stay-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 23 storage-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 24 pond-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 2 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 5 have-v 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 9 end-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 12 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 13 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 3 start-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 4 cheat-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 10 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 12 gas-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 14 equipment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 3 know-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 5 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 10 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 13 equipment-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 6 time-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 9 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 13 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 18 appear-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 21 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 23 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 25 put-v ?,? 7.28
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 28 gas-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 459 3 get-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 460 4 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 460 6 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 460 7 get-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 461 2 break-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 461 4 word-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 462 2 cheat-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 463 1 be-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 463 3 question-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 464 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 464 10 happen-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 465 1 be-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 465 4 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 465 5 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 465 8 stop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 466 1 production-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 466 3 stop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 4 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 6 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 8 lock-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 12 allow-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 14 collapse-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 469 2 find-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 470 1 free-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 470 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 470 13 time-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 4 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 5 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 8 make-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 472 2 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 472 4 estimate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 4 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 7 argue-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 18 take-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 25 turn-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 31 day-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 34 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 36 find-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 44 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 48 day-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 51 material-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 54 transfer-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 56 sell-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 61 present-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 63 threat-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 68 threat-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 71 pose-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 76 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 474 2 deter-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 474 4 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 475 1 know-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 475 3 return-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 475 4 address-n ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 477 5 delivery-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 477 12 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 477 23 bus-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 477 26 truck-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 4 work-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 9 enemy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 10 value-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 12 death-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 16 life-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 479 2 defense-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 480 1 need-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 480 3 lock-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 480 7 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 481 3 care-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 481 13 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 481 16 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 481 17 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 482 3 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 482 6 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 482 8 want-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 483 3 go-v 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 483 5 cheat-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 483 8 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 484 3 have-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 484 8 view-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 485 1 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 485 3 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 1 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 3 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 7 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 10 trust-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 487 1 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 487 5 measure-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 488 2 verify-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 489 1 catch-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 489 3 cheat-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 490 2 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 490 4 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 491 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 1 ask-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 3 question-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 5 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 7 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 8 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 14 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 493 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 494 2 answer-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 494 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 494 9 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 494 11 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 5 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 8 question-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 9 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 496 3 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 3 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 7 way-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 9 proceed-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 498 1 ask-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 498 5 question-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 498 9 security-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 499 2 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 500 0 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 501 0 ask-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 502 0 insist-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 0 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 4 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 12 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 17 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 0 let-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 2 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 6 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 19 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 25 effect-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 3 ask-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 6 put-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 8 mind-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 10 place-n 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 15 watch-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 507 5 allow-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 507 7 develop-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 508 1 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 508 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 509 3 tolerate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 509 5 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 510 3 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 510 4 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 510 8 statement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 2 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 6 watch-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 8 know-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 12 have-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 14 potential-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 16 build-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 23 think-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 7 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 11 give-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 14 meaning-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 17 word-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 21 keep-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 22 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 23 thing-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 26 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 27 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 32 tolerate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 4 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 7 point-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 9 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 11 draw-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 13 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 6 agree-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 14 have-v ?,? 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 17 show-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 20 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 22 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 25 reach-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 27 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 33 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 34 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 36 serve-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 38 interest-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 43 framework-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 47 point-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 52 framework-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 64 have-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 67 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 515 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 515 7 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 4 reach-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 5 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 14 see-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 22 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 24 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 29 draw-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 31 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 37 step-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 41 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 43 draw-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 45 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 51 step-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 4 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 6 have-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 12 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 14 stand-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 3 suggest-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 6 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 9 test-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 10 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 13 place-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 15 take-v 14.1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 17 stand-n ?,? 8
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 519 2 draw-v 11
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 519 4 line-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 519 7 stand-n ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 519 9 step-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 520 3 watch-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 521 1 observe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 522 1 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 522 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 523 3 have-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 523 5 strength-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 523 7 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 523 9 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 524 9 care-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 524 12 form-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 524 16 substance-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 525 3 segment-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 525 5 show-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 525 8 call-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 526 4 call-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 527 1 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 527 7 happen-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 4 delight-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 7 feel-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 11 treat-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 13 respect-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 529 1 care-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 529 4 protocol-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 4 reason-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 7 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 12 price-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 14 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 16 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 17 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 20 level-n ?,? 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 26 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 30 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 32 set-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 34 stage-n 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 38 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 43 talk-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 45 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 48 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 52 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 1 exchange-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 5 dismantle-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 8 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 12 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 20 attack-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 532 1 get-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 532 2 food-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 532 4 energy-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 532 5 assistance-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 533 0 security-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 533 5 topple-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 534 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 535 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 536 1 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 536 5 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 536 9 negotiate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 1 point-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 7 go-v ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 9 be-v ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 11 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 13 face-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 14 meeting-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 16 serve-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 22 deal-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 26 asset-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 27 issue-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 31 hit-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 38 control-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 41 expenditure-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 49 deal-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 53 water-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 59 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 60 promise-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 70 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 73 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 78 stage-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 81 negotiation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 2 base-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 5 experience-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 8 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 13 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 17 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 18 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 25 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 28 mind-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 29 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 31 insurance-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 32 policy-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 39 assistance-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 41 water-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 539 2 end-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 539 5 day-n 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 539 9 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 3 leave-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 6 conclude-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 12 know-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 15 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 18 idea-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 20 find-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 4 idea-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 6 be-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 12 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 14 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 19 require-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 22 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 25 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 542 1 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 543 7 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 543 10 position-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 543 12 monitor-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 544 3 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 3 make-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 5 argument-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 10 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 14 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 17 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 23 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 24 program-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 27 produce-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 34 produce-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 2 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 4 possibility-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 10 think-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 12 way-n 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 16 think-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 19 need-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 26 need-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 29 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 31 deter-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 37 change-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 40 need-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 42 relationship-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 46 make-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 52 have-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 54 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 2 way-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 4 find-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 10 give-v 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 13 weapon-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 14 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 16 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 18 deal-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 548 1 hear-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 548 4 talk-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 548 12 child-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 549 2 say-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 550 1 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 550 2 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 550 5 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 550 7 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 551 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 552 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 553 2 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 553 4 meet-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 554 1 meet-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 554 3 number-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 554 6 command-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 555 1 be-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 555 4 nation-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 556 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 557 1 run-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 558 1 know-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 558 5 happen-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 559 1 power-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 559 2 flow-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 560 3 cause-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 560 5 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 561 1 people-n ?,? 5
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 561 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 561 5 shape-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 562 1 be-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 562 4 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 563 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 563 3 have-v ?,? 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 563 4 see-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 564 1 see-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 564 2 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 565 1 look-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 565 4 need-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 566 1 lot-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 566 3 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 566 5 starve-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 567 1 have-v 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 568 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 569 2 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 569 4 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 570 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 570 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 570 10 mind-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 571 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 572 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 573 3 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 1 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 3 feel-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 6 back-v 6
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 9 move-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 11 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 12 something-n 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 575 2 shoot-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 576 2 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 577 1 cancel-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 577 2 agreement-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 578 1 get-v ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 579 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 579 3 way-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 579 5 operate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 4 do-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 5 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 6 take-v 14.1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 7 advantage-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 10 vulnerability-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 581 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 581 6 sense-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 581 9 country-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 581 10 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 582 2 need-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 582 4 elimination-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 583 1 need-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 583 2 food-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 584 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 584 5 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 585 6 thank-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 585 15 discussion-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 586 0 come-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 586 5 celebrate-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 587 10 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 587 13 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 587 18 serve-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 587 20 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 588 0 come-v ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 589 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 591 2 turn-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 592 4 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 592 8 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 593 4 president-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 593 5 talk-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 593 7 age-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 593 8 health-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 594 5 day-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 594 11 people-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 594 12 take-v 14.1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 594 14 chance-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 594 17 man-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 595 3 be-v ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 595 4 look-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 596 6 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 597 2 seem-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 597 7 generation-n ?,? 4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 598 0 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 598 2 system-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 598 5 phase-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 599 1 explain-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 1 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 2 age-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 3 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 5 state-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 7 mind-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 11 state-n ?,? 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 13 health-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 601 1 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 602 1 feel-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 602 10 have-v 12
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 602 13 time-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 602 16 life-n 10
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 3 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 6 rule-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 8 person-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 13 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 16 age-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 2 hand-n ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 6 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 10 rule-v 3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 14 person-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 17 experience-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 22 capability-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 23 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 605 3 think-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 605 7 people-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 605 10 age-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 1 believe-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 5 look-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 8 person-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 12 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 17 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 19 experience-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 24 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 607 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 607 6 use-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 610 4 found-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 611 1 turn-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 612 3 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 613 2 information-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 613 4 today-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 613 9 log-v 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 613 13 resource-n ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 613 14 page-n ?,? 7
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 614 1 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 614 4 today-n ?,? 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 615 2 be-v ?,? 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 615 9 time-n 2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 616 2 be-v 1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 616 5 be-v 1

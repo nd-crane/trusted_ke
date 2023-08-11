@@ -1,0 +1,30 @@
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 0 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 0 10 gold plummet-v plummet.01 ----- 10:0-rel 7:1-ARG1 11:2-ARG2
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 2 1 gold be-v be.01 ----- 1:0-rel 2:2-ARG1 10:1-ARG2 0:0-ARGM-DIS
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 2 4 gold fear-n fear.01 ----- 4:0-rel 5:1-ARG1
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 2 10 gold justify-v justify.01 ----- 10:0-rel 2:2-ARG1
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 3 13 gold set-v set.03 ----- 13:0,14:1-rel 0:1-ARGM-LOC
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 3 16 gold shoot-v shoot.05 ----- 16:0,17:1-rel 18:1-ARG0
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 4 15 gold find-v find.01 ----- 15:0-rel 0:3-ARG0 16:1-ARG1
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 4 21 gold spook-v spook.01 ----- 21:0-rel 22:1-ARG0
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 5 2 gold study-n study.01 ----- 2:0-rel 1:0-ARG0 4:2-ARGM-ADJ
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 5 5 gold span-v span.01 ----- 5:0-rel 6:1-ARG1 1:1-LINK-SLC
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 5 15 gold show-v show.01 ----- 15:0-rel 0:0-ARGM-DIS 1:2,16:2-ARG1 13:1-ARGM-TMP 1:2,16:2-LINK-PCR
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 5 18 gold jinx-v jinx.01 ----- 18:0-rel 19:1-ARG0
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 6 7 gold fall-n fall.01 ----- 7:0-rel 0:1-ARGM-TMP 4:1-ARG1 6:0-ARGM-LVB 8:2-ARGM-TMP 13:0-ARGM-TMP
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 7 3 gold tend-v tend.02 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:2-ARG2 16:1-ARGM-ADV
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 7 5 gold be-v be.01 ----- 5:0-rel 6:2-ARG2 13:1-ARGM-ADV
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 8 1 gold study-n study.01 ----- 1:0-rel
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 8 2 gold find-v find.01 ----- 2:0-rel 0:1-ARG0 4:3-ARG1
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 8 15 gold have-v have.03 ----- 15:0-rel 4:2-ARG0 16:3-ARG1
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 8 19 gold return-n return.04 ----- 19:0-rel 16:1-ARG1 21:2-ARGM-ADJ
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 8 29 gold tend-v tend.02 ----- 29:0-rel 30:2-ARG2 24:2-LINK-SLC
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 8 31 gold be-v be.01 ----- 31:0-rel 32:2-ARG2
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 9 15 gold rise-v rise.01 ----- 15:0-rel 0:1-ARGM-TMP 10:1-ARG1 16:2-ARG2
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 10 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:4-ARG1
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 10 5 gold study-n study.01 ----- 5:0-rel 4:0-ARGM-TMP
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 10 7 gold title-v title.01 ----- 7:0-rel 8:3-ARG2 3:1-LINK-PCR
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 10 16 gold publish-v publish.01 ----- 16:0-rel 17:1-ARGM-MNR
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 11 6 gold add-v add.01 ----- 6:0-rel 0:1-ARGM-LOC 5:1-ARG0 7:1-ARG1
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 11 13 gold crash-n crash.01 ----- 13:0-rel 12:0-ARGM-TMP
+nw/wsj/23/wsj_2378@2378@wsj@nw@en@on 11 21 gold play-v play.02 ----- 21:0-rel 8:3-ARG0 19:0-ARGM-MOD 22:1-ARG1 25:1-ARGM-DIS 27:1-ARGM-LOC

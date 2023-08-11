@@ -1,0 +1,9 @@
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 0 6 gold be-v be.01 ----- 6:0-rel 7:1-ARG2
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 0 9 gold arrive-v arrive.01 ----- 9:0-rel 10:1-ARG4 12:1-ARGM-TMP
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 1 2 gold carry-v carry.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1 9:1-ARGM-DIR
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 2 8 gold kill-v kill.01 ----- 8:0-rel 0:2-ARG0 9:1-ARG1
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 3 9 gold have-v have.01 ----- 9:0-rel
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 3 10 gold arrive-v arrive.01 ----- 10:0-rel 0:1-ARG1 11:1-ARG4
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 4 2 gold assist-v assist.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG2
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 5 3 gold review-v review.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-DIS 4:2-ARG1
+bn/cnn/00/cnn_0079@0079@cnn@bn@en@on 5 5 gold procedure-n procedure.01 ----- 5:0-rel 4:0-ARG0 9:1-ARGM-LOC

@@ -1,0 +1,265 @@
+#begin document (bn/ctv/01/ctv_0159); part 000
+bn/ctv/01/ctv_0159   0   0    [WORD]   VA   (TOP(IP(IP(VP*))       -   01   17   -   *    (V*)              *               *     -
+bn/ctv/01/ctv_0159   0   1    [WORD]   PU                *         -    -    -   -   *      *               *               *     -
+bn/ctv/01/ctv_0159   0   2    [WORD]   AD        (IP(ADVP*)        -    -    -   -   *      *      (ARGM-ADV*)     (ARGM-ADV*)    -
+bn/ctv/01/ctv_0159   0   3    [WORD]   VV             (VP*         -   01    -   -   *      *             (V*)              *     -
+bn/ctv/01/ctv_0159   0   4    [WORD]   VV             (VP*         -   02    2   -   *      *          (ARG2*             (V*)    -
+bn/ctv/01/ctv_0159   0   5    [WORD]   CD          (NP(QP*         -    -    -   -   *      *               *          (ARG1*     -
+bn/ctv/01/ctv_0159   0   6    [WORD]    M            (CLP*))       -    -    -   -   *      *               *               *     -
+bn/ctv/01/ctv_0159   0   7    [WORD]   NN             (NP*         -    -    -   -   *      *               *               *     -
+bn/ctv/01/ctv_0159   0   8    [WORD]   NN                *)))))    -    -    -   -   *      *               *)              *)    -
+bn/ctv/01/ctv_0159   0   9    [WORD]   PU                *))       -    -    -   -   *      *               *               *     -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]    NR   (TOP(IP(NP(NP(NP*)       -    -   -   -       (GPE)       (ARG0*      (ARG0*           *      (2|(3)
+bn/ctv/01/ctv_0159   0    1    [WORD]    NN                (NP*        -    -   -   -      (ORG*             *           *           *          -
+bn/ctv/01/ctv_0159   0    2    [WORD]    NN                   *))      -    -   -   -          *)            *           *           *          -
+bn/ctv/01/ctv_0159   0    3    [WORD]    NR                (NP*))      -    -   -   -    (PERSON)            *)          *)          *          2)
+bn/ctv/01/ctv_0159   0    4    [WORD]    NT          (VP(VP(NP*)       -    -   -   -      (DATE)   (ARGM-TMP*)          *           *          -
+bn/ctv/01/ctv_0159   0    5    [WORD]    VV                (VP*        -   01   -   -          *           (V*)          *           *          -
+bn/ctv/01/ctv_0159   0    6    [WORD]    NR                (NP*)))     -    -   -   -       (GPE)       (ARG1*)          *           *          -
+bn/ctv/01/ctv_0159   0    7    [WORD]    PU                   *        -    -   -   -          *             *           *           *          -
+bn/ctv/01/ctv_0159   0    8    [WORD]    VV                (VP*        -   01   -   -          *             *         (V*)          *          -
+bn/ctv/01/ctv_0159   0    9    [WORD]    NT      (NP(LCP(NP(NP*)       -    -   -   -      (DATE)            *      (ARG1*           *          -
+bn/ctv/01/ctv_0159   0   10    [WORD]    NR                (NP*)       -    -   -   -       (GPE)            *           *           *        (14)
+bn/ctv/01/ctv_0159   0   11    [WORD]    NN                (NP*        -    -   -   -    (EVENT*             *           *           *          -
+bn/ctv/01/ctv_0159   0   12    [WORD]    NN                   *))      -    -   -   -          *)            *           *           *          -
+bn/ctv/01/ctv_0159   0   13    [WORD]    LC                   *)       -    -   -   -          *             *           *           *          -
+bn/ctv/01/ctv_0159   0   14    [WORD]    OD                (QP*        -    -   -   -          *             *           *           *          -
+bn/ctv/01/ctv_0159   0   15    [WORD]     M               (CLP*))      -    -   2   -          *             *           *           *          -
+bn/ctv/01/ctv_0159   0   16    [WORD]    VV       (CP(CP(IP(VP*        -   01   -   -          *             *           *         (V*)         -
+bn/ctv/01/ctv_0159   0   17    [WORD]    NR                (NP*)))     -    -   -   -       (GPE)            *           *      (ARG1*)       (14)
+bn/ctv/01/ctv_0159   0   18    [WORD]   DEC                   *))      -    -   -   -          *             *           *           *          -
+bn/ctv/01/ctv_0159   0   19    [WORD]    NR                (NP*)       -    -   -   -       (GPE)            *           *           *         (3)
+bn/ctv/01/ctv_0159   0   20    [WORD]    NN                (NP*        -    -   -   -      (ORG*             *           *      (ARG0*          -
+bn/ctv/01/ctv_0159   0   21    [WORD]    NN                   *))))    -    -   -   -          *)            *           *)          *)         -
+bn/ctv/01/ctv_0159   0   22    [WORD]    PU                   *))      -    -   -   -          *             *           *           *          -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]   NR      (TOP(IP(NP*)              -    -   -   -    (PERSON)     *          (ARG0*)       *               *           *           *      (2)
+bn/ctv/01/ctv_0159   0    1    [WORD]   VV   (VP(LCP(IP(VP*))             -   01   -   -          *    (V*)     (ARGM-TMP*        *               *           *           *       -
+bn/ctv/01/ctv_0159   0    2    [WORD]   LC                *)              -    -   -   -          *      *               *)       *               *           *           *       -
+bn/ctv/01/ctv_0159   0    3    [WORD]   VV             (VP*               -   01   2   -          *      *             (V*)       *               *           *           *       -
+bn/ctv/01/ctv_0159   0    4    [WORD]   PU                *               -    -   -   -          *      *               *        *               *           *           *       -
+bn/ctv/01/ctv_0159   0    5    [WORD]   NR          (IP(NP*               -    -   -   -       (GPE)     *          (ARG1*        *          (ARG0*           *           *      (5
+bn/ctv/01/ctv_0159   0    6    [WORD]   CC                *               -    -   -   -          *      *               *        *               *           *           *       -
+bn/ctv/01/ctv_0159   0    7    [WORD]   NR                *)              -    -   -   -       (GPE)     *               *        *               *)          *           *       5)
+bn/ctv/01/ctv_0159   0    8    [WORD]   AD        (VP(ADVP*)              -    -   -   -          *      *               *        *      (ARGM-ADV*)          *           *       -
+bn/ctv/01/ctv_0159   0    9    [WORD]   VV             (VP*               -   01   1   -          *      *               *      (V*)              *           *           *       -
+bn/ctv/01/ctv_0159   0   10    [WORD]   VV             (VP*               -   01   -   -          *      *               *        *             (V*)          *           *       -
+bn/ctv/01/ctv_0159   0   11    [WORD]   DT       (IP(NP(DP*)              -    -   -   -          *      *               *        *          (ARG1*      (ARG0*           *       -
+bn/ctv/01/ctv_0159   0   12    [WORD]   NN             (NP*))             -    -   -   -          *      *               *        *               *           *)          *       -
+bn/ctv/01/ctv_0159   0   13    [WORD]   VV             (VP*               -   02   -   -          *      *               *        *               *         (V*)          *       -
+bn/ctv/01/ctv_0159   0   14    [WORD]   NR          (IP(NP*               -    -   -   -       (GPE)     *               *        *               *      (ARG2*      (ARG0*      (5
+bn/ctv/01/ctv_0159   0   15    [WORD]   NR                *)              -    -   -   -       (GPE)     *               *        *               *           *           *)      5)
+bn/ctv/01/ctv_0159   0   16    [WORD]   VV             (VP*               -   01   -   -          *      *               *        *               *           *         (V*)      -
+bn/ctv/01/ctv_0159   0   17    [WORD]   NN             (NP*)))))))))))    -    -   2   -          *      *               *)       *               *)          *)     (ARG1*)      -
+bn/ctv/01/ctv_0159   0   18    [WORD]   PU                *))             -    -   -   -          *      *               *        *               *           *           *       -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]   NT   (TOP(IP(NP*)       -    -   -   -      (DATE)   (ARGM-TMP*)      (7)
+bn/ctv/01/ctv_0159   0    1    [WORD]   PU             *        -    -   -   -          *             *        -
+bn/ctv/01/ctv_0159   0    2    [WORD]   NR          (NP*)       -    -   -   -    (PERSON)       (ARG0*)      (2)
+bn/ctv/01/ctv_0159   0    3    [WORD]    P       (VP(PP*        -    -   -   -          *        (ARG0*        -
+bn/ctv/01/ctv_0159   0    4    [WORD]   NR       (NP(NP*)       -    -   -   -       (GPE)            *      (14)
+bn/ctv/01/ctv_0159   0    5    [WORD]   NN          (NP*        -    -   -   -          *             *        -
+bn/ctv/01/ctv_0159   0    6    [WORD]   NN             *)))     -    -   -   -          *             *)       -
+bn/ctv/01/ctv_0159   0    7    [WORD]   VV          (VP*        -   01   3   -          *           (V*)       -
+bn/ctv/01/ctv_0159   0    8    [WORD]   AS             *        -    -   -   -          *             *        -
+bn/ctv/01/ctv_0159   0    9    [WORD]   OD       (NP(QP*        -    -   -   -          *        (ARG1*      (10
+bn/ctv/01/ctv_0159   0   10    [WORD]    M         (CLP*))      -    -   -   -          *             *        -
+bn/ctv/01/ctv_0159   0   11    [WORD]   NN          (NP*))))    -    -   -   -          *             *)      10)
+bn/ctv/01/ctv_0159   0   12    [WORD]   PU             *))      -    -   -   -          *             *        -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]    PN         (TOP(IP(NP*)             -    -   -   -       *        (ARG0*)          *        *               *        *               *       (2)
+bn/ctv/01/ctv_0159   0    1    [WORD]     P             (VP(PP*              -    -   2   -       *    (ARGM-TMP*           *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0    2    [WORD]    NN            (LCP(NP*)             -    -   -   -       *             *           *        *               *        *               *      (10)
+bn/ctv/01/ctv_0159   0    3    [WORD]    LC                   *))            -    -   -   -       *             *)          *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0    4    [WORD]    VV                (VP*              -   01   -   -       *           (V*)          *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0    5    [WORD]    PU                   *              -    -   -   -       *             *           *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0    6    [WORD]     P             (IP(PP*              -    -   2   -       *        (ARG1*           *        *      (ARGM-LOC*        *      (ARGM-LOC*        -
+bn/ctv/01/ctv_0159   0    7    [WORD]     P   (LCP(NP(IP(VP(PP*              -    -   -   -       *             *      (ARG2*        *               *        *               *        -
+bn/ctv/01/ctv_0159   0    8    [WORD]    NR                (NP*))            -    -   -   -    (GPE)            *           *)       *               *        *               *      (14)
+bn/ctv/01/ctv_0159   0    9    [WORD]    VV                (VP*              -   01   -   -       *             *         (V*)       *               *        *               *        -
+bn/ctv/01/ctv_0159   0   10    [WORD]    NN                (NP*))))          -    -   -   -       *             *      (ARG1*)       *               *        *               *        -
+bn/ctv/01/ctv_0159   0   11    [WORD]    NN                (NP*))            -    -   -   -       *             *           *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0   12    [WORD]    LC                   *))            -    -   3   -       *             *           *        *               *)       *               *)       -
+bn/ctv/01/ctv_0159   0   13    [WORD]    PU                   *              -    -   -   -       *             *           *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0   14    [WORD]    NR                (NP*)             -    -   -   -    (GPE)            *           *        *          (ARG0*)       *          (ARG0*)      (3)
+bn/ctv/01/ctv_0159   0   15    [WORD]    AD           (VP(ADVP*)             -    -   -   -       *             *           *        *      (ARGM-ADV*)       *      (ARGM-ADV*)       -
+bn/ctv/01/ctv_0159   0   16    [WORD]    VV             (VP(VP*              -   01   -   -       *             *           *      (V*)              *        *               *        -
+bn/ctv/01/ctv_0159   0   17    [WORD]    VV                (VP*              -   01   -   -       *             *           *        *             (V*)       *               *        -
+bn/ctv/01/ctv_0159   0   18    [WORD]    NN                (NP*              -    -   -   -       *             *           *        *          (ARG1*        *               *        -
+bn/ctv/01/ctv_0159   0   19    [WORD]    NN                   *)))           -    -   -   -       *             *           *        *               *)       *               *        -
+bn/ctv/01/ctv_0159   0   20    [WORD]    PU                   *              -    -   -   -       *             *           *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0   21    [WORD]    AD           (VP(ADVP*)             -    -   -   -       *             *           *        *               *        *      (ARGM-ADV*)       -
+bn/ctv/01/ctv_0159   0   22    [WORD]    VV                (VP*              -   01   -   -       *             *           *        *               *      (V*)              *        -
+bn/ctv/01/ctv_0159   0   23    [WORD]    VV                (VP*              -   01   -   -       *             *           *        *               *        *             (V*)       -
+bn/ctv/01/ctv_0159   0   24    [WORD]    JJ    (NP(DNP(NP(ADJP*)             -    -   -   -       *             *           *        *               *        *          (ARG1*        -
+bn/ctv/01/ctv_0159   0   25    [WORD]    NN                (NP*))            -    -   -   -       *             *           *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0   26    [WORD]   DEG                   *)             -    -   -   -       *             *           *        *               *        *               *        -
+bn/ctv/01/ctv_0159   0   27    [WORD]    NN                (NP*))))))))))    -    -   -   -       *             *)          *        *               *        *               *)       -
+bn/ctv/01/ctv_0159   0   28    [WORD]    PU                   *))            -    -   -   -       *             *           *        *               *        *               *        -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]    NR   (TOP(IP(NP(NP(NP*)           -    -   -   -         (GPE)       (ARG0*          (ARG0*               *               *       (16
+bn/ctv/01/ctv_0159   0    1    [WORD]    NN                (NP*))          -    -   -   -            *             *               *               *               *         -
+bn/ctv/01/ctv_0159   0    2    [WORD]    NR                (NP*))          -    -   -   -      (PERSON)            *)              *)              *               *        16)
+bn/ctv/01/ctv_0159   0    3    [WORD]    NT             (VP(NP*)           -    -   -   -            *    (ARGM-TMP*)     (ARGM-TMP*)              *               *         -
+bn/ctv/01/ctv_0159   0    4    [WORD]    VV             (VP(VP*            -   01   -   -            *           (V*)              *               *               *         -
+bn/ctv/01/ctv_0159   0    5    [WORD]    NN                (NP*))          -    -   -   -            *        (ARG1*)              *               *               *         -
+bn/ctv/01/ctv_0159   0    6    [WORD]    VV                (VP*            -   01   -   -            *             *             (V*)              *               *         -
+bn/ctv/01/ctv_0159   0    7    [WORD]    PU                   *            -    -   -   -            *             *               *               *               *         -
+bn/ctv/01/ctv_0159   0    8    [WORD]    NR    (IP(NP(CP(IP(NP*            -    -   -   -         (GPE)            *          (ARG1*          (ARG0*          (ARG0*        (4
+bn/ctv/01/ctv_0159   0    9    [WORD]    CC                   *            -    -   -   -            *             *               *               *               *         -
+bn/ctv/01/ctv_0159   0   10    [WORD]    NR                   *)           -    -   -   -         (GPE)            *               *               *)              *         4)
+bn/ctv/01/ctv_0159   0   11    [WORD]    NT             (VP(NP*)           -    -   -   -            *             *               *      (ARGM-TMP*)              *         -
+bn/ctv/01/ctv_0159   0   12    [WORD]    VV                (VP*            -   01   -   -            *             *               *             (V*)              *         -
+bn/ctv/01/ctv_0159   0   13    [WORD]    NN                (NP*            -    -   1   -            *             *               *          (ARG1*               *         -
+bn/ctv/01/ctv_0159   0   14    [WORD]    NN                   *))))        -    -   -   -            *             *               *               *)              *         -
+bn/ctv/01/ctv_0159   0   15    [WORD]   DEC                   *)           -    -   -   -            *             *               *               *               *         -
+bn/ctv/01/ctv_0159   0   16    [WORD]    NN                (NP*))          -    -   -   -            *             *               *               *               *)        -
+bn/ctv/01/ctv_0159   0   17    [WORD]    AD           (VP(ADVP*)           -    -   -   -            *             *               *               *      (ARGM-ADV*)        -
+bn/ctv/01/ctv_0159   0   18    [WORD]    VV                (VP*            -   02   2   -            *             *               *               *             (V*)        -
+bn/ctv/01/ctv_0159   0   19    [WORD]    CD   (NP(DNP(NP(NP(QP*)           -    -   -   -    (CARDINAL)            *               *               *          (ARG1*     (1|(4
+bn/ctv/01/ctv_0159   0   20    [WORD]    NN                (NP*))          -    -   -   -            *             *               *               *               *         4)
+bn/ctv/01/ctv_0159   0   21    [WORD]    NN                (NP*))          -    -   2   -            *             *               *               *               *         1)
+bn/ctv/01/ctv_0159   0   22    [WORD]   DEG                   *)           -    -   -   -            *             *               *               *               *         -
+bn/ctv/01/ctv_0159   0   23    [WORD]    NN                (NP*))))))))    -    -   -   -            *             *               *)              *               *)        -
+bn/ctv/01/ctv_0159   0   24    [WORD]    PU                   *))          -    -   -   -            *             *               *               *               *         -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]     P           (TOP(IP(PP*        -    -   -   -          *             *               *           *               -
+bn/ctv/01/ctv_0159   0    1    [WORD]    AD             (IP(ADVP*)       -    -   -   -          *    (ARGM-TMP*)              *           *               -
+bn/ctv/01/ctv_0159   0    2    [WORD]    NN               (NP(NP*        -    -   -   -          *        (ARG0*               *           *               -
+bn/ctv/01/ctv_0159   0    3    [WORD]    NN                     *)       -    -   -   -          *             *               *           *               -
+bn/ctv/01/ctv_0159   0    4    [WORD]    PU                  (NP*        -    -   -   -          *             *               *           *               -
+bn/ctv/01/ctv_0159   0    5    [WORD]    NR                     *        -    -   -   -      (ORG*             *               *           *               -
+bn/ctv/01/ctv_0159   0    6    [WORD]    NN                     *        -    -   -   -          *)            *               *           *               -
+bn/ctv/01/ctv_0159   0    7    [WORD]    PU                     *))      -    -   -   -          *             *)              *           *               -
+bn/ctv/01/ctv_0159   0    8    [WORD]    NT               (VP(NP*)       -    -   -   -      (DATE)   (ARGM-TMP*)              *           *              (7)
+bn/ctv/01/ctv_0159   0    9    [WORD]    VV                  (VP*))))    -   01   -   -          *           (V*)              *           *               -
+bn/ctv/01/ctv_0159   0   10    [WORD]    PU                     *        -    -   -   -          *             *               *           *               -
+bn/ctv/01/ctv_0159   0   11    [WORD]    NR                  (NP*)       -    -   -   -    (PERSON)            *               *           *             (16)
+bn/ctv/01/ctv_0159   0   12    [WORD]    VV                  (VP*        -    -   1   -          *             *               *           *               -
+bn/ctv/01/ctv_0159   0   13    [WORD]    NR   (NP(CP(CP(IP(NP(NP*)       -    -   -   -       (GPE)            *          (ARG0*           *      (11|(12|(0)
+bn/ctv/01/ctv_0159   0   14    [WORD]    NN                  (NP*))      -    -   -   -          *             *               *)          *              11)
+bn/ctv/01/ctv_0159   0   15    [WORD]    NT               (VP(NP*)       -    -   -   -          *             *      (ARGM-TMP*)          *               -
+bn/ctv/01/ctv_0159   0   16    [WORD]    VV                  (VP*)))     -   01   -   -          *             *             (V*)          *               -
+bn/ctv/01/ctv_0159   0   17    [WORD]   DEC                     *))      -    -   -   -          *             *               *           *               -
+bn/ctv/01/ctv_0159   0   18    [WORD]    NN                  (NP*        -    -   -   -          *             *          (ARG1*           *               -
+bn/ctv/01/ctv_0159   0   19    [WORD]    NN                     *))      -    -   -   -          *             *               *)          *              12)
+bn/ctv/01/ctv_0159   0   20    [WORD]    VV               (IP(VP*        -   01   -   -          *             *               *         (V*)              -
+bn/ctv/01/ctv_0159   0   21    [WORD]    NN                  (NP*        -    -   -   -          *             *               *      (ARG1*               -
+bn/ctv/01/ctv_0159   0   22    [WORD]    CC                     *        -    -   -   -          *             *               *           *               -
+bn/ctv/01/ctv_0159   0   23    [WORD]    NN                     *))))    -    -   -   -          *             *               *           *)              -
+bn/ctv/01/ctv_0159   0   24    [WORD]    PU                     *))      -    -   -   -          *             *               *           *               -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]    PN     (TOP(IP(NP*)         -    -   -   -       *    (ARG0*)              *               *        *         (16)
+bn/ctv/01/ctv_0159   0    1    [WORD]    VV            (VP*          -   01   -   -       *       (V*)              *               *        *           -
+bn/ctv/01/ctv_0159   0    2    [WORD]    PU               *          -    -   -   -       *         *               *               *        *           -
+bn/ctv/01/ctv_0159   0    3    [WORD]    CS    (IP(CP(ADVP*)         -    -   -   -       *    (ARG1*      (ARGM-DIS*)     (ARGM-DIS*)       *           -
+bn/ctv/01/ctv_0159   0    4    [WORD]    NR      (IP(NP(NP*)         -    -   -   -    (GPE)        *          (ARG0*          (ARG0*        *      (11|(0)
+bn/ctv/01/ctv_0159   0    5    [WORD]    NN            (NP*))        -    -   -   -       *         *               *)              *)       *          11)
+bn/ctv/01/ctv_0159   0    6    [WORD]    VV         (VP(VP*          -   01   -   -       *         *             (V*)              *        *           -
+bn/ctv/01/ctv_0159   0    7    [WORD]    JJ   (NP(DNP(ADJP*)         -    -   -   -       *         *          (ARG1*               *        *         (12
+bn/ctv/01/ctv_0159   0    8    [WORD]   DEG               *)         -    -   -   -       *         *               *               *        *           -
+bn/ctv/01/ctv_0159   0    9    [WORD]    NN            (NP*          -    -   -   -       *         *               *               *        *           -
+bn/ctv/01/ctv_0159   0   10    [WORD]    NN               *)))       -    -   -   -       *         *               *)              *        *          12)
+bn/ctv/01/ctv_0159   0   11    [WORD]    PU               *          -    -   -   -       *         *               *               *        *           -
+bn/ctv/01/ctv_0159   0   12    [WORD]    VV            (VP*          -   01   -   -       *         *               *             (V*)       *           -
+bn/ctv/01/ctv_0159   0   13    [WORD]    JJ       (NP(ADJP*)         -    -   -   -       *         *               *          (ARG1*        *           -
+bn/ctv/01/ctv_0159   0   14    [WORD]    NN            (NP*))))))    -    -   -   -       *         *               *               *)       *           -
+bn/ctv/01/ctv_0159   0   15    [WORD]    PU               *          -    -   -   -       *         *               *               *        *           -
+bn/ctv/01/ctv_0159   0   16    [WORD]    NR         (NP(NP*          -    -   -   -    (GPE)        *               *               *        *       (1|(4
+bn/ctv/01/ctv_0159   0   17    [WORD]    NR               *)         -    -   -   -    (GPE)        *               *               *        *           4)
+bn/ctv/01/ctv_0159   0   18    [WORD]    NN            (NP*))        -    -   2   -       *         *               *               *        *           1)
+bn/ctv/01/ctv_0159   0   19    [WORD]    AD       (VP(ADVP*)         -    -   -   -       *         *               *               *        *           -
+bn/ctv/01/ctv_0159   0   20    [WORD]    VV            (VP*          -   01   1   -       *         *               *               *      (V*)          -
+bn/ctv/01/ctv_0159   0   21    [WORD]    VV            (VP*          -    -   -   -       *         *               *               *        *           -
+bn/ctv/01/ctv_0159   0   22    [WORD]    NN            (NP*))))))    -    -   -   -       *         *)              *               *        *           -
+bn/ctv/01/ctv_0159   0   23    [WORD]    PU               *))        -    -   -   -       *         *               *               *        *           -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]    P      (TOP(IP(PP*              -    -   -   -          *         *      (ARGM-MNR*               *        *               *           -
+bn/ctv/01/ctv_0159   0    1    [WORD]   NR       (IP(NP(NP*)             -    -   -   -       (GPE)   (ARG0*               *               *        *               *         (15)
+bn/ctv/01/ctv_0159   0    2    [WORD]   NR             (NP*              -    -   2   -      (ORG*         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0    3    [WORD]   NN                *))            -    -   -   -          *)        *)              *               *        *               *           -
+bn/ctv/01/ctv_0159   0    4    [WORD]   VV             (VP*)))           -   01   -   -          *       (V*)              *)              *        *               *           -
+bn/ctv/01/ctv_0159   0    5    [WORD]   PU                *              -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0    6    [WORD]   NR       (NP(NP(NP*)             -    -   -   -       (GPE)        *          (ARG0*               *        *               *      (8|(15)
+bn/ctv/01/ctv_0159   0    7    [WORD]   NN             (NP*))            -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0    8    [WORD]   NR             (NP*))            -    -   -   -    (PERSON)        *               *)              *        *               *           8)
+bn/ctv/01/ctv_0159   0    9    [WORD]   NT          (VP(NP*)             -    -   -   -      (DATE)        *      (ARGM-TMP*)              *        *               *          (7)
+bn/ctv/01/ctv_0159   0   10    [WORD]   VV             (VP*              -   01   2   -          *         *             (V*)              *        *               *           -
+bn/ctv/01/ctv_0159   0   11    [WORD]   PU                *              -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0   12    [WORD]    P          (IP(PP*              -    -   -   -          *         *          (ARG1*      (ARGM-MNR*        *               *           -
+bn/ctv/01/ctv_0159   0   13    [WORD]   NT         (LCP(NP*              -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0   14    [WORD]   NN                *)             -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0   15    [WORD]   LC                *))            -    -   -   -          *         *               *               *)       *               *           -
+bn/ctv/01/ctv_0159   0   16    [WORD]   PU                *              -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0   17    [WORD]   AD   (VP(ADVP(ADVP*)             -    -   -   -          *         *               *      (ARGM-ADV*        *               *           -
+bn/ctv/01/ctv_0159   0   18    [WORD]   AD           (ADVP*))            -    -   -   -          *         *               *               *)       *               *           -
+bn/ctv/01/ctv_0159   0   19    [WORD]   VV             (VP*              -   01   -   -          *         *               *             (V*)       *               *           -
+bn/ctv/01/ctv_0159   0   20    [WORD]   NR    (IP(NP(NP(NP*)             -    -   -   -       (GPE)        *               *          (ARG1*        *          (ARG0*      (9|(13)
+bn/ctv/01/ctv_0159   0   21    [WORD]   NN             (NP*))            -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0   22    [WORD]   NR             (NP*))            -    -   -   -    (PERSON)        *               *               *        *               *)          9)
+bn/ctv/01/ctv_0159   0   23    [WORD]   VV             (VP*              -   01   1   -          *         *               *               *      (V*)              *           -
+bn/ctv/01/ctv_0159   0   24    [WORD]    P          (VP(PP*              -    -   2   -          *         *               *               *        *      (ARGM-TMP*           -
+bn/ctv/01/ctv_0159   0   25    [WORD]   VV      (LCP(IP(VP*))            -    -   -   -          *         *               *               *        *               *           -
+bn/ctv/01/ctv_0159   0   26    [WORD]   LC                *))            -    -   -   -          *         *               *               *        *               *)          -
+bn/ctv/01/ctv_0159   0   27    [WORD]   VV             (VP*              -   01   -   -          *         *               *               *        *             (V*)          -
+bn/ctv/01/ctv_0159   0   28    [WORD]   NR             (NP*))))))))))    -    -   -   -       (GPE)        *               *)              *)       *          (ARG1*)         (6)
+bn/ctv/01/ctv_0159   0   29    [WORD]   PU                *))            -    -   -   -          *         *               *               *        *               *           -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]   NR   (TOP(IP(NP(NP*)               -    -   -   -       (GPE)       (ARG0*               *           *        *               *      (13)
+bn/ctv/01/ctv_0159   0    1    [WORD]   NR             (NP*)               -    -   -   -       (ORG)            *               *           *        *               *        -
+bn/ctv/01/ctv_0159   0    2    [WORD]   NN             (NP*))              -    -   -   -          *             *)              *           *        *               *        -
+bn/ctv/01/ctv_0159   0    3    [WORD]   DT       (VP(NP(DP*)               -    -   2   -     (DATE*    (ARGM-TMP*               *           *        *               *        -
+bn/ctv/01/ctv_0159   0    4    [WORD]   NT             (NP*))              -    -   -   -          *)            *)              *           *        *               *        -
+bn/ctv/01/ctv_0159   0    5    [WORD]   AD           (ADVP*)               -    -   -   -          *    (ARGM-ADV*)              *           *        *               *        -
+bn/ctv/01/ctv_0159   0    6    [WORD]   VV             (VP*                -   01   2   -          *           (V*)              *           *        *               *        -
+bn/ctv/01/ctv_0159   0    7    [WORD]   PU                *                -    -   -   -          *             *               *           *        *               *        -
+bn/ctv/01/ctv_0159   0    8    [WORD]   AD     (IP(VP(ADVP*)               -    -   -   -          *        (ARG1*      (ARGM-ADV*)          *        *               *        -
+bn/ctv/01/ctv_0159   0    9    [WORD]   AD           (ADVP*)               -    -   5   -          *             *      (ARGM-ADV*)          *        *               *        -
+bn/ctv/01/ctv_0159   0   10    [WORD]   VV             (VP*                -   01   -   -          *             *             (V*)          *        *               *        -
+bn/ctv/01/ctv_0159   0   11    [WORD]   VV          (IP(VP*                -    -   -   -          *             *          (ARG1*           *        *               *        -
+bn/ctv/01/ctv_0159   0   12    [WORD]   VV             (VP*                -   02   1   -          *             *               *         (V*)       *               *        -
+bn/ctv/01/ctv_0159   0   13    [WORD]   NR             (NP*)               -    -   -   -    (PERSON)            *               *      (ARG1*)       *               *       (9)
+bn/ctv/01/ctv_0159   0   14    [WORD]    P       (IP(VP(PP*                -    -   2   -          *             *               *      (ARG2*        *      (ARGM-TMP*        -
+bn/ctv/01/ctv_0159   0   15    [WORD]   VV      (LCP(IP(VP*))              -   01   -   -          *             *               *           *      (V*)              *        -
+bn/ctv/01/ctv_0159   0   16    [WORD]   LC                *))              -    -   -   -          *             *               *           *        *               *)       -
+bn/ctv/01/ctv_0159   0   17    [WORD]   VV             (VP*                -   01   -   -          *             *               *           *        *             (V*)       -
+bn/ctv/01/ctv_0159   0   18    [WORD]   NR             (NP*))))))))))))    -    -   -   -       (GPE)            *)              *)          *)       *          (ARG1*)      (6)
+bn/ctv/01/ctv_0159   0   19    [WORD]   PU                *))              -    -   -   -          *             *               *           *        *               *        -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]   NR    (TOP(IP(NP*)            -    -   -   -    (PERSON)       (ARG0*)          *               *               *       (8)
+bn/ctv/01/ctv_0159   0    1    [WORD]   AD      (VP(ADVP*)            -    -   -   -          *    (ARGM-DIS*)          *               *               *        -
+bn/ctv/01/ctv_0159   0    2    [WORD]   VV           (VP*             -   01   2   -          *           (V*)          *               *               *        -
+bn/ctv/01/ctv_0159   0    3    [WORD]   PU              *             -    -   -   -          *             *           *               *               *        -
+bn/ctv/01/ctv_0159   0    4    [WORD]   PN        (IP(NP*)            -    -   -   -          *        (ARG1*      (ARG0*)              *               *       (8)
+bn/ctv/01/ctv_0159   0    5    [WORD]   VV           (VP*             -   02   1   -          *             *         (V*)              *               *        -
+bn/ctv/01/ctv_0159   0    6    [WORD]   NT     (IP(VP(NP*)            -    -   -   -          *             *      (ARG1*      (ARGM-TMP*)     (ARGM-TMP*)       -
+bn/ctv/01/ctv_0159   0    7    [WORD]   VV        (VP(VP*             -   01   -   -          *             *           *             (V*)              *        -
+bn/ctv/01/ctv_0159   0    8    [WORD]   NR           (NP*))           -    -   -   -       (GPE)            *           *          (ARG1*)              *      (13)
+bn/ctv/01/ctv_0159   0    9    [WORD]    P        (VP(PP*             -    -   -   -          *             *           *               *          (ARG0*        -
+bn/ctv/01/ctv_0159   0   10    [WORD]   JJ   (NP(NP(ADJP*)            -    -   -   -          *             *           *               *               *        -
+bn/ctv/01/ctv_0159   0   11    [WORD]   NN           (NP*))           -    -   -   -          *             *           *               *               *        -
+bn/ctv/01/ctv_0159   0   12    [WORD]   NR           (NP*)))          -    -   -   -    (PERSON)            *           *               *               *)       -
+bn/ctv/01/ctv_0159   0   13    [WORD]   VV           (VP*)))))))))    -   01   -   -          *             *)          *)              *             (V*)       -
+bn/ctv/01/ctv_0159   0   14    [WORD]   PU              *))           -    -   -   -          *             *           *               *               *        -
+
+bn/ctv/01/ctv_0159   0    0    [WORD]    PN     (TOP(IP(NP*)        -    -   -   -       *    (ARG0*)       *               *       (8)
+bn/ctv/01/ctv_0159   0    1    [WORD]    VV            (VP*         -   01   1   -       *       (V*)       *               *        -
+bn/ctv/01/ctv_0159   0    2    [WORD]    PU               *         -    -   -   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0    3    [WORD]    NR   (IP(NP(NP(NP*)        -    -   -   -    (GPE)   (ARG1*        *          (ARG1*      (13)
+bn/ctv/01/ctv_0159   0    4    [WORD]    DT            (DP*         -    -   4   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0    5    [WORD]     M           (CLP*))       -    -   -   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0    6    [WORD]    NN            (NP*))       -    -   -   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0    7    [WORD]     P        (DNP(PP*         -    -   2   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0    8    [WORD]    NR     (LCP(NP(NP*         -    -   -   -   (LOC*         *        *               *        -
+bn/ctv/01/ctv_0159   0    9    [WORD]    NN               *)        -    -   1   -       *)        *        *               *        -
+bn/ctv/01/ctv_0159   0   10    [WORD]    NN            (NP*))       -    -   -   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0   11    [WORD]    LC               *))       -    -   3   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0   12    [WORD]   DEG               *)        -    -   -   -       *         *        *               *        -
+bn/ctv/01/ctv_0159   0   13    [WORD]    NN            (NP*))       -    -   -   -       *         *        *               *)       -
+bn/ctv/01/ctv_0159   0   14    [WORD]    AD       (VP(ADVP*)        -    -   -   -       *         *        *      (ARGM-ADV*)       -
+bn/ctv/01/ctv_0159   0   15    [WORD]    VV            (VP*         -   01   -   -       *         *      (V*)              *        -
+bn/ctv/01/ctv_0159   0   16    [WORD]    VV            (VP*)))))    -   01   -   -       *         *)       *             (V*)       -
+bn/ctv/01/ctv_0159   0   17    [WORD]    PU               *))       -    -   -   -       *         *        *               *        -
+
+#end document

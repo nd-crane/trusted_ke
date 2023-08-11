@@ -1,0 +1,81 @@
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 0 1 gold 实施-v 实施.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 0 5 gold 借用-v 借用.01 ----- 5:0-rel 3:1-ARG0 6:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 0 8 gold 贷款-n 贷款.01 ----- 8:0-rel 3:1-ARG0 5:0-rel-Sup
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 0 9 gold 管理-n 管理.01 ----- 9:0-rel 3:2-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 1 gold 完善-v 完善.01 ----- 1:0-rel 2:3-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 7 gold 管理-n 管理.01 ----- 7:0-rel 2:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 12 gold 决定-v 决定.01 ----- 12:0-rel 0:1-ARGM-PRP 9:1-ARG0 13:3-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 19 gold 实施-v 实施.01 ----- 19:0-rel 13:1-ARGM-TMP 20:5-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 20 gold 新-v 新.01 ----- 20:0-rel 28:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 24 gold 借用-v 借用.01 ----- 24:0-rel 22:1-ARG0 25:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 27 gold 贷款-n 贷款.01 ----- 27:0-rel 22:1-ARG0 24:0-rel-Sup
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 2 28 gold 管理-n 管理.01 ----- 28:0-rel 22:2-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 3 5 gold 规定-n 规定.01 ----- 5:0-rel 1:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 3 10 gold 是-v 是.01 ----- 10:0-rel
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 3 11 gold 指-v 指.01 ----- 11:0-rel 0:1-ARGM-MNR 7:1-ARG1 12:5-ARG2
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 3 36 gold 筹借-v 筹借.01 ----- 36:0-rel 12:1-ARG0 14:1-ARG2 47:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 3 42 gold 承担-v 承担.01 ----- 42:0-rel 47:1-ARG0 39:1-ARGM-MNR 43:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 4 gold 融资-n 融资.01 ----- 4:0-rel 3:0-ARGM-MNR
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 5 gold 租赁-n 租赁.01 ----- 5:0-rel 3:0-ARG2
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 10 gold 偿还-v 偿还.01 ----- 10:0-rel 7:1-ARGM-MNR 12:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 12 gold 补偿-n 补偿.01 ----- 12:0-rel 13:0-ARG3
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 13 gold 贸易-n 贸易.01 ----- 13:0-rel 7:5,12:0-ARGM-MNR
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 23 gold 包括-v 包括.01 ----- 23:0-rel 22:1-ARGM-ADV 24:3-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 27 gold 经营-v 经营.01 ----- 27:0-rel 25:1-ARGM-MNR 28:2-ARG1 30:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 38 gold 融资-n 融资.01 ----- 38:0-rel 37:0-ARGM-BNF
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 47 gold 融资-n 融资.01 ----- 47:0-rel 40:2-ARGM-TMP 44:2-ARGM-BNF
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 53 gold 贷款-n 贷款.01 ----- 53:0-rel 52:0-ARGM-MNR
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 55 gold 视同-v 视同.01 ----- 55:0-rel 0:2-ARG0 54:1-ARGM-ADV 56:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 4 59 gold 管理-n 管理.01 ----- 59:0-rel 56:0,57:0,58:0-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 6 gold 是-v 是.01 ----- 6:0-rel 0:1-ARGM-MNR 3:1-ARG0 7:4-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 9 gold 借用-v 借用.01 ----- 9:0-rel 7:1-ARG0 10:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 12 gold 贷款-n 贷款.01 ----- 12:0-rel 7:1-ARG0 9:0-rel-Sup
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 14 gold 审批-n 审批.01 ----- 14:0-rel 7:2-ARG1 15:0-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 20 gold 授权-v 授权.02 ----- 20:0-rel 0:1-ARGM-MNR 17:1-ARG0 21:1-ARG1 24:3-ARG2
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 25 gold 负责-v 负责.01 ----- 25:0-rel 24:1-ARGM-ADV 26:3-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 29 gold 借用-v 借用.01 ----- 29:0-rel 27:1-ARG0 30:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 31 gold 贷款-n 贷款.01 ----- 31:0-rel 27:1-ARG0 29:0-rel-Sup
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 35 gold 监督-n 监督.01 ----- 35:0-rel 26:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 5 37 gold 管理-n 管理.01 ----- 37:0-rel 26:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 6 3 gold 借用-v 借用.01 ----- 3:0-rel 0:2-ARG0 4:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 6 6 gold 贷款-n 贷款.01 ----- 6:0-rel 0:2-ARG0 3:0-rel-Sup
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 6 12 gold 批准-v 批准.01 ----- 12:0-rel 9:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 5 gold 签订-v 签订.01 ----- 5:0-rel 4:1-ARGM-ADV 7:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 11 gold 无效-v 无效.01 ----- 11:0-rel 0:7-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 16 gold 办理-v 办理.01 ----- 16:0-rel 13:1-ARG0 14:1-ARGM-ADV 17:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 18 gold 登记-n 登记.01 ----- 18:0-rel 13:1-ARG2 14:1-ARGM-ADV 15:1-rel-Sup 17:0-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 22 gold 得-v 得.01 ----- 22:0-rel
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 25 gold 开立-v 开立.01 ----- 25:0-rel 20:1-ARG0 21:1-ARGM-ADV 23:1-ARGM-BNF 26:2-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 33 gold 得-v 得.01 ----- 33:0-rel
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 7 35 gold 汇出-v 汇出.01 ----- 35:0-rel 30:1-ARG1 32:1-ARGM-ADV 34:1-ARGM-ADV
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 8 gold 规定-v 规定.01 ----- 8:0-rel 0:1-ARG0 3:1-ARGM-LOC 7:1-ARGM-ADV 10:7-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 12 gold 借用-v 借用.01 ----- 12:0-rel 10:1-ARG2 13:1-ARG1 17:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 20 gold 限于-v 限于.01 ----- 20:0-rel 10:6-ARG0 19:1-ARGM-ADV 22:7-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 24 gold 批准-v 批准.01 ----- 24:0-rel 23:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 25 gold 经营-v 经营.01 ----- 25:0-rel 22:1-ARGM-ADV 26:1-ARG1 30:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 27 gold 借款-n 借款.01 ----- 27:0-rel 26:0-ARGM-MNR
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 36 gold 授权-v 授权.02 ----- 36:0-rel 35:1-ARG0 37:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 8 38 gold 批准-v 批准.01 ----- 38:0-rel 35:4-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 3 gold 借用-v 借用.01 ----- 3:0-rel 0:1-ARG2 2:1-ARGM-ADV 4:1-ARG1 11:1-ARG0
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 12 gold 必须-v 必须.01 ----- 12:0-rel
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 13 gold 具备-v 具备.01 ----- 13:0-rel 0:6-ARG0 14:4-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 24 gold 盈利-v 盈利.01 ----- 24:0-rel 19:1-ARGM-DIS 20:2-ARGM-TMP 23:1-ARGM-ADV
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 26 gold 有-v 有.01 ----- 26:0-rel 19:1-ARGM-DIS 27:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 32 gold 属-v 属.01 ----- 32:0-rel 19:1-ARGM-ADV 33:4-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 34 gold 鼓励-v 鼓励.01 ----- 34:0-rel 33:1-ARG0 35:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 37 gold 具有-v 具有.01 ----- 37:0-rel 19:1-ARGM-DIS 38:5-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 38 gold 完善-v 完善.01 ----- 38:0-rel 40:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 41 gold 管理-n 管理.01 ----- 41:0-rel 40:0-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 58 gold 得-v 得.01 ----- 58:0-rel
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 59 gold 低于-v 低于.01 ----- 59:0-rel 19:1-ARGM-ADV 44:6-ARG0 57:1-ARGM-ADV 60:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 78 gold 得-v 得.01 ----- 78:0-rel
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 79 gold 低于-v 低于.01 ----- 79:0-rel 19:1-ARGM-ADV 62:8-ARG0 77:1-ARGM-ADV 80:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 82 gold 借用-v 借用.01 ----- 82:0-rel 83:1-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 85 gold 贷款-n 贷款.01 ----- 85:0-rel 82:0-rel-Sup
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 89 gold 担保-n 担保.01 ----- 89:0-rel 87:1-ARGM-DIR
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 94 gold 得-v 得.01 ----- 94:0-rel
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 95 gold 超过-v 超过.01 ----- 95:0-rel 82:7-ARG0 93:1-ARGM-ADV 96:6-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 105 gold 借款-n 借款.01 ----- 105:0-rel 104:0-ARGM-MNR
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 108 gold 担保-n 担保.01 ----- 108:0-rel 107:0-ARGM-MNR
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 9 113 gold 超过-v 超过.01 ----- 113:0-rel 104:3-ARG0 112:1-ARGM-ADV 114:2-ARG1
+nw/xinhua/01/chtb_0119@0119@xinhua@nw@ch@on 10 1 gold 完-v 完.01 ----- 1:0-rel

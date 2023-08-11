@@ -1,0 +1,47 @@
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 0 3 gold 贸易-n 贸易.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-DIR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 0 5 gold 增长-v 增长.01 ----- 5:0-rel 0:2-ARG0 4:1-ARGM-ADV
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 2 gold 统计-n 统计.01 ----- 2:0-rel 0:1-ARG0
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 3 gold 表明-v 表明.01 ----- 3:0-rel 0:2-ARG2 5:2-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 9 gold 贸易-n 贸易.01 ----- 9:0-rel 6:1-ARG0 7:1-ARGM-DIR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 10 gold 继续-v 继续.01 ----- 10:0-rel 5:1-ARGM-TMP 6:2-ARG1 11:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 11 gold 增长-v 增长.01 ----- 11:0-rel 5:1-ARGM-TMP 6:2-ARG0
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 15 gold 达-v 达.01 ----- 15:0-rel 5:1-ARGM-TMP 13:1-ARG0 16:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 22 gold 增长-v 增长.01 ----- 22:0-rel 5:1-ARGM-TMP 13:1-ARG0 19:1-ARGM-ADV 23:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 2 25 gold 占-v 占.01 ----- 25:0-rel 5:1-ARGM-TMP 13:1-ARG0 26:4-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 4 2 gold 贸易-n 贸易.01 ----- 2:0-rel 0:1-ARGM-DIR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 5 6 gold 居-v 居.01 ----- 6:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:2-ARGM-ADV 5:1-ARGM-ADV 7:4-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 5 10 gold 贸易-n 贸易.01 ----- 10:0-rel 7:1-ARG0 8:1-ARGM-DIR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 5 26 gold 贸易-n 贸易.01 ----- 26:0-rel 27:0-ARG0
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 5 31 gold 高出-v 高出.01 ----- 31:0-rel 17:3-ARG0 21:1-ARG2 32:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 4 gold 出口-n 出口.01 ----- 4:0-rel 3:1-ARG0 5:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 10 gold 依赖-n 依赖.01 ----- 10:0-rel 3:2-ARG0 6:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 13 gold 增加-v 增加.01 ----- 13:0-rel 3:3-ARG1 12:1-ARGM-ADV
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 16 gold 进口-n 进口.01 ----- 16:0-rel 17:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 18 gold 占-v 占.01 ----- 18:0-rel 16:1-ARG0 19:3-ARG2 25:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 22 gold 进口-n 进口.01 ----- 22:0-rel 19:1-ARG0 20:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 28 gold 波动-v 波动.01 ----- 28:0-rel 0:1-ARGM-ADV 16:5-ARG0 26:1-ARGM-ADV 27:1-ARGM-ADV
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 34 gold 发展-n 发展.01 ----- 34:0-rel 30:2-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 36 gold 平衡-v 平衡.02 ----- 36:0-rel 0:1-ARGM-MNR 30:2-ARG0 34:1-ARG0 35:1-ARGM-ADV
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 39 gold 贸易-n 贸易.01 ----- 39:0-rel 38:1-ARGM-MNR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 40 gold 下降-v 下降.01 ----- 40:0-rel 0:1-ARGM-MNR 38:2-ARG0
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 43 gold 贸易-n 贸易.01 ----- 43:0-rel 42:0-ARGM-MNR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 44 gold 增长-v 增长.01 ----- 44:0-rel 0:1-ARGM-MNR 42:1-ARG0
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 48 gold 贸易-n 贸易.01 ----- 48:0-rel 46:2-ARGM-MNR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 49 gold 增长-v 增长.01 ----- 49:0-rel 46:3-ARG0
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 6 51 gold 快-v 快.01 ----- 51:0-rel 0:1-ARGM-MNR 46:4-ARG0 50:1-ARGM-ADV
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 7 6 gold 出口-n 出口.01 ----- 6:0-rel 2:1-ARG2 4:2-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 7 13 gold 增长-v 增长.01 ----- 13:0-rel 0:1-ARGM-TMP 2:2-ARG0 10:1-ARGM-ADV 14:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 7 18 gold 进口-n 进口.01 ----- 18:0-rel 16:2-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 7 22 gold 增长-v 增长.01 ----- 22:0-rel 0:1-ARGM-TMP 16:3-ARG0 23:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 8 1 gold 投资-n 投资.01 ----- 1:0-rel 0:0-ARG0 2:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 8 5 gold 贸易-n 贸易.01 ----- 5:0-rel 0:1-ARG0 3:1-ARGM-DIR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 8 7 gold 增长-v 增长.01 ----- 7:0-rel 0:2-ARG0 6:1-ARGM-ADV
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 3 gold 投资-n 投资.01 ----- 3:0-rel 2:0-ARG0 4:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 7 gold 出口-n 出口.01 ----- 7:0-rel 2:1-ARG0 5:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 11 gold 增长-v 增长.01 ----- 11:0-rel 0:1-ARGM-TMP 2:1-ARG0 5:2-ARG0 12:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 14 gold 占-v 占.01 ----- 14:0-rel 5:2-ARG0 15:5-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 18 gold 出口-n 出口.01 ----- 18:0-rel 15:1-ARG0 16:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 27 gold 增长-v 增长.01 ----- 27:0-rel 0:1-ARGM-TMP 2:1-ARG0 23:1-ARG0 28:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 30 gold 占-v 占.01 ----- 30:0-rel 0:1-ARGM-TMP 2:1-ARG0 23:1-ARG0 31:4-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 9 34 gold 进口-n 进口.01 ----- 34:0-rel 31:1-ARG0 32:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@ch@on 10 1 gold 完-v 完.01 ----- 1:0-rel

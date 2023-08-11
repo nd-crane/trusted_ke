@@ -1,0 +1,21 @@
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 0 10 gold 透露-v 透露.01 ----- 10:0-rel 1:3-ARG0 8:1-ARGM-TMP
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 0 16 gold 超过-v 超过.01 ----- 16:0-rel 19:1-ARG0 17:1-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 0 25 gold 提名-v 提名.01 ----- 25:0-rel 0:1-ARGM-MNR 11:2-ARGM-LOC 16:4-ARG0 24:1-ARGM-ADV 26:4-ARG1 33:2-ARG2
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 0 33 gold 角逐-v 角逐.01 ----- 33:0-rel 34:5-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 2 gold 指出-v 指出.01 ----- 2:0-rel 0:1-ARG0 4:3-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 10 gold 有-v 有.05 ----- 10:0-rel 4:1-ARGM-MNR 11:3-ARGM-ADV
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 14 gold 可以-v 可以.01 ----- 14:0-rel 11:2-ARG0 15:1-ARGM-ADV
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 15 gold 提名-v 提名.01 ----- 15:0-rel 11:2-ARG1 16:1-ARG2
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 19 gold 包括-v 包括.01 ----- 19:0-rel 18:1-ARG0 21:4-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 38 gold 得-v 得.01 ----- 38:0-rel
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 39 gold 少于-v 少于.01 ----- 39:0-rel 35:1-ARGM-DIS 36:1-ARG0 37:1-ARGM-ADV 40:2-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 44 gold 提名-v 提名.01 ----- 44:0-rel 46:1-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 48 gold 超过-v 超过.01 ----- 48:0-rel 43:1-ARGM-TMP 44:5-ARG0 47:1-ARGM-ADV 50:2-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 54 gold 相信-v 相信.01 ----- 54:0-rel 53:1-ARGM-DIS 55:2-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 57 gold 可以-v 可以.01 ----- 57:0-rel 55:1-ARG0 56:1-ARGM-ADV 58:1-ARGM-ADV
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 58 gold 成为-v 成为.01 ----- 58:0-rel 55:1-ARG0 56:1-ARGM-ADV 59:5-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 59 gold 角逐-v 角逐.01 ----- 59:0-rel 69:1-ARG0 60:3-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 75 gold 准-v 准.01 ----- 75:0-rel 72:1-ARG1 74:1-ARGM-ADV 76:2-ARG2
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 76 gold 透露-v 透露.01 ----- 76:0-rel 77:3-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 88 gold 表示-v 表示.01 ----- 88:0-rel 71:1-ARGM-PRP 81:1-ARGM-ADV 86:2-ARG0 89:3-ARG1
+bn/cbs/01/cbs_0129@0129@cbs@bn@ch@on 1 91 gold 公布-v 公布.01 ----- 91:0-rel 89:1-ARGM-ADV 90:1-ARGM-ADV

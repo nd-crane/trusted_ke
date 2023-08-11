@@ -1,0 +1,1815 @@
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 0 0 gold deal-v deal.01 ----- 0:0-rel 1:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 1 2 gold see-v see.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 1 4 gold emerge-v emerge.01 ----- 4:0-rel 5:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 2 gold see-v see.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 9 gold be-v be.03 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 11 gold go-v go.04 ----- 11:0-rel 10:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 2 13 gold stop-v stop.01 ----- 13:0-rel 6:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1 6:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 3 10 gold narrow-v narrow.01 ----- 10:0-rel 0:1-ARG0 9:0-ARGM-MOD 11:2-ARG1 16:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 4 2 gold give-v give.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG2 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:4-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 8 gold give-v give.01 ----- 8:0-rel 9:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 14 gold be-v be.02 ----- 14:0-rel 15:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 19 gold perpetrate-v perpetrate.01 ----- 19:0-rel 15:2-ARG0 20:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 23 gold be-v be.03 ----- 23:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 24 gold get-v get.03 ----- 24:0-rel 4:2-ARGM-ADV 22:1-ARG1 25:2-ARG2 35:1-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 27 gold catch-v catch.03 ----- 27:0-rel 28:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 32 gold catch-v catch.03 ----- 32:0-rel 33:1-ARG1 34:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 39 gold wait-v wait.01 ----- 39:0-rel 40:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 42 gold have-v have.01 ----- 42:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 43 gold commit-v commit.02 ----- 43:0-rel 41:1-ARG0 44:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 49 gold have-v have.03 ----- 49:0-rel 50:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 51 gold murder-n murder.01 ----- 51:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 52 gold take-v take.14 ----- 52:0-rel 50:1-ARG1 53:1-ARG2 54:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 56 gold catch-v catch.03 ----- 56:0-rel 55:1-ARG0 57:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 61 gold catch-v catch.03 ----- 61:0-rel 37:2-ARGM-ADV 58:1-ARGM-TMP 59:1-ARG0 60:0-ARGM-MOD 62:1-ARG1 63:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 5 68 gold murder-n murder.01 ----- 68:0-rel 65:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 6 6 gold learn-v learn.01 ----- 6:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-TMP 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 6 11 gold become-v become.01 ----- 11:0-rel 8:1-ARG1 12:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 3 gold work-n work.01 ----- 3:0-rel 4:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 7 gold do-v do.02 ----- 7:0-rel 5:1-ARG0 8:1-ARGM-TMP 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 10 gold be-v be.01 ----- 10:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 9:0-ARGM-MOD 11:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 13 gold take-v take.01 ----- 13:0-rel 14:1-ARG1 16:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 19 gold explore-v explore.01 ----- 19:0-rel 20:2-ARGM-MNR 17:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 27 gold experiment-v experiment.01 ----- 27:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 7 32 gold study-v study.01 ----- 32:0-rel 33:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 8 4 gold learn-v learn.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:1-ARGM-TMP 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 6 gold interview-n interview.01 ----- 6:0-rel 7:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 9 gold have-v have.01 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 10 gold conduct-v conduct.01 ----- 10:0-rel 8:1-ARG0 4:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 16 gold have-v have.01 ----- 16:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 17 gold review-v review.01 ----- 17:0-rel 15:1-ARG0 11:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 20 gold have-v have.01 ----- 20:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 21 gold learn-v learn.01 ----- 21:0-rel 19:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 22 gold be-v be.01 ----- 22:0-rel 0:1-ARGM-ADV 3:1-ARGM-ADV 18:2-ARG1 23:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 9 35 gold be-v be.01 ----- 35:0-rel 24:1-ARG1 26:2-ARGM-ADV 36:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 10 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 10 3 gold learn-v learn.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 10 6 gold be-v be.02 ----- 6:0-rel 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 4 gold be-v be.01 ----- 4:0-rel 1:1-ARG1 5:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 9 gold sell-v sell.01 ----- 9:0-rel 8:0-ARGM-MNR 10:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 13 gold win-v win.01 ----- 13:0-rel 12:0-ARG1 14:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 16 gold be-v be.01 ----- 16:0-rel 0:1-ARGM-ADV 15:1-ARG1 17:1-ARGM-ADV 18:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 20 gold use-v use.01 ----- 20:0-rel 18:1-ARG1 21:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 11 22 gold solve-v solve.01 ----- 22:0-rel 23:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 7 gold catch-v catch.03 ----- 7:0-rel 4:1-ARGM-TMP 8:1-ARGM-TMP 16:2-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 9 gold commit-v commit.02 ----- 9:0-rel 10:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 19 gold raise-v raise.01 ----- 19:0-rel 18:1-ARG0 20:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 12 20 gold suspicion-n suspicion.01 ----- 20:0-rel 21:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 13 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 14 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 15 6 gold be-v be.01 ----- 6:0-rel 0:1-ARGM-ADV 5:1-ARG1 7:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 11 gold defy-v defy.01 ----- 11:0-rel 0:2-ARGM-ADV 12:1-ARG1 14:2-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 14 gold test-v test.01 ----- 14:0-rel 15:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 16 22 gold deliver-v deliver.01 ----- 22:0-rel 19:1-ARGM-TMP 21:0-ARGM-MOD 23:1-ARG1 15:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 17 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 17 4 gold stop-v stop.01 ----- 4:0-rel 0:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 8 gold rank-v rank.01 ----- 8:0-rel 7:0-ARG2 9:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 36 gold lead-v lead.02 ----- 36:0-rel 37:2-ARG1 33:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 38 gold negotiation-n negotiation.01 ----- 38:0-rel 39:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 71 gold have-v have.01 ----- 71:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 18 72 gold visit-v visit.01 ----- 72:0-rel 73:1-ARG1 75:1-ARGM-TMP 62:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 19 11 gold turn-v turn.02 ----- 11:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 7:2-ARG1 12:1-ARG2 14:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 2 gold appear-v appear.01 ----- 2:0-rel 0:1-ARG1 1:1-ARGM-TMP 3:1-ARGM-MNR 5:1-ARGM-LOC 9:3-ARGM-TMP 13:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 20 15 gold talk-v talk.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1 9:3-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 22 7 gold test-v test.01 ----- 7:0-rel 0:1-ARGM-TMP 5:1-ARG0 8:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 23 4 gold appear-v appear.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1,5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 23 6 gold be-v be.01 ----- 6:0-rel 7:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 24 1 gold be-v be.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 24 5 gold go-v go.04 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 24 7 gold do-v do.02 ----- 7:0-rel 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 27 0 gold thank-v thank.01 ----- 0:0-rel 1:1-ARG1 2:1-ARGM-DIS
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 29 4 gold insist-v insist.01 ----- 4:0-rel 0:0-ARGM-MOD 1:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 29 9 gold impose-v impose.01 ----- 9:0-rel 6:1-ARG0 10:1-ARG1 11:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 30 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 30 3 gold pursue-v pursue.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1 8:1-ARGM-LOC 12:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 30 7 gold resolution-n resolution.01 ----- 7:0-rel 5:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 5 gold get-v get.02 ----- 5:0-rel 3:1-ARG0 6:1-ARG1 8:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 7 gold vote-n vote.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 31 9 gold pass-v pass.01 ----- 9:0-rel 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 32 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 32 4 gold operate-v operate.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 33 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1 9:1-ARGM-LOC 14:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 34 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 34 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 34 7 gold work-v work.01 ----- 7:0-rel 0:2-ARG0 8:1-ARG1 10:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 35 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 35 4 gold have-v have.03 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 5:1-ARG1 9:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 36 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 36 4 gold send-v send.01 ----- 4:0-rel 0:1-ARG0 5:1-ARGM-TMP 6:1-ARG2 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 2 gold know-v know.01 ----- 2:0-rel 1:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 5 gold think-v think.01 ----- 5:0-rel 0:0-ARGM-DIS 1:3-ARGM-DIS 3:1-ARGM-MNR 4:1-ARG0 6:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 7 gold be-v be.01 ----- 7:0-rel 6:1-ARG1 8:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 12 gold use-v use.01 ----- 12:0-rel 10:1-ARG0 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 37 14 gold influence-n influence.01 ----- 14:0-rel 13:0-ARG0 15:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 3 gold influence-n influence.01 ----- 3:0-rel 4:2-ARGM-EXT
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 38 18 gold deal-v deal.01 ----- 18:0-rel 15:1-ARG0 19:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 6 gold put-v put.01 ----- 6:0-rel 0:1-ARG0 7:1-ARG1 10:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 13 gold send-v send.01 ----- 13:0-rel 0:1-ARG0 14:1-ARG2 17:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 26 gold be-v be.03 ----- 26:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 27 gold tolerate-v tolerate.01 ----- 27:0-rel 24:0-ARGM-MOD 25:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 33 gold have-v have.02 ----- 33:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 35 gold come-v come.01 ----- 35:0-rel 36:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 47 gold have-v have.01 ----- 47:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 48 gold get-v get.06 ----- 48:0-rel 46:1-ARG0 49:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 50 gold de-nuclearize-v de-nuclearize.01 ----- 50:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 51 gold give-v give.07 ----- 51:0,52:1-rel 53:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 39 57 gold abide-v abide.01 ----- 57:0-rel 58:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 7 gold have-v have.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 9 gold say-v say.01 ----- 9:0-rel 0:0-ARGM-DIS 1:2-ARG0 8:0-ARGM-REC 10:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 11 gold do-v do.01 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 13 gold believe-v believe.01 ----- 13:0-rel 10:1-ARG0 12:0-ARGM-NEG 14:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 40 16 gold be-v be.02 ----- 16:0-rel 15:0-ARGM-MOD 17:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 41 4 gold insist-v insist.01 ----- 4:0-rel 0:0-ARGM-MOD 1:1-ARG0 3:1-ARGM-ADV 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 41 7 gold be-v be.02 ----- 7:0-rel 8:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 41 12 gold resolution-n resolution.01 ----- 12:0-rel 11:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 2 gold look-v look.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 6 gold resolution-n resolution.01 ----- 6:0-rel 5:0-ARG0 7:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2 4:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 10 gold debate-n debate.01 ----- 10:0-rel 11:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 42 15 gold do-v do.01 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 6:1-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 5 gold resolution-n resolution.01 ----- 5:0-rel 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 43 8 gold have-v have.03 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 7 gold do-v do.02 ----- 7:0-rel 4:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 44 8 gold be-v be.01 ----- 8:0-rel 3:2-ARG1 9:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 2 gold ask-v ask.02 ----- 2:0-rel 0:1-ARG0 3:1-ARG2 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 8 gold engage-v engage.01 ----- 8:0-rel 6:0-ARGM-NEG 9:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 45 11 gold trade-n trade.01 ----- 11:0-rel 10:0-ARG1 12:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 46 1 gold strike-v strike.04 ----- 1:0-rel 0:1-ARG2 2:1-ARG1 3:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 5 gold have-v have.02 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 7 gold do-v do.02 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 47 10 gold see-v see.01 ----- 10:0-rel 8:1-ARG0 9:0-ARGM-MOD 11:2-ARG1 15:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 48 2 gold have-v have.02 ----- 2:0-rel 1:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 48 4 gold see-v see.01 ----- 4:0-rel 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 48 10 gold react-v react.01 ----- 10:0-rel 6:1-ARG0 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 10 gold remain-v remain.01 ----- 10:0-rel 11:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 21 gold be-v be.01 ----- 21:0-rel 14:2-ARG1 20:0-ARGM-MOD 22:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 23 gold use-v use.01 ----- 23:0-rel 24:2-ARG1 40:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 25 gold combine-v combine.01 ----- 25:0-rel 26:0-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 49 41 gold force-v force.01 ----- 41:0-rel 42:1-ARG1 45:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 50 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 51 0 gold force-v force.01 ----- 0:0-rel 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 1 gold be-v be.02 ----- 1:0-rel 2:2,8:2-ARG1 3:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 5 gold know-v know.01 ----- 5:0-rel 4:1-ARG0 6:1-ARGM-DIS
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 9 gold believe-v believe.01 ----- 9:0-rel 10:3-ARG1 2:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 15 gold launch-n launch.01 ----- 15:0-rel 10:1-ARG0 13:0-ARGM-LVB 16:1-ARGM-TMP 21:2-ARGM-PRP 25:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 22 gold get-v get.01 ----- 22:0-rel 23:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 27 gold see-v see.01 ----- 27:0-rel 26:1-ARG0 28:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 31 gold be-v be.03 ----- 31:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 32 gold treat-v treat.01 ----- 32:0-rel 33:1-ARG1 34:2-ARG2 28:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 37 gold be-v be.03 ----- 37:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 52 38 gold treat-v treat.01 ----- 38:0-rel 36:1-ARG0 39:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 53 1 gold be-v be.01 ----- 1:0-rel 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 54 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 4 gold be-v be.01 ----- 4:0-rel 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 7 gold sit-v sit.02 ----- 7:0,8:1-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 10 gold negotiate-v negotiate.01 ----- 10:0-rel 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 14 gold assume-v assume.02 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 55 19 gold suspension-n suspension.01 ----- 19:0-rel 18:0-ARG0 20:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 2 gold sit-v sit.02 ----- 2:0,3:1-rel 4:1-ARGM-MNR 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 11 gold say-v say.01 ----- 11:0-rel 12:1-ARG2 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 14 gold stop-v stop.01 ----- 14:0-rel 15:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 56 15 gold develop-v develop.02 ----- 15:0-rel 16:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 57 3 gold sit-v sit.02 ----- 3:0,4:1-rel 0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 5:1-ARG2 7:2-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 58 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 58 4 gold try-v try.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 58 6 gold sit-v sit.02 ----- 6:0,7:1-rel 8:1-ARG2 12:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 58 19 gold talk-n talk.01 ----- 19:0-rel 17:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:1-ARGM-TMP 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 12 gold be-v be.01 ----- 12:0-rel 8:1-ARG1 13:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 17 gold return-v return.01 ----- 17:0-rel 14:1-ARG1 18:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 59 20 gold talk-n talk.01 ----- 20:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 3 gold do-v do.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 5 gold see-v see.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:0-ARGM-NEG 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 60 9 gold turn-v turn.02 ----- 9:0-rel 10:1-ARG1 11:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 61 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 61 5 gold have-v have.03 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 62 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 63 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 63 4 gold stop-v stop.01 ----- 4:0-rel 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 64 6 gold have-v have.03 ----- 6:0-rel 0:2-ARG0 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 65 3 gold do-v do.02 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 3 gold think-v think.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:2-ARG2 9:2-ARGM-ADV 18:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 9 gold work-v work.01 ----- 9:0-rel 10:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 17 gold talk-n talk.01 ----- 17:0-rel 15:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 20 gold get-v get.01 ----- 20:0-rel 19:1-ARG0 21:1-ARGM-LOC 24:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 23 gold process-n process.01 ----- 23:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 25 gold combine-v combine.01 ----- 25:0-rel 26:0-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 28 gold combine-v combine.01 ----- 28:0-rel 29:0-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 66 33 gold combine-v combine.01 ----- 33:0-rel 34:0-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 4 gold see-v see.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:0-ARGM-NEG 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 7 gold be-v be.01 ----- 7:0-rel 8:1-ARG2 15:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 16 gold get-v get.05 ----- 16:0-rel 12:1-ARG0 17:1-ARG1 19:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 67 25 gold deal-v deal.01 ----- 25:0-rel 24:1-ARGM-ADV 26:1-ARG1 29:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 68 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 1:2-ARG1 5:0-ARGM-NEG 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 69 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 69 5 gold sit-v sit.02 ----- 5:0,6:1-rel 7:1-ARG2 9:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 4:1-ARG1 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 10 gold be-v be.03 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 11 gold try-v try.01 ----- 11:0-rel 9:1-ARG0 12:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 70 13 gold do-v do.02 ----- 13:0-rel 14:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 2 gold announce-v announce.01 ----- 2:0-rel 0:1-ARG0 3:2-ARGM-TMP 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 11 gold meet-v meet.02 ----- 11:0-rel 9:1-ARG0 12:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 15 gold suspension-n suspension.01 ----- 15:0-rel 16:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 23 gold be-v be.01 ----- 23:0-rel 8:2-ARGM-ADV 21:1-ARG1 22:0-ARGM-MOD 24:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 71 26 gold sit-v sit.01 ----- 26:0,27:1-rel 28:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 72 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 73 3 gold know-v know.01 ----- 3:0-rel 2:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 73 8 gold be-v be.01 ----- 8:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 4:1-ARG1 9:0-ARGM-NEG 10:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 2 gold do-v do.02 ----- 2:0-rel 1:1-ARG0 3:1-ARGM-TMP 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 9 gold be-v be.01 ----- 9:0-rel 0:2-ARG1 10:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 11 gold disrupt-v disrupt.01 ----- 11:0-rel 1:1-ARG0 12:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 74 18 gold relation-n relation.01 ----- 18:0-rel 17:0-ARG0 19:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 75 4 gold want-v want.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 75 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 75 7 gold involve-v involve.01 ----- 7:0-rel 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 75 10 gold negotiation-n negotiation.01 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 76 0 gold be-v be.01 ----- 0:0-rel 2:2-ARG2 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 76 13 gold see-v see.01 ----- 13:0-rel 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 77 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 78 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 79 1 gold be-v be.02 ----- 1:0-rel 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 8 gold come-v come.01 ----- 8:0-rel 5:2,9:2-ARG1 7:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 13 gold live-v live.01 ----- 13:0-rel 10:1-ARG0 12:0-ARGM-MOD 14:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 17 gold be-v be.03 ----- 17:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 80 18 gold govern-v govern.01 ----- 18:0-rel 12:0-ARGM-MOD 19:1-ARG0 5:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 4 gold get-v get.06 ----- 4:0-rel 2:1-ARG0 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 6 gold do-v do.02 ----- 6:0-rel 7:1-ARGM-TMP 8:1-ARGM-DIS
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 10 gold be-v be.01 ----- 10:0-rel 0:1-ARGM-DIS 1:2-ARG1 11:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 81 11 gold focus-v focus.01 ----- 11:0-rel 2:1-ARG0 12:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 82 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 83 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 83 5 gold launch-n launch.01 ----- 5:0-rel 4:0-ARG1 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 5 gold remember-v remember.01 ----- 5:0-rel 6:1-ARG2 9:1-ARGM-DIS 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 8 gold launch-n launch.01 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 13 gold be-v be.01 ----- 13:0-rel 12:1-ARG1 14:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 17 gold be-v be.01 ----- 17:0-rel 16:1-ARG1 18:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 84 21 gold be-v be.01 ----- 21:0-rel 20:1-ARG1 22:1-ARGM-ADV 23:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 85 1 gold fire-v fire.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 86 1 gold try-v try.01 ----- 1:0-rel 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 86 3 gold fire-v fire.01 ----- 3:0-rel 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 87 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 88 1 gold crash-v crash.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 3 gold have-v have.03 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 14 gold use-v use.01 ----- 14:0-rel 15:2-ARG1 22:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 16 gold combine-v combine.01 ----- 16:0-rel 17:0-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 23 gold provide-v provide.01 ----- 23:0-rel 24:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 89 26 gold put-v put.01 ----- 26:0-rel 27:1-ARG1 29:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 6 gold continue-v continue.01 ----- 6:0-rel 4:1-ARG0 5:0-ARGM-MOD 7:2-ARG1 11:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 8 gold try-v try.01 ----- 8:0-rel 9:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 10 gold do-v do.02 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 13 gold come-v come.01 ----- 13:0-rel 14:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 90 16 gold come-v come.01 ----- 16:0-rel 17:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 4 gold give-v give.01 ----- 4:0-rel 0:0-ARGM-MOD 1:1-ARG0 5:1-ARG2 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 13 gold attack-v attack.01 ----- 13:0-rel 10:1-ARG0 11:0-ARGM-MOD 12:0-ARGM-NEG 14:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 17 gold seek-v seek.01 ----- 17:0-rel 10:1-ARG0 11:0-ARGM-MOD 12:0-ARGM-NEG 18:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 91 19 gold undermine-v undermine.01 ----- 19:0-rel 20:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 2 gold look-v look.01 ----- 2:0-rel 1:1-ARG0 3:0-ARGM-DIR 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 9 gold be-v be.03 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 10 gold sign-v sign.02 ----- 10:0-rel 11:1-ARGM-LOC 16:1-ARGM-TMP 5:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 92 27 gold be-v be.01 ----- 27:0-rel 0:1-ARGM-ADV 23:2-ARG1 28:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 93 4 gold have-v have.03 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 4 gold take-v take.22 ----- 4:0,5:1-rel 6:1-ARG1 22:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 9 gold dismantle-v dismantle.01 ----- 9:0-rel 10:1-ARG1 18:1-ARGM-MNR 22:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 11 gold dismantle-v dismantle.01 ----- 11:0-rel 12:1-ARG1 18:1-ARGM-MNR 22:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 94 27 gold go-v go.01 ----- 27:0-rel 23:1-ARG1 26:0-ARGM-MOD 28:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 95 8 gold be-v be.03 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 95 9 gold put-v put.01 ----- 9:0-rel 7:0-ARGM-MOD 10:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 4 gold see-v see.01 ----- 4:0-rel 2:1-ARG0 5:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 7 gold be-v be.01 ----- 7:0-rel 0:0-ARGM-DIS 1:2-ARG1 8:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 9 gold have-v have.01 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 10 gold see-v see.01 ----- 10:0-rel 8:1-ARG0 11:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 25 gold go-v go.02 ----- 25:0-rel 26:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 29 gold sit-v sit.02 ----- 29:0,30:1-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 33 gold implement-v implement.01 ----- 33:0-rel 34:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 96 40 gold refer-v refer.01 ----- 40:0-rel 38:1-ARG0 39:1-ARGM-TMP 41:1-ARG1 42:1-ARGM-DIS
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 97 2 gold see-v see.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 97 6 gold walk-v walk.01 ----- 6:0-rel 3:1-ARG0 7:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 3 gold get-v get.06 ----- 3:0-rel 0:0-ARGM-DIS 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 5 gold be-v be.01 ----- 5:0-rel 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 13 gold combine-v combine.01 ----- 13:0-rel 14:1-ARG2 18:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 19 gold pressure-v pressure.01 ----- 19:0-rel 20:1-ARG1 23:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 98 24 gold live-v live.04 ----- 24:0,25:0-rel 26:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 4:1-ARG2 22:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 6 gold give-v give.01 ----- 6:0-rel 7:1-ARG2 9:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 11 gold aid-n aid.01 ----- 11:0-rel 9:0-ARGM-EXT 10:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 21 gold assurance-n assurance.01 ----- 21:0-rel 20:0-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 26 gold sit-v sit.02 ----- 26:0,27:1-rel 23:1-ARGM-DIS 25:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 99 29 gold negotiate-v negotiate.01 ----- 29:0-rel 23:1-ARGM-DIS 25:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 100 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 100 5 gold be-v be.01 ----- 5:0-rel 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 10 gold be-v be.03 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 11 gold will-v will.02 ----- 11:0-rel 7:1-ARG0 12:2-ARG1 14:1-ARGM-DIS 15:2-ARGM-PRP 22:2-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 13 gold do-v do.02 ----- 13:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 16 gold take-v take.01 ----- 16:0-rel 17:1-ARG1 19:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 101 24 gold dismantle-v dismantle.01 ----- 24:0-rel 22:0-ARGM-MOD 23:1-ARG0 25:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 102 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 102 3 gold get-v get.02 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 103 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2 5:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 103 8 gold meet-v meet.01 ----- 8:0-rel 6:1-ARG0 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 4 gold see-v see.01 ----- 4:0-rel 2:1-ARG0 5:1-ARGM-DIS 6:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 104 10 gold be-v be.01 ----- 10:0-rel 0:0-ARGM-DIS 1:2-ARG1 11:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 105 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 105 3 gold think-v think.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 105 7 gold choose-v choose.01 ----- 7:0-rel 4:1-ARG0 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 106 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 106 4 gold think-v think.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 106 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 107 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 107 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 4 gold want-v want.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 6 gold do-v do.02 ----- 6:0-rel 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 7 gold be-v be.03 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 8 gold react-v react.01 ----- 8:0-rel 0:2-ARG0 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 108 12 gold statement-n statement.01 ----- 12:0-rel 11:0-ARGM-ADJ 13:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 109 3 gold choose-v choose.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1 5:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 109 6 gold get-v get.01 ----- 6:0-rel 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 5 gold get-v get.06 ----- 5:0-rel 3:1-ARG0 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 7 gold realize-v realize.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 8 gold be-v be.01 ----- 8:0-rel 0:1-ARGM-DIS 2:2-ARG1 9:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 110 10 gold be-v be.02 ----- 10:0-rel 11:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 111 4 gold think-v think.01 ----- 4:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 3:1-ARGM-ADV 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 111 8 gold sit-v sit.02 ----- 8:0,9:1-rel 6:1-ARG1 7:0-ARGM-MOD 10:1-ARG2 14:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 112 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 112 3 gold work-v work.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 113 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 113 3 gold work-v work.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 114 3 gold do-v do.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 114 5 gold work-v work.09 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 4:0-ARGM-NEG 6:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 2 gold say-v say.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-TMP 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 12 gold be-v be.01 ----- 12:0-rel 5:2-ARG1 13:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 115 16 gold go-v go.04 ----- 16:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 116 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:2-ARG1 6:1-ARG2 8:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 1 gold make-v make.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 7 gold make-v make.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG1 10:1-ARGM-TMP 11:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 18 gold want-v want.01 ----- 18:0-rel 17:1-ARG0 19:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 20 gold see-v see.01 ----- 20:0-rel 21:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 22 gold use-v use.01 ----- 22:0-rel 21:1-ARG0 23:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 117 24 gold influence-n influence.01 ----- 24:0-rel 23:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 3 gold see-v see.01 ----- 3:0-rel 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 5 gold push-v push.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 8 gold ask-v ask.02 ----- 8:0-rel 9:1-ARG2 12:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 13 gold meet-v meet.01 ----- 13:0-rel 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 118 18 gold have-v have.01 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 119 7 gold weigh-v weigh.03 ----- 7:0,8:1-rel 0:2-ARG0 9:1-ARG1 12:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 119 11 gold debate-n debate.01 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 120 1 gold offer-v offer.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 3 gold replace-v replace.01 ----- 3:0-rel 4:2-ARG1 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 8 gold fail-v fail.01 ----- 8:0-rel 11:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 13 gold talk-v talk.01 ----- 13:0-rel 14:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 16 gold act-v act.01 ----- 16:0-rel 17:1-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 18 gold have-v have.01 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 121 19 gold come-v come.01 ----- 19:0-rel 0:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 122 6 gold have-v have.01 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 122 7 gold talk-v talk.01 ----- 7:0-rel 0:1-ARGM-TMP 3:1-ARG0 8:1-ARGM-MNR 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 7 gold have-v have.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 8 gold lie-v lie.02 ----- 8:0-rel 0:1-ARGM-TMP 3:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 10 gold hunker-v hunker.01 ----- 10:0-rel 0:1-ARGM-TMP 3:1-ARG1 11:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 13 gold continue-v continue.01 ----- 13:0-rel 0:1-ARGM-TMP 3:1-ARG0 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 123 15 gold build-v build.01 ----- 15:0-rel 16:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 124 3 gold talk-v talk.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 124 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 124 5 gold fail-v fail.01 ----- 5:0-rel 0:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 125 2 gold action-n action.01 ----- 2:0-rel 0:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 125 4 gold be-v be.01 ----- 4:0-rel 0:2-ARG1 3:0-ARGM-MOD 5:1-ARG2 6:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 125 16 gold know-v know.01 ----- 16:0-rel 15:1-ARG0 17:1-ARG1 9:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 126 1 gold be-v be.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 126 2 gold act-v act.02 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 127 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:2-ARG1 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 128 2 gold dismantle-v dismantle.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 129 6 gold dismantle-v dismantle.01 ----- 6:0-rel 0:0-ARGM-DIS 1:2-ARG0 5:0-ARGM-MOD 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 5 gold respect-n respect.01 ----- 5:0-rel 4:0-ARGM-ADJ 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 10 gold be-v be.01 ----- 10:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARGM-ADV 9:1-ARG1 11:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 130 15 gold have-v have.03 ----- 15:0-rel 16:2-ARG1 12:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 3 gold want-v want.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 5 gold disavow-v disavow.01 ----- 5:0-rel 6:2-ARG1 12:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 14 gold think-v think.01 ----- 14:0-rel 13:1-ARG0 15:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 131 17 gold resolve-v resolve.01 ----- 17:0-rel 15:1-ARG0 16:0-ARGM-MOD 18:1-ARG1 20:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 132 3 gold say-v say.01 ----- 3:0-rel 2:1-ARG0 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 132 6 gold be-v be.01 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 5:1-ARG1 7:0-ARGM-NEG 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 133 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 133 8 gold apply-v apply.02 ----- 8:0-rel 7:0-ARGM-MOD 9:2-ARG1 2:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 8 gold have-v have.01 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 9 gold do-v do.02 ----- 9:0-rel 5:1-ARG0 10:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 14 gold be-v be.03 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 15 gold go-v go.04 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 17 gold give-v give.01 ----- 17:0-rel 18:2-ARG1 22:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 134 26 gold develop-v develop.02 ----- 26:0-rel 27:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 2 gold see-v see.01 ----- 2:0-rel 0:1-ARG0 3:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 5 gold statement-n statement.01 ----- 5:0-rel 3:1-ARGM-MNR 6:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 10 gold want-v want.01 ----- 10:0-rel 3:3-ARG0 11:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 135 12 gold work-v work.01 ----- 12:0-rel 13:1-ARG3 15:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 4 gold go-v go.04 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 6 gold pursue-v pursue.01 ----- 6:0-rel 7:2,17:1-ARG1 13:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 15 gold come-v come.01 ----- 15:0-rel 16:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 17 gold design-v design.01 ----- 17:0-rel 18:3-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 19 gold focus-v focus.01 ----- 19:0-rel 7:2-ARG0 20:1-ARG1 23:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 27 gold pressure-v pressure.01 ----- 27:0-rel 28:1-ARG1 29:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 30 gold come-v come.01 ----- 30:0-rel 31:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 34 gold talk-n talk.01 ----- 34:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 136 39 gold provide-v provide.01 ----- 39:0-rel 36:1-ARGM-ADV 37:1-ARGM-ADV 40:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 137 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 137 5 gold see-v see.01 ----- 5:0-rel 3:1-ARG0 4:0-ARGM-MOD 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 137 7 gold move-v move.01 ----- 7:0-rel 6:1-ARG1 8:1-ARGM-DIR 9:1-ARGM-MNR 10:1-ARGM-DIR 13:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 6 gold say-v say.01 ----- 6:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 3:1-ARG0 5:0-ARGM-MOD 7:5-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 12 gold have-v have.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 13 gold be-v be.01 ----- 13:0-rel 10:1-ARG1 14:1-ARG2 7:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 19 gold have-v have.01 ----- 19:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 20 gold develop-v develop.01 ----- 20:0-rel 7:2-ARGM-TMP 15:2-ARG1 21:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 35 gold talk-n talk.01 ----- 35:0-rel 33:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 37 gold have-v have.01 ----- 37:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 138 39 gold work-v work.09 ----- 39:0-rel 24:2-ARG0 36:1-ARGM-ADV 38:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 139 1 gold be-v be.01 ----- 1:0-rel 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 139 4 gold study-n study.01 ----- 4:0-rel 3:0-ARGM-TMP 5:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 1 gold estimate-v estimate.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 3 gold report-n report.01 ----- 3:0-rel 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 7 gold have-v have.03 ----- 7:0-rel 5:1-ARG0 8:2-ARG1 22:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 9 gold separate-v separate.01 ----- 9:0-rel 10:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 12 gold develop-v develop.02 ----- 12:0-rel 13:1-ARGM-TMP 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 22 gold compare-v compare.01 ----- 22:0-rel 8:2-ARG1 23:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 140 37 gold become-v become.01 ----- 37:0-rel 35:1-ARG1 38:1-ARG2 32:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 141 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 141 11 gold have-v have.03 ----- 11:0-rel 4:1-ARGM-TMP 8:1-ARG0 10:0-ARGM-MOD 12:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 3 gold assessment-n assessment.01 ----- 3:0-rel 0:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 4 gold base-v base.02 ----- 4:0-rel 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 6 gold analysis-n analysis.01 ----- 6:0-rel 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 13 gold statement-n statement.01 ----- 13:0-rel 14:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 19 gold lead-v lead.02 ----- 19:0-rel 20:2-ARG1 8:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 142 31 gold be-v be.01 ----- 31:0-rel 30:1-ARG1 32:0-ARGM-NEG 33:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 143 1 gold offer-v offer.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 14 gold have-v have.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 16 gold seem-v seem.01 ----- 16:0-rel 1:3,17:2-ARG1 15:1-ARGM-TMP 1:3,17:2-LINK-PCR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 22 gold seem-v seem.01 ----- 22:0-rel 0:1-ARGM-ADV 18:2,23:2-ARG1 18:2,23:2-LINK-PCR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 24 gold have-v have.01 ----- 24:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 25 gold conclude-v conclude.01 ----- 25:0-rel 26:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 32 gold consist-v consist.01 ----- 32:0-rel 27:1-ARG1 33:1-ARGM-ADV 34:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 40 gold repeat-v repeat.01 ----- 40:0-rel 39:0-ARGM-TMP 41:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 41 gold warning-n warning.01 ----- 41:0-rel 39:1-ARGM-PRD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 44 gold be-v be.03 ----- 44:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 144 45 gold take-v take.01 ----- 45:0-rel 42:0-ARGM-MOD 43:0-ARGM-NEG 46:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 145 7 gold success-n success.01 ----- 7:0-rel 6:0-ARGM-MNR 8:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 145 12 gold outshine-v outshine.01 ----- 12:0-rel 0:1-ARGM-MNR 5:1-ARGM-ADV 6:2-ARG0 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 146 2 gold acknowledge-v acknowledge.01 ----- 2:0-rel 0:0-ARGM-MOD 1:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 146 5 gold increase-n increase.01 ----- 5:0-rel 4:0-ARGM-EXT 6:1-ARG1 10:1-ARG0 13:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 5 gold disagree-v disagree.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-MNR 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 11 gold statement-n statement.01 ----- 11:0-rel 12:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 14 gold have-v have.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 147 16 gold hear-v hear.01 ----- 16:0-rel 13:1-ARG0 15:1-ARGM-TMP 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 2 gold know-v know.01 ----- 2:0-rel 1:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 5 gold get-v get.02 ----- 5:0-rel 0:1-ARGM-DIS 3:1-ARG0 6:1-ARG1 14:1-ARGM-PRD 16:2-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 148 15 gold work-n work.04 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 149 4 gold handle-v handle.01 ----- 4:0-rel 0:0-ARGM-ADV 1:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 149 9 gold arise-v arise.01 ----- 9:0-rel 8:0-ARGM-MOD 5:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 9 gold think-v think.01 ----- 9:0-rel 8:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 11 gold look-v look.01 ----- 11:0-rel 10:0-ARGM-DIR 12:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 14 gold develop-v develop.02 ----- 14:0-rel 15:1-ARG1 17:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 150 18 gold handle-v handle.01 ----- 18:0-rel 19:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 3 gold get-v get.06 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 5 gold combine-v combine.01 ----- 5:0-rel 6:1-ARG1 8:1-ARG2 10:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 7 gold measure-n measure.02 ----- 7:0-rel 6:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 151 11 gold be-v be.01 ----- 11:0-rel 12:1-ARG2 13:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 9 gold seem-v seem.01 ----- 9:0-rel 4:2,10:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 152 11 gold direct-v direct.01 ----- 11:0-rel 12:1-ARG1 15:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 2 gold want-v want.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 4 gold do-v do.02 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 5 gold be-v be.01 ----- 5:0-rel 0:2-ARG1 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 7 gold want-v want.01 ----- 7:0-rel 8:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 9 gold ask-v ask.02 ----- 9:0-rel 27:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 12 gold do-v do.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 13 gold have-v have.03 ----- 13:0-rel 14:3-ARG1 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 18 gold influence-n influence.01 ----- 18:0-rel 19:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 26 gold have-v have.03 ----- 26:0-rel 25:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 28 gold use-v use.01 ----- 28:0-rel 29:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 153 30 gold influence-n influence.01 ----- 30:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 154 2 gold do-v do.02 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1 4:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 154 5 gold channel-v channel.01 ----- 5:0-rel 6:1-ARG1 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 155 2 gold know-v know.01 ----- 2:0-rel 1:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 155 7 gold succeed-v succeed.01 ----- 7:0-rel 0:0-ARGM-DIS 1:3-ARGM-DIS 3:1-ARG1 4:1-ARGM-TMP 5:0-ARGM-MOD 6:0-ARGM-NEG 8:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 156 2 gold take-v take.10 ----- 2:0-rel 0:1-ARGM-TMP 3:1-ARG1 8:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 156 9 gold succeed-v succeed.01 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 3 gold have-v have.03 ----- 3:0-rel 2:1-ARG0 4:1-ARG1 7:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 12 gold know-v know.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 15 gold be-v be.03 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 16 gold try-v try.01 ----- 16:0-rel 14:1-ARG0 17:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 18 gold accomplish-v accomplish.01 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 22 gold be-v be.01 ----- 22:0-rel 21:1-ARG1 23:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 28 gold apply-v apply.02 ----- 28:0-rel 21:1-ARG0 29:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 157 33 gold be-v be.01 ----- 33:0-rel 0:0-ARGM-DIS 1:2-ARGM-ADV 31:1-ARG1 32:0-ARGM-MOD 34:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 4 gold give-v give.07 ----- 4:0,5:1-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 10 gold engineer-v engineer.01 ----- 10:0-rel 8:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 16 gold put-v put.01 ----- 16:0-rel 14:0-ARGM-MOD 15:1-ARGM-ADV 17:1-ARG1 20:1-ARG2 11:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 24 gold take-v take.05 ----- 24:0,25:1-rel 14:0-ARGM-MOD 26:1-ARG1 11:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 30 gold take-v take.05 ----- 30:0,31:1-rel 14:0-ARGM-MOD 32:1-ARG1 11:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 158 35 gold inflict-v inflict.01 ----- 35:0-rel 36:1-ARG1 39:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 159 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 159 2 gold get-v get.06 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 159 4 gold be-v be.01 ----- 4:0-rel 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 160 2 gold understand-v understand.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 160 7 gold challenge-n challenge.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 160 8 gold pose-v pose.02 ----- 8:0-rel 6:1-ARG1 9:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 3 gold do-v do.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 5 gold think-v think.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-MNR 2:1-ARG0 4:0-ARGM-NEG 6:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 8 gold have-v have.01 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 9 gold offer-v offer.01 ----- 9:0-rel 6:1-ARG0 10:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 14 gold have-v have.03 ----- 14:0-rel 13:0-ARGM-MOD 15:2-ARG1 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 21 gold lead-v lead.03 ----- 21:0-rel 13:0-ARGM-MOD 22:1-ARG1 23:1-ARG2 26:1-ARGM-DIS 27:1-ARGM-ADV 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 29 gold go-v go.02 ----- 29:0-rel 28:1-ARG0 30:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 37 gold be-v be.03 ----- 37:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 161 38 gold suggest-v suggest.01 ----- 38:0-rel 34:2-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 162 5 gold get-v get.02 ----- 5:0-rel 3:1-ARG0 6:1-ARG1 9:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 3 gold assure-v assure.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1 5:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 7 gold go-v go.04 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 163 9 gold drive-v drive.01 ----- 9:0-rel 10:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 164 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 164 4 gold deny-v deny.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 164 11 gold have-v have.01 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 164 12 gold increase-v increase.01 ----- 12:0-rel 6:2-ARG1 13:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 165 3 gold say-v say.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 165 6 gold have-v have.03 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 166 2 gold believe-v believe.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 166 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 166 6 gold produce-v produce.01 ----- 6:0-rel 4:1-ARG0 7:1-ARG1 8:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 6 gold put-v put.01 ----- 6:0-rel 4:1-ARG0 7:1-ARG2 9:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 11 gold design-v design.01 ----- 11:0-rel 9:1-ARG1 12:2-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 167 13 gold take-v take.05 ----- 13:0,15:1-rel 14:1-ARG1 16:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 168 4 gold have-v have.04 ----- 4:0-rel 2:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 168 12 gold implement-v implement.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 168 15 gold do-v do.02 ----- 15:0-rel 1:1-ARGM-ADV 13:1-ARG0 14:0-ARGM-MOD 16:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 169 3 gold de-nuclearize-v de-nuclearize.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-MNR 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 170 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 4:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 7 gold think-v think.01 ----- 7:0-rel 6:1-ARG0 8:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 13 gold cite-v cite.01 ----- 13:0-rel 12:1-ARG0 8:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 171 15 gold share-v share.01 ----- 15:0-rel 8:2-ARG0 14:0-ARGM-MOD 5:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 5 gold get-v get.02 ----- 5:0-rel 3:1-ARG0 6:2-ARG1 18:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 15 gold put-v put.01 ----- 15:0-rel 6:1-ARG1 16:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 172 19 gold deal-v deal.01 ----- 19:0-rel 20:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 173 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 173 3 gold be-v be.02 ----- 3:0-rel 0:0-ARGM-DIS 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 174 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 4:1-ARGM-TMP 5:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 175 1 gold take-v take.10 ----- 1:0-rel 2:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 175 8 gold fester-v fester.01 ----- 8:0-rel 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 175 10 gold grow-v grow.01 ----- 10:0-rel 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 176 3 gold take-v take.10 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 4:1-ARG1 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 176 7 gold solve-v solve.01 ----- 7:0-rel 8:1-ARG1 9:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 177 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:1-ARGM-ADV 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 178 0 gold wish-v wish.01 ----- 0:0-rel 1:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 178 3 gold solve-v solve.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG1 5:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 179 1 gold let-v let.01 ----- 1:0-rel 0:0-ARGM-DIS 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 179 3 gold go-v go.02 ----- 3:0-rel 2:1-ARG0 4:1-ARG4 11:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 179 18 gold speech-n speech.01 ----- 18:0-rel 12:1-ARG0 15:2-ARG1 19:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 180 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 180 2 gold watch-v watch.01 ----- 2:0-rel 1:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 181 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 181 5 gold arm-v arm.01 ----- 5:0-rel 3:1-ARG0 6:1-ARG2 13:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 181 14 gold starve-v starve.01 ----- 14:0-rel 15:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 7 gold constitute-v constitute.01 ----- 7:0-rel 0:3-ARG0 8:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 12 gold arm-v arm.01 ----- 12:0-rel 8:2-ARG1 13:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 182 14 gold threaten-v threaten.01 ----- 14:0-rel 15:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 183 1 gold seek-v seek.01 ----- 1:0-rel 6:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 183 8 gold pose-v pose.02 ----- 8:0-rel 0:1-ARGM-MNR 6:1-ARG0 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 183 12 gold grow-v grow.01 ----- 12:0-rel 13:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 184 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 185 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 186 3 gold wait-v wait.01 ----- 3:0-rel 0:1-ARG1 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG2 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 186 8 gold gather-v gather.01 ----- 8:0-rel 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 187 3 gold stand-v stand.05 ----- 3:0,4:1-rel 0:1-ARG1 1:0-ARGM-MOD 2:0-ARGM-NEG 5:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 187 7 gold draw-v draw.02 ----- 7:0-rel 6:1-ARG1 8:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 188 7 gold permit-v permit.01 ----- 7:0-rel 0:2-ARG0 5:0-ARGM-MOD 6:0-ARGM-NEG 8:2-ARG2 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 188 15 gold threaten-v threaten.01 ----- 15:0-rel 16:1-ARG2 17:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 3 gold utter-v utter.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 10 gold be-v be.01 ----- 10:0-rel 0:1-ARGM-TMP 6:1-ARGM-DIS 8:1-ARG1 11:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 14 gold have-v have.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 15 gold double-v double.01 ----- 15:0-rel 12:1-ARG0 16:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 189 19 gold develop-v develop.02 ----- 19:0-rel 12:1-ARG0 20:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 4 gold drive-v drive.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 5:1-ARGM-DIR 6:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 9 gold design-v design.01 ----- 9:0-rel 7:1-ARG1 10:2-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 11 gold respond-v respond.01 ----- 11:0-rel 12:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 190 18 gold talk-v talk.01 ----- 18:0-rel 16:1-ARG0 19:1-ARG1 20:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1,8:1-ARG2 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 9 gold put-v put.01 ----- 9:0-rel 1:1-ARG0 10:1-ARG2 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 15 gold have-v have.02 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 17 gold oppose-v oppose.01 ----- 17:0-rel 18:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 191 21 gold abuse-n abuse.01 ----- 21:0-rel 19:1-ARG1 22:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 1 gold have-v have.02 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 3 gold try-v try.01 ----- 3:0-rel 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 5 gold draw-v draw.02 ----- 5:0-rel 6:1-ARG1 8:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 14 gold be-v be.01 ----- 14:0-rel 12:1-ARG1 15:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 192 16 gold lead-v lead.01 ----- 16:0-rel 17:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 193 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 193 2 gold do-v do.02 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 5:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 193 6 gold develop-v develop.02 ----- 6:0-rel 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 3 gold create-v create.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 5 gold drive-v drive.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG0 6:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 10 gold design-v design.01 ----- 10:0-rel 7:1-ARG1 11:2-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 12 gold bring-v bring.01 ----- 12:0-rel 13:1-ARG1 14:1-ARG2 7:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 18 gold deny-v deny.01 ----- 18:0-rel 13:1-ARG0 19:1-ARG2 21:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 194 26 gold talk-v talk.01 ----- 26:0-rel 25:1-ARG0 27:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 195 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 195 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 196 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 196 2 gold follow-v follow.02 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 5:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 197 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 198 3 gold say-v say.01 ----- 3:0-rel 2:1-ARG0 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 198 8 gold be-v be.03 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 198 9 gold measure-v measure.01 ----- 9:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 6:0-ARGM-MOD 7:0-ARGM-NEG 10:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 4 gold say-v say.01 ----- 4:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 3:1-ARGM-ADV 5:1-ARGM-TMP 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 15 gold have-v have.01 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 17 gold come-v come.01 ----- 17:0-rel 14:1-ARG1 16:0-ARGM-NEG 18:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 22 gold negotiation-n negotiation.01 ----- 22:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 24 gold negotiation-n negotiation.01 ----- 24:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 25 gold be-v be.03 ----- 25:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 26 gold bind-v bind.02 ----- 26:0-rel 12:1-ARGM-MNR 13:1-ARGM-CAU 27:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 199 28 gold fail-v fail.01 ----- 28:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 2 gold get-v get.06 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 4 gold be-v be.01 ----- 4:0-rel 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 12 gold be-v be.03 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 13 gold try-v try.01 ----- 13:0-rel 11:1-ARG0 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 15 gold do-v do.02 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 200 17 gold apply-v apply.02 ----- 17:0-rel 18:3-ARG1 27:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 201 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 201 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 201 6 gold do-v do.02 ----- 6:0-rel 4:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 3 gold give-v give.07 ----- 3:0,4:1-rel 0:1-ARG0 2:0-ARGM-NEG 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 9 gold come-v come.01 ----- 9:0-rel 10:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 15 gold negotiation-n negotiation.01 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 17 gold put-v put.01 ----- 17:0-rel 18:1-ARG1 21:1-ARGM-DIR 22:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 202 30 gold be-v be.01 ----- 30:0-rel 26:1-ARG1 27:0-ARGM-MOD 28:1-ARGM-TMP 31:2-ARG2 23:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 203 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 4:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 2 gold go-v go.02 ----- 2:0-rel 1:1-ARG0 3:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 5 gold review-v review.01 ----- 5:0-rel 1:1-ARG0 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 12 gold have-v have.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 204 13 gold say-v say.01 ----- 13:0-rel 10:1-ARG0 14:1-ARG3 8:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 205 1 gold loathe-v loathe.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 206 1 gold get-v get.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 206 4 gold reaction-n reaction.01 ----- 4:0-rel 3:0-ARG2 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 207 7 gold be-v be.02 ----- 7:0-rel 8:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 207 14 gold want-v want.01 ----- 14:0-rel 15:2-ARG1 8:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 207 16 gold develop-v develop.02 ----- 16:0-rel 17:1-ARG1 8:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 209 2 gold call-v call.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 209 7 gold compare-v compare.01 ----- 7:0-rel 0:1-ARG0 8:1-ARG1 9:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 210 0 gold do-v do.01 ----- 0:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 210 4 gold believe-v believe.01 ----- 4:0-rel 1:1-ARG0 3:1-ARGM-TMP 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 210 10 gold be-v be.01 ----- 10:0-rel 6:1-ARG1 11:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 211 4 gold be-v be.01 ----- 4:0-rel 0:1-ARG1 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 212 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 212 5 gold be-v be.01 ----- 5:0-rel 6:2-ARG2 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 213 7 gold be-v be.01 ----- 7:0-rel 0:1-ARGM-DIS 1:2-ARG1 8:1-ARGM-ADV 9:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 214 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 215 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 215 6 gold change-v change.01 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARGM-DIS 3:1-ARG0 5:0-ARGM-NEG 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 216 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 13 gold represent-v represent.01 ----- 13:0-rel 12:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 18 gold have-v have.01 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 19 gold deny-v deny.01 ----- 19:0-rel 17:1-ARG0 20:1-ARG2 23:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 217 30 gold have-v have.03 ----- 30:0-rel 28:1-ARG0 29:0-ARGM-MOD 31:1-ARGM-LOC 23:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 218 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2 8:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 5 gold be-v be.02 ----- 5:0-rel 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 25 gold have-v have.01 ----- 25:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 219 26 gold talk-v talk.01 ----- 26:0-rel 24:1-ARG0 27:1-ARG1 30:1-ARGM-TMP 22:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 220 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 220 6 gold press-v press.02 ----- 6:0-rel 7:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 221 3 gold talk-v talk.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 221 10 gold say-v say.01 ----- 10:0-rel 0:2-ARGM-TMP 9:1-ARG0 11:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 222 3 gold invade-v invade.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 2 gold make-v make.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 10 gold take-v take.01 ----- 10:0-rel 6:2-ARG0 11:1-ARG2 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 19 gold develop-v develop.02 ----- 19:0-rel 18:1-ARG0 20:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 24 gold have-v have.03 ----- 24:0-rel 18:1-ARG0 25:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 31 gold be-v be.03 ----- 31:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 223 32 gold invade-v invade.01 ----- 32:0-rel 17:1-ARGM-ADV 29:0-ARGM-MOD 30:0-ARGM-NEG 33:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 224 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 224 7 gold miscalculate-v miscalculate.01 ----- 7:0-rel 0:0-ARGM-DIS 1:2-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 4 gold feel-v feel.02 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 6 gold guess-v guess.01 ----- 6:0-rel 5:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 9 gold test-v test.01 ----- 9:0-rel 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 16 gold put-v put.01 ----- 16:0-rel 8:1-ARGM-MNR 13:1-ARG0 14:0-ARGM-MOD 15:1-ARGM-MNR 17:1-ARG1 18:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 225 26 gold negotiation-n negotiation.01 ----- 26:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 2 gold miscalculate-v miscalculate.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 6 gold see-v see.01 ----- 6:0-rel 4:1-ARG0 7:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 9 gold statement-n statement.01 ----- 9:0-rel 7:1-ARGM-MNR 10:1-ARG0 23:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 26 gold have-v have.01 ----- 26:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 226 27 gold do-v do.02 ----- 27:0-rel 25:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 227 2 gold see-v see.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 227 4 gold build-v build.02 ----- 4:0-rel 3:1-ARG1 5:1-ARGM-LOC 10:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 227 16 gold resolution-n resolution.01 ----- 16:0-rel 12:1-ARGM-ADJ 14:1-ARG1 17:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 228 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 228 3 gold miscalculate-v miscalculate.01 ----- 3:0-rel 0:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 229 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 229 5 gold divide-v divide.02 ----- 5:0-rel 3:1-ARG0 4:0-ARGM-MOD 6:1-ARG1 9:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 230 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 230 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 230 6 gold craft-v craft.01 ----- 6:0-rel 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 231 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 231 4 gold give-v give.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 5:1-ARG2 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 3 gold see-v see.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 8 gold unfold-v unfold.02 ----- 8:0-rel 4:2-ARG1 9:1-ARGM-TMP 11:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 17 gold meet-v meet.03 ----- 17:0-rel 15:1-ARG0 18:1-ARG1 21:1-ARGM-TMP 23:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 26 gold summit-n summit.01 ----- 26:0-rel 25:0-ARG0 27:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 32 gold end-n end.01 ----- 32:0-rel 33:1-ARG1 36:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 232 39 gold be-v be.01 ----- 39:0-rel 37:1-ARG1 40:1-ARG2 31:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 233 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 233 3 gold go-v go.04 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 233 5 gold have-v have.02 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 233 7 gold choose-v choose.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 234 0 gold negotiation-n negotiation.01 ----- 0:0-rel 1:1-ARG1 3:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 234 5 gold suspend-v suspend.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 234 11 gold action-n action.01 ----- 11:0-rel 10:0-ARGM-EXT 12:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 235 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 235 4 gold think-v think.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 235 9 gold be-v be.01 ----- 9:0-rel 5:2-ARG1 10:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 236 2 gold think-v think.01 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 236 7 gold be-v be.01 ----- 7:0-rel 3:2-ARG1 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 237 1 gold be-v be.02 ----- 1:0-rel 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 237 5 gold defend-v defend.01 ----- 5:0-rel 2:2-ARG0 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 238 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 238 3 gold run-v run.05 ----- 3:0,4:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 10 gold craft-v craft.01 ----- 10:0-rel 11:1-ARG1 13:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 14 gold tighten-v tighten.01 ----- 14:0-rel 15:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 19 gold be-v be.03 ----- 19:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 20 gold go-v go.04 ----- 20:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 239 22 gold work-v work.09 ----- 22:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 240 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 240 7 gold go-v go.06 ----- 7:0-rel 8:1-ARGM-ADV 9:1-ARGM-ADV 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 241 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 241 3 gold exhaust-v exhaust.01 ----- 3:0-rel 4:1-ARG1 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 241 8 gold consider-v consider.02 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 0 gold base-v base.02 ----- 0:0-rel 1:1-ARG2 20:2,28:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 3 gold experience-n experience.01 ----- 3:0-rel 2:0-ARG0 4:1-ARGM-LOC 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 17 gold do-v do.01 ----- 17:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 19 gold materialize-v materialize.01 ----- 19:0-rel 18:0-ARGM-NEG 11:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 28 gold offer-v offer.01 ----- 28:0-rel 0:1-ARGM-ADV 20:2-ARG0 29:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 242 30 gold observation-n observation.01 ----- 30:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 4 gold intervention-n intervention.01 ----- 4:0-rel 3:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 6 gold judge-v judge.01 ----- 6:0-rel 7:2-ARG2 8:2-ARGM-PRP 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 9 gold combat-v combat.01 ----- 9:0-rel 10:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 11 gold spread-n spread.02 ----- 11:0-rel 12:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 243 23 gold be-v be.02 ----- 23:0-rel 0:3-ARGM-TMP 22:0-ARGM-MOD 24:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 244 0 gold do-v do.01 ----- 0:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 244 2 gold agree-v agree.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 245 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG1 4:1-ARG2 6:2-ARGM-TMP 13:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 247 14 gold talk-v talk.01 ----- 14:0-rel 15:1-ARG2 23:1-ARG1 25:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 1 gold be-v be.02 ----- 1:0-rel 2:0-ARGM-NEG 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 14 gold do-v do.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 16 gold believe-v believe.01 ----- 16:0-rel 15:0-ARGM-NEG 17:3-ARG1 3:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 18 gold be-v be.03 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 19 gold try-v try.01 ----- 19:0-rel 17:1-ARG0 20:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 248 21 gold create-v create.01 ----- 21:0-rel 22:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 1 gold be-v be.02 ----- 1:0-rel 2:0-ARGM-NEG 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 19 gold do-v do.01 ----- 19:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 21 gold believe-v believe.01 ----- 21:0-rel 20:0-ARGM-NEG 22:1-ARG1 3:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 25 gold be-v be.01 ----- 25:0-rel 23:1-ARG1 26:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 249 28 gold build-v build.05 ----- 28:0,29:1-rel 30:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 18 gold be-v be.03 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 19 gold try-v try.01 ----- 19:0-rel 20:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 250 21 gold do-v do.02 ----- 21:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 251 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 251 9 gold go-v go.12 ----- 9:0-rel 8:1-ARG1 10:1-ARG2 11:1-ARGM-TMP 18:1-ARGM-MNR 22:1-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 252 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 252 6 gold knit-v knit.01 ----- 6:0-rel 0:1-ARGM-DIS 4:1-ARGM-TMP 5:1-ARGM-MNR 7:1-ARG4 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 3 gold look-v look.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 12 gold be-v be.03 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 13 gold say-v say.01 ----- 13:0-rel 6:2,14:2-ARG0 22:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 28 gold be-v be.03 ----- 28:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 29 gold intend-v intend.01 ----- 29:0-rel 26:1-ARG0 30:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 31 gold create-v create.01 ----- 31:0-rel 32:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 253 40 gold assessment-n assessment.01 ----- 40:0-rel 39:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 4 gold agree-v agree.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARGM-ADV 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:1-ARGM-MNR 11:2-ARG2 22:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 16 gold do-v do.02 ----- 16:0-rel 14:1-ARG0 15:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 254 28 gold have-v have.03 ----- 28:0-rel 27:1-ARG0 29:1-ARGM-ADV 31:1-ARGM-ADV 24:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 255 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 255 2 gold conclude-v conclude.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 256 1 gold use-v use.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 256 3 gold work-v work.01 ----- 3:0-rel 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 257 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 257 3 gold fire-v fire.01 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 258 1 gold be-v be.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 258 2 gold go-v go.08 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 259 1 gold be-v be.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 259 2 gold control-v control.01 ----- 2:0-rel 3:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 260 1 gold be-v be.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 260 3 gold get-v get.03 ----- 3:0-rel 0:1-ARG1 2:0-ARGM-NEG 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 261 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 261 3 gold get-v get.03 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 262 7 gold credit-n credit.01 ----- 7:0-rel 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 262 9 gold hang-v hang.02 ----- 9:0-rel 10:1-ARG2 11:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 6 gold have-v have.01 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 7 gold make-v make.02 ----- 7:0-rel 5:1-ARG0 8:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 263 12 gold confront-v confront.01 ----- 12:0-rel 13:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 0 gold have-v have.01 ----- 0:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 5 gold allow-v allow.01 ----- 5:0-rel 1:2-ARG0 6:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 11 gold go-v go.06 ----- 11:0-rel 6:2-ARG0 12:1-ARG2 13:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 264 18 gold limit-v limit.01 ----- 18:0-rel 1:2-ARG0 19:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 265 3 gold disagree-v disagree.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-MNR 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 266 2 gold disagree-v disagree.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 267 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 268 12 gold be-v be.01 ----- 12:0-rel 0:2-ARGM-ADV 11:1-ARG1 13:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 1 gold create-v create.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-TMP 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 12 gold corner-v corner.01 ----- 12:0-rel 13:1-ARG1 7:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 269 18 gold isolate-v isolate.01 ----- 18:0-rel 19:1-ARG1 7:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 270 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 270 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2 7:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 270 6 gold success-n success.01 ----- 6:0-rel 5:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 3 gold get-v get.02 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 7 gold talk-n talk.01 ----- 7:0-rel 5:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 10 gold hope-v hope.01 ----- 10:0-rel 9:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 271 11 gold come-v come.01 ----- 11:0-rel 4:1-ARG1 12:1-ARGM-DIR 13:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 272 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 273 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG1 4:1-ARG2 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 274 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2 5:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 3 gold give-v give.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:2-ARG2 8:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 10 gold support-n support.01 ----- 10:0-rel 11:3-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 275 13 gold get-v get.01 ----- 13:0-rel 11:1-ARG0 12:0-ARGM-MOD 8:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 276 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 276 6 gold operate-v operate.01 ----- 6:0-rel 5:0-ARGM-MOD 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 277 2 gold have-v have.02 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 277 4 gold operate-v operate.01 ----- 4:0-rel 5:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 278 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 279 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 280 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 280 4 gold get-v get.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 281 4 gold take-v take.09 ----- 4:0,5:1-rel 1:1-ARG0 2:0-ARGM-MOD 3:1-ARGM-ADV 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 281 10 gold be-v be.01 ----- 10:0-rel 0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 3:1-ARGM-ADV 11:1-ARG2 12:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 282 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 282 4 gold watch-v watch.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 283 4 gold thank-v thank.01 ----- 4:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:1-ARG1 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 283 7 gold share-v share.01 ----- 7:0-rel 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 284 0 gold thanks-n thanks.01 ----- 0:0-rel 1:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 0 gold come-v come.01 ----- 0:0-rel 1:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 11 gold spend-v spend.02 ----- 11:0-rel 12:1-ARG1 13:2-ARG2 5:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 285 13 gold deal-v deal.01 ----- 13:0-rel 14:1-ARG1 5:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 286 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 3:1-ARG2 5:1-ARGM-TMP 6:2-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 287 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 289 6 gold negotiate-v negotiate.01 ----- 6:0-rel 0:1-ARGM-DIS 3:1-ARG0 7:2-ARGM-MNR 11:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 291 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 291 7 gold work-v work.09 ----- 7:0-rel 0:1-ARGM-DIS 1:2-ARG0 6:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 292 3 gold have-v have.03 ----- 3:0-rel 2:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 292 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 1:2-ARG1 5:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 292 7 gold have-v have.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 292 8 gold quadruple-v quadruple.01 ----- 8:0-rel 5:1-ARG0 9:1-ARG1 12:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 293 4 gold talk-n talk.01 ----- 4:0-rel 2:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 293 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 293 6 gold go-v go.01 ----- 6:0-rel 0:1-ARGM-DIS 1:1-ARG1 7:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 294 2 gold talk-v talk.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARGM-MNR 4:1-ARG2 8:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 294 9 gold discuss-v discuss.01 ----- 9:0-rel 0:1-ARG0 10:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 294 11 gold be-v be.01 ----- 11:0-rel 12:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 295 1 gold need-v need.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 295 3 gold dismantle-v dismantle.01 ----- 3:0-rel 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 296 1 gold need-v need.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 296 3 gold destroy-v destroy.01 ----- 3:0-rel 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 4 gold do-v do.02 ----- 4:0-rel 5:1-ARG1 6:1-ARGM-ADV 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 8 gold judgment-n judgment.01 ----- 8:0-rel 7:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 9 gold be-v be.01 ----- 9:0-rel 0:2-ARG1 10:4-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 297 13 gold talk-n talk.01 ----- 13:0-rel 10:2-ARGM-MNR 14:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 298 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 2 gold success-n success.01 ----- 2:0-rel 3:3-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 5 gold have-v have.03 ----- 5:0-rel 3:1-ARG0 6:1-ARGM-ADV 1:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 10 gold have-v have.01 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 11 gold be-v be.01 ----- 11:0-rel 0:1-ARGM-DIS 1:2-ARG1 12:1-ARG2 15:2-ARGM-TMP 24:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 14 gold engagement-n engagement.01 ----- 14:0-rel 13:0-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 17 gold get-v get.05 ----- 17:0-rel 16:1-ARG0 18:1-ARG1 20:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 27 gold negotiate-v negotiate.01 ----- 27:0-rel 25:1-ARG0 28:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 299 29 gold agree-v agree.01 ----- 29:0-rel 30:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 300 4 gold have-v have.03 ----- 4:0-rel 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 300 8 gold reduce-v reduce.01 ----- 8:0-rel 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 300 10 gold terminate-v terminate.01 ----- 10:0-rel 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 301 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 301 4 gold see-v see.01 ----- 4:0-rel 1:1-ARG0 5:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 301 7 gold be-v be.01 ----- 7:0-rel 0:2-ARG1 8:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 301 9 gold get-v get.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 302 1 gold see-v see.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 302 3 gold get-v get.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 302 9 gold be-v be.01 ----- 9:0-rel 10:1-ARG2 4:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 302 10 gold assure-v assure.01 ----- 10:0-rel 12:0-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 6 gold want-v want.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 8 gold see-v see.01 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 9 gold be-v be.03 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 10 gold treat-v treat.01 ----- 10:0-rel 11:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 12 gold respect-n respect.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 303 14 gold talk-n talk.01 ----- 14:0-rel 13:0-ARGM-MNR 15:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 13 gold give-v give.01 ----- 13:0-rel 9:1-ARG0 14:1-ARG2 15:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 16 gold recognition-n recognition.01 ----- 16:0-rel 17:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 19 gold feel-v feel.02 ----- 19:0-rel 18:1-ARG0 20:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 304 21 gold deserve-v deserve.01 ----- 21:0-rel 20:1-ARG0 17:0-ARG1 15:1*20:3-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 305 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 305 3 gold believe-v believe.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 305 5 gold do-v do.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 306 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 307 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 307 7 gold work-v work.09 ----- 7:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 6:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 308 1 gold make-v make.01 ----- 1:0-rel 2:1-ARG1 3:2-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 308 4 gold talk-v talk.01 ----- 4:0-rel 5:1-ARGM-MNR 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 309 6 gold say-v say.01 ----- 6:0-rel 0:0-ARGM-DIS 3:1-ARG0 5:1-ARGM-TMP 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 309 9 gold see-v see.01 ----- 9:0-rel 7:1-ARGM-DIS 8:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 310 1 gold test-v test.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 311 1 gold get-v get.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 312 2 gold bring-v bring.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 313 4 gold do-v do.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 313 6 gold work-v work.09 ----- 6:0-rel 0:2-ARG0 5:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 314 0 gold look-v look.01 ----- 0:0-rel 1:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 314 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 315 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 316 1 gold be-v be.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 316 2 gold try-v try.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 316 4 gold outsource-v outsource.01 ----- 4:0-rel 5:1-ARG1 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 317 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 317 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:0-ARGM-NEG 5:1-ARGM-ADV 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 317 8 gold help-v help.01 ----- 8:0-rel 9:1-ARG2 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 3 gold want-v want.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 5 gold see-v see.01 ----- 5:0-rel 6:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 318 10 gold go-v go.02 ----- 10:0-rel 6:2-ARG0 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 319 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 319 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 320 1 gold control-v control.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 321 3 gold do-v do.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 321 5 gold have-v have.03 ----- 5:0-rel 0:1-ARGM-TMP 2:1-ARG0 4:0-ARGM-NEG 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 5 gold judgment-n judgment.01 ----- 5:0-rel 4:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 6 gold be-v be.01 ----- 6:0-rel 0:2-ARG1 7:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 322 10 gold talk-n talk.01 ----- 10:0-rel 7:2-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 0 gold get-v get.01 ----- 0:0-rel 1:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 6 gold sign-v sign.02 ----- 6:0-rel 5:1-ARGM-DIS 7:1-ARGM-TMP 1:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 12 gold have-v have.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 324 14 gold abide-v abide.01 ----- 14:0-rel 10:1-ARG0 13:0-ARGM-NEG 15:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 325 7 gold dismantle-v dismantle.01 ----- 7:0-rel 4:1-ARG0 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 2 gold set-v set.03 ----- 2:0,3:1-rel 4:1-ARG1 6:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 7 gold exchange-n exchange.01 ----- 7:0-rel 8:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 14 gold do-v do.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 326 16 gold attack-v attack.01 ----- 16:0-rel 13:1-ARG0 15:0-ARGM-NEG 17:1-ARG1 9:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 327 1 gold get-v get.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 327 3 gold assistance-n assistance.01 ----- 3:0-rel 2:0-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 328 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:0-ARGM-MOD 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 329 1 gold get-v get.04 ----- 1:0-rel 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 329 4 gold dismantle-v dismantle.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 4 gold do-v do.02 ----- 4:0-rel 5:1-ARG1 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 6 gold be-v be.01 ----- 6:0-rel 0:2-ARG1 7:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 330 10 gold talk-n talk.01 ----- 10:0-rel 7:2-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 331 4 gold change-v change.01 ----- 4:0-rel 1:1-ARG0 3:1-ARGM-TMP 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 331 11 gold be-v be.01 ----- 11:0-rel 0:1-ARGM-ADV 7:0-ARGM-MOD 8:0-ARGM-NEG 9:1-ARG1 12:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 331 13 gold blink-v blink.01 ----- 13:0-rel 12:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 333 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 333 5 gold be-v be.01 ----- 5:0-rel 2:1-ARG1 4:0-ARGM-MOD 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 333 7 gold deal-v deal.01 ----- 7:0-rel 6:1-ARG0 8:1-ARGM-MNR 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 334 1 gold reverse-v reverse.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 334 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 334 7 gold work-v work.09 ----- 7:0-rel 6:0-ARGM-NEG 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 335 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 335 4 gold agree-v agree.01 ----- 4:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 2 gold have-v have.03 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 11 gold talk-n talk.01 ----- 11:0-rel 9:1-ARG0 12:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 337 14 gold pound-v pound.02 ----- 14:0-rel 13:1-ARG0 15:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 338 5 gold have-v have.04 ----- 5:0-rel 6:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 338 11 gold engage-v engage.01 ----- 11:0-rel 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 338 13 gold be-v be.01 ----- 13:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:2-ARGM-PRD 12:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 339 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 340 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 341 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 341 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 341 7 gold work-v work.09 ----- 7:0-rel 4:1-ARG0 6:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 2 gold make-v make.02 ----- 2:0-rel 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 11 gold care-v care.01 ----- 11:0-rel 12:2,21:1-ARGM-MNR 13:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 16 gold have-v have.03 ----- 16:0-rel 15:1-ARG0 17:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 19 gold meet-v meet.03 ----- 19:0-rel 17:1-ARG0 20:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 342 24 gold stop-v stop.01 ----- 24:0-rel 23:1-ARG0 25:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 343 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-TMP 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 11 gold take-v take.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1 14:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 344 20 gold negotiate-v negotiate.01 ----- 20:0-rel 9:1-ARGM-ADV 18:1-ARG0 19:0-ARGM-MOD 21:2-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 4 gold launch-v launch.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 8 gold have-v have.03 ----- 8:0-rel 0:1-ARGM-TMP 6:0-ARGM-MOD 7:1-ARG0 9:1-ARG1 11:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 345 13 gold go-v go.02 ----- 13:0-rel 12:1-ARG0 14:1-ARG4 18:2-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 7 gold think-v think.01 ----- 7:0-rel 6:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 11 gold try-v try.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:1-ARGM-MNR 13:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 346 15 gold negotiate-v negotiate.01 ----- 15:0-rel 13:0-ARGM-NEG 16:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:5-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 9 gold work-n work.01 ----- 9:0-rel 10:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 14 gold be-v be.01 ----- 14:0-rel 3:3-ARG1 15:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 347 19 gold do-v do.02 ----- 19:0-rel 15:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 348 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 348 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 348 5 gold take-v take.01 ----- 5:0-rel 3:1-ARG0 6:2-ARG1 12:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 349 4 gold do-v do.02 ----- 4:0-rel 1:0-ARGM-MOD 2:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 1 gold need-v need.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 3 gold find-v find.01 ----- 3:0-rel 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 350 7 gold get-v get.10 ----- 7:0,8:0-rel 0:1-ARG1 9:1-ARG2 4:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 6 gold get-v get.01 ----- 6:0-rel 4:1-ARG0 5:0-ARGM-MOD 7:2-ARG1 15:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 12 gold be-v be.03 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 13 gold reverse-v reverse.01 ----- 13:0-rel 10:1-ARG0 14:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 18 gold have-v have.01 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 25 gold be-v be.01 ----- 25:0-rel 0:0-ARGM-DIS 1:1-ARGM-PRD 24:1-ARG1 26:0-ARGM-NEG 27:1-ARG2 29:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 31 gold find-v find.01 ----- 31:0-rel 30:1-ARG0 32:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 351 33 gold be-v be.01 ----- 33:0-rel 32:1-ARG1 34:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 352 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 352 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 353 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 353 4 gold agree-v agree.01 ----- 4:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 353 7 gold be-v be.02 ----- 7:0-rel 6:0-ARGM-MOD 8:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 353 12 gold negotiation-n negotiation.01 ----- 12:0-rel 8:2-ARGM-MNR 11:0-ARGM-MNR 13:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 3 gold think-v think.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 7 gold talk-n talk.01 ----- 7:0-rel 5:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 8 gold be-v be.01 ----- 8:0-rel 4:1-ARG1 9:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 13 gold include-v include.01 ----- 13:0-rel 9:1-ARG2 14:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 17 gold speak-v speak.01 ----- 17:0-rel 15:1-ARG0 18:1-ARGM-MNR 19:1-ARG2 23:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 354 25 gold be-v be.01 ----- 25:0-rel 24:1-ARG1 26:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 355 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 355 2 gold go-v go.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG4
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 355 11 gold talk-n talk.01 ----- 11:0-rel 9:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 3 gold have-v have.03 ----- 3:0-rel 4:1-ARG1 5:1-ARGM-LOC 8:1-ARGM-ADV 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 12 gold be-v be.01 ----- 12:0-rel 0:2-ARG1 13:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 17 gold have-v have.03 ----- 17:0-rel 16:1-ARG0 18:2-ARG1 23:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 28 gold deal-v deal.01 ----- 28:0-rel 29:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 33 gold have-v have.02 ----- 33:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 356 35 gold have-v have.03 ----- 35:0-rel 36:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 357 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 357 4 gold trade-v trade.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 358 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 358 3 gold recognize-v recognize.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1 6:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 2 gold be-v be.02 ----- 2:0-rel 0:1-ARGM-DIS 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 7 gold do-v do.02 ----- 7:0-rel 5:1-ARG0 6:0-ARGM-MOD 8:1-ARGM-ADV 12:2-ARGM-PRP 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 359 13 gold apply-v apply.02 ----- 13:0-rel 14:1-ARG1 15:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 360 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 361 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 3:1-ARG2 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 361 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 362 9 gold be-v be.01 ----- 9:0-rel 0:0-ARGM-DIS 1:2-ARG1 10:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 363 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 3:2-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 363 5 gold support-v support.01 ----- 5:0-rel 4:1-ARGM-ADV 6:1-ARG1 8:1-ARGM-MNR 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 364 1 gold make-v make.01 ----- 1:0-rel 0:0-ARGM-DIS 2:1-ARG1 3:2-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 364 4 gold have-v have.03 ----- 4:0-rel 5:1-ARG1 6:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 3 gold talk-n talk.01 ----- 3:0-rel 1:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 6 gold agree-v agree.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-EXT 7:1-ARG2 10:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 11 gold have-v have.01 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 12 gold produce-v produce.01 ----- 12:0-rel 0:1-ARG0 4:3-ARGM-ADV 13:2,16:1-ARG1 14:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 27 gold say-v say.01 ----- 27:0-rel 25:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 365 36 gold launch-n launch.01 ----- 36:0-rel 34:1-ARGM-TMP 35:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 366 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 366 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 366 4 gold run-v run.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:2-ARGM-PRD 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 368 1 gold be-v be.02 ----- 1:0-rel 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 368 5 gold blame-n blame.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 368 7 gold go-v go.02 ----- 7:0-rel 8:1-ARGM-DIR 2:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 369 1 gold have-v have.02 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 369 3 gold start-v start.01 ----- 3:0-rel 4:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 370 6 gold have-v have.01 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 370 8 gold do-v do.02 ----- 8:0-rel 0:2-ARG0 7:0-ARGM-NEG 9:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 371 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 371 3 gold show-v show.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 5 gold show-v show.01 ----- 5:0-rel 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 372 12 gold wield-v wield.01 ----- 12:0-rel 9:1-ARG0 10:0-ARGM-MOD 11:1-ARGM-ADV 6:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 7 gold matter-v matter.01 ----- 7:0-rel 2:1-ARGM-LOC 5:1-ARGM-DIS 8:2,15:1-ARGM-EXT 9:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 11 gold be-v be.01 ----- 11:0-rel 12:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 18 gold have-v have.03 ----- 18:0-rel 17:1-ARG0 19:2-ARG1 24:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 373 26 gold sit-v sit.02 ----- 26:0,27:1-rel 25:1-ARG1 28:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 4 gold believe-v believe.01 ----- 4:0-rel 3:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 7 gold divide-v divide.02 ----- 7:0-rel 0:0-ARGM-DIS 8:1-ARGM-TMP 13:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 374 17 gold talk-n talk.01 ----- 17:0-rel 15:1-ARG0 18:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 3 gold believe-v believe.01 ----- 3:0-rel 4:1-ARG1 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 6 gold have-v have.02 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 8 gold give-v give.01 ----- 8:0-rel 9:1-ARG2 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 13 gold be-v be.01 ----- 13:0-rel 14:1-ARG2 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 375 16 gold pursue-v pursue.01 ----- 16:0-rel 17:1-ARG1 18:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 2 gold be-v be.02 ----- 2:0-rel 0:0-ARGM-DIS 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 11 gold think-v think.01 ----- 11:0-rel 10:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 12 gold represent-v represent.01 ----- 12:0-rel 3:1-ARG1 13:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 17 gold believe-v believe.01 ----- 17:0-rel 18:1-ARG1 3:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 19 gold negotiate-v negotiate.01 ----- 19:0-rel 20:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 24 gold be-v be.01 ----- 24:0-rel 19:2-ARG1 25:1-ARG2 32:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 376 29 gold be-v be.01 ----- 29:0-rel 19:2-ARG1 30:1-ARG2 32:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 11 gold be-v be.01 ----- 11:0-rel 12:1,20:1-ARG2 14:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 15 gold let-v let.01 ----- 15:0-rel 16:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 18 gold go-v go.08 ----- 18:0-rel 16:1-ARG1 19:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 22 gold try-v try.01 ----- 22:0-rel 23:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 24 gold reach-v reach.01 ----- 24:0-rel 25:1-ARG1 27:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 377 26 gold deal-n deal.01 ----- 26:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 378 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 378 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 3 gold do-v do.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 5 gold think-v think.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 4:0-ARGM-NEG 6:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 10 gold have-v have.01 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 11 gold be-v be.01 ----- 11:0-rel 6:1-ARG1 7:1-ARGM-LOC 12:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 17 gold have-v have.01 ----- 17:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 379 18 gold be-v be.01 ----- 18:0-rel 15:1-ARG1 16:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 1 gold show-v show.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 15 gold see-v see.01 ----- 15:0-rel 14:1-ARG0 16:2-ARG1 7:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 380 19 gold say-v say.01 ----- 19:0-rel 16:1-ARG0 20:1-ARG1 22:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 381 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-ADV 3:1-ARG2 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 381 6 gold get-v get.04 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 382 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 382 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 2 gold advocate-v advocate.01 ----- 2:0-rel 0:1-ARG0 3:2-ARGM-TMP 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 14 gold be-v be.01 ----- 14:0-rel 15:1-ARG2 11:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 17 gold be-v be.03 ----- 17:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 383 18 gold test-v test.01 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 384 1 gold criticize-v criticize.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 385 4 gold trigger-v trigger.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:0-ARGM-MOD 3:1-ARGM-ADV 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 385 8 gold response-n response.01 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 386 1 gold know-v know.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 387 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 387 5 gold stand-v stand.01 ----- 5:0-rel 0:1-ARGM-ADV 3:1-ARG1 4:1-ARGM-TMP 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 388 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 389 2 gold want-v want.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 389 4 gold put-v put.01 ----- 4:0-rel 5:1-ARG1 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 19 gold go-v go.17 ----- 19:0,20:1-rel 16:1-ARG1 21:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 26 gold erect-v erect.01 ----- 26:0-rel 16:1-ARG0 27:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 30 gold prepare-v prepare.02 ----- 30:0-rel 16:1-ARG0 31:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 32 gold launch-v launch.01 ----- 32:0-rel 33:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 36 gold destroy-v destroy.01 ----- 36:0-rel 13:1-ARGM-DIS 15:1-ARGM-ADV 34:1-ARG0 35:0-ARGM-MOD 37:1-ARG1 38:1-ARGM-DIS 39:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 390 42 gold do-v do.02 ----- 42:0-rel 40:1-ARG0 41:0-ARGM-MOD 43:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 391 1 gold do-v do.02 ----- 1:0-rel 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 391 4 gold be-v be.01 ----- 4:0-rel 0:2-ARG1 3:0-ARGM-MOD 5:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 5 gold go-v go.04 ----- 5:0-rel 4:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 7 gold start-v start.01 ----- 7:0-rel 8:1-ARG1 10:1-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 9 gold war-n war.01 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 392 11 gold response-n response.01 ----- 11:0-rel 13:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 4 gold think-v think.01 ----- 4:0-rel 5:3-ARG1 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 12 gold say-v say.01 ----- 12:0-rel 0:0-ARGM-DIS 1:1-ARG2 9:1-ARG0 10:0-ARGM-MOD 11:1-ARGM-ADV 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 14 gold be-v be.03 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 16 gold go-v go.04 ----- 16:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 393 18 gold draw-v draw.01 ----- 18:0-rel 19:2-ARG1 24:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 4 gold have-v have.02 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 6 gold draw-v draw.01 ----- 6:0-rel 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 394 13 gold defend-v defend.01 ----- 13:0-rel 14:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 395 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 395 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 396 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 396 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 397 3 gold tolerate-v tolerate.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 397 5 gold accept-v accept.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 398 8 gold think-v think.01 ----- 8:0-rel 0:4-ARG0 9:1-ARGM-MNR 12:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 399 11 gold draw-v draw.01 ----- 11:0-rel 12:2-ARG1 17:1-ARGM-ADV 6:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 400 2 gold have-v have.02 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 400 4 gold emphasize-v emphasize.01 ----- 4:0-rel 5:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 400 6 gold be-v be.02 ----- 6:0-rel 7:2-ARG1 10:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 401 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 401 4 gold be-v be.02 ----- 4:0-rel 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 2 gold have-v have.02 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 6 gold be-v be.02 ----- 6:0-rel 7:2,12:2-ARG1 10:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 12 gold let-v let.01 ----- 12:0-rel 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 402 15 gold go-v go.08 ----- 15:0-rel 13:1-ARG1 16:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 4 gold do-v do.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 6 gold think-v think.01 ----- 6:0-rel 5:1-ARG0 7:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 11 gold react-v react.01 ----- 11:0-rel 7:1-ARG0 10:0-ARGM-MOD 12:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 403 14 gold take-v take.11 ----- 14:0,15:1-rel 13:1-ARG0 16:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 404 3 gold disagree-v disagree.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-MNR 4:1-ARG1 8:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 5 gold get-v get.02 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 3:1-ARG0 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 12 gold do-v do.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 405 14 gold put-v put.01 ----- 14:0-rel 10:1-ARG0 13:0-ARGM-NEG 15:1-ARG2 6:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 6 gold attack-v attack.01 ----- 6:0-rel 5:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 8 gold threaten-v threaten.01 ----- 8:0-rel 5:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 13 gold be-v be.01 ----- 13:0-rel 14:1-ARG2 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 16 gold be-v be.03 ----- 16:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 17 gold gear-v gear.01 ----- 17:0-rel 18:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 27 gold have-v have.03 ----- 27:0-rel 2:1-ARGM-ADV 26:1-ARG0 28:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 406 28 gold ally-v ally.01 ----- 28:0-rel 29:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 407 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 407 3 gold take-v take.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 408 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 408 6 gold risk-v risk.01 ----- 6:0-rel 5:1-ARG0 7:1-ARGM-DIS 8:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 408 12 gold shoot-v shoot.01 ----- 12:0-rel 8:1-ARG0 13:1-ARG1 14:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 409 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 409 3 gold get-v get.02 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1 9:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 4 gold think-v think.01 ----- 4:0-rel 0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 5:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 12 gold talk-n talk.01 ----- 12:0-rel 9:2-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 13 gold be-v be.01 ----- 13:0-rel 5:2-ARG1 14:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 16 gold be-v be.02 ----- 16:0-rel 17:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 20 gold be-v be.01 ----- 20:0-rel 21:1-ARG2 17:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 26 gold talk-n talk.01 ----- 26:0-rel 24:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 28 gold be-v be.01 ----- 28:0-rel 29:2-ARG2 17:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 31 gold grievance-n grievance.01 ----- 31:0-rel 30:0-ARGM-ADJ 32:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 410 34 gold relationship-n relationship.01 ----- 34:0-rel 33:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 411 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 411 6 gold have-v have.01 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 411 7 gold freeze-v freeze.01 ----- 7:0-rel 5:1-ARG0 8:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 412 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-MNR 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 413 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 6 gold deal-v deal.01 ----- 6:0-rel 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 11 gold request-n request.01 ----- 11:0-rel 8:1-ARG0 12:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 19 gold believe-v believe.01 ----- 19:0-rel 18:1-ARG0 20:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 20 gold have-v have.01 ----- 20:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 21 gold bog-v bog.01 ----- 21:0,22:1-rel 3:1-ARG0 23:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 414 26 gold talk-n talk.01 ----- 26:0-rel 24:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 5 gold believe-v believe.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 4:1-ARG0 6:3-ARG1 30:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 15 gold negotiation-n negotiation.01 ----- 15:0-rel 6:1-ARG0 7:0-ARGM-MOD 8:0-ARGM-LVB 10:0-ARGM-MNR 11:0-ARGM-MNR 12:2-ARGM-MNR 16:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 22 gold continue-v continue.01 ----- 22:0-rel 6:1-ARG0 7:0-ARGM-MOD 21:1-ARGM-ADV 23:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 29 gold talk-n talk.01 ----- 29:0-rel 27:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 32 gold be-v be.01 ----- 32:0-rel 31:1-ARG1 33:2-ARG2 39:2-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 40 gold be-v be.03 ----- 40:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 415 41 gold provide-v provide.01 ----- 41:0-rel 42:2-ARG1 33:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 416 4 gold cut-v cut.06 ----- 4:0,6:1-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 2 gold think-v think.01 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 4 gold be-v be.01 ----- 4:0-rel 5:1-ARG2 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 7 gold have-v have.03 ----- 7:0-rel 8:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 417 13 gold talk-n talk.01 ----- 13:0-rel 8:2-ARGM-MNR 11:0-ARGM-MNR 12:0-ARGM-ADJ 14:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 418 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 4:1-ARG1 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 418 7 gold judgment-n judgment.01 ----- 7:0-rel 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 418 11 gold intention-n intention.01 ----- 11:0-rel 9:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 419 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 420 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 10 gold say-v say.01 ----- 10:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:2-ARGM-TMP 9:1-ARG0 11:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 12 gold do-v do.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 14 gold think-v think.01 ----- 14:0-rel 11:1-ARG0 13:0-ARGM-NEG 15:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 16 gold be-v be.03 ----- 16:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 17 gold go-v go.04 ----- 17:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 421 19 gold test-v test.01 ----- 19:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 422 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 3 gold say-v say.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 5 gold believe-v believe.01 ----- 5:0-rel 4:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 8 gold be-v be.03 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 9 gold go-v go.04 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 423 11 gold test-v test.01 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 424 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 424 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 425 3 gold sense-v sense.01 ----- 3:0-rel 2:1-ARG0 4:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 425 6 gold negotiation-n negotiation.01 ----- 6:0-rel 5:0-ARG0 7:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 425 8 gold deal-v deal.01 ----- 8:0-rel 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 4 gold go-v go.01 ----- 4:0-rel 3:1-ARG1 5:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 7 gold do-v do.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 9 gold believe-v believe.01 ----- 9:0-rel 2:1-ARGM-ADV 6:1-ARG0 8:0-ARGM-NEG 10:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 11 gold be-v be.03 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 12 gold go-v go.04 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 426 14 gold do-v do.02 ----- 14:0-rel 15:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 427 4 gold say-v say.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 5:1-ARG1 8:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 427 7 gold do-v do.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG1 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 7 gold deal-v deal.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 12 gold be-v be.03 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 428 14 gold deal-v deal.01 ----- 14:0-rel 5:2-ARGM-TMP 11:1-ARG0 13:0-ARGM-NEG 15:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 429 0 gold do-v do.01 ----- 0:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 429 2 gold believe-v believe.01 ----- 2:0-rel 1:0-ARGM-NEG 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 430 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 431 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 431 6 gold be-v be.01 ----- 6:0-rel 4:1-ARG1 7:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 432 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 432 3 gold go-v go.04 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 432 5 gold wait-v wait.03 ----- 5:0,7:1-rel 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 433 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 2 gold believe-v believe.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 7 gold deal-v deal.01 ----- 7:0-rel 8:1-ARG1 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 12 gold have-v have.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 13 gold show-v show.01 ----- 13:0-rel 11:1-ARG0 14:1-ARG1 15:1-ARGM-MNR 16:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 23 gold be-v be.01 ----- 23:0-rel 3:2-ARG1 24:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 27 gold get-v get.04 ----- 27:0-rel 11:1-ARG0 28:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 30 gold curb-v curb.01 ----- 30:0-rel 28:1-ARG0 31:1-ARG1 34:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 434 37 gold do-v do.01 ----- 37:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 435 3 gold get-v get.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 436 3 gold get-v get.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARGM-DIS 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 436 8 gold be-v be.03 ----- 8:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 436 10 gold violate-v violate.01 ----- 10:0-rel 9:1-ARGM-TMP 11:1-ARGM-MNR 5:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 14 gold believe-v believe.01 ----- 14:0-rel 13:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 437 15 gold be-v be.01 ----- 15:0-rel 4:5-ARG1 16:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 438 6 gold talk-n talk.01 ----- 6:0-rel 4:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 438 7 gold be-v be.01 ----- 7:0-rel 0:2-ARG1 8:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 438 12 gold go-v go.02 ----- 12:0-rel 8:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 439 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 439 3 gold keep-v keep.01 ----- 3:0-rel 0:0-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 440 1 gold be-v be.01 ----- 1:0-rel 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 440 4 gold toast-v toast.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1 9:1-ARGM-LOC 12:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 441 1 gold appear-v appear.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-LOC 5:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 442 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 442 4 gold exchange-n exchange.01 ----- 4:0-rel 3:0-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 443 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 443 5 gold develop-v develop.02 ----- 5:0-rel 0:0-ARGM-DIS 3:1-ARG0 6:1-ARG1 9:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 4 gold do-v do.02 ----- 4:0-rel 2:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 8 gold turn-v turn.10 ----- 8:0,9:1-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 12 gold be-v be.03 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 444 13 gold cheat-v cheat.02 ----- 13:0-rel 11:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 5 gold have-v have.03 ----- 5:0-rel 4:1-ARG0 6:2-ARG1 1:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 9 gold be-v be.01 ----- 9:0-rel 0:0-ARGM-DIS 1:2-ARG1 10:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 12 gold do-v do.01 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 14 gold make-v make.01 ----- 14:0-rel 11:1-ARG0 13:0-ARGM-NEG 15:1-ARG1 16:1-ARGM-COM
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 445 21 gold make-v make.01 ----- 21:0-rel 20:1-ARG0 22:1-ARG1 23:1-ARGM-COM
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 4 gold process-n process.01 ----- 4:0-rel 5:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 7 gold require-v require.01 ----- 7:0-rel 8:2-ARGM-PRP 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 446 9 gold hold-v hold.02 ----- 9:0-rel 10:1-ARGM-DIS 11:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 447 3 gold negotiate-v negotiate.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 448 3 gold stop-v stop.01 ----- 3:0-rel 0:1-ARG0 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 448 4 gold process-v process.01 ----- 4:0-rel 5:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 449 3 gold find-v find.03 ----- 3:0,4:1-rel 0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-TMP 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 449 11 gold be-v be.03 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 449 12 gold make-v make.01 ----- 12:0-rel 6:1-ARGM-TMP 10:1-ARG0 13:1-ARG1 14:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 451 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 451 6 gold find-v find.03 ----- 6:0,7:0-rel 5:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 1 gold happen-v happen.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 2 gold be-v be.01 ----- 2:0-rel 0:2-ARG1 3:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 4 gold do-v do.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 452 7 gold deal-n deal.01 ----- 7:0-rel 3:1-ARG0 5:0-ARGM-LVB
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 453 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 453 2 gold stop-v stop.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 453 6 gold base-v base.02 ----- 6:0-rel 5:0-ARG2 8:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 1 gold make-v make.02 ----- 1:0-rel 0:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 8 gold contain-v contain.01 ----- 8:0-rel 4:2-ARG0 9:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 454 20 gold stay-v stay.01 ----- 20:0-rel 4:3-ARG1 21:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 2 gold deal-n deal.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 5 gold have-v have.04 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-MOD 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 455 9 gold end-v end.01 ----- 9:0-rel 6:1-ARG0 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 3 gold start-v start.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 4 gold cheat-v cheat.02 ----- 4:0-rel 5:1-ARGM-TMP 9:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 456 10 gold get-v get.01 ----- 10:0-rel 11:1-ARG1 15:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 10 gold be-v be.01 ----- 10:0-rel 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 14 gold have-v have.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 15 gold be-v be.03 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 457 16 gold put-v put.03 ----- 16:0-rel 17:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 9 gold do-v do.02 ----- 9:0-rel 2:1-ARGM-TMP 7:1-ARG0 8:0-ARGM-MOD 10:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 13 gold do-v do.02 ----- 13:0-rel 11:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 18 gold appear-v appear.02 ----- 18:0-rel 16:1,19:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 20 gold be-v be.03 ----- 20:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 21 gold want-v want.01 ----- 21:0-rel 22:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 23 gold do-v do.02 ----- 23:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 458 25 gold put-v put.03 ----- 25:0-rel 2:1-ARGM-TMP 7:1-ARG0 8:0-ARGM-MOD 26:1-ARG2 27:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 459 3 gold get-v get.05 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 2:1-ARGM-NEG 4:1-ARG2 5:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 460 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 460 4 gold think-v think.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 460 6 gold have-v have.01 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 460 7 gold get-v get.05 ----- 7:0-rel 5:1-ARG1 8:1-ARG2 9:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 461 2 gold break-v break.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 462 2 gold cheat-v cheat.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 463 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 464 5 gold be-v be.01 ----- 5:0-rel 6:1,8:2-ARG2 7:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 464 9 gold be-v be.03 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 464 10 gold happen-v happen.01 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 465 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 465 7 gold be-v be.03 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 465 8 gold stop-v stop.01 ----- 8:0-rel 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 466 1 gold production-n production.01 ----- 1:0-rel 0:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 466 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 466 3 gold stop-v stop.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 4 gold believe-v believe.01 ----- 4:0-rel 3:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 8 gold lock-v lock.04 ----- 8:0,10:1-rel 9:1-ARG1 5:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 11 gold be-v be.03 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 12 gold allow-v allow.01 ----- 12:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 5:2-ARG1 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 468 14 gold collapse-v collapse.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 469 2 gold find-v find.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARGM-TMP 5:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 469 9 gold accumulate-v accumulate.01 ----- 9:0-rel 6:1-ARG0 10:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 470 1 gold free-v free.02 ----- 1:0,2:1-rel 0:0-ARGM-DIS 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 470 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 470 8 gold control-v control.01 ----- 8:0-rel 9:1-ARGM-TMP 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 2 gold say-v say.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 5 gold use-v use.01 ----- 5:0-rel 3:1-ARG0 6:1-ARG1 7:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 471 8 gold make-v make.01 ----- 8:0-rel 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 472 2 gold have-v have.02 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 472 4 gold estimate-v estimate.01 ----- 4:0-rel 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 3 gold pass-v pass.03 ----- 3:0-rel 4:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 18 gold take-v take.11 ----- 18:0,19:1-rel 16:1-ARG0 17:0-ARGM-MOD 20:1-ARGM-LOC 23:1-ARGM-ADV 13:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 25 gold turn-v turn.11 ----- 25:0,26:1-rel 24:1-ARG1 27:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 30 gold pass-v pass.03 ----- 30:0-rel 31:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 33 gold be-v be.03 ----- 33:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 34 gold go-v go.04 ----- 34:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 44 gold be-v be.01 ----- 44:0-rel 43:1-ARG1 45:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 53 gold be-v be.03 ----- 53:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 54 gold transfer-v transfer.01 ----- 54:0-rel 52:0-ARGM-MOD 57:1-ARG2 61:2-ARGM-PRD 47:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 56 gold sell-v sell.01 ----- 56:0-rel 52:0-ARGM-MOD 57:1-ARG2 61:2-ARGM-PRD 47:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 61 gold present-v present.01 ----- 61:0-rel 62:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 70 gold be-v be.03 ----- 70:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 473 71 gold pose-v pose.02 ----- 71:0-rel 72:1-ARG2 74:1-ARG0 67:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 474 2 gold deter-v deter.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 475 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 476 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 477 5 gold delivery-n delivery.01 ----- 5:0-rel 3:0-ARG0 4:0-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 477 12 gold be-v be.01 ----- 12:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 6:1-ARG1 10:0-ARGM-MOD 11:0-ARGM-NEG 13:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 4 gold work-v work.09 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARGM-MNR 7:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 478 10 gold value-v value.01 ----- 10:0-rel 8:1-ARG0 11:1-ARG1 13:2-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 480 1 gold need-v need.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 480 3 gold lock-v lock.04 ----- 3:0,4:1-rel 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 481 3 gold care-v care.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1 9:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 481 11 gold do-v do.01 ----- 11:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 481 13 gold have-v have.03 ----- 13:0-rel 10:1-ARG0 12:0-ARGM-NEG 14:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 482 3 gold have-v have.03 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 482 8 gold want-v want.01 ----- 8:0-rel 7:1-ARG0 4:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 483 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 483 3 gold go-v go.04 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 483 5 gold cheat-v cheat.02 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 483 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 484 3 gold have-v have.03 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-ADV 4:2-ARG1 6:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 485 3 gold deal-n deal.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-LVB
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 3 gold deal-n deal.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-LVB 4:1-ARGM-TMP 7:2-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 7 gold think-v think.01 ----- 7:0-rel 8:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 9 gold be-v be.03 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 486 10 gold trust-v trust.02 ----- 10:0-rel 8:1-ARG0 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 487 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 488 2 gold verify-v verify.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 489 1 gold catch-v catch.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 489 3 gold cheat-v cheat.02 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 490 4 gold deal-n deal.01 ----- 4:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-LVB
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 491 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 1 gold ask-v ask.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 3 gold question-n question.01 ----- 3:0-rel 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 7 gold deal-n deal.01 ----- 7:0-rel 4:1-ARG0 5:0-ARGM-LVB
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 8 gold be-v be.01 ----- 8:0-rel 4:2-ARGM-ADV 9:1-ARG1 10:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 492 14 gold deal-n deal.01 ----- 14:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 493 1 gold be-v be.01 ----- 1:0-rel 0:0-ARGM-DIS 2:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 494 2 gold answer-n answer.01 ----- 2:0-rel 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 494 6 gold be-v be.01 ----- 6:0-rel 1:2-ARG1 7:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 494 11 gold deal-n deal.01 ----- 11:0-rel 0:1-ARGM-ADV 8:1-ARG0 9:0-ARGM-LVB
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 3 gold ask-v ask.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 5 gold think-v think.01 ----- 5:0-rel 4:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 8 gold question-n question.01 ----- 8:0-rel 7:0-ARGM-ADJ 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 9 gold have-v have.01 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 495 11 gold fool-v fool.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1 13:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 496 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 496 3 gold let-v let.01 ----- 3:0-rel 0:1-ARGM-ADV 2:0-ARGM-NEG 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 496 5 gold fool-v fool.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1 7:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 3 gold believe-v believe.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 497 9 gold proceed-v proceed.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 498 1 gold ask-v ask.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 499 2 gold do-v do.02 ----- 2:0-rel 0:0-ARGM-MOD 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 500 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 501 0 gold ask-v ask.02 ----- 0:0-rel 1:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 502 0 gold insist-v insist.01 ----- 0:0-rel 1:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG2 2:2-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 4 gold negotiation-n negotiation.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 12 gold be-v be.01 ----- 12:0-rel 11:1-ARG1 13:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 503 17 gold be-v be.01 ----- 17:0-rel 16:1-ARG1 18:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 2 gold show-v show.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG2 5:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 504 19 gold talk-v talk.01 ----- 19:0-rel 5:2-ARG0 20:1-ARG2 24:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 3 gold ask-v ask.02 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG2 5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 6 gold put-v put.01 ----- 6:0-rel 7:1-ARG1 9:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 505 15 gold watch-v watch.01 ----- 15:0-rel 12:1-ARG0 16:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 507 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 507 5 gold allow-v allow.01 ----- 5:0-rel 0:1-ARG1 2:0-ARGM-MOD 3:0-ARGM-NEG 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 507 7 gold develop-v develop.02 ----- 7:0-rel 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 508 1 gold have-v have.02 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 508 3 gold be-v be.01 ----- 3:0-rel 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 509 3 gold tolerate-v tolerate.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 510 8 gold statement-n statement.01 ----- 8:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-LVB 5:1-ARGM-MNR 7:0-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2 6:2-ARGM-PRD 8:2-ARGM-PRD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 6 gold watch-v watch.01 ----- 6:0-rel 7:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 8 gold know-v know.01 ----- 8:0-rel 9:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 12 gold have-v have.03 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-TMP 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 16 gold build-v build.01 ----- 16:0-rel 17:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 21 gold be-v be.03 ----- 21:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 511 23 gold think-v think.01 ----- 23:0-rel 22:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2 19:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 6 gold be-v be.03 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 7 gold think-v think.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 10 gold be-v be.03 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 11 gold give-v give.01 ----- 11:0-rel 9:1-ARG0 12:1-ARG1 15:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 21 gold keep-v keep.02 ----- 21:0-rel 20:1-ARG0 22:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 22 gold do-v do.02 ----- 22:0-rel 20:1-ARG0 23:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 26 gold say-v say.01 ----- 26:0-rel 25:1-ARG0 27:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 27 gold be-v be.01 ----- 27:0-rel 24:0-ARG1 28:1-ARG2 23:1*27:3-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 512 32 gold tolerate-v tolerate.01 ----- 32:0-rel 30:1-ARGM-TMP 31:1-ARG0 33:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 4 gold think-v think.01 ----- 4:0-rel 3:1-ARG0 5:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 9 gold have-v have.02 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 513 11 gold draw-v draw.01 ----- 11:0-rel 12:1-ARG1 14:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 2 gold think-v think.01 ----- 2:0-rel 0:1-ARG0 44:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 6 gold agree-v agree.01 ----- 6:0-rel 4:1-ARGM-LOC 5:1-ARG0 7:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 14 gold have-v have.03 ----- 14:0-rel 13:1-ARG0 15:1-ARGM-LOC 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 17 gold show-n show.01 ----- 17:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 19 gold have-v have.01 ----- 19:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 20 gold show-v show.01 ----- 20:0-rel 21:4-ARG1 10:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 22 gold be-v be.01 ----- 22:0-rel 23:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 25 gold reach-v reach.01 ----- 25:0-rel 26:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 33 gold get-v get.01 ----- 33:0-rel 34:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 36 gold serve-v serve.02 ----- 36:0-rel 37:1-ARG2 34:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 41 gold malign-v malign.01 ----- 41:0-rel 40:0-ARGM-ADV 42:0,43:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 42 gold agree-v agree.01 ----- 42:0-rel 43:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 47 gold point-v point.02 ----- 47:0,48:1-rel 45:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 51 gold agree-v agree.01 ----- 51:0-rel 52:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 514 64 gold have-v have.03 ----- 64:0-rel 44:1-ARGM-ADV 49:1-ARGM-ADV 53:1-ARG0 55:1-ARGM-ADV 62:0-ARGM-MOD 63:1-ARGM-TMP 65:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 515 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 4 gold reach-v reach.01 ----- 4:0-rel 5:2-ARG1 11:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 14 gold see-v see.01 ----- 14:0-rel 13:1-ARG0 15:4-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 22 gold show-v show.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-DIS 15:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 24 gold be-v be.01 ----- 24:0-rel 25:1-ARGM-DIS 26:1-ARGM-DIS 27:1-ARGM-DIS 28:2-ARG2 15:3-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 29 gold draw-v draw.01 ----- 29:0-rel 28:1-ARG0 30:1-ARG1 32:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 37 gold step-v step.01 ----- 37:0-rel 36:1-ARGM-TMP 38:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 43 gold draw-v draw.01 ----- 43:0-rel 28:1-ARG0 44:1-ARG1 46:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 516 51 gold step-v step.01 ----- 51:0-rel 28:1-ARG1 50:1-ARGM-TMP 52:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 4 gold have-v have.02 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 6 gold have-v have.03 ----- 6:0-rel 7:1-ARG1 8:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 12 gold have-v have.02 ----- 12:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 517 14 gold stand-v stand.01 ----- 14:0-rel 15:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 3 gold suggest-v suggest.01 ----- 3:0-rel 2:1-ARG0 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 6 gold think-v think.01 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 5:1-ARG0 7:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 10 gold be-v be.01 ----- 10:0-rel 7:1-ARG1 11:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 518 17 gold stand-n stand.01 ----- 17:0-rel 15:0-ARGM-LVB 11:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 519 2 gold draw-v draw.01 ----- 2:0-rel 0:1-ARGM-DIS 3:1-ARG1 5:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 519 9 gold step-v step.01 ----- 9:0-rel 0:1-ARGM-DIS 10:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 520 3 gold watch-v watch.01 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 521 1 gold observe-v observe.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 522 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 522 5 gold have-v have.01 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 522 6 gold be-v be.01 ----- 6:0-rel 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 523 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 523 3 gold have-v have.03 ----- 3:0-rel 2:1-ARG0 4:1-ARG1 6:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 523 7 gold negotiate-v negotiate.01 ----- 7:0-rel 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 524 9 gold care-v care.01 ----- 9:0-rel 8:1*0:1-ARG0 3:1-ARGM-ADV 10:2,13:1-ARGM-ADV 11:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 524 15 gold do-v do.01 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 525 5 gold show-v show.01 ----- 5:0-rel 0:1-ARGM-LOC 4:1-ARG0 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 525 8 gold call-v call.01 ----- 8:0-rel 6:1-ARG0 9:1-ARG1 10:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 526 4 gold call-v call.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 2:1-ARGM-TMP 3:1-ARG0 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 527 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 5:2-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 527 7 gold happen-v happen.01 ----- 7:0-rel 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 3 gold be-v be.03 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 4 gold delight-v delight.01 ----- 4:0-rel 5:1-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 7 gold feel-v feel.02 ----- 7:0-rel 6:1-ARG0 8:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 9 gold have-v have.01 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 10 gold be-v be.03 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 11 gold treat-v treat.01 ----- 11:0-rel 12:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 528 13 gold respect-n respect.01 ----- 13:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 529 1 gold care-v care.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-MNR 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 7 gold think-v think.01 ----- 7:0-rel 6:1-ARG0 8:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 17 gold negotiation-n negotiation.01 ----- 17:0-rel 14:2-ARGM-MNR 18:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 26 gold be-v be.01 ----- 26:0-rel 25:1-ARGM-ADV 27:1-ARG2 22:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 30 gold believe-v believe.01 ----- 30:0-rel 29:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 32 gold set-v set.08 ----- 32:0-rel 8:1-ARGM-ADV 13:2-ARG0 31:0-ARGM-MOD 33:1-ARG1 35:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 43 gold talk-n talk.01 ----- 43:0-rel 41:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 45 gold be-v be.01 ----- 45:0-rel 46:1-ARG2 36:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 530 48 gold be-v be.01 ----- 48:0-rel 49:1-ARGM-ADV 50:1-ARG2 36:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 1 gold exchange-n exchange.01 ----- 1:0-rel 2:1-ARG3
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 5 gold dismantle-v dismantle.01 ----- 5:0-rel 3:1-ARG0 6:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 12 gold get-v get.01 ----- 12:0-rel 0:1-ARG3 11:1-ARG0 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 18 gold be-v be.03 ----- 18:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 531 20 gold attack-v attack.01 ----- 20:0-rel 19:0-ARG1 13:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 532 1 gold get-v get.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 532 5 gold assistance-n assistance.01 ----- 5:0-rel 4:0-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 533 5 gold topple-v topple.01 ----- 5:0-rel 2:1-ARG0 3:0-ARGM-MOD 4:0-ARGM-NEG 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 534 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 535 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 536 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 536 9 gold negotiate-v negotiate.01 ----- 9:0-rel 7:1-ARG0 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 7 gold go-v go.04 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 9 gold be-v be.01 ----- 9:0-rel 10:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 16 gold serve-v serve.01 ----- 16:0-rel 17:1-ARG1 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 22 gold deal-v deal.01 ----- 22:0-rel 21:1-ARGM-ADV 23:1-ARG1 10:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 29 gold have-v have.01 ----- 29:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 31 gold hit-v hit.01 ----- 31:0-rel 30:1-ARGM-MNR 32:1-ARG1 36:1-ARGM-CAU 24:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 38 gold control-v control.01 ----- 38:0-rel 37:1-ARG0 39:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 49 gold deal-v deal.01 ----- 49:0-rel 48:1-ARG0 50:1-ARG1 55:1-ARGM-TMP 57:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 59 gold have-v have.01 ----- 59:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 60 gold promise-v promise.01 ----- 60:0-rel 58:1-ARG0 61:1-ARG2 62:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 70 gold think-v think.01 ----- 70:0-rel 3:1-ARGM-ADV 69:1-ARG0 71:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 73 gold be-v be.01 ----- 73:0-rel 71:1-ARG1 74:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 537 81 gold negotiation-n negotiation.01 ----- 81:0-rel 80:0-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 2 gold base-v base.02 ----- 2:0-rel 0:1-ARGM-DIS 3:1-ARG2 7:1,8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 6 gold do-v do.01 ----- 6:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 8 gold believe-v believe.01 ----- 8:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 7:1-ARG0 9:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 13 gold give-v give.07 ----- 13:0,14:1-rel 9:1-ARG0 12:0-ARGM-MOD 15:1-ARG1 37:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 18 gold give-v give.08 ----- 18:0,19:1-rel 9:1-ARG0 12:0-ARGM-MOD 20:2-ARG1 37:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 25 gold believe-v believe.01 ----- 25:0-rel 24:1-ARG0 26:1-ARGM-LOC 29:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 29 gold be-v be.01 ----- 29:0-rel 23:0-ARG1 30:2-ARG2 15:1*29:3-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 538 39 gold assistance-n assistance.01 ----- 39:0-rel 38:0-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 539 2 gold end-n end.01 ----- 2:0-rel 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 539 7 gold do-v do.01 ----- 7:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 539 9 gold know-v know.01 ----- 9:0-rel 0:1-ARGM-TMP 6:1-ARG0 8:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 3 gold leave-v leave.02 ----- 3:0-rel 0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARG0 4:1,5:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 6 gold conclude-v conclude.01 ----- 6:0-rel 7:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 10 gold do-v do.01 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 12 gold know-v know.01 ----- 12:0-rel 8:1-ARG0 9:1-ARGM-ADV 11:0-ARGM-NEG
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 15 gold be-v be.01 ----- 15:0-rel 16:1-ARG2 19:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 540 20 gold find-v find.03 ----- 20:0,21:1-rel 8:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 14 gold deal-n deal.01 ----- 14:0-rel 12:0-ARGM-LVB 15:1-ARG1 18:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 19 gold require-v require.01 ----- 19:0-rel 21:2-ARG1 13:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 541 22 gold give-v give.07 ----- 22:0,23:1-rel 24:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 542 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 543 7 gold be-v be.01 ----- 7:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 6:1-ARG1 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 543 12 gold monitor-v monitor.01 ----- 12:0-rel 13:1-ARG1 14:1-ARGM-MNR 9:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 544 2 gold do-v do.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 544 3 gold give-v give.07 ----- 3:0,5:1-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 14 gold be-v be.01 ----- 14:0-rel 8:2-ARG1 15:1-ARGM-ADV 16:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 17 gold be-v be.01 ----- 17:0-rel 7:1-ARGM-ADV 18:0-ARGM-NEG 19:1-ARGM-TMP 20:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 25 gold have-v have.01 ----- 25:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 27 gold produce-v produce.01 ----- 27:0-rel 7:1-ARGM-ADV 18:0-ARGM-NEG 28:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 32 gold have-v have.01 ----- 32:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 545 34 gold produce-v produce.01 ----- 34:0-rel 7:1-ARGM-ADV 18:0-ARGM-NEG 30:1-ARGM-ADV 31:1-ARGM-TMP 35:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 2 gold have-v have.03 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 5:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 9 gold be-v be.03 ----- 9:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 10 gold think-v think.01 ----- 10:0-rel 6:1-ARG0 11:2-ARGM-MNR 17:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 15 gold be-v be.03 ----- 15:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 16 gold think-v think.01 ----- 16:0-rel 13:1-ARG0 14:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 19 gold need-v need.01 ----- 19:0-rel 18:1-ARG0 20:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 26 gold need-v need.01 ----- 26:0-rel 25:1-ARG0 28:1-ARG1 30:2-ARGM-PRP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 31 gold deter-v deter.01 ----- 31:0-rel 32:1-ARG1 35:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 40 gold need-v need.01 ----- 40:0-rel 39:1-ARG0 41:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 42 gold relationship-n relationship.01 ----- 42:0-rel 43:1-ARG2 45:2-ARGM-ADJ
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 46 gold make-v make.02 ----- 46:0-rel 47:3-ARG1 41:2-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 546 52 gold have-v have.03 ----- 52:0-rel 50:1-ARG0 53:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 4 gold find-v find.03 ----- 4:0,5:1-rel 6:1-ARG1 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 10 gold give-v give.08 ----- 10:0,11:1-rel 7:1-ARG0 8:0-ARGM-MOD 9:1-ARGM-TMP 12:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 14 gold be-v be.01 ----- 14:0-rel 0:2-ARG1 15:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 547 18 gold deal-n deal.01 ----- 18:0-rel 16:0-ARGM-LVB
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 548 1 gold hear-v hear.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 548 4 gold talk-n talk.01 ----- 4:0-rel 2:1-ARGM-EXT 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 549 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 549 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 550 1 gold have-v have.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 550 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 551 1 gold be-v be.01 ----- 1:0-rel 2:0-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 552 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 553 2 gold have-v have.01 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 553 4 gold meet-v meet.02 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-TMP 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 554 1 gold meet-v meet.02 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 555 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 556 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 557 1 gold run-v run.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 558 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 558 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 558 5 gold happen-v happen.01 ----- 5:0-rel 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 559 2 gold flow-v flow.01 ----- 2:0-rel 0:1-ARG1 3:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 560 3 gold cause-v cause.01 ----- 3:0-rel 2:1-ARG0 4:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 560 5 gold be-v be.01 ----- 5:0-rel 0:1-ARGM-DIS 1:2-ARG1 6:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 561 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2 6:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 562 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 3:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 563 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 563 3 gold have-v have.01 ----- 3:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 563 4 gold see-v see.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 564 1 gold see-v see.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 564 5 gold draw-v draw.02 ----- 5:0-rel 2:1-ARG1 6:0-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 565 1 gold look-v look.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 565 4 gold need-v need.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 566 4 gold be-v be.03 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 566 5 gold starve-v starve.01 ----- 5:0-rel 0:2-ARG1 6:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 567 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 568 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 569 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 569 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 570 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 570 5 gold be-v be.01 ----- 5:0-rel 6:1-ARGM-DIS 7:1-ARG2 3:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 571 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:0-ARGM-MOD 3:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 572 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 573 2 gold be-v be.03 ----- 2:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 573 3 gold use-v use.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 3 gold feel-v feel.02 ----- 3:0-rel 2:1-ARG0 4:3-ARG1 0:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 5 gold be-v be.03 ----- 5:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 6 gold back-v back.02 ----- 6:0-rel 7:1-ARGM-DIR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 9 gold move-v move.01 ----- 9:0-rel 0:2-ARGM-TMP 8:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 574 11 gold do-v do.02 ----- 11:0-rel 0:2-ARGM-TMP 8:1-ARG0 12:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 575 2 gold shoot-v shoot.04 ----- 2:0,4:1-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 576 1 gold be-v be.03 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 576 2 gold do-v do.02 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 577 1 gold cancel-v cancel.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 578 1 gold get-v get.05 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 5:1-ARG2 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 579 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 579 5 gold operate-v operate.01 ----- 5:0-rel 4:1-ARG0 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 4 gold do-v do.02 ----- 4:0-rel 2:1-ARG0 3:0-ARGM-MOD
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:2-ARG1 6:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 580 6 gold take-v take.01 ----- 6:0-rel 7:1-ARG1 8:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 581 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:1-ARGM-ADV 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 581 10 gold be-v be.01 ----- 10:0-rel 8:1-ARG1 11:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 582 2 gold need-v need.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-MNR 3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 582 4 gold elimination-n elimination.01 ----- 4:0-rel 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 583 1 gold need-v need.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 584 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 3:1-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 584 5 gold believe-v believe.01 ----- 5:0-rel 4:1-ARG0
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 585 6 gold thank-v thank.01 ----- 6:0-rel 0:2-ARGM-DIS 7:2-ARG1 9:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 586 0 gold come-v come.01 ----- 0:0-rel 1:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 586 5 gold celebrate-v celebrate.01 ----- 5:0-rel 3:1-ARG0 6:1-ARG1 9:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 587 13 gold talk-v talk.01 ----- 13:0-rel 0:0-ARGM-DIS 1:3-ARGM-TMP 5:1-ARGM-LOC 9:2-ARG0 14:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 587 15 gold be-v be.01 ----- 15:0-rel 16:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 587 18 gold serve-v serve.01 ----- 18:0-rel 19:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 588 0 gold come-v come.11 ----- 0:0,1:1-rel 2:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 589 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 591 2 gold turn-v turn.02 ----- 2:0-rel 0:1-ARG1 3:1-ARG2 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 592 8 gold be-v be.01 ----- 8:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 3:2-ARG1 7:0-ARGM-MOD 9:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 593 5 gold talk-v talk.01 ----- 5:0-rel 0:1-ARG0 6:1-ARG1 12:1-ARGM-LOC 14:3-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 594 12 gold take-v take.01 ----- 12:0-rel 0:1-ARGM-DIS 2:1-ARGM-TMP 9:1-ARG0 13:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 595 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-TMP 2:1-ARG1 4:2-ARGM-ADV
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 595 4 gold look-v look.01 ----- 4:0-rel 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 596 6 gold be-v be.01 ----- 6:0-rel 0:0-ARGM-DIS 1:2-ARG1 7:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 597 2 gold seem-v seem.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1,3:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 597 4 gold have-v have.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 597 5 gold misplace-v misplace.01 ----- 5:0-rel 6:1-ARG1 8:1-ARGM-LOC 9:1-ARGM-LOC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 598 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 599 1 gold explain-v explain.01 ----- 1:0-rel 2:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 600 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:3-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 601 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 602 1 gold feel-v feel.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 602 10 gold have-v have.01 ----- 10:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 3 gold think-v think.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 6 gold rule-v rule.02 ----- 6:0,9:1-rel 4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1 10:2-ARGM-CAU
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 603 13 gold be-v be.01 ----- 13:0-rel 12:1-ARG1 14:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 4 gold do-v do.01 ----- 4:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 6 gold think-v think.01 ----- 6:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:0-ARGM-NEG 7:1-ARGM-DIS 8:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 10 gold rule-v rule.02 ----- 10:0,11:1-rel 8:1-ARG0 9:0-ARGM-MOD 12:2-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 604 23 gold be-v be.01 ----- 23:0-rel 16:1-ARGM-MNR 24:1-ARG2 12:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 605 1 gold do-v do.01 ----- 1:0-rel
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 605 3 gold think-v think.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 605 6 gold categorize-v categorize.01 ----- 6:0-rel 4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1 8:2-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 5 gold look-v look.01 ----- 5:0-rel 6:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 12 gold be-v be.01 ----- 12:0-rel 11:1-ARG1 13:1-ARGM-MNR
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 17 gold be-v be.01 ----- 17:0-rel 18:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 606 24 gold be-v be.01 ----- 24:0-rel 22:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 607 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 607 6 gold use-v use.01 ----- 6:0-rel 4:1-ARG0 5:0-ARGM-MOD 2:1-LINK-SLC
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 610 4 gold found-v found.01 ----- 4:0-rel 0:3-ARGM-TMP 5:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 611 1 gold turn-v turn.02 ----- 1:0-rel 0:1-ARG1 2:2-ARG2 4:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 612 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 4:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 613 9 gold log-v log.01 ----- 9:0-rel 0:1-ARGM-PRP 10:1-ARG1
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 614 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 615 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2 4:1-ARGM-TMP 6:1-ARGM-TMP
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 616 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+bc/msnbc/00/msnbc_0007@0007@msnbc@bc@en@on 616 5 gold be-v be.01 ----- 5:0-rel 0:1-ARGM-ADV 4:1-ARG1 6:1-ARG2

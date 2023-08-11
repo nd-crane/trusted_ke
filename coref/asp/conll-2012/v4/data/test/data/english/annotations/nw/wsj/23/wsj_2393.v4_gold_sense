@@ -1,0 +1,74 @@
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 2 buy-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 3 stock-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 6 money-n ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 13 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 17 be-v 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 22 follow-v 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 25 market-n 4
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 0 26 drop-n ?,? 5
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 1 be-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 6 require-v ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 9 sell-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 11 share-n ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 13 put-v ?,? 7.4
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 16 cash-n ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 18 enhance-v 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 21 back-v ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 1 23 loan-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 2 5 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 2 6 call-n ?,? 8
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 2 8 think-v 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 2 11 contribute-v 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 3 3 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 3 4 call-n ?,? 8
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 3 5 occur-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 3 8 price-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 3 11 stock-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 3 12 fall-v 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 3 19 value-n ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 5 put-v ?,? 7.4
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 9 cash-n ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 11 satisfy-v 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 13 call-n ?,? 8
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 16 brokerage-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 19 begin-v ?,? 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 20 liquidate-v 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 4 22 security-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 5 3 brokerage-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 5 5 say-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 5 9 expect-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 5 11 problem-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 5 14 result-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 5 16 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 5 17 call-n ?,? 8
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 6 0 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 6 1 call-n ?,? 8
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 6 6 be-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 6 22 say-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 4 official-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 8 expect-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 10 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 11 call-n ?,? 8
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 14 be-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 18 factor-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 28 buy-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 29 stock-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 31 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 7 35 say-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 4 vice-n ?,? 4
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 5 president-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 17 brokerage-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 20 say-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 24 expect-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 27 problem-n ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 29 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 8 30 call-n ?,? 8
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 9 1 say-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 9 4 increase-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 9 5 margin-n ?,? 3
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 9 6 requirement-n 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 9 10 have-v 2
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 10 1 add-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 10 5 learn-v ?,? 1
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 10 7 lesson-n ?,? 4
+nw/wsj/23/wsj_2393@2393@wsj@nw@en@on 10 11 volatility-n ?,? 1

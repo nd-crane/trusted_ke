@@ -1,0 +1,18 @@
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 0 6 gold praise-v praise.01 ----- 6:0-rel 3:1-ARG0 5:0-ARGM-MOD 0:1-LINK-SLC
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 0 11 gold show-n show.01 ----- 11:0-rel 8:1-ARG0 10:0-ARGM-TMP 13:1-ARG1
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 0 24 gold be-v be.01 ----- 24:0-rel 0:2-ARG1 25:1-ARG2
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 0 37 gold show-n show.01 ----- 37:0-rel
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 0 39 gold do-v do.02 ----- 39:0-rel 29:1-ARGM-DIS 30:1-ARG0 40:1-ARG1
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 1 9 gold be-v be.01 ----- 9:0-rel 3:1-ARG1 11:1-ARG2 0:1-ARGM-DIS
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 1 13 gold insult-n insult.01 ----- 13:0-rel 12:0-ARGM-ADJ
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 1 19 gold be-v be.01 ----- 19:0-rel 16:1-ARG1
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 2 2 gold dress-v dress.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-MNR 10:3-ARGM-ADV
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 2 10 gold tuck-v tuck.03 ----- 10:0,11:1-rel 12:1-ARG1
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 2 16 gold roll-v roll.03 ----- 16:0,17:1-rel 18:1-ARG1
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 3 6 gold be-v be.01 ----- 6:0-rel 1:2-ARG1 7:1-ARG2 0:0-ARGM-DIS
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 4 6 gold wear-v wear.01 ----- 6:0-rel 3:1-ARG0 5:0-ARGM-MOD 7:1-ARG1 8:1-ARGM-LOC 11:1-ARGM-TMP
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 4 17 gold be-v be.01 ----- 17:0-rel 16:1-ARG1 18:1-ARG2
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 4 21 gold know-v know.01 ----- 21:0-rel 0:0-ARGM-DIS 1:2-ARGM-ADV 15:1-ARGM-ADV 19:1-ARG0 20:0-ARGM-MOD 22:2-ARG1
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 4 23 gold wear-v wear.01 ----- 23:0-rel 24:1-ARG1 25:1-ARGM-LOC
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 5 3 gold show-n show.01 ----- 3:0-rel
+nw/wsj/23/wsj_2368@2368@wsj@nw@en@on 5 7 gold have-v have.03 ----- 7:0-rel 2:1-ARG0 5:0-ARGM-NEG 6:1-ARGM-ADV 8:2-ARG1

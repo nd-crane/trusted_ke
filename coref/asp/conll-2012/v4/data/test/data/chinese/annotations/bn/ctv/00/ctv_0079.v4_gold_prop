@@ -1,0 +1,43 @@
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 0 4 gold 举行-v 举行.01 ----- 4:0-rel 0:2-ARG0 2:1-ARGM-TMP 5:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 0 8 gold 宣布-v 宣布.01 ----- 8:0-rel 0:2-ARG0 2:1-ARGM-TMP 9:3-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 0 9 gold 组成-v 组成.01 ----- 9:0-rel 10:1-ARG0
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 0 13 gold 审理-v 审理.01 ----- 13:0-rel 14:3-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 0 15 gold 弹劾-v 弹劾.01 ----- 15:0-rel 16:2-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 0 23 gold 拉开-v 拉开.01 ----- 23:0-rel 0:2-ARG0 21:1-ARGM-ADV 22:1-ARGM-ADV 25:5-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 0 25 gold 弹劾-v 弹劾.01 ----- 25:0-rel 26:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 1 7 gold 主持-v 主持.01 ----- 7:0-rel 0:4-ARG0 6:1-ARGM-ADV 8:3-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 1 16 gold 组成-v 组成.01 ----- 16:0-rel 13:2-ARG1 18:1-ARG0
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 1 24 gold 组成-v 组成.01 ----- 24:0-rel 20:1-ARG1 26:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 1 37 gold 给-v 给.01 ----- 37:0-rel
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 2 2 gold 结束-v 结束.01 ----- 2:0-rel 0:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 2 8 gold 决定-v 决定.01 ----- 8:0-rel 0:3-ARGM-TMP 5:1-ARG0 7:1-ARGM-ADV 9:4-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 2 12 gold 发出-v 发出.01 ----- 12:0-rel 9:1-ARG2 13:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 2 15 gold 要求-v 要求.02 ----- 15:0-rel 16:1-ARG1 17:3-ARG2
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 2 28 gold 作出-v 作出.01 ----- 28:0-rel 17:1-ARGM-TMP 29:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 2 33 gold 有-v 有.01 ----- 33:0-rel 31:1-ARG0 32:1-ARGM-DIS 34:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 2 40 gold 提出-v 提出.01 ----- 40:0-rel 31:1-ARG0 41:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 3 6 gold 代表-v 代表.01 ----- 6:0-rel 0:4-ARG0 5:1-ARGM-TMP 7:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 3 8 gold 接受-v 接受.01 ----- 8:0-rel 0:4-ARG0 5:1-ARGM-TMP 10:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 3 14 gold 说-v 说.01 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV 16:3-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 3 17 gold 准备-v 准备.01 ----- 17:0-rel 16:1-ARGM-ADV 20:6-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 3 18 gold 好-v 好.01 ----- 18:0-rel
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 3 23 gold 作-v 作.01 ----- 23:0-rel 25:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 4 2 gold 指控-v 指控.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:2-ARG2
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 4 4 gold 涉嫌-v 涉嫌.01 ----- 4:0-rel 5:2-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 4 6 gold 受贿-v 受贿.01 ----- 6:0-rel
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 4 8 gold 贪污-v 贪污.01 ----- 8:0-rel
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 4 9 gold 腐败-v 腐败.01 ----- 9:0-rel
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 4 11 gold 违背-v 违背.01 ----- 11:0-rel 12:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 4 15 gold 违反-v 违反.01 ----- 15:0-rel 16:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 5 6 gold 有-v 有.05 ----- 6:0-rel 5:1-ARGM-DIS 7:4-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 5 10 gold 确认-v 确认.01 ----- 10:0-rel 7:3-ARG0 11:2-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 5 19 gold 有罪-v 有罪.01 ----- 19:0-rel 11:1-ARG0 12:1-ARGM-LOC
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 2 gold 成立-v 成立.01 ----- 2:0-rel 0:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 6 gold 发表-v 发表.01 ----- 6:0-rel 0:3-ARGM-TMP 5:1-ARG0 7:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 9 gold 呼吁-v 呼吁.01 ----- 9:0-rel 0:3-ARGM-TMP 5:1-ARG0 10:3-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 12 gold 尊重-v 尊重.01 ----- 12:0-rel 10:2-ARG0 13:3-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 21 gold 拒绝-v 拒绝.01 ----- 21:0-rel 0:3-ARGM-TMP 5:1-ARG0 20:1-ARGM-DIS 22:5-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 23 gold 提出-v 提出.01 ----- 23:0-rel 22:1-ARG0 30:1-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 25 gold 希望-v 希望.02 ----- 25:0-rel 26:2-ARG1
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 6 28 gold 辞职-v 辞职.01 ----- 28:0-rel 26:1-ARG0 27:1-ARGM-ADV
+bn/ctv/00/ctv_0079@0079@ctv@bn@ch@on 7 2 gold 报道-v 报道.01 ----- 2:0-rel 0:1-ARG0

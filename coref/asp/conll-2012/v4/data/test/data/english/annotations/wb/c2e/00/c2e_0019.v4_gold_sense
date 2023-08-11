@@ -1,0 +1,103 @@
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 0 7 kill-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 0 11 do-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 2 0 post-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 3 7 kill-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 3 11 do-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 5 4 title-n ?,? 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 5 14 understand-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 5 37 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 5 40 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 5 46 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 5 57 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 5 61 be-v 3
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 6 5 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 6 9 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 6 17 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 6 23 hold-v ?,? 10
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 6 31 put-v 3
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 7 1 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 7 10 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 7 40 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 7 68 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 7 71 grow-v ?,? 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 8 25 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 9 16 have-v ?,? 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 9 52 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 10 5 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 10 16 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 10 23 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 10 51 refer-v 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 10 60 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 10 63 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 10 67 have-v ?,? 4
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 11 5 provide-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 11 9 overthrow-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 11 19 be-v ?,? 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 12 6 become-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 12 25 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 12 28 proof-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 12 31 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 13 24 respect-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 13 26 develop-v 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 14 0 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 15 1 believe-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 15 5 obtain-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 15 15 understand-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 15 17 treat-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 16 17 see-v ?,? 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 16 26 have-v ?,? 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 16 34 establish-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 16 77 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 17 5 urge-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 17 9 throttle-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 17 25 consider-v 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 17 31 be-v 3
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 17 42 monopoly-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 18 1 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 18 7 make-v 3
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 18 16 violate-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 18 24 distort-v ?,? 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 18 57 become-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 19 3 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 20 3 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 20 13 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 20 29 demonstrate-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 20 60 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 20 68 establish-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 20 70 propose-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 20 80 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 44 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 51 win-v 3
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 67 ask-v ?,? 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 76 stay-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 79 be-v 4
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 82 endure-v 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 88 speak-v 4
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 21 102 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 1 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 4 want-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 6 say-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 30 try-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 34 treat-v ?,? 4
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 40 open-v 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 46 embrace-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 61 conform-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 65 carry-v 8
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 76 urge-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 80 kill-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 22 90 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 23 2 happen-v 2
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 23 4 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 23 17 bury-v ?,? 3
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 24 5 like-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 24 7 admonish-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 24 14 oppose-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 24 19 suppress-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 24 24 ownership-n 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 24 43 insist-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 24 56 treat-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 25 2 be-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 25 11 kill-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 25 26 condemn-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 25 33 lead-v 1
+wb/c2e/00/c2e_0019@0019@c2e@wb@en@on 29 0 contact-v ?,? 1

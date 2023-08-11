@@ -1,0 +1,30 @@
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 1 8 gold show-v show.01 ----- 8:0-rel 0:2-ARG0 9:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 1 16 gold trade-n trade.01 ----- 16:0-rel 14:1-ARG0 17:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 1 19 gold continue-v continue.01 ----- 19:0-rel 11:1-ARGM-TMP 14:3,20:2-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 1 20 gold increase-v increase.01 ----- 20:0-rel
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 1 29 gold reach-v reach.01 ----- 29:0-rel 22:2-ARG0 30:3-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 1 45 gold account-v account.01 ----- 45:0-rel 22:2-ARG0 46:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 1 56 gold trade-n trade.01 ----- 56:0-rel 55:0-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 4 1 gold have-v have.01 ----- 1:0-rel
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 4 8 gold rank-v rank.01 ----- 8:0-rel 0:1-ARG1 2:1-ARGM-TMP 7:1-ARGM-MNR 9:1-ARG2 11:1-ARGM-LOC
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 4 15 gold trade-n trade.01 ----- 15:0-rel 14:0-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 2 gold presentation-n presentation.01 ----- 2:0-rel
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 9 gold export-v export.01 ----- 9:0-rel 7:0-ARG0 10:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 15 gold have-v have.01 ----- 15:0-rel
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 17 gold increase-v increase.01 ----- 17:0-rel 0:1-ARGM-ADV 4:2-ARG1 18:1-ARGM-TMP
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 24 gold import-v import.01 ----- 24:0-rel 25:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 33 gold have-v have.01 ----- 33:0-rel
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 34 gold fluctuate-v fluctuate.01 ----- 34:0-rel 21:2-ARG1 35:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 48 gold trade-n trade.01 ----- 48:0-rel 47:0-ARGM-MNR
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 49 gold have-v have.01 ----- 49:0-rel
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 50 gold decrease-v decrease.01 ----- 50:0-rel 47:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 53 gold trade-n trade.01 ----- 53:0-rel 52:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 54 gold have-v have.01 ----- 54:0-rel
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 55 gold increase-v increase.01 ----- 55:0-rel 52:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 5 63 gold trade-n trade.01 ----- 63:0-rel 61:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 7 1 gold trade-n trade.01 ----- 1:0-rel 2:1-ARG1 7:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 7 5 gold invest-v invest.01 ----- 5:0-rel 3:0-ARGM-MNR 6:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 7 9 gold increase-v increase.01 ----- 9:0-rel 0:2-ARG1 10:1-ARG2
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 8 8 gold invest-v invest.01 ----- 8:0-rel 6:0-ARGM-MNR 9:0-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 8 23 gold account-v account.01 ----- 23:0-rel 0:1-ARGM-TMP 3:2-ARG0 24:1-ARG1
+nw/xinhua/01/chtb_0149@0149@xinhua@nw@en@on 8 46 gold account-v account.01 ----- 46:0-rel 34:1-ARG0 47:1-ARG1

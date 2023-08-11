@@ -1,0 +1,8 @@
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 0 0 gold 应-v 应.01 ----- 0:0-rel 1:4-ARG1
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 0 5 gold 邀请-n 邀请.01 ----- 5:0-rel 1:2-ARG0
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 0 14 gold 抵达-v 抵达.01 ----- 14:0-rel 0:2-ARGM-ADV 7:1-ARGM-TMP 12:1-ARG0 15:1-ARG1
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 0 16 gold 进行-v 进行.01 ----- 16:0-rel 0:2-ARGM-ADV 7:1-ARGM-TMP 12:1-ARG0 17:2-ARG1
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 0 19 gold 访问-n 访问.01 ----- 19:0-rel 0:2-ARGM-ADV 7:1-ARGM-TMP 12:1-ARG0 16:0-rel-Sup 17:1-ARGM-MNR 18:1-ARGM-MNR
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 1 1 gold 为-v 为.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 1 7 gold 参观-v 参观.01 ----- 7:0-rel 2:1-ARGM-TMP 3:1-ARG0 5:1-ARGM-LOC
+nw/xinhua/01/chtb_0199@0199@xinhua@nw@ch@on 2 3 gold 摄-v 摄.01 ----- 3:0-rel

@@ -1,0 +1,38 @@
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 0 3 gold 进行-v 进行.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 5:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 0 7 gold 抢救-v 抢救.01 ----- 7:0-rel 8:1-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 0 17 gold 模拟-v 模拟.01 ----- 17:0-rel 13:3-ARG0 18:5-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 0 18 gold 遭-v 遭.01 ----- 18:0-rel 19:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 0 24 gold 遭到-v 遭到.01 ----- 24:0-rel 18:3-ARGM-TMP 25:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 0 32 gold 进行-v 进行.01 ----- 32:0-rel 28:1-ARGM-DIS 29:1-ARG0 31:1-ARGM-ADV 34:3-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 1 2 gold 往-v 往.01 ----- 2:0-rel 1:1-ARGM-DIR 3:1-ARG1 7:1-ARG0
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 1 8 gold 有-v 有.05 ----- 8:0-rel 1:5-ARG0 9:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 1 19 gold 遭到-v 遭到.01 ----- 19:0-rel 16:2-ARG0 20:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 2 0 gold 受伤-v 受伤.01 ----- 0:0-rel 2:1-ARG0
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 2 4 gold 破-v 破.01 ----- 4:0-rel 0:5-ARG1 5:0-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 2 12 gold 有-v 有.03 ----- 12:0-rel 11:1-ARGM-DIS 13:6-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 2 17 gold 吓-v 吓.01 ----- 17:0-rel 19:1-ARG1 22:1-ARG0
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 2 18 gold 出-v 出.01 ----- 18:0-rel
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 2 26 gold 混乱-v 混乱.01 ----- 26:0-rel 24:1-ARG0 25:1-ARGM-ADV
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 3 1 gold 来-v 来.01 ----- 1:0-rel
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 3 3 gold 给-v 给.01 ----- 3:0-rel 4:1-ARG2 5:3-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 3 8 gold 来-v 来.01 ----- 8:0-rel
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 4 2 gold 接到-v 接到.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 4 5 gold 通知-v 通知.02 ----- 5:0-rel 0:1-ARG0 4:1-ARGM-ADV 6:2-ARG1 11:3-ARG2
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 4 11 gold 成立-v 成立.01 ----- 11:0-rel 12:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 4 18 gold 送往-v 送往.01 ----- 18:0-rel 16:1-ARG1 17:1-ARGM-ADV 19:1-ARG2
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 5 gold 重要-v 重要.01 ----- 5:0-rel 1:3-ARG0 4:1-ARGM-ADV
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 10 gold 搭乘-v 搭乘.01 ----- 10:0-rel 12:1-ARGM-TMP
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 14 gold 希望-v 希望.02 ----- 14:0-rel 7:1-ARGM-DIS 8:1-ARG1 9:1-ARGM-TMP 13:1-ARGM-ADV 15:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 15 gold 能-v 能.01 ----- 15:0-rel
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 16 gold 协助-v 协助.02 ----- 16:0-rel 17:1-ARG1 18:2-ARG2
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 18 gold 发现-v 发现.01 ----- 18:0-rel 19:3-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 24 gold 利用-v 利用.01 ----- 24:0-rel 25:4-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 5 36 gold 通报-v 通报.01 ----- 36:0-rel 29:1-ARGM-ADV 30:1-ARG2
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 6 9 gold 必须-v 必须.01 ----- 9:0-rel
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 6 10 gold 有-v 有.05 ----- 10:0-rel 0:2-ARG0 11:6-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 6 11 gold 完备-v 完备.01 ----- 11:0-rel 13:1-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 6 16 gold 应付-v 应付.01 ----- 16:0-rel 11:5-ARG0 17:2-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 7 23 gold 进行-v 进行.01 ----- 23:0-rel 0:1-ARGM-TMP 1:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARGM-ADV 24:1-ARG1
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 8 3 gold 搭乘-v 搭乘.01 ----- 3:0-rel
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 8 6 gold 需要-v 需要.01 ----- 6:0-rel
+bn/cts/02/cts_0229@0229@cts@bn@ch@on 8 7 gold 具备-v 具备.01 ----- 7:0-rel 1:1-ARG0 2:1-ARGM-TMP 5:1-ARGM-ADV 8:3-ARG1

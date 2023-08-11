@@ -1,0 +1,25 @@
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 0 15 gold repudiate-v repudiate.01 ----- 15:0-rel 0:2-ARG0 14:0-ARGM-NEG 16:2-ARG1 27:1-ARGM-ADV
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 0 20 gold take-v take.01 ----- 20:0-rel 18:1-ARG0 21:1-ARGM-LOC 16:1-LINK-PCR
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 0 23 gold dispute-n dispute.01 ----- 23:0-rel 22:0-ARG0 24:1-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 0 35 gold back-v back.01 ----- 35:0-rel 34:1-ARG0 36:2-ARG1 39:1-ARGM-LOC 43:1-ARGM-TMP
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 1 2 gold rule-n rule.01 ----- 2:0-rel 1:0-ARGM-ADJ 3:1-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 1 6 gold apply-v apply.02 ----- 6:0-rel 7:1-ARG2 0:2-LINK-PCR
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 1 10 gold be-v be.01 ----- 10:0-rel 0:3-ARG1 11:1-ARG2
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 1 15 gold enforce-v enforce.01 ----- 15:0-rel 12:1-ARG0 13:0-ARGM-MOD 14:0-ARGM-NEG 16:2-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 1 23 gold intend-v intend.01 ----- 23:0-rel 22:0-ARGM-NEG 24:2-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 1 26 gold bind-v bind.01 ----- 26:0-rel 16:1-LINK-SLC
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 2 9 gold find-v find.01 ----- 9:0-rel 0:1-ARGM-LOC 7:1-ARG0 10:4-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 2 14 gold intend-v intend.01 ----- 14:0-rel 10:2-ARG0 15:2-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 2 17 gold bind-v bind.01 ----- 17:0-rel 10:2-LINK-PCR
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 2 23 gold find-v find.01 ----- 23:0-rel 19:1-ARGM-LOC 22:1-ARG0 24:3-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 2 25 gold be-v be.02 ----- 25:0-rel 26:1-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 2 27 gold intention-n intention.01 ----- 27:0-rel 26:0-ARGM-NEG 28:2-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 2 30 gold bind-v bind.01 ----- 30:0-rel
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 3 7 gold be-v be.01 ----- 7:0-rel 2:2-ARG1 8:1-ARG2 0:1-ARGM-ADV
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 4 6 gold dispute-n dispute.01 ----- 6:0-rel 5:0-ARGM-ADJ
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 4 9 gold turn-v turn.02 ----- 9:0-rel 0:0-ARGM-DIS 1:2-ARG1 7:1-ARGM-TMP 10:1-ARGM-MNR
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 5 5 gold find-v find.01 ----- 5:0-rel 6:1-ARG0 10:1-ARGM-LOC 1:1-LINK-PCR
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 5 15 gold be-v be.01 ----- 15:0-rel 1:1-ARG1 16:1-ARG2 4:1-ARGM-ADV 0:0-ARGM-DIS
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 6 2 gold suggest-v suggest.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 6 6 gold leave-v leave.01 ----- 6:0-rel 0:2-ARGM-TMP 5:1-ARG0 7:2-ARG1
+nw/wsj/23/wsj_2352@2352@wsj@nw@en@on 6 12 gold enter-v enter.01 ----- 12:0-rel 0:2-ARGM-TMP 5:1-ARG0 13:2-ARG1

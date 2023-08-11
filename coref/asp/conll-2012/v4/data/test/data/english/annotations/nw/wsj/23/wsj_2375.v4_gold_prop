@@ -1,0 +1,24 @@
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 0 4 gold say-v say.01 ----- 4:0-rel 5:3-ARG1 25:2-ARGM-ADV
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 0 6 gold reduce-v reduce.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 0 8 gold rating-n rating.01 ----- 8:0-rel 7:0-ARG0 9:1-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 0 25 gold cite-v cite.01 ----- 25:0-rel 26:2-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 1 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 1 4 gold reduce-v reduce.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1 13:1-ARG4 17:1-ARG3
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 1 6 gold rating-n rating.01 ----- 6:0-rel 5:0-ARG0 7:1-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 1 23 gold keep-v keep.04 ----- 23:0-rel 3:1-ARG0 22:0-ARGM-MOD 24:1,26:1-ARG1 28:1-ARGM-PNC
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 1 27 gold review-n review.01 ----- 27:0-rel
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 2 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 3 3 gold require-v require.01 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 3 7 gold divest-v divest.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG2 9:1-ARG1 13:1-ARGM-TMP
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 4 3 gold be-v be.01 ----- 3:0-rel 0:2-ARG1 5:1-ARG2
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 6 7 gold downgrade-v downgrade.02 ----- 7:0-rel 6:1-ARG0 8:2,18:1-ARG1 10:1-ARG4 14:1-ARG3
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 6 9 gold rating-n rating.01 ----- 9:0-rel 8:0-ARG0 18:1-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 7 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:5-ARG1 22:2-ARGM-ADV
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 7 15 gold be-v be.01 ----- 15:0-rel 4:3-ARG1 16:2-ARG2
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 7 22 gold cite-v cite.01 ----- 22:0-rel 23:3-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 7 33 gold sale-n sale.01 ----- 33:0-rel 32:0-ARGM-ADJ 34:1-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 8 3 gold have-v have.03 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 8 8 gold get-v get.03 ----- 8:0-rel 6:1-ARG1 9:1-ARG2
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 8 15 gold say-v say.01 ----- 15:0-rel 16:2-ARG0
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 9 2 gold think-v think.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+nw/wsj/23/wsj_2375@2375@wsj@nw@en@on 9 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:2-ARG2

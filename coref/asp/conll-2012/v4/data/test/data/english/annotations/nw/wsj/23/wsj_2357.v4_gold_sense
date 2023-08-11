@@ -1,0 +1,67 @@
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 0 1 group-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 0 6 say-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 0 8 form-v 3
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 0 10 association-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 0 12 oppose-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 0 19 control-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 0 23 chain-n ?,? 4
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 1 1 decision-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 1 2 be-v 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 1 5 move-n ?,? 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 1 8 escalate-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 1 9 battle-n ?,? 3
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 1 17 begin-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 2 time-n 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 5 group-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 6 call-v ?,? 5
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 11 consist-v ?,? 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 20 offer-v 3
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 27 buy-v ?,? 6
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 33 be-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 2 34 part-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 3 1 be-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 3 5 control-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 4 8 president-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 4 12 officer-n ?,? 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 4 18 fire-v ?,? 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 4 21 dispute-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 5 4 announce-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 5 6 formation-n 3
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 5 9 association-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 5 11 call-v ?,? 5
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 5 18 preserve-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 5 25 system-n ?,? 4
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 3 owner-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 5 operator-n ?,? 3
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 18 say-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 23 conclude-v ?,? 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 26 control-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 33 be-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 41 be-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 45 cause-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 47 damage-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 6 52 system-n ?,? 4
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 7 1 support-v 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 7 3 effort-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 7 5 remove-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 7 9 control-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 7 18 system-n ?,? 4
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 1 group-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 2 say-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 5 consider-v 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 9 thing-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 11 withhold-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 13 payment-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 15 initiate-v ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 8 21 seek-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 8 vice-n ?,? 4
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 9 president-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 13 respond-v 2
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 19 think-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 21 individual-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 23 group-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 25 disrupt-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 28 system-n ?,? 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 31 interfere-v 1
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 35 relationship-n ?,? 3
+nw/wsj/23/wsj_2357@2357@wsj@nw@en@on 9 42 motive-n ?,? 1

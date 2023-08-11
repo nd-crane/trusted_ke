@@ -1,0 +1,85 @@
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 1 1 gold plan-v plan.01 ----- 1:0-rel 2:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 1 3 gold formulate-v formulate.01 ----- 3:0-rel 4:1-ARG1 8:3-ARGM-PRP
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 1 9 gold ensure-v ensure.01 ----- 9:0-rel 10:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 1 15 gold utilize-v utilize.01 ----- 15:0-rel 10:1-ARGM-MNR 16:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 1 17 gold investment-n investment.01 ----- 17:0-rel 16:0-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 1 20 gold improve-v improve.01 ----- 20:0-rel 21:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 2 8 gold present-v present.01 ----- 8:0-rel 0:2-ARG0 9:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 2 14 gold expand-v expand.01 ----- 14:0-rel 15:2-ARG1 21:1-LINK-PCR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 2 17 gold utilize-v utilize.01 ----- 17:0-rel 18:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 2 24 gold experiment-v experiment.01 ----- 24:0-rel 11:1-ARG2 21:1-ARG0 22:0-ARGM-MOD 23:1-ARGM-MNR 25:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 2 28 gold develop-v develop.02 ----- 28:0-rel 11:1-ARGM-PRP 21:1-ARG0 22:0-ARGM-MOD 27:1-ARGM-MNR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 2 38 gold finance-n finance.01 ----- 38:0-rel 37:0-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 2 40 gold issue-v issue.01 ----- 40:0-rel 41:1-ARG1 42:1-ARGM-LOC
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 3 2 gold expand-v expand.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 3 10 gold develop-v develop.01 ----- 10:0-rel 9:0-ARGM-MNR 11:0-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 3 13 gold expand-v expand.01 ----- 13:0-rel 0:1-ARG0 1:0-ARGM-MOD 14:1-ARG1 15:1-ARGM-PNC
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 3 24 gold continue-v continue.01 ----- 24:0-rel 0:1-ARG0 1:0-ARGM-MOD 25:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 3 25 gold experiment-n experiment.01 ----- 25:0-rel
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 3 26 gold utilize-v utilize.01 ----- 26:0-rel 25:1-ARG0 27:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 3 28 gold investment-n investment.01 ----- 28:0-rel 27:0-ARG0 29:1-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 4 14 gold utilize-v utilize.01 ----- 14:0-rel 15:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 4 16 gold investment-n investment.01 ----- 16:0-rel 15:0-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 4 19 gold promote-v promote.02 ----- 19:0-rel 0:1-ARG2 17:0-ARGM-MOD
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 1 gold provide-v provide.01 ----- 1:0-rel 2:1-ARG0 0:1-LINK-PCR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 7 gold show-v show.01 ----- 7:0-rel 0:2-ARG0 8:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 10 gold start-v start.01 ----- 10:0-rel 11:1-ARGM-TMP
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 16 gold investment-n investment.01 ----- 16:0-rel 14:1-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 20 gold continue-v continue.01 ----- 20:0-rel 9:1-ARGM-TMP 19:0-ARGM-MOD 21:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 22 gold enjoy-v enjoy.01 ----- 22:0-rel 23:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 24 gold taxation-n taxation.01 ----- 24:0-rel 23:0-ARGM-MNR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 34 gold include-v include.01 ----- 34:0-rel 27:2-ARG2 33:0-ARGM-MOD 35:3-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 5 40 gold engage-v engage.01 ----- 40:0-rel 41:1-ARG2 35:2-LINK-PCR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 8 gold express-v express.01 ----- 8:0-rel 0:1-ARG0 9:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 14 gold encourage-v encourage.01 ----- 14:0-rel 17:2-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 18 gold carry-v carry.03 ----- 18:0,19:1-rel 20:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 20 gold investment-n investment.01 ----- 20:0-rel 21:1-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 32 gold allow-v allow.01 ----- 32:0-rel 11:1-ARGM-PRP 30:0-ARGM-MOD 34:1-ARGM-LOC 41:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 42 gold initiate-v initiate.01 ----- 42:0-rel 43:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 50 gold restrict-v restrict.01 ----- 50:0-rel 46:2-ARG0 51:2-ARG1 43:1-LINK-SLC
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 53 gold investment-n investment.01 ----- 53:0-rel 51:1-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 6 58 gold use-n use.01 ----- 58:0-rel 56:0-ARG0 57:0-ARGM-LVB 59:1-ARG1 43:1-LINK-SLC
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 7 4 gold encourage-v encourage.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 10:2-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 7 9 gold investment-n investment.01 ----- 9:0-rel 5:1-ARG0 8:0-ARGM-MNR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 7 11 gold construct-v construct.01 ----- 11:0-rel 14:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 7 13 gold operate-v operate.01 ----- 13:0-rel 14:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 7 21 gold allow-v allow.01 ----- 21:0-rel 0:1-ARGM-DIS 2:1-ARG0 20:0-ARGM-MOD 22:3-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 7 24 gold invest-v invest.01 ----- 24:0-rel 22:1-ARG0 25:1-ARGM-MNR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 7 27 gold construct-v construct.01 ----- 27:0-rel 22:2-ARG0 28:3-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 8 1 gold approval-n approval.01 ----- 1:0-rel
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 8 6 gold establish-v establish.01 ----- 6:0-rel 0:1-ARGM-ADV 3:1-ARG0 5:0-ARGM-MOD 7:3-ARG1 14:1-ARGM-LOC
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 8 21 gold invest-v invest.01 ----- 21:0-rel 18:2-ARG0 22:1-ARGM-MNR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 8 24 gold establish-v establish.01 ----- 24:0-rel 18:3-ARG0 23:0-ARGM-MOD 25:2-ARG1 28:1-ARGM-MNR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 8 29 gold follow-v follow.02 ----- 29:0-rel 30:2-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 9 9 gold have-v have.01 ----- 9:0-rel
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 9 11 gold approve-v approve.01 ----- 11:0-rel 0:1-ARGM-ADV 4:1-ARGM-TMP 8:1-ARG0 10:1-ARGM-ADV 12:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 9 16 gold invest-v invest.01 ----- 16:0-rel 14:0-ARGM-MNR 17:0-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 9 20 gold have-v have.01 ----- 20:0-rel
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 9 22 gold utilize-v utilize.01 ----- 22:0-rel 0:1-ARGM-ADV 4:1-ARGM-TMP 8:1-ARG0 21:1-ARGM-ADV 23:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 9 24 gold investment-n investment.01 ----- 24:0-rel 23:0-ARG0 25:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 10 1 gold utilize-v utilize.01 ----- 1:0-rel 2:0,3:0-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 10 3 gold investment-n investment.01 ----- 3:0-rel 1:0-ARGM-PRD 2:0-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 10 4 gold have-v have.01 ----- 4:0-rel
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 10 5 gold account-v account.01 ----- 5:0-rel 0:1-ARG0 6:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 10 12 gold fix-v fix.03 ----- 12:0-rel 13:0-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 10 14 gold investment-n investment.01 ----- 14:0-rel 12:1-ARG1 15:1-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 11 2 gold analysis-n analysis.01 ----- 2:0-rel
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 11 6 gold promotion-n promotion.02 ----- 6:0-rel 7:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 11 16 gold investment-n investment.01 ----- 16:0-rel 15:0-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 11 18 gold grow-v grow.01 ----- 18:0-rel 0:1-ARGM-ADV 3:1-ARGM-CAU 11:3-ARG1 17:0-ARGM-MOD 19:1-ARGM-ADV
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 11 23 gold invest-v invest.01 ----- 23:0-rel 22:1,24:1-ARG2 25:1-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 11 30 gold expand-v expand.01 ----- 30:0-rel 22:2-ARG1 28:0-ARGM-MOD 29:1-ARGM-ADV 31:1-ARGM-TMP
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 12 4 gold issue-v issue.01 ----- 4:0-rel 3:1-ARGM-MNR 0:1-LINK-PCR
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 12 5 gold show-v show.01 ----- 5:0-rel 0:2-ARG0 6:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 12 10 gold lead-v lead.01 ----- 10:0-rel 7:1-ARG0 8:0-ARGM-MOD 9:1-ARGM-MNR 11:3-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 12 15 gold investment-n investment.01 ----- 15:0-rel 14:0-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 12 17 gold reach-v reach.01 ----- 17:0-rel 11:2-ARG0 18:2-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 12 22 gold utilize-v utilize.01 ----- 22:0-rel 21:1-ARGM-MNR 23:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 12 24 gold investment-n investment.01 ----- 24:0-rel 23:0-ARG0
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 13 9 gold encourage-v encourage.01 ----- 9:0-rel 0:1-ARGM-TMP 7:1-ARG0 8:0-ARGM-MOD 12:2-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 13 13 gold invest-v invest.01 ----- 13:0-rel 14:1-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 13 48 gold mining-n mining.01 ----- 48:0-rel
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 13 53 gold encourage-v encourage.01 ----- 53:0-rel 0:1-ARGM-TMP 7:1-ARG0 52:0-ARGM-MOD 56:2-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 13 57 gold employ-v employ.02 ----- 57:0-rel 58:1-ARG1 62:2-ARG2
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 13 63 gold participate-v participate.01 ----- 63:0-rel 64:1-ARG1
+nw/xinhua/00/chtb_0079@0079@xinhua@nw@en@on 13 67 gold transformation-n transformation.01 ----- 67:0-rel 66:0-ARGM-MNR 68:1-ARG1

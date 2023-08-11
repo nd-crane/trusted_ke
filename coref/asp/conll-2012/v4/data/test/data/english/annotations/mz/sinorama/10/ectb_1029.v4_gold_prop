@@ -1,0 +1,414 @@
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 1 13 gold translate-v translate.01 ----- 13:0-rel 14:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 2 4 gold develop-v develop.02 ----- 4:0-rel 5:1-ARG0 0:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 2 9 gold take-v take.10 ----- 9:0-rel 0:2-ARG2 10:1-ARG1 13:2-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 2 14 gold give-v give.01 ----- 14:0-rel 15:1-ARG2 16:2-ARG1 0:2-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 2 17 gold answer-n answer.01 ----- 17:0-rel 18:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 2 22 gold contain-v contain.01 ----- 22:0-rel 20:1-ARG0 23:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 2 28 gold be-v be.01 ----- 28:0-rel 27:1-ARG1 29:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 3 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-LOC 2:1-ARG1 4:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 3 5 gold rise-v rise.01 ----- 5:0-rel 6:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 4 22 gold have-v have.01 ----- 22:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 4 23 gold be-v be.03 ----- 23:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 4 25 gold pursue-v pursue.01 ----- 25:0-rel 0:1-ARGM-LOC 3:1-ARGM-TMP 6:3-ARG0 24:1-ARGM-ADV 26:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 5 9 gold have-v have.01 ----- 9:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 5 11 gold be-v be.03 ----- 11:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 5 12 gold set-v set.03 ----- 12:0,13:1-rel 0:1-ARGM-TMP 10:1-ARGM-ADV 14:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 6 2 gold be-v be.01 ----- 2:0-rel 3:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 7 2 gold be-v be.01 ----- 2:0-rel 3:1-ARG1 4:1-ARGM-PRD
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 8 1 gold do-v do.01 ----- 1:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 8 5 gold have-v have.03 ----- 5:0-rel 2:2-ARG0 6:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 9 1 gold be-v be.01 ----- 1:0-rel 2:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 10 2 gold be-v be.01 ----- 2:0-rel 3:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 11 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 11 5 gold look-n look.01 ----- 5:0-rel 1:1-ARG0 2:0-ARGM-LVB 4:0-ARGM-MNR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 12 14 gold follow-v follow.01 ----- 14:0-rel 15:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 12 17 gold become-v become.01 ----- 17:0-rel 0:1-ARGM-TMP 13:1-ARG1 16:0-ARGM-MOD 18:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 2 gold be-v be.03 ----- 2:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 3 gold feel-v feel.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 10 gold need-v need.01 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 12 gold do-v do.02 ----- 12:0-rel 8:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 13 gold be-v be.01 ----- 13:0-rel 0:2-ARGM-TMP 8:2-ARG1 14:4-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 14 gold buy-v buy.01 ----- 14:0-rel 15:1-ARG1 18:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 24 gold put-v put.01 ----- 24:0-rel 25:2-ARG1 29:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 35 gold find-v find.03 ----- 35:0,36:1-rel 33:1-ARG0 34:0-ARGM-MOD 37:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 38 gold be-v be.01 ----- 38:0-rel 39:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 45 gold check-n check.01 ----- 45:0-rel 44:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 13 47 gold be-v be.01 ----- 47:0-rel 43:1-ARG1 46:0-ARGM-MOD 48:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 14 2 gold carry-v carry.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG3 5:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 14 7 gold bear-v bear.01 ----- 7:0-rel 5:1-ARG0 8:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 14 11 gold analysis-n analysis.01 ----- 11:0-rel 12:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 15 6 gold be-v be.01 ----- 6:0-rel 0:1-ARGM-DIR 3:0-ARGM-MOD 7:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 15 9 gold see-v see.01 ----- 9:0-rel 10:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 15 19 gold predict-v predict.01 ----- 19:0-rel 17:1-ARGM-ADV 20:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 15 24 gold have-v have.03 ----- 24:0-rel 22:1-ARG0 23:0-ARGM-MOD 25:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 16 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 1:0-ARGM-MOD 3:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 16 8 gold need-v need.01 ----- 8:0-rel 9:2-ARGM-TMP 4:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 16 10 gold look-v look.01 ----- 10:0-rel 11:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 16 14 gold buy-v buy.01 ----- 14:0-rel 15:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 16 18 gold seek-v seek.01 ----- 18:0-rel 17:1-ARGM-ADV 19:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 17 4 gold need-v need.01 ----- 4:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:1-ARGM-NEG 5:2-ARG1 11:1-ARGM-CAU
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 17 16 gold experiment-n experiment.01 ----- 16:0-rel 15:0-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 17 18 gold be-v be.03 ----- 18:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 17 19 gold carry-v carry.03 ----- 19:0,20:1-rel 17:0-ARGM-MOD 21:1-ARGM-LOC 25:2-ARGM-ADV
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 17 25 gold save-v save.01 ----- 25:0-rel 26:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 18 4 gold outline-v outline.01 ----- 4:0-rel 5:1-ARGM-LOC 2:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 18 8 gold seem-v seem.01 ----- 8:0-rel 0:1-ARGM-TMP 2:2,9:1-ARG1 6:0-ARGM-MOD 7:1-ARGM-ADV
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 19 5 gold come-v come.04 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:0-ARGM-MOD 4:1-ARGM-TMP 6:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 19 13 gold happen-v happen.01 ----- 13:0-rel 12:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 19 14 gold be-v be.01 ----- 14:0-rel 9:2-ARG1 15:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 20 2 gold come-v come.04 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 21 16 gold have-v have.01 ----- 16:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 21 17 gold spawn-v spawn.01 ----- 17:0-rel 0:2-ARG0 18:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 21 29 gold have-v have.01 ----- 29:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 21 30 gold emerge-v emerge.02 ----- 30:0-rel 31:1-ARG1 21:2-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 21 33 gold rise-v rise.01 ----- 33:0-rel 34:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 22 8 gold promote-v promote.02 ----- 8:0-rel 9:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 22 26 gold set-v set.03 ----- 26:0,27:1-rel 0:1-ARGM-ADV 15:1-ARGM-TMP 28:2-ARG1 35:2-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 22 37 gold develop-v develop.02 ----- 37:0-rel 36:1-ARGM-MNR 38:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 23 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 24 6 gold say-v say.01 ----- 6:0-rel 0:2-ARG0 7:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 24 21 gold be-v be.01 ----- 21:0-rel 8:3-ARG1 22:1-ARGM-TMP 23:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 25 3 gold be-v be.03 ----- 3:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 25 5 gold focus-v focus.01 ----- 5:0-rel 4:1-ARGM-ADV 6:1-ARG2 16:1-ARGM-ADV
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 25 7 gold develop-v develop.02 ----- 7:0-rel 8:1-ARG1 10:2-ARG4
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 25 11 gold screen-v screen.01 ----- 11:0-rel 12:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 25 20 gold be-v be.01 ----- 20:0-rel 17:1-ARG1 19:0-ARGM-MOD 21:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 25 22 gold develop-v develop.02 ----- 22:0-rel 23:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 25 25 gold test-v test.01 ----- 25:0-rel 26:1-ARG2 23:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 26 18 gold have-v have.01 ----- 18:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 26 19 gold be-v be.03 ----- 19:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 26 25 gold make-v make.01 ----- 25:0-rel 26:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 27 5 gold attract-v attract.01 ----- 5:0-rel 0:1-ARGM-DIS 3:1-ARG0 6:1-ARG1 8:1-ARGM-TMP 10:2-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 27 12 gold develop-v develop.02 ----- 12:0-rel 11:1-ARG0 13:2-ARG1 8:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 27 16 gold detect-v detect.01 ----- 16:0-rel 17:2-ARG1 13:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 27 24 gold have-v have.01 ----- 24:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 27 25 gold grip-v grip.01 ----- 25:0-rel 26:1-ARG1 27:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 29 3 gold be-v be.03 ----- 3:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 29 4 gold set-v set.03 ----- 4:0,5:1-rel 6:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 30 6 gold state-v state.01 ----- 6:0-rel 0:2-ARG0 7:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 30 11 gold apply-v apply.01 ----- 11:0-rel 8:1-ARG0 10:1-ARGM-MNR 12:1-ARG2 18:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 30 21 gold help-v help.01 ----- 21:0-rel 22:1-ARG2 23:2-ARG1 19:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 30 23 gold pursue-v pursue.01 ----- 23:0-rel 24:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 31 5 gold be-v be.01 ----- 5:0-rel 2:1-ARG1 6:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 31 14 gold be-v be.03 ----- 14:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 31 15 gold collaborate-v collaborate.01 ----- 15:0-rel 16:1-ARG1 21:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 31 22 gold obtain-v obtain.01 ----- 22:0-rel 23:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 31 27 gold establish-v establish.01 ----- 27:0-rel 28:2-ARG1 23:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 32 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 4:1-ARGM-PRD 9:2-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 32 10 gold compare-v compare.01 ----- 10:0-rel 11:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 33 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 3 gold do-v do.01 ----- 3:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 6 gold determine-v determine.01 ----- 6:0-rel 0:1-ARG0 4:0-ARGM-NEG 5:1-ARGM-ADV 7:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 10 gold be-v be.01 ----- 10:0-rel 8:1-ARG1 11:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 18 gold differentiate-v differentiate.01 ----- 18:0-rel 0:1-ARG2 16:0-ARGM-MOD 17:1-ARGM-ADV 19:1-ARG1 24:2-ARGM-ADV
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 26 gold show-v show.01 ----- 26:0-rel 24:1-ARGM-DIS 27:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 30 gold contain-v contain.01 ----- 30:0-rel 28:1-ARG0 31:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 42 gold be-v be.03 ----- 42:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 34 44 gold confuse-v confuse.01 ----- 44:0-rel 43:1-ARGM-MNR 45:1-ARG2 38:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 35 1 gold addition-n addition.01 ----- 1:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 35 7 gold accompany-v accompany.01 ----- 7:0-rel 9:0-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 35 11 gold reduce-v reduce.01 ----- 11:0-rel 0:1-ARGM-DIS 3:2-ARG0 10:1-ARGM-ADV 12:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 35 14 gold require-v require.01 ----- 14:0-rel 15:1-ARG0 12:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 36 4 gold note-v note.01 ----- 4:0-rel 0:1-ARG0 5:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 36 11 gold take-v take.10 ----- 11:0-rel 6:1-ARG2 12:2-ARG1 16:2-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 36 17 gold prepare-v prepare.02 ----- 17:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 36 29 gold take-v take.10 ----- 29:0-rel 20:2-ARGM-ADV 30:1-ARG1 32:2-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 36 33 gold get-v get.01 ----- 33:0-rel 34:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 37 3 gold have-v have.01 ----- 3:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 37 4 gold develop-v develop.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:2-ARG1 13:2-ARGM-ADV
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 37 7 gold reduce-v reduce.01 ----- 7:0-rel 8:1-ARG1 5:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 37 14 gold enable-v enable.01 ----- 14:0-rel 15:1-ARG2 17:2-ARG1 5:2-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 37 18 gold be-v be.03 ----- 18:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 37 19 gold obtain-v obtain.01 ----- 19:0-rel 20:1-ARGM-TMP 24:2-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 37 25 gold use-v use.01 ----- 25:0-rel 26:1-ARGM-MNR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 38 7 gold trial-n trial.01 ----- 7:0-rel 6:0-ARGM-MNR 8:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 38 20 gold suggest-v suggest.01 ----- 20:0-rel 0:1-ARGM-DIS 2:2-ARG0 21:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 38 24 gold be-v be.01 ----- 24:0-rel 22:1-ARG1 25:4-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 39 2 gold addition-n addition.01 ----- 2:0-rel 3:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 39 7 gold plan-v plan.01 ----- 7:0-rel 1:1-ARGM-ADV 8:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 39 9 gold develop-v develop.02 ----- 9:0-rel 10:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 39 12 gold detect-v detect.01 ----- 12:0-rel 13:2-ARG1 10:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 39 27 gold say-v say.01 ----- 27:0-rel 28:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 40 7 gold be-v be.01 ----- 7:0-rel 8:1-ARGM-TMP 9:1-ARG2 2:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 40 21 gold be-v be.03 ----- 21:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 40 23 gold conduct-v conduct.01 ----- 23:0-rel 0:1-ARGM-ADV 14:2-ARG0 22:1-ARGM-ADV 24:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 41 7 gold state-v state.01 ----- 7:0-rel 0:2-ARG0 8:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 41 12 gold be-v be.03 ----- 12:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 41 14 gold develop-v develop.02 ----- 14:0-rel 9:1-ARGM-TMP 11:1-ARG0 13:1-ARGM-MNR 15:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 42 1 gold explain-v explain.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 42 11 gold be-v be.01 ----- 11:0-rel 3:1-ARGM-LOC 7:2-ARG1 12:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 42 15 gold diagnose-v diagnose.01 ----- 15:0-rel 14:1-ARGM-MNR 7:2-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 43 5 gold bear-v bear.01 ----- 5:0-rel 0:1-ARG0 6:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 43 12 gold cause-v cause.01 ----- 12:0-rel 10:0-ARG1 13:0,15:0-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 43 17 gold be-v be.03 ----- 17:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 43 18 gold use-v use.01 ----- 18:0-rel 16:0-ARGM-MOD 19:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 43 20 gold determine-v determine.01 ----- 20:0-rel 21:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 43 31 gold involve-v involve.01 ----- 31:0-rel 30:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 43 33 gold be-v be.01 ----- 33:0-rel 27:2-ARG1 32:0-ARGM-MOD 34:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 44 3 gold point-v point.02 ----- 3:0,4:1-rel 0:1-ARGM-DIS 2:1-ARG0 5:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 44 12 gold reduce-v reduce.01 ----- 12:0-rel 11:1-ARGM-EXT 13:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 44 15 gold need-v need.01 ----- 15:0-rel 16:1-ARGM-PRP 13:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 44 27 gold be-v be.01 ----- 27:0-rel 6:1-ARGM-CAU 20:2-ARG1 28:1-ARGM-TMP 29:1-ARG2 31:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 44 37 gold be-v be.03 ----- 37:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 44 39 gold promote-v promote.02 ----- 39:0-rel 34:0-ARGM-MOD 35:0-ARGM-NEG 36:1-ARGM-TMP 38:1-ARGM-EXT
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 45 4 gold be-v be.01 ----- 4:0-rel 1:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 46 7 gold be-v be.01 ----- 7:0-rel 0:1-ARGM-TMP 3:2-ARG1 8:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 47 3 gold be-v be.03 ----- 3:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 47 4 gold grow-v grow.01 ----- 4:0-rel 0:2-ARG1 5:1-ARGM-MNR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 48 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 48 4 gold accord-v accord.01 ----- 4:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 48 14 gold consumption-n consumption.01 ----- 14:0-rel 12:0-ARGM-LOC 13:0-ARGM-TMP 15:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 48 18 gold be-v be.01 ----- 18:0-rel 4:1-ARGM-ADV 11:2-ARG1 19:1-ARGM-TMP 20:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 48 27 gold be-v be.03 ----- 27:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 48 28 gold expect-v expect.01 ----- 28:0-rel 23:1-ARGM-TMP 29:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 48 30 gold grow-v grow.01 ----- 30:0-rel 31:1-ARG4
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 49 0 gold base-v base.02 ----- 0:0-rel 1:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 49 20 gold grow-v grow.01 ----- 20:0-rel 0:1-ARGM-ADV 11:2-ARG1 19:0-ARGM-MOD 21:2-ARG4
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 50 3 gold have-v have.01 ----- 3:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 50 4 gold set-v set.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 5:1-ARG1 7:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 50 13 gold believe-v believe.01 ----- 13:0-rel 0:1-ARGM-DIS 1:1-ARG0 14:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 50 18 gold success-n success.01 ----- 18:0-rel 16:1-ARG0 19:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 50 27 gold go-v go.15 ----- 27:0,28:1-rel 15:1-ARGM-ADV 26:0-ARGM-MOD 29:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 50 30 gold be-v be.01 ----- 30:0-rel 31:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 51 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 51 14 gold establish-v establish.01 ----- 14:0-rel 12:1-ARGM-TMP 15:1-ARGM-LOC 10:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 51 18 gold find-v find.02 ----- 18:0-rel 0:2-ARGM-ADV 6:2-ARG0 17:1-ARGM-TMP 19:1-ARG1 21:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 52 2 gold be-v be.03 ----- 2:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 52 5 gold develop-v develop.02 ----- 5:0-rel 1:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-MNR 6:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 52 10 gold interest-v interest.01 ----- 10:0-rel 11:1-ARG1 12:1-ARGM-EXT
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 52 13 gold be-v be.01 ----- 13:0-rel 9:2-ARG1 14:0-ARGM-NEG 15:1-ARG2 16:1-ARGM-DIS
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 52 20 gold be-v be.01 ----- 20:0-rel 22:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 52 25 gold be-v be.01 ----- 25:0-rel 23:1-ARGM-ADV 26:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 53 3 gold be-v be.01 ----- 3:0-rel 1:1-ARG1 4:1-ARGM-ADV 5:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 53 12 gold be-v be.01 ----- 12:0-rel 9:1-ARG1 13:0-ARGM-NEG 14:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 53 16 gold sale-n sale.01 ----- 16:0-rel 15:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 54 1 gold count-v count.04 ----- 1:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 54 2 gold be-v be.01 ----- 2:0-rel 0:2-ARG1 3:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 55 12 gold reveal-v reveal.01 ----- 12:0-rel 0:2-ARG0 13:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 55 19 gold be-v be.03 ----- 19:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 55 20 gold set-v set.03 ----- 20:0,21:1-rel 22:1-ARGM-TMP 14:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 55 26 gold have-v have.01 ----- 26:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 55 27 gold sign-v sign.02 ----- 27:0-rel 14:2-ARG0 28:3-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 55 39 gold develop-v develop.02 ----- 39:0-rel 38:1-ARGM-MNR 40:1-ARG1 28:2-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 56 1 gold state-v state.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 56 7 gold have-v have.01 ----- 7:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 56 8 gold reveal-v reveal.01 ----- 8:0-rel 3:2-ARG0 9:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 56 15 gold be-v be.01 ----- 15:0-rel 10:2-ARG1 16:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 56 27 gold play-v play.02 ----- 27:0-rel 10:2-ARG0 28:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 57 2 gold be-v be.03 ----- 2:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 57 3 gold hope-v hope.01 ----- 3:0-rel 0:1-ARGM-DIS 4:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 57 10 gold help-v help.01 ----- 10:0-rel 5:2-ARG0 9:0-ARGM-MOD 11:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 57 13 gold search-n search.01 ----- 13:0-rel 14:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 57 20 gold treat-v treat.03 ----- 20:0-rel 21:1-ARG2 15:2-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 58 7 gold be-v be.03 ----- 7:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 58 9 gold conduct-v conduct.01 ----- 9:0-rel 0:1-ARGM-ADV 4:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 58 19 gold aim-v aim.01 ----- 19:0-rel 20:2-ARG1 10:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 58 21 gold map-v map.01 ----- 21:0-rel 22:2-ARG1 31:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 58 35 gold develop-v develop.02 ----- 35:0-rel 36:1-ARG1 4:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 60 8 gold be-v be.03 ----- 8:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 60 9 gold set-v set.03 ----- 9:0,10:1-rel 11:1-ARGM-TMP 14:1-ARG2 18:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 60 32 gold enter-v enter.01 ----- 32:0-rel 0:3-ARG0 31:1-ARGM-ADV 33:1-ARG1 36:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 61 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:4-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 61 6 gold come-v come.01 ----- 6:0-rel 4:1-ARG1 7:1-ARG4
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 61 12 gold need-v need.01 ----- 12:0-rel 13:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 61 14 gold develop-v develop.02 ----- 14:0-rel 15:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 61 22 gold combine-v combine.01 ----- 22:0-rel 20:1-ARGM-DIS 23:1-ARG1 25:2-ARG3
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 61 31 gold investment-n investment.01 ----- 31:0-rel 26:0-ARGM-LVB 28:1-ARGM-TMP 32:1-ARGM-GOL
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 62 3 gold be-v be.01 ----- 3:0-rel 0:2-ARG1 4:3-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 62 5 gold invest-v invest.01 ----- 5:0-rel 6:1-ARG2 0:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 62 17 gold sign-v sign.02 ----- 17:0-rel 18:3-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 63 1 gold comment-v comment.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 63 4 gold production-n production.01 ----- 4:0-rel 3:0-ARGM-MNR 5:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 63 7 gold be-v be.01 ----- 7:0-rel 3:2-ARG1 8:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 63 25 gold be-v be.01 ----- 25:0-rel 26:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 63 29 gold work-n work.01 ----- 29:0-rel 27:0-ARGM-LVB 28:0-ARG1 30:2-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 63 31 gold identify-v identify.01 ----- 31:0-rel 32:1-ARG1 34:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 63 37 gold develop-v develop.02 ----- 37:0-rel 38:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 1 gold state-v state.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 15 gold treat-v treat.03 ----- 15:0-rel 13:0-ARG2 16:0-ARG3
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 17 gold be-v be.01 ----- 17:0-rel 3:1-ARGM-TMP 6:2-ARG1 18:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 27 gold be-v be.03 ----- 27:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 28 gold map-v map.01 ----- 28:0,29:1-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 33 gold be-v be.03 ----- 33:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 34 gold expect-v expect.01 ----- 34:0-rel 23:1-ARGM-ADV 32:0-ARGM-MOD 35:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 64 36 gold increase-v increase.01 ----- 36:0-rel 37:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 65 3 gold have-v have.03 ----- 3:0-rel 0:1-ARGM-TMP 2:1-ARG0 4:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 65 6 gold set-v set.01 ----- 6:0-rel 0:1-ARGM-TMP 7:2-ARG2 4:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 65 14 gold be-v be.01 ----- 14:0-rel 15:1-ARG2 17:1-ARGM-LOC 12:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 67 7 gold go-v go.01 ----- 7:0-rel 0:1-ARGM-DIS 2:2-ARG1 8:2-ARG4
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 67 13 gold outline-v outline.01 ----- 13:0-rel 14:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 68 8 gold head-v head.04 ----- 8:0,9:1-rel 10:1-ARG1 0:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 68 14 gold be-v be.01 ----- 14:0-rel 5:2-ARGM-ADV 15:1-ARGM-ADV 16:2-ARG2 0:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 68 31 gold say-v say.01 ----- 31:0-rel 0:2-ARG0 32:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 68 48 gold reveal-v reveal.01 ----- 48:0-rel 49:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 68 56 gold have-v have.03 ----- 56:0-rel 33:1-ARGM-CAU 55:1-ARG0 57:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 69 4 gold be-v be.03 ----- 4:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 69 5 gold use-v use.01 ----- 5:0-rel 1:0-ARGM-MOD 6:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 69 29 gold check-n check.01 ----- 29:0-rel 27:0-ARGM-LVB 28:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 69 31 gold test-v test.01 ----- 31:0-rel 32:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 69 36 gold screen-v screen.01 ----- 36:0-rel 37:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 69 46 gold find-v find.01 ----- 46:0-rel 43:1-ARG0 44:0-ARGM-MOD 45:1-ARGM-DIS 47:1-ARG1 48:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 70 1 gold come-v come.04 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 71 2 gold bring-v bring.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-DIR 4:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 71 13 gold integrate-v integrate.01 ----- 13:0-rel 14:2-ARG1 20:1-ARG2 10:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 71 25 gold miniaturize-v miniaturize.01 ----- 25:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 72 17 gold be-v be.03 ----- 17:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 72 18 gold bind-v bind.01 ----- 18:0-rel 0:1-ARGM-TMP 1:1-ARGM-LOC 19:1-ARG2 23:1-ARGM-MNR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 72 35 gold carry-v carry.01 ----- 35:0-rel 31:1-ARG0 34:0-ARGM-MOD 36:3-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 73 6 gold use-v use.01 ----- 6:0-rel 7:2-ARG1 16:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 73 17 gold illustrate-v illustrate.01 ----- 17:0-rel 18:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 74 1 gold test-v test.01 ----- 1:0-rel 2:1-ARG1 5:2-ARGM-MNR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 74 5 gold use-v use.01 ----- 5:0-rel 6:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 74 14 gold go-v go.12 ----- 14:0-rel 0:2-ARGM-PRP 10:1-ARG1 12:0-ARGM-MOD 13:1-ARGM-TMP 15:1-ARG2 31:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 74 32 gold be-v be.03 ----- 32:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 74 33 gold put-v put.01 ----- 33:0-rel 34:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 74 42 gold reaction-n reaction.01 ----- 42:0-rel 40:0-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 74 43 gold take-v take.14 ----- 43:0-rel 38:1-ARG1 44:1-ARG2 35:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 75 4 gold be-v be.03 ----- 4:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 75 5 gold analyze-v analyze.01 ----- 5:0-rel 0:1-ARGM-DIS 6:2-ARGM-MNR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 75 6 gold use-v use.01 ----- 6:0-rel 7:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 76 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG1 4:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 76 7 gold use-n use.01 ----- 7:0-rel 8:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 77 1 gold contrast-n contrast.01 ----- 1:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 77 20 gold be-v be.03 ----- 20:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 77 21 gold do-v do.02 ----- 21:0-rel 0:1-ARGM-DIS 3:1-ARGM-MNR 19:0-ARGM-MOD 22:1-ARGM-LOC 27:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 77 31 gold need-v need.01 ----- 31:0-rel 32:1-ARGM-ADV 33:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 77 33 gold place-v place.01 ----- 33:0-rel 32:1-ARGM-ADV 34:2-ARG1 38:2-ARG2 42:2-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 77 43 gold obtain-v obtain.01 ----- 43:0-rel 44:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 78 5 gold be-v be.01 ----- 5:0-rel 0:1-ARGM-TMP 3:1-ARG1 6:0-ARGM-NEG 7:1-ARGM-TMP 8:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 78 14 gold have-v have.01 ----- 14:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 78 15 gold be-v be.03 ----- 15:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 78 16 gold launch-v launch.01 ----- 16:0-rel 17:1-ARGM-PRD 20:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 79 2 gold say-v say.01 ----- 2:0-rel 0:0-ARGM-DIS 3:1-ARG0 9:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 79 10 gold be-v be.01 ----- 10:0-rel 9:1-ARG1 11:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 79 17 gold go-v go.01 ----- 17:0-rel 13:1-ARG1 16:0-ARGM-MOD 11:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 81 3 gold seem-v seem.01 ----- 3:0-rel 2:1-ARGM-ADV 4:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 81 10 gold be-v be.01 ----- 10:0-rel 11:1-ARGM-ADV 12:1-ARG2 14:1-ARGM-LOC 6:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 82 2 gold note-v note.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 82 6 gold be-v be.01 ----- 6:0-rel 4:1-ARG1 7:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 83 12 gold be-v be.03 ----- 12:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 83 13 gold arrange-v arrange.01 ----- 13:0-rel 0:1-ARGM-LOC 11:0-ARGM-MOD 14:2-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 83 16 gold detect-v detect.01 ----- 16:0-rel 15:1-ARGM-TMP 17:2-ARG1 5:3-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 83 18 gold expression-n expression.01 ----- 18:0-rel 19:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 84 9 gold have-v have.02 ----- 9:0-rel 5:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 84 11 gold investigate-v investigate.01 ----- 11:0-rel 12:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 84 18 gold use-v use.01 ----- 18:0-rel 19:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 84 23 gold obtain-v obtain.01 ----- 23:0-rel 0:1-ARGM-DIS 4:1-ARGM-ADV 16:1-ARGM-TMP 18:2-ARGM-MNR 22:0-ARGM-MOD 24:2-ARG1 32:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 85 7 gold speed-v speed.01 ----- 7:0-rel 0:1-ARGM-DIS 3:1-ARG0 6:0-ARGM-MOD 8:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 85 16 gold replace-v replace.01 ----- 16:0-rel 0:1-ARGM-DIS 3:1-ARG2 14:0-ARGM-MOD 15:1-ARGM-ADV 17:2-ARG1 24:1-ARGM-LOC 28:1-ARGM-ADV
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 85 26 gold experiment-n experiment.01 ----- 26:0-rel 25:0-ARGM-EXT
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 85 30 gold be-v be.03 ----- 30:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 85 31 gold carry-v carry.03 ----- 31:0,32:1-rel 33:2-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 86 5 gold be-v be.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-PRD 4:1-ARG1 6:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 87 20 gold say-v say.01 ----- 20:0-rel 0:2-ARG0 21:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 87 23 gold need-v need.01 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 87 25 gold be-v be.03 ----- 25:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 87 26 gold make-v make.02 ----- 26:0-rel 27:3-ARG1 30:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 88 6 gold have-v have.01 ----- 6:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 88 7 gold develop-v develop.02 ----- 7:0-rel 0:1-ARGM-PRD 5:1-ARG0 8:3-ARG1 24:1-ARGM-CAU
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 88 10 gold base-v base.02 ----- 10:0-rel 8:0-ARG2 11:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 88 13 gold have-v have.01 ----- 13:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 88 14 gold be-v be.03 ----- 14:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 88 15 gold call-v call.01 ----- 15:0-rel 17:3-ARG2 8:2-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 88 26 gold cost-v cost.01 ----- 26:0-rel 25:1-ARG1 27:3-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 5 gold be-v be.01 ----- 5:0-rel 2:2-ARG1 6:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 11 gold use-v use.01 ----- 11:0-rel 0:1-ARGM-ADV 8:1-ARG0 18:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 19 gold display-v display.01 ----- 19:0-rel 20:1-ARG1 22:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 26 gold be-v be.03 ----- 26:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 27 gold read-v read.01 ----- 27:0-rel 25:0-ARGM-MOD 28:2-ARGM-MNR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 28 gold use-v use.01 ----- 28:0-rel 29:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 35 gold cost-v cost.01 ----- 35:0-rel 36:4-ARG2 29:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 89 42 gold use-v use.01 ----- 42:0-rel 43:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 90 5 gold produce-v produce.01 ----- 5:0-rel 4:1-ARGM-TMP 6:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 90 13 gold be-v be.03 ----- 13:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 90 15 gold derive-v derive.01 ----- 15:0-rel 16:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 90 19 gold develop-v develop.02 ----- 19:0-rel 20:1-ARG0 17:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 92 3 gold repeat-v repeat.01 ----- 3:0-rel 0:0-ARGM-MOD 2:1-ARGM-ADV 4:2-ARG1 11:2-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 92 5 gold success-n success.01 ----- 5:0-rel 4:0-ARG0 6:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 92 12 gold become-v become.01 ----- 12:0-rel 13:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 93 4 gold observe-v observe.02 ----- 4:0-rel 0:2-ARG0 5:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 93 15 gold require-v require.01 ----- 15:0-rel 9:2-ARG1 16:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 93 18 gold production-n production.01 ----- 18:0-rel 17:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 93 19 gold be-v be.01 ----- 19:0-rel 6:2-ARG1 20:1-ARG2 23:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 93 30 gold be-v be.03 ----- 30:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 93 31 gold limit-v limit.01 ----- 31:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 94 7 gold entry-n entry.01 ----- 7:0-rel 4:1-ARG0 6:0-ARGM-TMP 8:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 94 27 gold be-v be.01 ----- 27:0-rel 0:1-ARGM-DIS 2:1-ARGM-CAU 25:1-ARG1 28:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 95 2 gold say-v say.01 ----- 2:0-rel 0:1-ARGM-DIS 3:1-ARG0 6:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 95 8 gold have-v have.03 ----- 8:0-rel 6:1-ARG0 7:0-ARGM-MOD 9:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 95 11 gold enter-v enter.01 ----- 11:0-rel 12:1-ARG1 14:2-ARGM-PRD 6:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 96 6 gold be-v be.01 ----- 6:0-rel 0:2-ARG1 7:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 96 9 gold see-v see.01 ----- 9:0-rel 0:2-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 96 20 gold be-v be.02 ----- 20:0-rel 12:1-ARGM-LOC 21:1-ARGM-TMP 22:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 96 27 gold overcome-v overcome.01 ----- 27:0-rel 22:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 7 gold be-v be.01 ----- 7:0-rel 5:1-ARG1 8:0-ARGM-NEG 9:1-ARGM-TMP 10:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 15 gold accept-v accept.01 ----- 15:0-rel 14:0-ARGM-ADV 20:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 21 gold have-v have.01 ----- 21:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 24 gold emerge-v emerge.01 ----- 24:0-rel 14:3-ARG0 22:0-ARGM-NEG 23:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 34 gold be-v be.01 ----- 34:0-rel 0:1-ARGM-ADV 26:2-ARG1 35:5-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 41 gold have-v have.01 ----- 41:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 42 gold be-v be.03 ----- 42:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 43 gold take-v take.11 ----- 43:0,44:1-rel 45:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 97 50 gold limit-v limit.01 ----- 50:0-rel 51:2-ARG1 35:4-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 4 gold be-v be.01 ----- 4:0-rel 2:1-ARG1 5:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 10 gold be-v be.01 ----- 10:0-rel 1:1-ARGM-CAU 11:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 13 gold create-v create.01 ----- 13:0-rel 14:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 18 gold start-n start.01 ----- 18:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 20 gold finish-n finish.01 ----- 20:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 21 gold do-v do.01 ----- 21:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 23 gold infringe-v infringe.01 ----- 23:0-rel 17:1-ARGM-TMP 19:1-ARGM-TMP 22:0-ARGM-NEG 24:1-ARG1 14:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 98 31 gold say-v say.01 ----- 31:0-rel 32:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 99 7 gold be-v be.03 ----- 7:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 99 8 gold resolve-v resolve.01 ----- 8:0-rel 0:1-ARGM-ADV 6:0-ARGM-MOD 9:1-ARGM-TMP 12:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 99 14 gold exchange-n exchange.01 ----- 14:0-rel 15:1-ARG1 18:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 99 16 gold patent-v patent.01 ----- 16:0-rel 17:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 100 10 gold carry-v carry.03 ----- 10:0,11:1-rel 0:1-ARGM-DIS 4:1-ARGM-TMP 7:1-ARG0 8:0-ARGM-MOD 9:1-ARGM-MNR 12:1-ARG1 21:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 100 17 gold obtain-v obtain.01 ----- 17:0-rel 0:1-ARGM-DIS 4:1-ARGM-TMP 7:1-ARG0 8:0-ARGM-MOD 9:1-ARGM-MNR 18:1-ARG1 21:1-ARGM-PRP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 100 24 gold have-v have.03 ----- 24:0-rel 25:1-ARG1 27:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 100 29 gold negotiation-n negotiation.01 ----- 29:0-rel 28:0-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 101 5 gold have-v have.03 ----- 5:0-rel 0:1-ARGM-TMP 3:1-ARG0 6:4-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 101 23 gold design-n design.01 ----- 23:0-rel 22:0-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 102 0 gold push-v push.05 ----- 0:0-rel 1:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 103 9 gold be-v be.01 ----- 9:0-rel 1:1-ARGM-TMP 8:1-ARG1 10:1-ARGM-TMP 11:2-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 103 18 gold be-v be.01 ----- 18:0-rel 0:1-ARGM-PRD 17:1-ARG1 19:1-ARGM-TMP 20:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 104 5 gold play-v play.02 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG0 4:0-ARGM-MOD 6:1-ARG1 9:1-ARGM-LOC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 105 4 gold be-v be.01 ----- 4:0-rel 1:1-ARG1 5:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 105 9 gold say-v say.01 ----- 9:0-rel 10:1-ARG0
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 106 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 106 7 gold be-v be.03 ----- 7:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 106 8 gold commercialize-v commercialize.01 ----- 8:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 106 9 gold do-v do.01 ----- 9:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 106 11 gold produce-v produce.01 ----- 11:0-rel 3:2-ARGM-ADV 10:1-ARG0 12:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 107 3 gold have-v have.03 ----- 3:0-rel 4:1-ARG1 8:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 107 9 gold need-v need.01 ----- 9:0-rel 0:1-ARGM-DIS 2:2-ARGM-PRP 10:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 107 11 gold go-v go.01 ----- 11:0-rel 12:2-ARG4
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 1 gold point-v point.02 ----- 1:0,2:1-rel 0:1-ARG0 3:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 7 gold be-v be.01 ----- 7:0-rel 5:1-ARG1 6:0-ARGM-MOD 8:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 9 gold commercialize-v commercialize.01 ----- 9:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 13 gold need-v need.01 ----- 13:0-rel 14:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 15 gold be-v be.03 ----- 15:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 16 gold make-v make.02 ----- 16:0-rel 17:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 22 gold be-v be.01 ----- 22:0-rel 19:1-ARG1 21:0-ARGM-MOD 23:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 34 gold be-v be.01 ----- 34:0-rel 27:2-ARG1 33:0-ARGM-MOD 35:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 108 41 gold be-v be.01 ----- 41:0-rel 38:1-ARG1 40:0-ARGM-MOD 42:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 109 1 gold predict-v predict.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 109 11 gold be-v be.01 ----- 11:0-rel 3:1-ARGM-TMP 9:1-ARG1 10:0-ARGM-MOD 12:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 109 14 gold use-n use.01 ----- 14:0-rel 15:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 109 36 gold be-v be.01 ----- 36:0-rel 30:1-ARGM-TMP 35:0-ARGM-MOD 37:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 109 39 gold develop-v develop.02 ----- 39:0-rel 40:1-ARG2 41:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 109 47 gold be-v be.01 ----- 47:0-rel 46:0-ARGM-MOD 48:3-ARG2 42:1-LINK-SLC
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 109 51 gold use-v use.01 ----- 51:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 110 6 gold agree-v agree.01 ----- 6:0-rel 0:2-ARG0 7:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 110 16 gold enable-v enable.01 ----- 16:0-rel 8:1-ARGM-TMP 13:1-ARG0 15:0-ARGM-MOD 18:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 110 19 gold learn-v learn.01 ----- 19:0-rel 20:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 110 26 gold know-v know.01 ----- 26:0-rel 27:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 110 31 gold develop-v develop.01 ----- 31:0-rel 29:1-ARG1 30:0-ARGM-MOD 32:1-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 111 7 gold be-v be.01 ----- 7:0-rel 5:1-ARG1 8:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 111 18 gold discover-v discover.01 ----- 18:0-rel 17:1-ARGM-ADV 14:1-LINK-PCR
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 111 21 gold be-v be.01 ----- 21:0-rel 0:0-ARGM-DIS 1:1-ARGM-LOC 14:2-ARG1 19:0-ARGM-MOD 20:0-ARGM-NEG 22:1-ARG2
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 112 1 gold be-v be.03 ----- 1:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 112 3 gold challenge-v challenge.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 4:1-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 112 16 gold lift-v lift.02 ----- 16:0-rel 10:1-ARGM-TMP 15:1-ARG0 17:2-ARG1
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 112 25 gold challenge-n challenge.01 ----- 25:0-rel 24:0-ARGM-TMP
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 112 27 gold have-v have.01 ----- 27:0-rel
+mz/sinorama/10/ectb_1029@1029@sinorama@mz@en@on 112 30 gold begin-v begin.01 ----- 30:0-rel 8:2-ARGM-TMP 23:1-ARG1 26:0-ARGM-MOD 28:1-ARGM-ADV 29:1-ARGM-ADV

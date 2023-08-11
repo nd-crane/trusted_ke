@@ -1,0 +1,14 @@
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 1 7 gold have-v have.01 ----- 7:0-rel
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 1 8 gold die-v die.01 ----- 8:0-rel 0:2-ARG1 9:1-ARGM-CAU 12:1-ARGM-TMP
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 1 13 gold be-v be.03 ----- 13:0-rel
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 1 14 gold shoot-v shoot.02 ----- 14:0-rel 16:1-ARGM-ADV
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 2 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-ADV 2:1-ARG1 4:1-ARG2 7:2-ARGM-PRP
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 2 8 gold greet-v greet.01 ----- 8:0-rel 9:1-ARG1 10:1-ARGM-TMP 13:1-ARGM-LOC
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 3 2 gold happen-v happen.01 ----- 2:0-rel 0:1-ARG1 3:3-ARGM-TMP 7:1-ARGM-DIS
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 3 7 gold base-v base.02 ----- 7:0-rel 0:1,2:0,3:3-ARG1 8:1-ARG2
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 3 14 gold get-v get.01 ----- 14:0-rel 12:1-ARG0 15:1-ARGM-LOC
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 4 12 gold be-v be.01 ----- 12:0-rel 5:2-ARG1 13:1-ARG2
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 5 1 gold report-n report.01 ----- 1:0-rel 0:0-ARGM-TMP
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 5 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 5 4 gold be-v be.03 ----- 4:0-rel
+bn/cnn/02/cnn_0249@0249@cnn@bn@en@on 5 5 gold shoot-v shoot.02 ----- 5:0-rel 6:1-ARG3

@@ -1,0 +1,16 @@
+bn/pri/00/pri_0099@0099@pri@bn@en@on 0 2 gold have-v have.01 ----- 2:0-rel
+bn/pri/00/pri_0099@0099@pri@bn@en@on 0 3 gold pardon-v pardon.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+bn/pri/00/pri_0099@0099@pri@bn@en@on 0 6 gold lead-v lead.02 ----- 6:0-rel 7:0-ARG0
+bn/pri/00/pri_0099@0099@pri@bn@en@on 0 13 gold convict-v convict.01 ----- 13:0-rel 4:2-ARG1 14:1-ARG2 17:1-ARGM-TMP
+bn/pri/00/pri_0099@0099@pri@bn@en@on 0 16 gold charge-n charge.03 ----- 16:0-rel 15:0-ARG1
+bn/pri/00/pri_0099@0099@pri@bn@en@on 1 11 gold be-v be.01 ----- 11:0-rel 0:3-ARG1 12:1-ARG2
+bn/pri/00/pri_0099@0099@pri@bn@en@on 1 14 gold convict-v convict.01 ----- 14:0-rel 15:0-ARG1
+bn/pri/00/pri_0099@0099@pri@bn@en@on 1 16 gold pardon-v pardon.01 ----- 16:0-rel 13:1-ARG1 17:1-ARG0
+bn/pri/00/pri_0099@0099@pri@bn@en@on 2 1 gold be-v be.03 ----- 1:0-rel
+bn/pri/00/pri_0099@0099@pri@bn@en@on 2 2 gold sentence-v sentence.01 ----- 2:0-rel 3:1-ARG2
+bn/pri/00/pri_0099@0099@pri@bn@en@on 2 9 gold fine-v fine.01 ----- 9:0-rel 10:1-ARG1 12:1-ARGM-TMP
+bn/pri/00/pri_0099@0099@pri@bn@en@on 2 13 gold plead-v plead.02 ----- 13:0-rel 14:0-ARG1 15:1-ARG2
+bn/pri/00/pri_0099@0099@pri@bn@en@on 3 1 gold be-v be.03 ----- 1:0-rel
+bn/pri/00/pri_0099@0099@pri@bn@en@on 3 3 gold consider-v consider.02 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+bn/pri/00/pri_0099@0099@pri@bn@en@on 3 8 gold convict-v convict.01 ----- 8:0-rel 6:0,7:0-ARGM-ADV 9:0-ARG1
+bn/pri/00/pri_0099@0099@pri@bn@en@on 5 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-LOC 3:1-ARG1 5:1-ARG2

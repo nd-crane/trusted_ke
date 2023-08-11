@@ -1,0 +1,25 @@
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 0 7 gold 表示-v 表示.01 ----- 7:0-rel 0:3-ARG0 9:3-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 0 12 gold 适宜-v 适宜.01 ----- 12:0-rel 21:1-ARG0 11:1-ARG0
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 0 14 gold 使-v 使.01 ----- 14:0-rel 21:1-ARG0 15:1-ARG1 16:2-ARG2
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 0 23 gold 问世-v 问世.01 ----- 23:0-rel 9:2-ARG0 22:1-ARGM-TMP
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 1 10 gold 注入-v 注入.01 ----- 10:0-rel 0:4-ARG2 11:1-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 1 13 gold 用以-v 用以.01 ----- 13:0-rel 14:2-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 1 14 gold 调节-v 调节.01 ----- 14:0-rel 15:1-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 1 gold 指出-v 指出.01 ----- 1:0-rel 0:1-ARG0 2:12-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 8 gold 冲入-v 冲入.01 ----- 8:0-rel 2:4-ARG1 10:1-ARG0
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 13 gold 有-v 有.01 ----- 13:0-rel
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 16 gold 透明-v 透明.01 ----- 16:0-rel 18:1-ARG0
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 22 gold 吸收-v 吸收.01 ----- 22:0-rel 23:4-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 33 gold 影响-v 影响.01 ----- 33:0-rel 29:1-ARGM-DIS 30:1-ARGM-DIS 31:1-ARGM-ADV 32:1-ARGM-ADV 34:4-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 40 gold 采用-v 采用.01 ----- 40:0-rel 39:1-ARG0 41:2-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 47 gold 进行-v 进行.01 ----- 47:0-rel 39:1-ARG0 48:3-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 55 gold 储存-v 储存.01 ----- 55:0-rel 52:1-ARGM-ADV 53:1-ARGM-DIS 56:4-ARG2
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 60 gold 供-v 供.01 ----- 60:0-rel 61:3-ARG2
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 62 gold 使用-v 使用.01 ----- 62:0-rel 61:1-ARGM-TMP
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 65 gold 可以-v 可以.01 ----- 65:0-rel 52:1-ARGM-ADV 64:1-ARGM-ADV 66:2-ARGM-ADV
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 2 68 gold 进行-v 进行.01 ----- 68:0-rel 52:1-ARGM-ADV 64:1-ARGM-DIS 69:1-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 3 0 gold 发明-v 发明.01 ----- 0:0-rel 1:2-ARG1 6:1-ARG0
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 3 8 gold 表示-v 表示.01 ----- 8:0-rel 0:6-ARG0 10:3-ARG1
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 3 14 gold 保暖-v 保暖.01 ----- 14:0-rel 17:1-ARG0
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 3 19 gold 便宜-v 便宜.01 ----- 19:0-rel 10:2-ARG0 18:1-ARG0
+bn/cbs/00/cbs_0049@0049@cbs@bn@ch@on 3 22 gold 作为-v 作为.01 ----- 22:0-rel 10:2-ARGM-TPC 21:1-ARGM-ADV 23:3-ARG2

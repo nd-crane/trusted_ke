@@ -1,0 +1,4 @@
+nw/xinhua/03/chtb_0319@0319@xinhua@nw@en@on 0 7 gold prepare-v prepare.02 ----- 7:0-rel 4:1-ARG0 8:1-ARG2
+nw/xinhua/03/chtb_0319@0319@xinhua@nw@en@on 0 15 gold broadcast-v broadcast.01 ----- 15:0-rel 16:1-ARGM-TMP 1:2-LINK-PCR
+nw/xinhua/03/chtb_0319@0319@xinhua@nw@en@on 0 27 gold end-n end.01 ----- 27:0-rel 28:1-ARG1
+nw/xinhua/03/chtb_0319@0319@xinhua@nw@en@on 0 33 gold change-v change.01 ----- 33:0-rel 0:1-ARGM-LOC 31:0-ARGM-MOD 34:1-ARG2

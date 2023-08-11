@@ -1,0 +1,18 @@
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 0 14 gold be-v be.03 ----- 14:0-rel
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 0 15 gold charge-v charge.05 ----- 15:0-rel 13:0-ARGM-MOD 16:2-ARGM-TMP 21:1-ARGM-DIS
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 0 21 gold accord-v accord.01 ----- 21:0-rel
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 1 3 gold be-v be.03 ----- 3:0-rel
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 1 4 gold quote-v quote.01 ----- 4:0-rel 0:1-ARG0 5:2-ARG1
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 1 9 gold say-v say.01 ----- 9:0-rel 10:3-ARG1 5:1-LINK-SLC
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 1 12 gold have-v have.01 ----- 12:0-rel
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 1 13 gold wrap-v wrap.02 ----- 13:0,14:1-rel 10:1-ARG0 15:1-ARG1
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 1 19 gold hand-v hand.02 ----- 19:0,22:1-rel 10:1-ARG0 18:0-ARGM-MOD 20:1-ARG1 23:1-ARG2
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 2 3 gold be-v be.03 ----- 3:0-rel
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 2 4 gold execute-v execute.01 ----- 4:0-rel 2:0-ARGM-MOD 5:1-ARGM-ADV
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 2 7 gold be-v be.03 ----- 7:0-rel
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 2 8 gold convict-v convict.01 ----- 8:0-rel 9:1-ARG2
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 3 1 gold explosion-n explosion.01 ----- 1:0-rel 2:1-ARGM-LOC
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 3 5 gold kill-v kill.01 ----- 5:0-rel 0:2-ARG0 6:1-ARG1 13:1-ARGM-TMP
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 3 10 gold injure-v injure.01 ----- 10:0-rel 0:2-ARG0 11:1-ARG1 13:1-ARGM-TMP
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 4 2 gold suspect-v suspect.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bn/cnn/01/cnn_0109@0109@cnn@bn@en@on 4 6 gold be-v be.01 ----- 6:0-rel 3:1-ARG1 7:2-ARG2

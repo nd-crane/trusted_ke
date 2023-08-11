@@ -1,0 +1,160 @@
+bn/voa/01/voa_0179@0179@voa@bn@en@on 0 6 extend-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 0 8 emergency-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 0 9 order-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 0 11 keep-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 0 13 flow-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 1 1 measure-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 1 3 require-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 1 7 sell-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 1 8 power-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 1 11 state-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 2 hear-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 8 official-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 10 propose-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 12 energy-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 14 cap-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 21 suggestion-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 22 have-v ?,? 6
+bn/voa/01/voa_0179@0179@voa@bn@en@on 2 25 response-n ?,? 4
+bn/voa/01/voa_0179@0179@voa@bn@en@on 3 5 order-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 3 7 require-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 3 8 power-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 3 14 keep-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 3 15 send-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 4 1 resource-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 4 8 stretch-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 4 11 limit-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 4 15 threat-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 2 utility-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 3 company-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 8 generate-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 11 power-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 14 need-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 19 turn-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 26 face-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 28 rise-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 29 price-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 31 state-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 35 utility-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 38 sink-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 5 45 debt-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 6 4 threaten-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 6 6 cut-v 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 6 9 power-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 6 17 utility-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 6 22 pay-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 7 1 emergency-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 7 2 order-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 7 8 announce-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 7 13 meeting-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 7 18 keep-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 7 20 flow-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 7 25 middle-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 2 begin-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 8 impose-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 15 utility-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 18 protect-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 22 state-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 25 energy-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 32 market-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 33 control-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 34 lead-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 37 price-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 8 42 market-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 9 2 make-v 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 9 6 factor-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 10 3 station-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 10 6 build-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 10 9 state-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 10 17 be-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 10 20 repair-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 11 3 time-n 12
+bn/voa/01/voa_0179@0179@voa@bn@en@on 11 7 grow-v 4
+bn/voa/01/voa_0179@0179@voa@bn@en@on 12 4 say-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 12 6 be-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 12 8 case-n 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 12 10 demand-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 12 11 outpace-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 13 1 know-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 13 12 increase-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 14 4 price-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 14 9 cap-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 14 15 hour-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 14 19 market-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 14 22 peak-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 14 30 hour-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 15 6 utility-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 15 9 prevent-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 15 14 increase-n 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 16 6 suggest-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 16 10 cap-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 16 16 state-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 17 3 support-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 17 5 idea-n 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 18 3 leader-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 18 4 be-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 18 10 cap-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 18 12 solve-v ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 18 14 problem-n 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 19 0 energy-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 19 2 oppose-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 19 4 cap-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 19 6 say-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 19 9 need-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 19 12 build-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 19 15 station-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 3 regulator-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 4 impose-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 8 call-v 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 10 cap-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 15 require-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 16 power-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 19 justify-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 20 price-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 20 26 hour-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 21 1 measure-n ?,? 5
+bn/voa/01/voa_0179@0179@voa@bn@en@on 21 5 prevent-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 21 8 charge-v ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 21 11 level-n 6
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 8 say-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 11 have-v 12
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 13 file-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 15 bankruptcy-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 17 government-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 18 official-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 20 offer-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 22 22 relief-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 23 3 company-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 23 4 be-v ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 23 13 debt-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 24 2 be-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 1 know-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 3 utility-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 5 declare-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 7 dividend-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 17 say-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 22 continue-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 24 pay-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 26 price-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 30 keep-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 25 31 price-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 26 1 book-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 26 2 be-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 26 5 matter-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 27 1 be-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 27 7 see-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 28 2 talk-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 28 8 see-v 4
+bn/voa/01/voa_0179@0179@voa@bn@en@on 28 11 know-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 28 17 have-v 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 28 19 ability-n ?,? 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 28 21 do-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 29 3 print-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 29 4 money-n 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 30 5 warn-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 30 10 power-n ?,? 3
+bn/voa/01/voa_0179@0179@voa@bn@en@on 30 13 state-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 30 15 begin-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 30 22 nothing-n ?,? 2
+bn/voa/01/voa_0179@0179@voa@bn@en@on 30 25 do-v 1
+bn/voa/01/voa_0179@0179@voa@bn@en@on 30 27 alleviate-v 1

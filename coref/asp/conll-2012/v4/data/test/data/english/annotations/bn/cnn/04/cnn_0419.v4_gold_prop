@@ -1,0 +1,11 @@
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 0 0 gold convict-v convict.01 ----- 0:0-rel 1:0-ARG1
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 0 8 gold be-v be.01 ----- 8:0-rel 0:3-ARG1 9:1-ARG2
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 1 1 gold return-v return.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG4 5:1-ARGM-TMP 6:1-ARG3 8:1-ARGM-TMP
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 1 8 gold follow-v follow.01 ----- 8:0-rel 9:2-ARG2
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 1 10 gold capture-n capture.01 ----- 10:0-rel 9:0-ARG1 11:1-ARGM-TMP 12:1-ARG0
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 2 1 gold skip-v skip.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-TMP
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 2 5 gold trial-n trial.02 ----- 5:0-rel 4:0-ARG1 6:1-ARGM-TMP 8:1-ARG3
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 2 9 gold rape-v rape.01 ----- 9:0-rel 0:1-ARG0 12:1-ARG1
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 2 11 gold drug-v drug.01 ----- 11:0-rel 0:1-ARG0 12:1-ARG1
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 3 1 gold be-v be.03 ----- 1:0-rel
+bn/cnn/04/cnn_0419@0419@cnn@bn@en@on 3 2 gold sentence-v sentence.01 ----- 2:0-rel 3:1-ARGM-MNR 5:1-ARG2

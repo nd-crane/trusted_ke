@@ -1,0 +1,22 @@
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 17 gold 强调-v 强调.01 ----- 17:0-rel 0:2-ARGM-TPC 3:1-ARG1 10:4-ARG0 16:1-ARGM-TMP 19:3-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 19 gold 必须-v 必须.01 ----- 19:0-rel
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 21 gold 实施-v 实施.01 ----- 21:0-rel 20:1-ARGM-ADV 22:6-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 26 gold 为主-v 为主.01 ----- 26:0-rel 28:1-ARG0 22:1-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 31 gold 严禁-v 严禁.01 ----- 31:0-rel 32:3-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 33 gold 流入-v 流入.01 ----- 33:0-rel 34:1-ARG0
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 38 gold 生育-v 生育.01 ----- 38:0-rel 36:2-ARGM-LOC 40:1-ARG0
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 0 41 gold 进行-v 进行.01 ----- 41:0-rel 42:2-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 1 2 gold 设立-v 设立.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 6:1-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 1 8 gold 应-v 应.02 ----- 8:0-rel
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 1 10 gold 撤回-v 撤回.01 ----- 10:0-rel 0:5-ARG0 9:1-ARGM-ADV
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 1 gold 指出-v 指出.01 ----- 1:0-rel 0:1-ARG0 3:4-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 5 gold 要-v 要.06 ----- 5:0-rel 3:2-ARG0 6:2-ARGM-ADV
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 6 gold 建立-v 建立.01 ----- 6:0-rel 3:2-ARG0 8:5-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 7 gold 完善-v 完善.01 ----- 7:0-rel 3:2-ARG0 8:5-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 20 gold 出现-v 出现.01 ----- 20:0-rel 17:3-ARG0 24:1-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 30 gold 必须-v 必须.01 ----- 30:0-rel
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 35 gold 建立-v 建立.01 ----- 35:0-rel 26:2-ARG0 34:1-ARGM-ADV 36:7-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 38 gold 协调-v 协调.01 ----- 38:0-rel 36:2-ARGM-LOC 41:1-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 39 gold 统一-v 统一.01 ----- 39:0-rel 36:2-ARGM-LOC 41:1-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 46 gold 实现-v 实现.01 ----- 46:0-rel 26:2-ARG0 45:1-ARGM-ADV 47:4-ARG1
+bn/cnr/01/cnr_0129@0129@cnr@bn@ch@on 2 53 gold 查询-v 查询.01 ----- 53:0-rel 52:1-ARGM-ADV

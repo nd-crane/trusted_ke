@@ -1,0 +1,15 @@
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 0 1 gold summit-n summit.01 ----- 1:0-rel
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 0 2 gold be-v be.03 ----- 2:0-rel
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 0 3 gold coincide-v coincide.01 ----- 3:0-rel 0:1-ARG1 4:1-ARG1
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 1 4 gold throw-v throw.01 ----- 4:0-rel 2:0-ARG1 5:0-ARG0
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 1 6 gold storm-v storm.02 ----- 6:0-rel 0:2-ARG0 7:2-ARG1 15:2-ARGM-ADV
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 1 10 gold control-v control.01 ----- 10:0-rel 8:0-ARG0 11:0,12:1-ARG1
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 1 15 gold break-v break.01 ----- 15:0-rel 16:2-ARG1
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 1 18 gold impose-v impose.01 ----- 18:0-rel 16:1-ARG1 19:1-ARGM-TMP
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 2 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 2 4 gold fire-v fire.01 ----- 4:0-rel 2:1-ARG0 5:2-ARG1 14:2-ARGM-ADV
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 2 10 gold coat-v coat.01 ----- 10:0-rel 8:0-ARG2 11:0,12:0-ARG1
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 2 14 gold wound-v wound.01 ----- 14:0-rel 15:3-ARG1
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 3 4 gold march-v march.01 ----- 4:0-rel 0:2-ARG0 5:1-ARGM-LOC 8:2-ARGM-PRP
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 3 9 gold protest-v protest.01 ----- 9:0-rel 10:1-ARG1
+bn/cnn/00/cnn_0039@0039@cnn@bn@en@on 3 14 gold contact-n contact.01 ----- 14:0-rel 15:1-ARG1

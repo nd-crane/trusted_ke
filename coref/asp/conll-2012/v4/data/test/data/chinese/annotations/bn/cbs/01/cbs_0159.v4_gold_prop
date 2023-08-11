@@ -1,0 +1,19 @@
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 1 gold 设-v 设.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG3 5:1-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 8 gold 表示-v 表示.01 ----- 8:0-rel 0:5-ARG0 7:1-ARGM-TMP 10:3-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 16 gold 成功-v 成功.01 ----- 16:0-rel
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 20 gold 逃到-v 逃到.01 ----- 20:0-rel 12:1-ARG0 14:2-ARGM-TMP 16:2-ARGM-ADV 18:1-ARGM-DIR 21:1-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 26 gold 施压-v 施压.01 ----- 26:0-rel 10:1-ARG0 11:1-ARGM-TMP 23:1-ARGM-ADV 24:1-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 28 gold 要求-v 要求.02 ----- 28:0-rel 10:1-ARG0 11:1-ARGM-TMP 29:1-ARG1 30:2-ARG2
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 30 gold 加强-v 加强.01 ----- 30:0-rel 31:1-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 38 gold 屈服-v 屈服.01 ----- 38:0-rel 35:1-ARGM-DIS 36:1-ARG0 37:1-ARGM-DIS 39:1-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 46 gold 开始-v 开始.01 ----- 46:0-rel 35:1-ARGM-DIS 36:1-ARG0 45:1-ARGM-ADV 47:1-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 47 gold 遣返-v 遣返.01 ----- 47:0-rel 35:1-ARGM-DIS 36:1-ARG0 45:1-ARGM-ADV 48:5-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 0 48 gold 逃离-v 逃离.01 ----- 48:0-rel 49:1-ARG1 51:1-ARG0
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 1 4 gold 指出-v 指出.01 ----- 4:0-rel 1:3-ARG0
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 1 6 gold 有-v 有.05 ----- 6:0-rel 0:1-ARGM-MNR 5:1-ARGM-ADV 7:3-ARGM-ADV
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 1 21 gold 交给-v 交给.01 ----- 21:0-rel 11:1-ARGM-TMP 19:1-ARGM-ADV 22:2-ARG2
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 2 4 gold 加强-v 加强.01 ----- 4:0-rel 0:2-ARG0 2:1-ARGM-DIS 3:1-ARGM-ADV 5:7-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 2 7 gold 交界-v 交界.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG0
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 2 14 gold 逮捕-v 逮捕.01 ----- 14:0-rel 0:2-ARG0 15:5-ARG1
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 2 15 gold 意图-v 意图.01 ----- 15:0-rel 16:3-ARG1 27:1-ARG0
+bn/cbs/01/cbs_0159@0159@cbs@bn@ch@on 2 24 gold 返回-v 返回.01 ----- 24:0-rel 16:1-ARGM-DIR 25:1-ARG1

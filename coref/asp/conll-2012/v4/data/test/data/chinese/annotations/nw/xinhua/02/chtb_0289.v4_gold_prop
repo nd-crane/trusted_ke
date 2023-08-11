@@ -1,0 +1,80 @@
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 0 4 gold 实施-v 实施.01 ----- 4:0-rel 0:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 0 9 gold 保护-n 保护.01 ----- 9:0-rel 5:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 3 gold 发出-v 发出.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 4:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 11 gold 规定-n 规定.01 ----- 11:0-rel 7:1,8:2-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 17 gold 加强-v 加强.01 ----- 17:0-rel 16:1-ARGM-ADV 18:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 20 gold 保护-n 保护.01 ----- 20:0-rel 18:0,19:0-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 21 gold 工作-n 工作.01 ----- 21:0-rel 16:1-ARGM-MNR 17:0-rel-Sup 18:0,19:0,20:0-ARGM-LOC
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 23 gold 决定-n 决定.01 ----- 23:0-rel 13:1-ARG0 15:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 36 gold 实施-v 实施.01 ----- 36:0-rel 6:1-ARGM-MNR 26:1-ARG0 27:1-ARGM-ADV 28:1-ARGM-TMP 33:1-ARGM-LOC 37:3-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 2 41 gold 保护-n 保护.01 ----- 41:0-rel 37:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 2 gold 指出-v 指出.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:7-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 4 gold 侵犯-v 侵犯.01 ----- 4:0-rel 5:1-ARG1 17:1-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 8 gold 包括-v 包括.01 ----- 8:0-rel 9:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 19 gold 准-v 准.01 ----- 19:0-rel 4:5-ARG1 18:1-ARGM-ADV 20:1-ARG2
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 20 gold 进口-v 进口.01 ----- 20:0-rel 4:5-ARG1 18:1-ARGM-ADV
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 22 gold 出口-v 出口.01 ----- 22:0-rel 4:5-ARG1 18:1-ARGM-ADV
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 25 gold 发现-v 发现.01 ----- 25:0-rel 26:7-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 27 gold 举报-v 举报.01 ----- 27:0-rel 28:2-ARG2 31:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 28 gold 涉嫌-v 涉嫌.01 ----- 28:0-rel 29:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 29 gold 侵权-n 侵权.01 ----- 29:0-rel 28:0-rel-Sup
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 34 gold 有-v 有.03 ----- 34:0-rel 35:3-ARG1 40:1-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 35 gold 侵犯-v 侵犯.01 ----- 35:0-rel 36:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 41 gold 进出口-v 进出口.01 ----- 41:0-rel 26:6-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 44 gold 有-v 有.01 ----- 44:0-rel 24:1-ARG0 25:3-ARGM-TMP 45:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 46 gold 要求-v 要求.02 ----- 46:0-rel 24:1-ARG0 25:3-ARGM-TMP 47:5-ARG1 51:3-ARG2
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 47 gold 进出口-v 进出口.01 ----- 47:0-rel 50:1-ARG0 48:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 51 gold 提供-v 提供.01 ----- 51:0-rel 52:4-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 52 gold 使用-v 使用.01 ----- 52:0-rel 53:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 58 gold 证明-n 证明.01 ----- 58:0-rel 52:2,57:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 69 gold 作出-v 作出.01 ----- 69:0-rel 70:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 70 gold 补充-n 补充.01 ----- 70:0-rel 71:0-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 78 gold 证明-n 证明.01 ----- 78:0-rel 77:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 83 gold 有-v 有.01 ----- 83:0-rel 82:1-ARG0 84:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 86 gold 退运-v 退运.01 ----- 86:0-rel 73:1-ARG1 82:1-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 88 gold 进出口-v 进出口.01 ----- 88:0-rel 89:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 97 gold 贸易-n 贸易.01 ----- 97:0-rel 96:0-ARGM-MNR
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 99 gold 进口-v 进口.01 ----- 99:0-rel 95:1-ARGM-MNR 100:4-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 115 gold 规定-n 规定.01 ----- 115:0-rel 113:1-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 120 gold 管理-n 管理.01 ----- 120:0-rel 118:1-ARG1 119:1-ARGM-ADV 121:0-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 122 gold 出具-v 出具.01 ----- 122:0-rel 118:2-ARG0 124:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 125 gold 证明-n 证明.01 ----- 125:0-rel 124:0-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 126 gold 办理-v 办理.01 ----- 126:0-rel 88:3-ARGM-ADV 110:1-ARG0 112:1-ARGM-MNR 117:1-ARGM-MNR 127:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 130 gold 进出口-n 进出口.01 ----- 130:0-rel 131:0-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 139 gold 申报-v 申报.01 ----- 139:0-rel 130:1-ARG0 133:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 145 gold 监管-n 监管.01 ----- 145:0-rel 144:0-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 147 gold 走私-v 走私.01 ----- 147:0-rel 130:1-ARG0 148:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 3 157 gold 处理-v 处理.01 ----- 157:0-rel 130:5-ARG1 152:1-ARG0 154:1-ARGM-MNR
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 4 12 gold 作出-v 作出.01 ----- 12:0-rel 0:1-ARG0 1:1-ARGM-ADV 13:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 4 13 gold 规定-n 规定.01 ----- 13:0-rel 0:1-ARG0 1:1-ARGM-DIS 2:1-ARGM-TPC 12:0-rel-Sup
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 0 gold 受-v 受.01 ----- 0:0-rel 1:3-ARG1 5:1-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 3 gold 保护-v 保护.01 ----- 3:0-rel 1:2-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 8 gold 发现-v 发现.01 ----- 8:0-rel 0:5-ARGM-TPC 9:6-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 9 gold 侵犯-v 侵犯.01 ----- 9:0-rel 10:2-ARG1 14:1-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 16 gold 要-v 要.03 ----- 16:0-rel
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 17 gold 进出口-v 进出口.01 ----- 17:0-rel 9:5-ARG1 15:1-ARGM-ADV
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 20 gold 可以-v 可以.01 ----- 20:0-rel
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 26 gold 证明-n 证明.01 ----- 26:0-rel 22:2,25:0-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 32 gold 登记-n 登记.01 ----- 32:0-rel 29:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 33 gold 注册-n 注册.01 ----- 33:0-rel 29:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 41 gold 足以-v 足以.01 ----- 41:0-rel 42:2-ARG1 47:1-ARG0
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 42 gold 证明-v 证明.01 ----- 42:0-rel 43:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 54 gold 举报-v 举报.01 ----- 54:0-rel 0:9-ARG0 21:1-ARGM-MNR 49:1-ARG3
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 57 gold 可以-v 可以.01 ----- 57:0-rel
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 58 gold 请求-v 请求.01 ----- 58:0-rel 0:9-ARG0 59:1-ARG1 60:3-ARG2
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 63 gold 进出口-v 进出口.01 ----- 63:0-rel 61:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 65 gold 予以-v 予以.01 ----- 65:0-rel 60:1-ARGM-TMP 66:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 5 66 gold 查处-v 查处.01 ----- 66:0-rel 60:1-ARGM-TMP
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 3 gold 请求-v 请求.01 ----- 3:0-rel 4:1-ARG1 5:2-ARG2
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 5 gold 查处-v 查处.01 ----- 5:0-rel 6:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 10 gold 应-v 应.01 ----- 10:0-rel
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 12 gold 进出口-n 进出口.01 ----- 12:0-rel 13:0-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 14 gold 构成-v 构成.01 ----- 14:0-rel 12:1-ARG0 15:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 17 gold 承担-v 承担.01 ----- 17:0-rel 0:1-ARG0 3:3-ARGM-TMP 18:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 21 gold 协助-v 协助.02 ----- 21:0-rel 0:1-ARG0 3:3-ARGM-TMP 22:1-ARG1 23:2-ARG2
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 23 gold 开展-v 开展.01 ----- 23:0-rel 24:1-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 25 gold 工作-n 工作.01 ----- 25:0-rel 23:0-rel-Sup 24:0-ARGM-LOC
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 27 gold 支付-v 支付.01 ----- 27:0-rel 0:1-ARG0 3:3-ARGM-TMP 28:6-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 31 gold 鉴定-n 鉴定.01 ----- 31:0-rel 28:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 6 33 gold 调查-n 调查.01 ----- 33:0-rel 28:2-ARG1
+nw/xinhua/02/chtb_0289@0289@xinhua@nw@ch@on 7 1 gold 完-v 完.01 ----- 1:0-rel

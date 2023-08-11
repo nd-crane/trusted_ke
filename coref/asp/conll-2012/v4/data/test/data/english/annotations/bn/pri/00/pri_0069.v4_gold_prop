@@ -1,0 +1,27 @@
+bn/pri/00/pri_0069@0069@pri@bn@en@on 0 7 gold have-v have.01 ----- 7:0-rel
+bn/pri/00/pri_0069@0069@pri@bn@en@on 0 8 gold be-v be.03 ----- 8:0-rel
+bn/pri/00/pri_0069@0069@pri@bn@en@on 0 9 gold declare-v declare.01 ----- 9:0-rel 0:1-ARGM-LOC 10:3-ARG1
+bn/pri/00/pri_0069@0069@pri@bn@en@on 1 4 gold report-v report.01 ----- 4:0-rel 0:2-ARG0
+bn/pri/00/pri_0069@0069@pri@bn@en@on 2 3 gold win-v win.01 ----- 3:0-rel 0:2-ARG0 4:1-ARGM-MNR 10:1-ARGM-ADV
+bn/pri/00/pri_0069@0069@pri@bn@en@on 2 10 gold accord-v accord.01 ----- 10:0-rel
+bn/pri/00/pri_0069@0069@pri@bn@en@on 3 3 gold be-v be.03 ----- 3:0-rel
+bn/pri/00/pri_0069@0069@pri@bn@en@on 3 4 gold expect-v expect.01 ----- 4:0-rel 5:1-ARGM-CAU
+bn/pri/00/pri_0069@0069@pri@bn@en@on 3 7 gold run-v run.02 ----- 7:0-rel 6:1-ARG0 8:2-ARGM-PRD
+bn/pri/00/pri_0069@0069@pri@bn@en@on 4 2 gold boycott-v boycott.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 5:2-ARGM-ADV
+bn/pri/00/pri_0069@0069@pri@bn@en@on 4 4 gold vote-n vote.01 ----- 4:0-rel
+bn/pri/00/pri_0069@0069@pri@bn@en@on 4 5 gold cite-v cite.01 ----- 5:0-rel 6:2-ARG1
+bn/pri/00/pri_0069@0069@pri@bn@en@on 4 6 gold taint-v taint.01 ----- 6:0-rel 7:0,8:0-ARG1
+bn/pri/00/pri_0069@0069@pri@bn@en@on 5 1 gold be-v be.03 ----- 1:0-rel
+bn/pri/00/pri_0069@0069@pri@bn@en@on 5 2 gold elect-v elect.01 ----- 2:0-rel 3:2-ARG2 4:1-ARGM-TMP 8:2-ARGM-TMP
+bn/pri/00/pri_0069@0069@pri@bn@en@on 5 12 gold serve-v serve.01 ----- 12:0-rel 0:1-ARG0 13:1-ARG1 15:1-ARGM-TMP
+bn/pri/00/pri_0069@0069@pri@bn@en@on 5 19 gold send-v send.03 ----- 19:0-rel 16:1-ARG0 20:1-ARG1 21:1-ARG2
+bn/pri/00/pri_0069@0069@pri@bn@en@on 6 2 gold face-v face.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:1-ARG1 5:1-ARGM-PRD
+bn/pri/00/pri_0069@0069@pri@bn@en@on 7 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+bn/pri/00/pri_0069@0069@pri@bn@en@on 7 14 gold have-v have.01 ----- 14:0-rel
+bn/pri/00/pri_0069@0069@pri@bn@en@on 7 15 gold shun-v shun.01 ----- 15:0-rel 9:2-ARG0 16:1-ARG1
+bn/pri/00/pri_0069@0069@pri@bn@en@on 8 7 gold call-v call.05 ----- 7:0-rel 0:1-ARGM-TMP 2:2-ARG0 8:1-ARG1 11:2-ARG2 17:2-ARGM-ADV
+bn/pri/00/pri_0069@0069@pri@bn@en@on 8 12 gold close-v close.03 ----- 12:0-rel 13:2-ARG1
+bn/pri/00/pri_0069@0069@pri@bn@en@on 8 17 gold cite-v cite.01 ----- 17:0-rel 18:1-ARG1
+bn/pri/00/pri_0069@0069@pri@bn@en@on 9 6 gold keep-v keep.04 ----- 6:0-rel 0:0-ARGM-ADV 1:2-ARG0 7:1-ARG1 9:1-ARG2 13:1-ARGM-TMP
+bn/pri/00/pri_0069@0069@pri@bn@en@on 9 17 gold vote-n vote.01 ----- 17:0-rel 18:1-ARGM-REC
+bn/pri/00/pri_0069@0069@pri@bn@en@on 9 19 gold go-v go.09 ----- 19:0-rel 0:1-ARGM-ADV 16:2-ARG1 20:1-ARGM-MNR

@@ -1,0 +1,35 @@
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 5 gold 表示-v 表示.01 ----- 5:0-rel 0:2-ARG0 3:1-ARGM-TMP 7:5-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 10 gold 侵袭-v 侵袭.01 ----- 10:0-rel 7:3-ARG0 11:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 14 gold 造成-v 造成.01 ----- 14:0-rel 7:3-ARG0 13:1-ARGM-ADV 15:4-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 17 gold 丧生-v 丧生.01 ----- 17:0-rel 15:2-ARG0
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 19 gold 超过-v 超过.01 ----- 19:0-rel 21:1-ARG0 20:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 22 gold 无家可归-v 无家可归.01 ----- 22:0-rel 19:4-ARG0
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 24 gold 预料-v 预料.01 ----- 24:0-rel 25:2-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 28 gold 有-v 有.03 ----- 28:0-rel 25:1-ARG0 29:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 30 gold 继续-v 继续.01 ----- 30:0-rel 25:1-ARG1 27:1-ARGM-ADV 31:2-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 0 32 gold 攀升-v 攀升.01 ----- 32:0-rel 25:1-ARG0 31:1-ARGM-ADV
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 1 2 gold 表示-v 表示.01 ----- 2:0-rel 0:1-ARG0 4:4-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 1 7 gold 侵袭-v 侵袭.01 ----- 7:0-rel 4:1-ARG0 6:1-ARGM-TMP 8:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 1 17 gold 有-v 有.05 ----- 17:0-rel 4:3-ARGM-TMP 11:1-ARGM-LOC 16:1-ARGM-ADV 18:4-ARGM-ADV
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 1 29 gold 毁-v 毁.01 ----- 29:0-rel
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 2 2 gold 有-v 有.05 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARGM-ADV 3:3-ARGM-ADV
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 2 18 gold 受伤-v 受伤.01 ----- 18:0-rel 3:2-ARG0 5:1-ARGM-PRP
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 3 6 gold 受创-v 受创.01 ----- 6:0-rel 0:4-ARG0
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 3 8 gold 严重-v 严重.01 ----- 8:0-rel 0:4-ARG0 6:1-ARG0 7:1-ARGM-ADV
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 4 5 gold 表示-v 表示.01 ----- 5:0-rel 0:1-ARGM-ADV 1:3-ARG0 7:9-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 4 9 gold 飞-v 飞.02 ----- 9:0-rel 7:1-ARGM-DIR 10:1-ARG2 17:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 4 19 gold 遇上-v 遇上.01 ----- 19:0-rel 7:6-ARG0 18:1-ARGM-TMP 20:5-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 4 21 gold 引发-v 引发.01 ----- 21:0-rel 20:1-ARG0 23:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 4 26 gold 造成-v 造成.01 ----- 26:0-rel 7:7-ARG0 25:1-ARGM-ADV 27:3-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 4 30 gold 受伤-v 受伤.01 ----- 30:0-rel 27:2-ARG0
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 4 34 gold 是-v 是.01 ----- 34:0-rel 32:1-ARGM-ADV 33:1-ARG0 35:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 5 7 gold 降落-v 降落.01 ----- 7:0-rel 0:2-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 8:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 6 3 gold 说-v 说.01 ----- 3:0-rel 0:3-ARG0 5:2-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 6 9 gold 宣布-v 宣布.01 ----- 9:0-rel 6:2-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 6 12 gold 是-v 是.01 ----- 12:0-rel 10:2-ARG0 13:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 6 15 gold 包括-v 包括.01 ----- 15:0-rel 16:2-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 6 20 gold 有-v 有.05 ----- 20:0-rel 15:4-ARG0 21:3-ARGM-ADV
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 6 25 gold 没有-v 没有.01 ----- 25:0-rel 21:2-ARG0 24:1-ARGM-ADV 26:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 7 1 gold 估计-v 估计.01 ----- 1:0-rel 0:1-ARG0 2:6-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 7 6 gold 造成-v 造成.01 ----- 6:0-rel 2:1-ARG0 4:1-ARGM-LOC 12:1-ARG1
+bn/cbs/00/cbs_0039@0039@cbs@bn@ch@on 7 14 gold 达-v 达.01 ----- 14:0-rel 2:5-ARG0 13:1-ARGM-ADV 15:1-ARG1

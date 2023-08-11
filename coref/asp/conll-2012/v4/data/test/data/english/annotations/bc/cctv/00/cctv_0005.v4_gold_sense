@@ -1,0 +1,735 @@
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 0 6 agree-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 1 1 express-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 1 10 compare-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 1 20 cast-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 2 1 take-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 2 4 prove-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 2 11 meet-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 2 19 arise-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 2 27 correct-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 3 8 end-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 4 1 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 5 0 thank-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 5 4 watch-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 6 0 come-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 6 7 host-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 9 0 welcome-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 10 2 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 10 4 turn-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 10 15 happen-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 11 11 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 11 30 result-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 11 34 cave-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 12 6 activate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 13 4 carry-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 14 8 activate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 14 12 operate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 15 7 do-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 15 9 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 16 8 take-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 16 10 resolve-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 16 17 heat-n ?,? 6
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 16 25 ensure-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 16 33 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 17 4 invite-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 17 13 follow-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 18 9 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 20 1 be-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 22 0 welcome-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 22 8 participate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 23 4 want-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 23 6 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 23 15 find-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 24 11 happen-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 24 13 find-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 24 20 be-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 27 1 happen-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 27 7 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 28 6 send-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 28 16 come-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 28 17 pick-v 7.2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 28 21 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 29 4 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 30 3 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 32 2 happen-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 32 4 call-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 33 1 be-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 35 2 call-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 35 7 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 35 9 happen-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 35 16 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 35 18 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 35 24 research-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 36 3 mean-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 36 8 find-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 39 8 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 40 12 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 40 20 contain-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 42 4 feel-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 42 11 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 43 2 live-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 43 14 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 43 19 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 43 21 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 43 28 inform-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 46 5 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 46 7 content-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 47 0 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 47 2 take-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 48 1 remember-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 48 18 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 48 48 implement-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 48 63 request-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 48 66 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 49 3 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 49 6 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 50 3 be-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 50 6 sentence-n 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 50 10 thank-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 51 10 feel-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 51 12 seem-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 51 14 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 51 24 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 51 28 give-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 52 3 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 52 9 live-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 52 13 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 53 11 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 55 9 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 55 14 spread-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 57 7 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 59 2 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 60 3 remember-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 60 4 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 60 14 snow-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 60 19 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 62 5 give-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 64 6 send-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 64 8 inform-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 64 18 consider-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 64 23 expression-n 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 65 3 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 65 27 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 65 29 ponder-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 67 8 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 67 19 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 68 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 68 8 emphasize-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 69 2 make-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 69 4 sound-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 69 7 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 70 4 talk-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 70 12 seem-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 72 1 seem-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 72 13 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 72 15 expression-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 72 20 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 72 22 find-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 73 10 apply-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 74 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 77 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 77 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 77 15 remember-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 77 26 criticize-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 79 1 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 79 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 79 10 put-v ?,? 7.32
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 80 5 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 80 14 create-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 83 1 drive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 4 inform-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 17 continue-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 19 head-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 25 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 27 happen-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 32 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 35 go-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 84 42 clear-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 86 5 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 86 9 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 87 1 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 87 7 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 88 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 88 8 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 88 10 announce-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 88 20 fit-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 89 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 90 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 90 10 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 91 1 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 91 8 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 92 8 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 92 15 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 92 22 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 93 3 notice-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 93 10 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 94 1 seem-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 94 5 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 97 2 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 98 6 react-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 99 0 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 99 2 take-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 101 1 see-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 101 3 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 102 3 say-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 102 6 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 103 0 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 103 2 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 105 1 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 108 13 respond-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 111 5 drive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 112 1 set-v 6
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 112 7 take-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 113 2 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 113 9 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 114 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 115 6 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 116 4 inform-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 117 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 117 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 118 1 seem-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 118 10 respond-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 118 16 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 119 12 bring-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 119 20 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 119 36 leave-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 120 0 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 120 2 find-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 121 3 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 121 23 rush-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 121 31 direct-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 121 34 carry-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 123 15 arrive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 124 0 see-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 124 7 see-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 126 9 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 126 12 be-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 127 1 mean-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 127 4 arrive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 127 13 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 128 12 activate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 128 16 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 129 8 work-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 129 20 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 129 24 give-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 129 28 broadcast-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 132 2 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 132 5 turn-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 133 0 judge-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 133 17 cause-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 133 22 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 133 23 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 134 2 concern-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 134 6 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 134 10 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 135 2 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 136 5 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 136 29 cause-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 136 36 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 138 3 impact-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 139 6 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 139 14 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 139 25 take-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 140 5 imagine-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 140 6 impose-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 140 34 block-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 141 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 141 12 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 142 16 broadcast-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 142 19 move-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 142 21 broadcast-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 142 28 broadcast-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 142 30 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 143 10 come-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 143 14 end-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 143 17 broadcast-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 143 21 continue-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 143 25 broadcast-n ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 143 36 experience-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 143 57 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 145 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 146 4 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 146 8 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 148 3 feel-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 149 2 know-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 150 6 interview-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 151 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 151 4 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 151 7 understand-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 152 9 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 152 12 set-v 6
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 152 23 drive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 153 5 drive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 155 7 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 155 10 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 156 8 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 157 2 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 157 5 work-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 158 2 discuss-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 158 6 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 158 13 be-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 159 4 suggest-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 159 8 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 159 17 take-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 159 25 reach-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 159 30 get-v 11.2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 161 3 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 161 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 162 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 162 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 163 10 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 163 22 mention-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 163 30 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 164 4 take-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 165 2 represent-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 166 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 168 2 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 168 32 see-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 168 56 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 169 4 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 171 2 live-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 171 6 want-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 171 8 cross-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 171 15 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 171 17 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 172 6 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 172 14 imagine-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 172 29 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 172 37 catch-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 173 4 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 173 7 see-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 173 13 cross-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 175 3 cross-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 175 8 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 175 13 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 175 27 show-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 175 36 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 177 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 177 12 wonder-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 177 16 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 177 19 accommodate-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 178 5 happen-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 178 11 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 178 17 have-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 179 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 179 7 look-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 181 0 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 181 2 see-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 183 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 186 10 take-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 186 12 direct-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 187 3 interview-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 188 0 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 188 2 hear-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 188 6 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 189 7 activate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 190 8 emerge-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 190 12 set-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 191 6 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 191 12 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 191 14 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 191 18 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 192 4 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 192 14 link-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 193 3 ensure-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 193 12 formulate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 194 1 set-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 194 36 deploy-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 194 44 divert-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 194 46 direct-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 196 3 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 197 4 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 198 2 send-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 198 11 shoot-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 199 0 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 199 2 take-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 200 8 see-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 200 29 lead-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 200 37 come-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 201 7 fall-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 201 16 deploy-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 201 23 direct-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 201 29 guide-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 201 32 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 202 7 carry-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 202 23 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 203 18 take-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 203 22 drive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 203 30 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 203 37 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 203 43 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 206 11 find-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 207 11 happen-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 207 13 tell-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 208 2 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 208 15 be-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 208 36 get-v ?,? 11.2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 208 43 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 209 3 send-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 209 5 say-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 209 10 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 209 19 walk-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 209 26 go-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 209 28 take-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 210 3 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 210 8 enjoy-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 211 2 remind-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 211 5 wear-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 212 1 show-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 212 5 encounter-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 212 13 start-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 212 15 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 212 18 face-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 213 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 213 6 face-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 213 12 show-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 213 22 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 213 24 endure-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 213 39 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 213 40 experience-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 214 6 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 214 11 show-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 214 29 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 215 4 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 215 9 try-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 216 10 contribute-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 218 8 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 218 13 become-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 220 9 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 220 15 achieve-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 224 7 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 224 17 go-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 224 33 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 225 1 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 225 10 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 225 13 report-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 225 27 give-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 227 7 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 227 11 put-v ?,? 7.1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 227 15 concern-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 228 8 publicize-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 228 11 publicize-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 228 17 guide-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 228 22 do-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 229 14 form-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 230 11 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 231 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 231 7 sum-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 231 17 extend-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 232 3 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 232 6 look-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 233 1 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 233 15 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 234 5 involve-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 234 30 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 236 5 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 236 10 be-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 237 5 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 238 1 include-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 238 6 mention-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 238 15 heat-n ?,? 6
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 241 14 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 241 31 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 242 0 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 242 2 take-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 242 13 deal-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 243 36 participate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 244 2 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 244 6 adopt-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 244 13 minimize-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 244 29 ensure-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 245 2 look-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 245 19 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 245 21 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 245 35 involve-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 246 10 involve-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 246 15 take-v 14.1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 246 21 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 246 26 coordinate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 249 1 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 249 11 solve-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 249 15 show-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 250 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 250 6 build-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 250 27 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 250 33 resolve-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 250 40 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 250 45 resolve-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 253 3 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 253 7 require-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 254 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 254 8 involve-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 254 25 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 256 4 form-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 257 11 feel-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 257 14 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 257 20 cooperate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 258 4 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 258 27 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 258 30 coordinate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 259 44 play-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 260 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 260 5 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 262 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 263 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 265 14 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 265 21 damage-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 265 35 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 265 38 carry-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 266 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 266 17 drop-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 267 6 damage-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 268 7 affect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 268 9 live-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 269 11 do-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 270 5 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 270 15 send-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 271 7 spend-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 272 19 pipeline-n 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 273 6 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 273 17 make-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 273 23 take-v 14.1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 274 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 274 4 do-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 277 13 have-v ?,? 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 277 39 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 279 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 279 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 280 4 see-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 280 15 experience-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 281 5 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 282 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 282 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 283 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 284 2 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 284 12 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 285 3 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 286 4 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 286 9 activate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 286 23 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 289 3 think-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 289 9 happen-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 289 50 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 289 61 continue-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 289 63 improve-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 291 10 do-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 291 12 receive-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 292 5 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 292 12 have-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 294 3 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 295 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 295 12 become-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 296 6 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 296 9 activate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 296 17 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 297 9 remember-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 297 18 mention-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 297 26 remember-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 297 29 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 298 3 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 299 7 happen-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 299 11 host-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 300 7 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 301 6 be-v ?,? 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 302 1 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 302 6 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 303 1 sit-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 303 7 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 304 2 find-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 305 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 306 6 experience-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 306 34 activate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 307 7 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 307 9 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 307 12 go-v 15
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 307 23 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 307 27 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 307 36 give-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 308 14 become-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 308 20 be-v ?,? 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 310 2 play-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 311 12 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 311 13 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 311 28 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 312 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 312 5 give-v ?,? 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 313 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 313 7 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 313 10 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 314 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 314 6 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 314 15 lurk-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 318 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 318 17 include-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 322 6 manage-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 322 8 resolve-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 322 13 turn-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 322 21 evolve-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 324 3 want-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 324 5 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 324 6 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 324 20 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 324 26 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 325 9 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 325 14 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 326 4 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 327 1 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 327 21 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 328 1 be-v ?,? 9
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 328 3 say-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 328 6 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 329 4 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 329 11 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 3 enter-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 12 contain-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 16 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 26 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 31 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 34 formation-n 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 41 include-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 330 46 warning-n 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 331 19 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 331 27 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 331 32 learn-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 332 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 332 4 comparison-n ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 332 10 say-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 332 16 develop-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 332 19 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 333 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 334 8 expand-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 334 19 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 334 25 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 334 32 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 334 39 learn-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 335 11 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 336 15 strengthen-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 338 3 need-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 338 5 learn-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 338 7 manage-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 340 16 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 341 4 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 341 10 do-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 341 12 make-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 341 24 be-v ?,? 9
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 341 28 implement-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 342 4 need-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 342 6 explore-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 342 12 execute-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 342 24 cooperate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 343 20 withstand-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 344 1 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 344 31 set-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 344 47 put-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 345 5 undergo-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 345 6 test-n ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 346 2 include-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 346 10 making-n 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 347 20 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 347 23 be-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 348 7 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 349 8 make-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 349 16 ensure-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 349 22 live-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 350 4 propose-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 352 4 refer-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 352 15 refer-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 353 3 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 353 6 have-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 353 12 do-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 355 4 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 355 6 turn-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 356 13 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 357 2 follow-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 357 6 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 357 9 make-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 357 17 occur-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 358 14 take-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 359 1 think-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 359 6 depend-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 359 12 go-v ?,? 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 360 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 360 10 carry-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 360 13 succession-n 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 361 8 repair-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 361 21 depend-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 363 1 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 363 4 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 363 10 repair-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 364 1 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 366 4 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 366 8 know-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 366 10 carry-v 8
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 366 19 require-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 367 3 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 367 9 set-v 7
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 368 7 dry-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 368 13 add-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 369 6 require-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 370 3 depend-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 371 4 mention-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 371 7 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 371 17 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 371 21 pipeline-n 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 372 3 be-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 372 9 connect-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 374 5 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 375 4 block-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 377 9 break-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 377 17 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 377 20 watch-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 379 6 have-v 4
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 381 1 be-v ?,? 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 381 9 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 381 17 have-v 12
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 381 27 seem-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 382 5 seem-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 382 13 add-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 382 16 make-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 382 20 walk-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 383 2 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 383 4 take-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 384 8 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 385 8 damage-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 386 3 damage-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 386 6 be-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 387 3 be-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 388 9 come-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 388 14 give-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 388 21 concern-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 389 8 analyse-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 389 19 reinforce-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 389 24 handle-v 2
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 390 2 thank-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 390 19 participate-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 391 0 thank-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 392 6 be-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 393 0 thank-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 394 0 see-v 6
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 396 0 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 396 2 turn-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 397 4 use-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 397 8 summarize-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 398 4 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 398 18 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 399 1 see-v ?,? 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 399 23 experience-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 400 5 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 401 24 experience-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 402 12 bid-v 3
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 403 13 stop-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 403 19 be-v ?,? 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 404 5 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 405 7 be-v 5
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 406 13 fall-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 407 2 let-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 407 4 check-v 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 408 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 410 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 411 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 412 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 413 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 415 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 417 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 421 3 change-v ?,? 1
+bc/cctv/00/cctv_0005@0005@cctv@bc@en@on 423 3 change-v ?,? 1

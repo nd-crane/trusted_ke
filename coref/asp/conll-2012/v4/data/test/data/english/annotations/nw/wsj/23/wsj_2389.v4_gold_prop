@@ -1,0 +1,17 @@
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 0 8 gold cause-v cause.01 ----- 8:0-rel 0:2-ARG0 9:3-ARG1
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 0 16 gold shoot-v shoot.06 ----- 16:0-rel 9:2-ARG1 17:1-ARG5 18:1-ARG2 20:1-ARG3 25:2-ARGM-ADV
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 0 25 gold push-v push.01 ----- 25:0-rel 26:2-ARG1 31:1-ARG2 9:2-LINK-PCR
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 0 30 gold inflation-n inflation.01 ----- 30:0-rel
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 0 40 gold say-v say.01 ----- 40:0-rel 35:2-ARG0 41:1-ARGM-TMP
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 1 2 gold increase-n increase.01 ----- 2:0-rel 1:0-ARGM-TMP
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 1 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:2-ARG2
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 1 6 gold record-v record.01 ----- 6:0-rel 7:1-ARGM-TMP 4:1-LINK-PCR
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 2 4 gold register-v register.01 ----- 4:0-rel 5:1-ARG3 6:1-ARGM-TMP 0:1-LINK-SLC
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 2 8 gold end-n end.01 ----- 8:0-rel 9:1-ARG1
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 2 12 gold have-v have.03 ----- 12:0-rel 0:2-ARG0 13:3-ARG1
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 2 24 gold adjust-v adjust.01 ----- 24:0-rel 22:0-ARGM-NEG 23:1-ARGM-TMP
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 3 2 gold rise-v rise.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2 5:1-ARGM-TMP 14:2-ARGM-ADV
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 3 14 gold outstrip-v outstrip.01 ----- 14:0-rel 15:1-ARG1
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 3 20 gold inflation-n inflation.01 ----- 20:0-rel 18:1-ARG2
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 3 22 gold set-v set.01 ----- 22:0-rel 23:1-ARG0 16:1-LINK-PCR
+nw/wsj/23/wsj_2389@2389@wsj@nw@en@on 3 36 gold revise-v revise.01 ----- 36:0-rel 37:0-ARG1

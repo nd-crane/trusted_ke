@@ -1,0 +1,162 @@
+bn/voa/00/voa_0009@0009@voa@bn@en@on 0 0 gold welcome-v welcome.01 ----- 0:0-rel 1:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 2 1 gold have-v have.01 ----- 1:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 2 2 gold sign-v sign.02 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 2 6 gold deal-n deal.01 ----- 6:0-rel 7:1-ARG1 9:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 2 10 gold acquire-v acquire.01 ----- 10:0-rel 11:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 3 1 gold deal-n deal.01 ----- 1:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 3 2 gold be-v be.03 ----- 2:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 3 3 gold sign-v sign.02 ----- 3:0-rel 4:1-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 3 9 gold conclude-v conclude.02 ----- 9:0-rel 5:2-ARG0 10:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 3 11 gold talk-n talk.01 ----- 11:0-rel 10:0-ARG0 12:1-ARG2 15:1-ARGM-LOC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 4 4 gold sign-v sign.02 ----- 4:0-rel 0:1-ARG0 3:1-ARGM-DIS 5:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 4 10 gold obligate-v obligate.01 ----- 10:0-rel 5:1-ARG0 11:1-ARG1 13:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 4 14 gold avoid-v avoid.01 ----- 14:0-rel 15:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 4 15 gold join-v join.01 ----- 15:0-rel 16:3-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 5 2 gold agree-v agree.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 5 4 gold form-v form.01 ----- 4:0-rel 5:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 6 5 gold speak-v speak.01 ----- 5:0-rel 0:2-ARG0 6:1-ARG2 13:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 6 27 gold dispute-v dispute.01 ----- 27:0-rel 28:0,29:0-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 6 gold want-v want.01 ----- 6:0-rel 4:1-ARG0 7:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 8 gold hear-v hear.01 ----- 8:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 11 gold be-v be.01 ----- 11:0-rel 12:2-ARG2 2:2-LINK-SLC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 14 gold dispute-n dispute.01 ----- 14:0-rel 15:1-ARG2 17:1-ARG0
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 22 gold be-v be.03 ----- 22:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 23 gold solve-v solve.01 ----- 23:0-rel 21:0-ARGM-MOD 24:1-ARGM-MNR
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 29 gold be-v be.02 ----- 29:0-rel 28:0-ARGM-MOD 30:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 36 gold put-v put.02 ----- 36:0-rel 35:1-ARG0 37:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 7 40 gold question-n question.01 ----- 40:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 8 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 8 6 gold have-v have.01 ----- 6:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 8 7 gold be-v be.03 ----- 7:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 8 8 gold say-v say.01 ----- 8:0-rel 4:1-ARG0 9:1-ARGM-TMP 3:1-LINK-SLC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 9 4 gold want-v want.01 ----- 4:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 9 7 gold focus-v focus.01 ----- 7:0-rel 8:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 9 15 gold say-v say.01 ----- 15:0-rel 12:1-ARG0 14:1-ARGM-DIS 16:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 9 18 gold support-v support.01 ----- 18:0-rel 17:1-ARG0 19:3-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 9 22 gold approach-n approach.02 ----- 22:0-rel 19:1-ARG0 21:0-ARGM-MNR 23:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 9 31 gold describe-v describe.01 ----- 31:0-rel 30:1-ARG0 32:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 7 gold be-v be.01 ----- 7:0-rel 5:1-ARG1 8:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 10 gold hear-v hear.01 ----- 10:0-rel 11:1-ARG2 12:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 12 gold say-v say.01 ----- 12:0-rel 11:1-ARG0
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 17 gold say-v say.01 ----- 17:0-rel 15:1-ARG0 16:1-ARGM-ADV 18:1-ARG1 36:2-ARGM-PRD
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 23 gold suffer-v suffer.01 ----- 23:0-rel 19:1-ARG0 24:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 33 gold put-v put.02 ----- 33:0-rel 32:1-ARG0 34:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 10 36 gold refer-v refer.01 ----- 36:0-rel 37:1-ARGM-ADV 39:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 11 4 gold do-v do.01 ----- 4:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 11 6 gold think-v think.01 ----- 6:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 3:1-ARG0 5:0-ARGM-NEG 7:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 11 10 gold hear-v hear.01 ----- 10:0-rel 8:1-ARG0 11:1,15:2-ARG1 12:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 11 17 gold do-v do.01 ----- 17:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 11 19 gold want-v want.01 ----- 19:0-rel 16:1-ARG0 18:0-ARGM-NEG 20:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 11 21 gold hear-v hear.01 ----- 21:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 12 4 gold do-v do.01 ----- 4:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 12 6 gold have-v have.03 ----- 6:0-rel 5:1-ARG0 7:1-ARGM-ADV
+bn/voa/00/voa_0009@0009@voa@bn@en@on 13 1 gold have-v have.04 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 13 4 gold influence-n influence.01 ----- 4:0-rel 2:1-ARGM-EXT 5:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 13 12 gold supply-v supply.01 ----- 12:0-rel 9:1-ARGM-DIS 11:1-ARG0 13:1-ARG2 14:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 13 23 gold be-v be.01 ----- 23:0-rel 22:1-ARG1 24:1-ARGM-DIS 26:3-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 13 37 gold be-v be.01 ----- 37:0-rel 38:2-ARG2 31:2-LINK-SLC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 13 39 gold finalize-v finalize.01 ----- 39:0-rel 40:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 13 44 gold deal-n deal.01 ----- 44:0-rel 41:1-ARGM-ADJ 43:0-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 14 5 gold hear-v hear.01 ----- 5:0-rel 0:1-ARGM-DIS 3:1-ARG0 6:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 14 8 gold deal-n deal.01 ----- 8:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 14 9 gold have-v have.01 ----- 9:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 14 11 gold be-v be.03 ----- 11:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 14 12 gold finalize-v finalize.01 ----- 12:0-rel 10:1-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 14 17 gold sell-v sell.01 ----- 17:0-rel 15:1-ARG0 16:0-ARGM-MOD 18:1-ARG2 19:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 14 35 gold sell-v sell.01 ----- 35:0-rel 32:1-ARG0 33:0-ARGM-MOD 34:1-ARGM-DIS 36:1-ARG2 38:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 1 gold be-v be.03 ----- 1:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 2 gold go-v go.04 ----- 2:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 4 gold allow-v allow.01 ----- 4:0-rel 5:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 7 gold assemble-v assemble.01 ----- 7:0-rel 5:1-ARG0 8:3-ARG1 13:1-ARGM-LOC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 19 gold be-v be.03 ----- 19:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 21 gold go-v go.04 ----- 21:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 23 gold finalize-v finalize.01 ----- 23:0-rel 24:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 25 gold deal-n deal.01 ----- 25:0-rel 26:2-ARGM-ADJ
+bn/voa/00/voa_0009@0009@voa@bn@en@on 15 29 gold acquire-v acquire.01 ----- 29:0-rel 27:1-ARG0 28:0-ARGM-MOD 30:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 16 9 gold have-v have.01 ----- 9:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 16 10 gold want-v want.01 ----- 10:0-rel 8:1-ARG0 11:2-ARG1 16:1-ARGM-CAU
+bn/voa/00/voa_0009@0009@voa@bn@en@on 16 12 gold get-v get.01 ----- 12:0-rel 13:1-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 16 19 gold have-v have.03 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV 20:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 16 31 gold allow-v allow.01 ----- 31:0-rel 26:2-ARG0 30:0-ARGM-MOD 32:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 16 36 gold extend-v extend.01 ----- 36:0-rel 32:1-ARG0 37:1-ARG1 40:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 17 3 gold do-v do.01 ----- 3:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 17 4 gold have-v have.04 ----- 4:0-rel 0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 17 9 gold influence-n influence.01 ----- 9:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 18 2 gold have-v have.01 ----- 2:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 18 3 gold go-v go.01 ----- 3:0-rel 0:1-ARG1 4:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 18 13 gold be-v be.03 ----- 13:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 18 14 gold strengthen-v strengthen.01 ----- 14:0-rel 15:1-ARGM-MNR 16:1-ARG0
+bn/voa/00/voa_0009@0009@voa@bn@en@on 19 4 gold have-v have.01 ----- 4:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 19 6 gold agree-v agree.01 ----- 6:0-rel 0:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-TMP 7:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 19 8 gold combat-v combat.01 ----- 8:0-rel 9:2-ARG1 13:1-ARGM-MNR
+bn/voa/00/voa_0009@0009@voa@bn@en@on 19 11 gold call-v call.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 20 1 gold have-v have.01 ----- 1:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 20 3 gold set-v set.03 ----- 3:0,4:1-rel 0:1-ARG0 2:1-ARGM-ADV 5:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 20 13 gold be-v be.01 ----- 13:0-rel 14:1-ARGM-DIS 16:2-ARG2 10:1-LINK-SLC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 21 4 gold be-v be.01 ----- 4:0-rel 0:2-ARG1 5:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 22 1 gold do-v do.01 ----- 1:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 22 3 gold trip-n trip.01 ----- 3:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 22 4 gold come-v come.01 ----- 4:0-rel 2:1-ARG1 5:1-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 23 3 gold trip-n trip.01 ----- 3:0-rel 2:0-ARG0
+bn/voa/00/voa_0009@0009@voa@bn@en@on 23 4 gold have-v have.01 ----- 4:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 23 6 gold be-v be.03 ----- 6:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 23 7 gold delay-v delay.01 ----- 7:0-rel 0:1-ARGM-DIS 5:1-ARGM-ADV 8:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 2 gold be-v be.03 ----- 2:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 3 gold suppose-v suppose.02 ----- 3:0-rel 0:1-ARG1 4:2-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 5 gold visit-v visit.01 ----- 5:0-rel 6:1-ARG1 7:2-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 22 gold get-v get.05 ----- 22:0-rel 15:1-ARGM-DIS 17:2-ARG1 23:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 38 gold resignation-n resignation.01 ----- 38:0-rel 34:1-ARG0 37:0-ARGM-MNR 39:1-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 54 gold take-v take.10 ----- 54:0-rel 44:1-ARGM-TMP 45:2-ARG0 55:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 61 gold be-v be.03 ----- 61:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 24 62 gold put-v put.06 ----- 62:0,63:1-rel 64:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 25 2 gold have-v have.01 ----- 2:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 25 4 gold be-v be.02 ----- 4:0-rel 0:0-ARGM-DIS 3:1-ARGM-DIS 5:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 26 5 gold be-v be.03 ----- 5:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 26 7 gold speak-v speak.01 ----- 7:0-rel 4:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 26 9 gold have-v have.01 ----- 9:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 26 10 gold take-v take.10 ----- 10:0-rel 0:2-ARG2 11:1-ARG1 14:2-ARG0
+bn/voa/00/voa_0009@0009@voa@bn@en@on 26 15 gold finalize-v finalize.01 ----- 15:0-rel 0:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 27 1 gold do-v do.01 ----- 1:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 27 7 gold compare-v compare.01 ----- 7:0-rel 2:2-ARG1 8:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 10 gold address-v address.01 ----- 10:0-rel 6:1-ARG0 8:1-ARGM-TMP 11:1-ARG2 14:2-ARGM-MNR
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 18 gold have-v have.01 ----- 18:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 19 gold do-v do.02 ----- 19:0-rel 16:1-ARG0 20:2-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 26 gold think-v think.01 ----- 26:0-rel 25:1-ARG0 27:4-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 31 gold say-v say.01 ----- 31:0-rel 32:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 37 gold accomplish-v accomplish.01 ----- 37:0-rel 33:1-ARG0 35:1-ARGM-ADV 36:1-ARGM-ADV 38:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 42 gold do-v do.02 ----- 42:0-rel 40:1-ARG0
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 50 gold sale-n sale.01 ----- 50:0-rel 49:0-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 59 gold be-v be.01 ----- 59:0-rel 60:1-ARG2 62:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 28 63 gold steal-v steal.01 ----- 63:0-rel 64:2-ARG1 60:1-LINK-SLC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 29 4 gold recall-v recall.02 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:4-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 29 7 gold speak-v speak.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 29 12 gold be-v be.02 ----- 12:0-rel 5:2-ARGM-TMP 13:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 30 3 gold be-v be.03 ----- 3:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 30 6 gold clamber-v clamber.01 ----- 6:0-rel 0:1-ARG0 4:1-ARGM-ADV 7:1-ARGM-DIR 10:2-ARGM-PRP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 30 11 gold shake-v shake.01 ----- 11:0-rel 12:1-ARG1 14:1-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 30 16 gold leave-v leave.01 ----- 16:0-rel 15:1-ARG0 17:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 31 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 31 11 gold do-v do.01 ----- 11:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 31 12 gold receive-v receive.01 ----- 12:0-rel 10:1-ARG0 13:1-ARG1 18:1-ARGM-ADV
+bn/voa/00/voa_0009@0009@voa@bn@en@on 31 23 gold be-v be.03 ----- 23:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 31 26 gold captivate-v captivate.01 ----- 26:0-rel 24:1-ARGM-ADV 25:1-ARGM-EXT 27:1-ARG0 19:1-LINK-SLC
+bn/voa/00/voa_0009@0009@voa@bn@en@on 31 32 gold do-v do.01 ----- 32:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 31 35 gold pay-v pay.01 ----- 35:0-rel 19:2-ARG0 33:0-ARGM-NEG 34:1-ARGM-ADV 36:1-ARG1 38:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 4 gold have-v have.01 ----- 4:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 6 gold be-v be.03 ----- 6:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 7 gold ignore-v ignore.01 ----- 7:0-rel 0:1-ARGM-DIS 5:1-ARGM-ADV
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 18 gold have-v have.01 ----- 18:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 19 gold be-v be.01 ----- 19:0-rel 9:1-ARGM-DIS 11:2-ARG1 20:3-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 42 gold do-v do.01 ----- 42:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 43 gold do-v do.02 ----- 43:0-rel 41:1-ARG0 44:2-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 46 gold have-v have.02 ----- 46:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 48 gold do-v do.02 ----- 48:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 32 52 gold strengthen-v strengthen.01 ----- 52:0-rel 50:1-ARG0 51:1-ARGM-ADV 53:2,58:1-ARG1 54:1-ARGM-MNR
+bn/voa/00/voa_0009@0009@voa@bn@en@on 34 3 gold statement-n statement.01 ----- 3:0-rel 2:0-ARGM-MNR 4:1-ARGM-TMP
+bn/voa/00/voa_0009@0009@voa@bn@en@on 34 9 gold call-v call.03 ----- 9:0-rel 0:1-ARGM-LOC 6:1-ARG0 10:1-ARG1
+bn/voa/00/voa_0009@0009@voa@bn@en@on 34 12 gold measure-n measure.02 ----- 12:0-rel 11:0-ARGM-ADJ 13:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 35 1 gold statement-n statement.01 ----- 1:0-rel
+bn/voa/00/voa_0009@0009@voa@bn@en@on 35 2 gold accuse-v accuse.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 5:1-ARG2
+bn/voa/00/voa_0009@0009@voa@bn@en@on 35 6 gold support-v support.01 ----- 6:0-rel 7:1-ARG1

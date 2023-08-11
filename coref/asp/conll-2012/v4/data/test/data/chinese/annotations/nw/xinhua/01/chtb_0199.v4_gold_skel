@@ -1,0 +1,39 @@
+#begin document (nw/xinhua/01/chtb_0199); part 000
+nw/xinhua/01/chtb_0199   0    0    [WORD]    VV   (TOP(IP(IP(VP*        -   01   2   -          *       (V*)          *      (ARGM-ADV*      (ARGM-ADV*      (ARGM-ADV*          -
+nw/xinhua/01/chtb_0199   0    1    [WORD]    NR   (NP(DNP(NP(NP*        -    -   -   -       (GPE)   (ARG1*      (ARG0*               *               *               *         (1
+nw/xinhua/01/chtb_0199   0    2    [WORD]    NN                *)       -    -   -   -          *         *           *               *               *               *          -
+nw/xinhua/01/chtb_0199   0    3    [WORD]    NR             (NP*))      -    -   -   -    (PERSON)        *           *)              *               *               *          -
+nw/xinhua/01/chtb_0199   0    4    [WORD]   DEG                *)       -    -   -   -          *         *           *               *               *               *          -
+nw/xinhua/01/chtb_0199   0    5    [WORD]    NN             (NP*))))    -   01   -   -          *         *)        (V*)              *)              *)              *)     (1)|1)
+nw/xinhua/01/chtb_0199   0    6    [WORD]    PU                *        -    -   -   -          *         *           *               *               *               *          -
+nw/xinhua/01/chtb_0199   0    7    [WORD]    NT             (NP*        -    -   -   -     (DATE*         *           *      (ARGM-TMP*      (ARGM-TMP*      (ARGM-TMP*          -
+nw/xinhua/01/chtb_0199   0    8    [WORD]    NT                *        -    -   -   -          *         *           *               *               *               *          -
+nw/xinhua/01/chtb_0199   0    9    [WORD]    NT                *        -    -   -   -          *)        *           *               *               *               *          -
+nw/xinhua/01/chtb_0199   0   10    [WORD]    NT                *)       -    -   -   -      (TIME)        *           *               *)              *)              *)         -
+nw/xinhua/01/chtb_0199   0   11    [WORD]    PU                *        -    -   -   -          *         *           *               *               *               *          -
+nw/xinhua/01/chtb_0199   0   12    [WORD]    NR             (NP*        -    -   -   -    (PERSON)        *           *          (ARG0*          (ARG0*          (ARG0*         (0
+nw/xinhua/01/chtb_0199   0   13    [WORD]    NN                *)       -    -   -   -          *         *           *               *)              *)              *)         0)
+nw/xinhua/01/chtb_0199   0   14    [WORD]    VV          (VP(VP*        -   01   -   -          *         *           *             (V*)              *               *          -
+nw/xinhua/01/chtb_0199   0   15    [WORD]    NR             (NP*))      -    -   -   -       (GPE)        *           *          (ARG1*)              *               *          -
+nw/xinhua/01/chtb_0199   0   16    [WORD]    VV             (VP*        -   01   3   -          *         *           *               *             (V*)      (rel-Sup*)         -
+nw/xinhua/01/chtb_0199   0   17    [WORD]    JJ        (NP(ADJP*)       -    -   -   -          *         *           *               *          (ARG1*      (ARGM-MNR*)        (2
+nw/xinhua/01/chtb_0199   0   18    [WORD]    JJ           (ADJP*)       -    -   -   -          *         *           *               *               *      (ARGM-MNR*)         -
+nw/xinhua/01/chtb_0199   0   19    [WORD]    NN             (NP*))))    -   01   -   -          *         *           *               *               *)            (V*)     (2)|2)
+nw/xinhua/01/chtb_0199   0   20    [WORD]    PU                *))      -    -   -   -          *         *           *               *               *               *          -
+
+nw/xinhua/01/chtb_0199   0   0    [WORD]   NN   (TOP(IP(NP*)       -    -   3   -          *    (ARG0*)              *      -
+nw/xinhua/01/chtb_0199   0   1    [WORD]   VC          (VP*        -   01   1   -          *       (V*)              *      -
+nw/xinhua/01/chtb_0199   0   2    [WORD]   NT       (IP(NP*)       -    -   -   -      (DATE)   (ARG1*      (ARGM-TMP*)     -
+nw/xinhua/01/chtb_0199   0   3    [WORD]   NR          (NP*        -    -   -   -    (PERSON)        *          (ARG0*     (0
+nw/xinhua/01/chtb_0199   0   4    [WORD]   NN             *)       -    -   -   -          *         *               *)     0)
+nw/xinhua/01/chtb_0199   0   5    [WORD]    P       (VP(PP*        -    -   2   -          *         *      (ARGM-LOC*      -
+nw/xinhua/01/chtb_0199   0   6    [WORD]   NR          (NP*))      -    -   -   -       (GPE)        *               *)     -
+nw/xinhua/01/chtb_0199   0   7    [WORD]   VV          (VP*))))    -   01   -   -          *         *)            (V*)     -
+nw/xinhua/01/chtb_0199   0   8    [WORD]   PU             *))      -    -   -   -          *         *               *      -
+
+nw/xinhua/01/chtb_0199   0   0    [WORD]   NR   (TOP(FRAG*      -    -   -   -       (ORG)     *     -
+nw/xinhua/01/chtb_0199   0   1    [WORD]   NN            *      -    -   -   -          *      *     -
+nw/xinhua/01/chtb_0199   0   2    [WORD]   NR            *      -    -   -   -    (PERSON)     *     -
+nw/xinhua/01/chtb_0199   0   3    [WORD]   VV            *))    -   01   -   -          *    (V*)    -
+
+#end document

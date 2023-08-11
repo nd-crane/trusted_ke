@@ -1,0 +1,107 @@
+bn/abc/00/abc_0029@0029@abc@bn@en@on 0 2 go-v 7
+bn/abc/00/abc_0029@0029@abc@bn@en@on 0 4 take-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 0 8 look-n ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 1 2 matter-n ?,? 3
+bn/abc/00/abc_0029@0029@abc@bn@en@on 2 1 know-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 2 3 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 2 13 thought-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 3 1 ask-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 3 7 like-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 3 9 do-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 3 11 story-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 3 15 man-n ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 4 1 take-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 4 4 breath-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 4 6 say-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 5 7 evoke-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 5 8 image-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 5 11 frontier-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 5 17 frontier-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 5 18 be-v ?,? 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 7 3 be-v ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 7 4 man-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 7 9 explore-v ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 8 3 be-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 8 5 maze-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 8 6 know-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 9 2 find-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 9 6 one-n ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 9 8 be-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 9 12 be-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 9 15 person-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 9 19 be-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 10 2 come-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 11 1 offer-v 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 11 3 map-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 12 1 think-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 12 3 take-v 3
+bn/abc/00/abc_0029@0029@abc@bn@en@on 13 1 be-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 13 7 road-n ?,? 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 14 1 be-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 14 5 complete-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 14 7 agreement-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 15 2 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 16 7 survey-v 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 16 11 log-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 16 13 hand-n ?,? 20
+bn/abc/00/abc_0029@0029@abc@bn@en@on 16 16 feed-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 16 19 computer-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 16 21 plot-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 17 3 represent-v 3
+bn/abc/00/abc_0029@0029@abc@bn@en@on 17 10 volume-n ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 17 14 be-v ?,? 3
+bn/abc/00/abc_0029@0029@abc@bn@en@on 18 5 be-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 20 2 record-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 20 3 discovery-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 20 7 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 21 2 hunt-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 21 5 area-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 21 6 hear-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 21 8 sound-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 21 11 wind-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 22 1 follow-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 22 6 opening-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 23 1 wind-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 23 2 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 23 9 story-n 5
+bn/abc/00/abc_0029@0029@abc@bn@en@on 23 10 go-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 23 14 blow-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 24 7 draw-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 24 10 world-n ?,? 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 24 18 know-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 24 21 work-n 7
+bn/abc/00/abc_0029@0029@abc@bn@en@on 24 30 work-n 7
+bn/abc/00/abc_0029@0029@abc@bn@en@on 25 2 discovery-n ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 25 3 mean-v ?,? 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 25 4 head-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 25 10 hall-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 26 2 be-v 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 26 5 floor-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 26 8 back-n 10
+bn/abc/00/abc_0029@0029@abc@bn@en@on 26 9 be-v 4
+bn/abc/00/abc_0029@0029@abc@bn@en@on 27 2 crawl-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 27 6 find-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 27 8 item-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 27 9 leave-v 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 28 6 newspaper-n 3
+bn/abc/00/abc_0029@0029@abc@bn@en@on 29 3 be-v ?,? 2
+bn/abc/00/abc_0029@0029@abc@bn@en@on 29 6 find-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 29 9 chamber-n ?,? 5
+bn/abc/00/abc_0029@0029@abc@bn@en@on 30 4 light-n 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 30 5 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 30 9 light-v ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 30 15 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 30 21 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 30 24 see-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 31 1 call-v 5
+bn/abc/00/abc_0029@0029@abc@bn@en@on 32 1 get-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 32 2 withdrawal-n ?,? 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 33 1 want-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 33 3 find-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 33 6 something-n 3
+bn/abc/00/abc_0029@0029@abc@bn@en@on 34 3 expect-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 34 5 see-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 34 7 end-n 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 35 3 say-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 35 5 be-v 1
+bn/abc/00/abc_0029@0029@abc@bn@en@on 37 2 team-n ?,? 1

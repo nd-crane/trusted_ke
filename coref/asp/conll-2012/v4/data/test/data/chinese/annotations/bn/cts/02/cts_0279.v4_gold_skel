@@ -1,0 +1,236 @@
+#begin document (bn/cts/02/cts_0279); part 000
+bn/cts/02/cts_0279   0    0    [WORD]    NN   (TOP(IP(NP(NP(CP(CP(IP(NP*)          -    -   -   -          *    (ARG0*)          *          (ARG0*)         (ARG0*           *      (6|(1)
+bn/cts/02/cts_0279   0    1    [WORD]    VV                      (VP(VP*           -   01   -   -          *       (V*)          *               *               *           *          -
+bn/cts/02/cts_0279   0    2    [WORD]    AS                            *           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0    3    [WORD]    NN                      (IP(NP*)          -    -   -   -          *    (ARG1*      (ARG0*)              *               *           *          -
+bn/cts/02/cts_0279   0    4    [WORD]    VV                         (VP*)))        -   01   -   -          *         *)        (V*)              *               *           *          -
+bn/cts/02/cts_0279   0    5    [WORD]    AD                    (VP(ADVP*)          -    -   -   -          *         *           *      (ARGM-DIS*)              *           *          -
+bn/cts/02/cts_0279   0    6    [WORD]    VV                         (VP*           -   01   -   -          *         *           *             (V*)              *           *          -
+bn/cts/02/cts_0279   0    7    [WORD]    AS                            *           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0    8    [WORD]    NR                   (NP(NP(NP*)          -    -   -   -    (EVENT*         *           *          (ARG1*               *           *          -
+bn/cts/02/cts_0279   0    9    [WORD]    NN                         (NP*           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   10    [WORD]    NN                            *)          -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   11    [WORD]    NN                         (NP*))         -    -   -   -          *)        *           *               *               *           *          -
+bn/cts/02/cts_0279   0   12    [WORD]    JJ                       (ADJP*)          -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   13    [WORD]    NN                         (NP*))))))     -    -   -   -          *         *           *               *)              *           *          -
+bn/cts/02/cts_0279   0   14    [WORD]   DEC                            *))         -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   15    [WORD]    NN                         (NP*))         -    -   -   -          *    (ARG0*)          *          (ARG0*)              *           *          -
+bn/cts/02/cts_0279   0   16    [WORD]    NR                         (NP*))         -    -   -   -    (PERSON)        *           *               *               *)          *          6)
+bn/cts/02/cts_0279   0   17    [WORD]    NT                      (VP(NP*)          -    -   -   -      (TIME)        *           *               *      (ARGM-TMP*)          *         (8)
+bn/cts/02/cts_0279   0   18    [WORD]    VV                      (VP(VP*           -   01   -   -          *         *           *               *             (V*)          *          -
+bn/cts/02/cts_0279   0   19    [WORD]    AS                            *           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   20    [WORD]    NN                         (NP*))         -    -   -   -          *         *           *               *          (ARG1*)          *          -
+bn/cts/02/cts_0279   0   21    [WORD]    PU                            *           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   22    [WORD]    VV                         (VP*           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   23    [WORD]    PN                      (IP(NP*)          -    -   -   -          *         *           *               *               *      (ARG0*)        (6)
+bn/cts/02/cts_0279   0   24    [WORD]    VV                      (VP(VP*           -   01   -   -          *         *           *               *               *         (V*)         -
+bn/cts/02/cts_0279   0   25    [WORD]    AS                            *           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   26    [WORD]    JJ                    (NP(ADJP*)          -    -   -   -          *         *           *               *               *      (ARG1*         (9
+bn/cts/02/cts_0279   0   27    [WORD]    NN                         (NP*)))        -    -   -   -          *         *           *               *               *           *)         9)
+bn/cts/02/cts_0279   0   28    [WORD]    AD                    (VP(ADVP*)          -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   29    [WORD]     P                         (PP*           -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   30    [WORD]    NN                         (NP*))         -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   31    [WORD]    VV                         (VP*)))))))    -    -   -   -          *         *           *               *               *           *          -
+bn/cts/02/cts_0279   0   32    [WORD]    PU                            *))         -    -   -   -          *         *           *               *               *           *          -
+
+bn/cts/02/cts_0279   0    0    [WORD]     P   (TOP(IP(PP*         -    -   -   -          *         *           *      (ARGM-TPC*       -
+bn/cts/02/cts_0279   0    1    [WORD]    PN       (IP(NP*)        -    -   -   -          *    (ARG0*)     (ARG0*)              *      (6)
+bn/cts/02/cts_0279   0    2    [WORD]    VV       (VP(VP*         -   01   1   -          *       (V*)          *               *       -
+bn/cts/02/cts_0279   0    3    [WORD]    NR          (NP*))       -    -   -   -       (GPE)   (ARG1*)          *               *      (5)
+bn/cts/02/cts_0279   0    4    [WORD]     P       (VP(PP*         -    -   2   -          *         *      (ARG0*               *       -
+bn/cts/02/cts_0279   0    5    [WORD]    NR          (NP*         -    -   -   -    (PERSON)        *           *               *      (4
+bn/cts/02/cts_0279   0    6    [WORD]    NN             *))       -    -   -   -          *         *           *)              *       4)
+bn/cts/02/cts_0279   0    7    [WORD]    VV          (VP*)))))    -   01   -   -          *         *         (V*)              *)      -
+bn/cts/02/cts_0279   0    8    [WORD]    PU             *         -    -   -   -          *         *           *               *       -
+bn/cts/02/cts_0279   0    9    [WORD]    NR          (NP*)        -    -   -   -    (PERSON)        *           *          (ARG0*)     (6)
+bn/cts/02/cts_0279   0   10    [WORD]    VV          (VP*         -   01   7   -          *         *           *             (V*)      -
+bn/cts/02/cts_0279   0   11    [WORD]    NR       (IP(NP*         -    -   -   -    (PERSON)        *           *          (ARG1*      (4
+bn/cts/02/cts_0279   0   12    [WORD]    NN             *)        -    -   -   -          *         *           *               *       4)
+bn/cts/02/cts_0279   0   13    [WORD]    VV          (VP*         -    -   -   -          *         *           *               *       -
+bn/cts/02/cts_0279   0   14    [WORD]    AS             *         -    -   -   -          *         *           *               *       -
+bn/cts/02/cts_0279   0   15    [WORD]    NN       (NP(NP*)        -    -   -   -          *         *           *               *       -
+bn/cts/02/cts_0279   0   16    [WORD]    JJ    (DNP(ADJP*)        -    -   -   -          *         *           *               *       -
+bn/cts/02/cts_0279   0   17    [WORD]   DEG             *)        -    -   -   -          *         *           *               *       -
+bn/cts/02/cts_0279   0   18    [WORD]    NN          (NP*)))))    -    -   -   -          *         *           *               *)      -
+bn/cts/02/cts_0279   0   19    [WORD]    PU             *))       -    -   -   -          *         *           *               *       -
+
+bn/cts/02/cts_0279   0    0    [WORD]    NN   (TOP(IP(IP(NP(NP*)               -    -   -   -          *      *        *               *        *           *           *      (6
+bn/cts/02/cts_0279   0    1    [WORD]    NR                (NP*))              -    -   -   -    (PERSON)     *        *               *        *           *           *       6)
+bn/cts/02/cts_0279   0    2    [WORD]    NN                (NP*)               -    -   -   -          *      *        *               *        *           *           *      (1)
+bn/cts/02/cts_0279   0    3    [WORD]    VV                (VP*))              -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0    4    [WORD]    PU                   *                -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0    5    [WORD]    NN      (IP(NP(DNP(NP*                -    -   -   -    (EVENT*      *        *               *        *           *           *      (7
+bn/cts/02/cts_0279   0    6    [WORD]    NN                   *)               -    -   -   -          *)     *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0    7    [WORD]   DEG                   *)               -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0    8    [WORD]    CD                (QP*)               -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0    9    [WORD]    NN                (NP*))              -    -   -   -          *      *        *               *        *           *           *       7)
+bn/cts/02/cts_0279   0   10    [WORD]    SB                (VP*                -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   11    [WORD]    VV            (VP(VRD*                -   01   -   -          *    (V*)       *               *        *           *           *       -
+bn/cts/02/cts_0279   0   12    [WORD]    VV                   *))))            -   01   8   -          *      *      (V*)              *        *           *           *       -
+bn/cts/02/cts_0279   0   13    [WORD]    PU                   *                -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   14    [WORD]    NT             (IP(NP*)               -    -   -   -      (TIME)     *        *               *        *           *           *      (8)
+bn/cts/02/cts_0279   0   15    [WORD]    PN                (NP*)               -    -   -   -          *      *        *               *        *           *           *      (6)
+bn/cts/02/cts_0279   0   16    [WORD]    AD           (VP(ADVP*)               -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   17    [WORD]    VV                (VP*                -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   18    [WORD]    AD     (IP(IP(PP(ADVP*)               -    -   -   -          *      *        *      (ARGM-TMP*        *           *           *       -
+bn/cts/02/cts_0279   0   19    [WORD]     P                (PP*                -    -   2   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   20    [WORD]    CD         (LCP(NP(QP*                -    -   -   -     (DATE*      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   21    [WORD]     M               (CLP*))              -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   22    [WORD]    NN                (NP*))              -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   23    [WORD]    LC                   *)))             -    -   -   -          *)     *        *               *)       *           *           *       -
+bn/cts/02/cts_0279   0   24    [WORD]    NN                (NP*)               -    -   -   -          *      *        *          (ARG0*)       *           *           *       -
+bn/cts/02/cts_0279   0   25    [WORD]    AD           (VP(ADVP*)               -    -   6   -          *      *        *      (ARGM-ADV*)       *           *           *       -
+bn/cts/02/cts_0279   0   26    [WORD]    VV            (VP(VRD*                -   01   -   -          *      *        *             (V*)       *           *           *       -
+bn/cts/02/cts_0279   0   27    [WORD]    VV                   *)               -   01   1   -          *      *        *               *      (V*)          *           *       -
+bn/cts/02/cts_0279   0   28    [WORD]    AS                   *                -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   29    [WORD]    JJ           (NP(ADJP*)               -    -   -   -          *      *        *          (ARG1*        *           *           *      (9
+bn/cts/02/cts_0279   0   30    [WORD]    NN                (NP*)))))           -    -   -   -          *      *        *               *)       *           *           *       9)
+bn/cts/02/cts_0279   0   31    [WORD]    PU                   *                -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   32    [WORD]    VV             (IP(VP*                -   01   -   -          *      *        *               *        *         (V*)          *       -
+bn/cts/02/cts_0279   0   33    [WORD]    VV             (IP(VP*                -   05   4   -          *      *        *               *        *      (ARG1*         (V*)      -
+bn/cts/02/cts_0279   0   34    [WORD]    BA                (VP*                -    -   -   -          *      *        *               *        *           *      (ARG1*       -
+bn/cts/02/cts_0279   0   35    [WORD]    PN             (IP(NP*)               -    -   -   -          *      *        *               *        *           *           *      (6)
+bn/cts/02/cts_0279   0   36    [WORD]    VV                (VP*                -    -   -   -          *      *        *               *        *           *           *       -
+bn/cts/02/cts_0279   0   37    [WORD]    NN                (NP*))))))))))))    -    -   -   -          *      *        *               *        *           *)          *)      -
+bn/cts/02/cts_0279   0   38    [WORD]    PU                   *))              -    -   -   -          *      *        *               *        *           *           *       -
+
+bn/cts/02/cts_0279   0    0    [WORD]   PU         (TOP(IP*            -    -   -   -   *         *           *           *        *           *           *        *       -
+bn/cts/02/cts_0279   0    1    [WORD]   VV             (VP*            -   01   2   -   *       (V*)          *           *        *           *           *        *       -
+bn/cts/02/cts_0279   0    2    [WORD]   VV          (IP(VP*            -   05   4   -   *    (ARG1*         (V*)          *        *           *           *        *       -
+bn/cts/02/cts_0279   0    3    [WORD]   BA             (VP*            -    -   -   -   *         *      (ARG1*           *        *           *           *        *       -
+bn/cts/02/cts_0279   0    4    [WORD]   PN          (IP(NP*)           -    -   -   -   *         *           *      (ARG1*)       *      (ARG1*)     (ARG1*)       *      (6)
+bn/cts/02/cts_0279   0    5    [WORD]   VV   (VP(VP(VP(VRD*            -   01   -   -   *         *           *         (V*)       *           *           *        *       -
+bn/cts/02/cts_0279   0    6    [WORD]   VV                *)           -   01   2   -   *         *           *           *      (V*)          *           *        *       -
+bn/cts/02/cts_0279   0    7    [WORD]   NN             (NP*            -    -   -   -   *         *           *      (ARG2*        *           *           *        *       -
+bn/cts/02/cts_0279   0    8    [WORD]   NN                *))          -    -   -   -   *         *           *           *)       *           *           *        *       -
+bn/cts/02/cts_0279   0    9    [WORD]   VV             (VP*))          -   01   8   -   *         *           *           *        *         (V*)          *        *       -
+bn/cts/02/cts_0279   0   10    [WORD]   PU                *            -    -   -   -   *         *           *           *        *           *           *        *       -
+bn/cts/02/cts_0279   0   11    [WORD]   VV         (VP(VRD*            -   01   -   -   *         *           *           *        *           *         (V*)       *       -
+bn/cts/02/cts_0279   0   12    [WORD]   VV                *)           -   01   2   -   *         *           *           *        *           *           *      (V*)      -
+bn/cts/02/cts_0279   0   13    [WORD]   NN             (NP*))))))))    -    -   -   -   *         *)          *)          *        *           *      (ARG2*)       *       -
+bn/cts/02/cts_0279   0   14    [WORD]   PU                *))          -    -   -   -   *         *           *           *        *           *           *        *       -
+
+bn/cts/02/cts_0279   0    0    [WORD]    PN    (TOP(IP(NP*)            -    -   -   -          *    (ARG0*)     (ARG0*)              *           *           *        *           *       -
+bn/cts/02/cts_0279   0    1    [WORD]    VV        (VP(VP*             -   01   -   -          *       (V*)          *               *           *           *        *           *       -
+bn/cts/02/cts_0279   0    2    [WORD]    PN    (NP(DNP(NP*)            -    -   -   -          *    (ARG2*           *               *           *           *        *           *      (6)
+bn/cts/02/cts_0279   0    3    [WORD]   DEG              *)            -    -   -   -          *         *           *               *           *           *        *           *       -
+bn/cts/02/cts_0279   0    4    [WORD]    NN           (NP*)))          -    -   -   -          *         *)          *               *           *           *        *           *       -
+bn/cts/02/cts_0279   0    5    [WORD]    VV           (VP*             -   01   7   -          *         *         (V*)              *           *           *        *           *       -
+bn/cts/02/cts_0279   0    6    [WORD]    AD   (CP(IP(ADVP*)            -    -   -   -          *         *      (ARG1*      (ARGM-ADV*)          *           *        *           *       -
+bn/cts/02/cts_0279   0    7    [WORD]    NR           (NP*             -    -   -   -    (PERSON)        *           *          (ARG0*           *           *        *           *      (6
+bn/cts/02/cts_0279   0    8    [WORD]    NN              *)            -    -   -   -          *         *           *               *)          *           *        *           *       6)
+bn/cts/02/cts_0279   0    9    [WORD]    AD      (VP(ADVP*)            -    -   -   -          *         *           *      (ARGM-ADV*)          *           *        *           *       -
+bn/cts/02/cts_0279   0   10    [WORD]    VV           (VP*             -   01   -   -          *         *           *             (V*)          *           *        *           *       -
+bn/cts/02/cts_0279   0   11    [WORD]    VE        (IP(VP*             -   05   4   -          *         *           *          (ARG1*         (V*)          *        *           *       -
+bn/cts/02/cts_0279   0   12    [WORD]    NN        (IP(NP*)            -    -   -   -          *         *           *               *      (ARG1*      (ARG1*)       *      (ARG0*)      -
+bn/cts/02/cts_0279   0   13    [WORD]    SB           (VP*             -    -   -   -          *         *           *               *           *           *        *           *       -
+bn/cts/02/cts_0279   0   14    [WORD]    VV    (VP(VP(VRD*             -   01   -   -          *         *           *               *           *         (V*)       *           *       -
+bn/cts/02/cts_0279   0   15    [WORD]    VV              *)            -   01   2   -          *         *           *               *           *           *      (V*)          *       -
+bn/cts/02/cts_0279   0   16    [WORD]    NN           (NP*))           -    -   -   -          *         *           *               *           *      (ARG2*)       *           *       -
+bn/cts/02/cts_0279   0   17    [WORD]    VV           (VP*)))))))))    -   01   8   -          *         *           *               *)          *)          *        *         (V*)      -
+bn/cts/02/cts_0279   0   18    [WORD]    SP              *)))          -    -   -   -          *         *           *)              *           *           *        *           *       -
+bn/cts/02/cts_0279   0   19    [WORD]    PU              *             -    -   -   -          *         *           *               *           *           *        *           *       -
+bn/cts/02/cts_0279   0   20    [WORD]    PU              *))           -    -   -   -          *         *           *               *           *           *        *           *       -
+
+bn/cts/02/cts_0279   0    0    [WORD]    DT   (TOP(IP(IP(NP(NP(DP*          -    -   -   -          *             *         (9
+bn/cts/02/cts_0279   0    1    [WORD]     M                  (CLP*))        -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0    2    [WORD]    JJ                 (ADJP*)         -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0    3    [WORD]    NN                   (NP*))        -    -   2   -          *             *          9)
+bn/cts/02/cts_0279   0    4    [WORD]    NN                   (NP*))        -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0    5    [WORD]    NR                   (NP*)         -    -   -   -    (PERSON)            *         (6)
+bn/cts/02/cts_0279   0    6    [WORD]    AD              (VP(ADVP*)         -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0    7    [WORD]     P                   (PP*          -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0    8    [WORD]    NN                   (NP*))        -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0    9    [WORD]    VV                   (VP*)))       -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   10    [WORD]    PU                      *          -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   11    [WORD]     P                (IP(PP*          -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   12    [WORD]    NN    (IP(NP(CP(CP(IP(NP*)         -    -   -   -          *        (ARG0*      (7|(1)
+bn/cts/02/cts_0279   0   13    [WORD]    VV                   (VP*))        -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   14    [WORD]   DEC                      *))        -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   15    [WORD]    JJ                 (ADJP*)         -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   16    [WORD]    NN                   (NP*))        -    -   -   -          *             *)         7)
+bn/cts/02/cts_0279   0   17    [WORD]    AD              (VP(ADVP*)         -    -   -   -          *    (ARGM-ADV*)         -
+bn/cts/02/cts_0279   0   18    [WORD]    VE                   (VP*          -   03   3   -          *           (V*)         -
+bn/cts/02/cts_0279   0   19    [WORD]    DT                (NP(DP*)         -    -   -   -          *        (ARG1*          -
+bn/cts/02/cts_0279   0   20    [WORD]    NN                   (NP*))))))    -    -   -   -          *             *)         -
+bn/cts/02/cts_0279   0   21    [WORD]    AD              (VP(ADVP*)         -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   22    [WORD]    AD             (DVP(ADVP*)         -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   23    [WORD]   DEV                      *)         -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   24    [WORD]    VV                   (VP*)))       -    -   -   -          *             *          -
+bn/cts/02/cts_0279   0   25    [WORD]    PU                      *))        -    -   -   -          *             *          -
+
+bn/cts/02/cts_0279   0    0    [WORD]    NR        (TOP(IP(IP(NP*)           -    -   -   -    (PERSON)   (ARG0*)     (ARG0*)          *               *               *               *           *               *      (6)
+bn/cts/02/cts_0279   0    1    [WORD]    VV               (VP(VP*            -   01   2   -          *       (V*)          *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0    2    [WORD]    NR                  (NP*))          -    -   -   -       (GPE)   (ARG1*)          *           *               *               *               *           *               *      (5)
+bn/cts/02/cts_0279   0    3    [WORD]    VV                  (VP*            -   01   -   -          *         *         (V*)          *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0    4    [WORD]    AS                     *            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0    5    [WORD]    NR                  (NP*            -    -   -   -    (PERSON)        *      (ARG1*           *               *               *               *           *               *      (4
+bn/cts/02/cts_0279   0    6    [WORD]    NN                     *))))        -    -   -   -          *         *           *)          *               *               *               *           *               *       4)
+bn/cts/02/cts_0279   0    7    [WORD]    PU                     *            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0    8    [WORD]    NR               (IP(NP*            -    -   -   -    (PERSON)        *           *           *               *               *               *           *               *      (4
+bn/cts/02/cts_0279   0    9    [WORD]    NN                     *)           -    -   -   -          *         *           *           *               *               *               *           *               *       4)
+bn/cts/02/cts_0279   0   10    [WORD]    VV                  (VP*            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   11    [WORD]     P               (IP(PP*            -    -   2   -          *         *           *           *      (ARGM-TMP*      (ARGM-TMP*      (ARGM-TMP*           *               *       -
+bn/cts/02/cts_0279   0   12    [WORD]    NR        (NP(LCP(IP(NP*)           -    -   -   -    (PERSON)        *           *      (ARG0*)              *               *               *           *               *      (3)
+bn/cts/02/cts_0279   0   13    [WORD]    VV                  (VP*))          -   01   1   -          *         *           *         (V*)              *               *               *           *               *       -
+bn/cts/02/cts_0279   0   14    [WORD]    LC                     *)           -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   15    [WORD]    NT                  (NP*            -    -   -   -     (TIME*         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   16    [WORD]    NT                     *            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   17    [WORD]    NT                     *)))         -    -   -   -          *)        *           *           *               *)              *)              *)          *               *       -
+bn/cts/02/cts_0279   0   18    [WORD]    PU                     *            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   19    [WORD]    NN                  (NP*)           -    -   -   -    (PERSON)        *           *           *          (ARG0*)         (ARG0*)         (ARG0*)          *               *      (3)
+bn/cts/02/cts_0279   0   20    [WORD]    AD             (VP(ADVP*)           -    -   -   -          *         *           *           *      (ARGM-ADV*)     (ARGM-ADV*)     (ARGM-ADV*)          *               *       -
+bn/cts/02/cts_0279   0   21    [WORD]    VV               (VP(VP*            -   03   2   -          *         *           *           *             (V*)              *               *           *               *       -
+bn/cts/02/cts_0279   0   22    [WORD]    AS                     *            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   23    [WORD]    CD               (NP(QP*            -    -   -   -          *         *           *           *          (ARG1*               *               *           *               *      (0
+bn/cts/02/cts_0279   0   24    [WORD]     M                 (CLP*))          -    -   2   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   25    [WORD]    NR                  (NP*            -    -   -   -    (PERSON)        *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   26    [WORD]    NN                     *)))         -    -   -   -          *         *           *           *               *)              *               *           *               *       0)
+bn/cts/02/cts_0279   0   27    [WORD]    VV                  (VP*            -   05   7   -          *         *           *           *               *             (V*)              *           *               *       -
+bn/cts/02/cts_0279   0   28    [WORD]    VV                  (VP*            -   02   6   -          *         *           *           *               *          (ARG1*             (V*)          *               *       -
+bn/cts/02/cts_0279   0   29    [WORD]    PN                  (NP*))))))))    -    -   -   -          *         *           *           *               *               *)         (ARG1*)          *               *      (4)
+bn/cts/02/cts_0279   0   30    [WORD]    PU                     *            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   31    [WORD]    DT     (IP(NP(DNP(NP(DP*            -    -   -   -          *         *           *           *               *               *               *           *               *      (0
+bn/cts/02/cts_0279   0   32    [WORD]     M                 (CLP*))          -    -   2   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   33    [WORD]    NR                  (NP*            -    -   -   -    (PERSON)        *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   34    [WORD]    NN                     *))          -    -   -   -          *         *           *           *               *               *               *           *               *       0)
+bn/cts/02/cts_0279   0   35    [WORD]   DEG                     *)           -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   36    [WORD]    NN               (NP(NP*)           -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   37    [WORD]    CC                     *            -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   38    [WORD]    VV   (NP(CP(CP(IP(VP(VP*)))         -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   39    [WORD]   DEC                     *))          -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   40    [WORD]    NN                  (NP*))))        -    -   -   -          *         *           *           *               *               *               *           *               *       -
+bn/cts/02/cts_0279   0   41    [WORD]    NR                  (NP*)           -    -   -   -    (PERSON)        *           *           *               *               *               *      (ARG0*)              *      (6)
+bn/cts/02/cts_0279   0   42    [WORD]    VV                  (VP*            -   01   1   -          *         *           *           *               *               *               *         (V*)              *       -
+bn/cts/02/cts_0279   0   43    [WORD]    NN                  (NP*            -    -   -   -          *         *           *           *               *               *               *      (ARG1*               *      (2
+bn/cts/02/cts_0279   0   44    [WORD]    NN                     *)           -    -   -   -          *         *           *           *               *               *               *           *)              *       2)
+bn/cts/02/cts_0279   0   45    [WORD]    VV               (IP(VP*            -    -   -   -          *         *           *           *               *               *               *      (ARG2*               *       -
+bn/cts/02/cts_0279   0   46    [WORD]    AD             (VP(ADVP*)           -    -   -   -          *         *           *           *               *               *               *           *      (ARGM-ADV*)      -
+bn/cts/02/cts_0279   0   47    [WORD]    VV                  (VP*))))))      -   01   -   -          *         *           *           *               *               *               *           *)            (V*)      -
+bn/cts/02/cts_0279   0   48    [WORD]    PU                     *))          -    -   -   -          *         *           *           *               *               *               *           *               *       -
+
+bn/cts/02/cts_0279   0    0    [WORD]    P   (TOP(IP(PP*              -    -   -   -          *             *               *        *           *          (ARG3*        *       -
+bn/cts/02/cts_0279   0    1    [WORD]   NT       (IP(NP*              -    -   -   -     (DATE*    (ARGM-TMP*               *        *           *               *        *       -
+bn/cts/02/cts_0279   0    2    [WORD]   CC             *              -    -   5   -          *             *               *        *           *               *        *       -
+bn/cts/02/cts_0279   0    3    [WORD]   NT             *)             -    -   -   -          *)            *)              *        *           *               *        *       -
+bn/cts/02/cts_0279   0    4    [WORD]   NR          (NP*              -    -   -   -    (PERSON)       (ARG0*               *        *           *               *        *      (4
+bn/cts/02/cts_0279   0    5    [WORD]   NN             *)             -    -   -   -          *             *)              *        *           *               *        *       4)
+bn/cts/02/cts_0279   0    6    [WORD]   VV          (VP*              -   01   7   -          *           (V*)              *        *           *               *        *       -
+bn/cts/02/cts_0279   0    7    [WORD]   NN       (IP(NP*              -    -   -   -          *        (ARG1*          (ARG0*        *           *               *        *      (2
+bn/cts/02/cts_0279   0    8    [WORD]   NN             *)             -    -   2   -          *             *               *)       *           *               *        *       2)
+bn/cts/02/cts_0279   0    9    [WORD]   AD     (VP(ADVP*)             -    -   -   -          *             *      (ARGM-ADV*)       *           *               *        *       -
+bn/cts/02/cts_0279   0   10    [WORD]   AD        (ADVP*)             -    -   -   -          *             *      (ARGM-ADV*)       *           *               *        *       -
+bn/cts/02/cts_0279   0   11    [WORD]   VV          (VP*              -   01   -   -          *             *             (V*)       *           *               *        *       -
+bn/cts/02/cts_0279   0   12    [WORD]   PN          (NP*)             -    -   -   -          *             *          (ARG1*)       *           *               *        *      (4)
+bn/cts/02/cts_0279   0   13    [WORD]   VV    (IP(VP(VP*)             -   01   -   -          *             *          (ARG2*      (V*)          *               *        *       -
+bn/cts/02/cts_0279   0   14    [WORD]   VV          (VP*              -   01   1   -          *             *               *        *         (V*)              *        *       -
+bn/cts/02/cts_0279   0   15    [WORD]   NN          (NP*))))))))))    -    -   -   -          *             *)              *)       *      (ARG1*)              *)       *       -
+bn/cts/02/cts_0279   0   16    [WORD]   PU             *              -    -   -   -          *             *               *        *           *               *        *       -
+bn/cts/02/cts_0279   0   17    [WORD]   AD        (ADVP*)             -    -   -   -          *             *               *        *           *      (ARGM-DIS*)       *       -
+bn/cts/02/cts_0279   0   18    [WORD]   NR          (NP*)             -    -   -   -    (PERSON)            *               *        *           *          (ARG0*)       *      (6)
+bn/cts/02/cts_0279   0   19    [WORD]   AD     (VP(ADVP*)             -    -   -   -          *             *               *        *           *      (ARGM-DIS*)       *       -
+bn/cts/02/cts_0279   0   20    [WORD]   VV          (VP*              -   01   1   -          *             *               *        *           *             (V*)       *       -
+bn/cts/02/cts_0279   0   21    [WORD]   VV       (IP(VP*))))          -   01   -   -          *             *               *        *           *          (ARG1*)     (V*)      -
+bn/cts/02/cts_0279   0   22    [WORD]   PU             *))            -    -   -   -          *             *               *        *           *               *        *       -
+
+#end document

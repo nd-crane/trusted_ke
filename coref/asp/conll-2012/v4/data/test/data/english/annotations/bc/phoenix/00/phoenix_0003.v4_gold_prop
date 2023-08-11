@@ -1,0 +1,850 @@
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 1 1 gold be-v be.03 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 1 2 gold leave-v leave.01 ----- 2:0-rel 3:1-ARG2 5:1-ARGM-LOC 10:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 1 12 gold leave-v leave.01 ----- 12:0-rel 11:1-ARG0 13:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 1 14 gold work-v work.01 ----- 14:0-rel 15:1-ARGM-LOC 11:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 2 1 gold be-v be.03 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 2 2 gold call-v call.01 ----- 2:0-rel 3:3-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 3 2 gold be-v be.03 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 3 4 gold force-v force.01 ----- 4:0-rel 3:1-ARGM-ADV 5:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 3 6 gold work-v work.01 ----- 6:0-rel 7:1-ARGM-LOC 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 4 4 gold have-v have.03 ----- 4:0-rel 0:1-ARGM-ADV 3:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 5 1 gold be-v be.02 ----- 1:0-rel 2:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 5 6 gold work-v work.01 ----- 6:0-rel 7:1-ARGM-LOC 10:2-ARGM-TMP 13:1-ARGM-LOC 16:2-ARGM-ADV 2:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 5 17 gold create-v create.01 ----- 17:0-rel 16:1-ARGM-ADV 18:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 6 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 6 3 gold tell-v tell.01 ----- 3:0-rel 4:1-ARG2 5:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 6 7 gold miss-v miss.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1 9:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 7 9 gold long-v long.01 ----- 9:0-rel 0:3-ARGM-TMP 8:1-ARG0 10:1-ARG1 12:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 7 15 gold wait-v wait.01 ----- 15:0-rel 0:3-ARGM-TMP 8:1-ARG1 16:1-ARG2 19:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 8 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 8 4 gold be-v be.01 ----- 4:0-rel 5:1-ARG2 7:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 8 8 gold have-v have.03 ----- 8:0-rel 9:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 9 0 gold visit-v visit.01 ----- 0:0-rel 1:1-ARG1 3:1-ARGM-TMP 5:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 11 7 gold title-v title.01 ----- 7:0-rel 4:1-ARG1 8:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 11 16 gold have-v have.01 ----- 16:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 11 17 gold draw-v draw.02 ----- 17:0-rel 0:1-ARGM-TMP 4:2-ARG0 18:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 12 9 gold have-v have.01 ----- 9:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 12 11 gold put-v put.03 ----- 11:0-rel 1:2-ARG0 10:1-ARGM-MNR 12:1-ARG1 13:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 12 26 gold have-v have.01 ----- 26:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 12 28 gold enter-v enter.01 ----- 28:0-rel 0:1-ARGM-ADV 16:2-ARG0 27:1-ARGM-MNR 29:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 13 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:3-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 14 7 gold have-v have.01 ----- 7:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 14 8 gold lead-v lead.02 ----- 8:0-rel 0:1-ARGM-TMP 6:1-ARG0 12:2-ARGM-PRD
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 14 13 gold conduct-v conduct.01 ----- 13:0-rel 14:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 15 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 15 3 gold pick-v pick.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1 17:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 15 18 gold conduct-v conduct.01 ----- 18:0-rel 19:1-ARG1 2:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 7 gold work-v work.01 ----- 7:0-rel 8:1-ARGM-LOC 5:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 29 gold engage-v engage.01 ----- 29:0-rel 0:1-ARGM-DIS 4:1-ARGM-ADV 17:1-ARGM-DIS 19:1-ARGM-DIS 21:1-ARGM-ADV 27:1-ARG1 28:1-ARGM-ADV 30:1-ARG2 34:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 36 gold leave-v leave.04 ----- 36:0-rel 35:1-ARG0 37:1-ARG2 40:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 16 41 gold work-v work.01 ----- 41:0-rel 35:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 17 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 17 7 gold bring-v bring.01 ----- 7:0-rel 8:1-ARG1 10:1-ARG2 4:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 2 gold conduct-v conduct.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 9 gold be-v be.01 ----- 9:0-rel 0:2-ARGM-TMP 7:1-ARG1 10:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 11 gold analyze-v analyze.01 ----- 11:0-rel 12:2-ARG1 7:0-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 18 20 gold work-v work.01 ----- 20:0-rel 17:1-ARG0 21:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 19 4 gold be-v be.01 ----- 4:0-rel 1:1-ARG1 5:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 3 gold believe-v believe.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 7 gold be-v be.01 ----- 7:0-rel 6:1-ARG1 8:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 23 gold be-v be.03 ----- 23:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 24 gold conduct-v conduct.01 ----- 24:0-rel 21:1-ARG1 25:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 20 30 gold be-v be.01 ----- 30:0-rel 5:1-ARGM-ADV 14:1-ARGM-ADV 27:1-ARG1 29:0-ARGM-MOD 31:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 21 11 gold be-v be.02 ----- 11:0-rel 13:1-ARGM-LOC 15:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 22 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 2:0-ARGM-MOD 4:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 23 12 gold leave-v leave.01 ----- 12:0-rel 13:1-ARG1 15:2-ARGM-PRP 7:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 23 16 gold work-v work.01 ----- 16:0-rel 17:1-ARGM-LOC 7:2*11:1-LINK-SLC 11:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 23 23 gold be-v be.01 ----- 23:0-rel 2:2-ARG1 24:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 24 12 gold cite-v cite.01 ----- 12:0-rel 0:1-ARGM-TMP 2:1-ARGM-DIS 5:1-ARGM-DIS 7:1-ARG0 10:1-ARGM-DIS 13:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 25 2 gold quote-v quote.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 26 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 26 2 gold think-v think.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG2 5:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 3 gold use-v use.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1 6:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 13 gold leave-v leave.01 ----- 13:0-rel 14:1-ARG1 16:2-ARGM-PRP 10:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 17 gold work-v work.01 ----- 17:0-rel 18:1-ARGM-LOC 10:1*12:1-LINK-SLC 12:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 28 gold be-v be.03 ----- 28:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 31 gold marry-v marry.01 ----- 31:0-rel 0:1-ARGM-ADV 29:1-ARGM-DIS 32:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 27 34 gold work-v work.01 ----- 34:0-rel 33:1-ARG0 35:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 28 6 gold marry-v marry.01 ----- 6:0-rel 7:0-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 28 10 gold have-v have.03 ----- 10:0-rel 0:1-ARGM-ADV 3:2-ARG0 8:0-ARGM-MOD 9:1-ARGM-TMP 11:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 29 5 gold have-v have.03 ----- 5:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 4:1-ARGM-ADV 6:2-ARG1 10:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 30 3 gold imagine-v imagine.01 ----- 3:0-rel 1:1-ARG0 2:0-ARGM-MOD
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 31 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 31 8 gold be-v be.01 ----- 8:0-rel 2:1-ARG1 9:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 32 10 gold be-v be.01 ----- 10:0-rel 0:1-ARG1 2:1-ARGM-DIS 5:1-ARGM-ADV 9:0-ARGM-MOD 11:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 33 4 gold have-v have.01 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 33 6 gold conduct-v conduct.01 ----- 6:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:0-ARGM-NEG 7:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 34 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 34 8 gold be-v be.01 ----- 8:0-rel 2:2-ARG1 7:0-ARGM-MOD 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 35 23 gold include-v include.01 ----- 23:0-rel 0:1-ARGM-ADV 9:1-ARGM-TMP 12:2-ARG2 24:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 35 50 gold have-v have.03 ----- 50:0-rel 46:2-ARG0 51:2-ARG1 55:2-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 35 55 gold account-v account.01 ----- 55:0-rel 56:1-ARG1 46:2-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 35 62 gold survey-v survey.01 ----- 62:0-rel 60:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:3-ARG2 14:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 9 gold account-v account.01 ----- 9:0-rel 4:2-ARG0 10:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 17 gold live-v live.01 ----- 17:0-rel 18:1-ARGM-MNR 15:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 21 gold be-v be.03 ----- 21:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 22 gold entrust-v entrust.01 ----- 22:0-rel 23:1-ARG2 15:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 36 29 gold make-v make.07 ----- 29:0,30:1-rel 15:2-ARG0 31:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 37 6 gold do-v do.01 ----- 6:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 37 13 gold do-v do.02 ----- 13:0-rel 7:1-ARG0 12:1-ARGM-ADV 14:1-ARG2 18:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 37 23 gold work-v work.01 ----- 23:0-rel 19:2-ARG0 24:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 38 4 gold have-v have.03 ----- 4:0-rel 0:2-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 39 9 gold create-v create.01 ----- 9:0-rel 0:1-ARGM-DIS 4:2-ARG0 8:1-ARGM-ADV 10:1-ARG1 12:2-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 39 12 gold compare-v compare.01 ----- 12:0-rel 13:1-ARG2 4:2-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 40 7 gold be-v be.01 ----- 7:0-rel 0:2-ARG1 8:1-ARG2 9:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 40 14 gold be-v be.01 ----- 14:0-rel 10:2-ARG1 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 41 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 42 4 gold be-v be.02 ----- 4:0-rel 0:1-ARGM-DIS 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 43 3 gold create-v create.01 ----- 3:0-rel 4:1-ARG1 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 43 7 gold be-v be.01 ----- 7:0-rel 0:2-ARG1 8:1-ARGM-ADV 9:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 44 4 gold mean-v mean.01 ----- 4:0-rel 0:2-ARG0 5:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 44 7 gold look-v look.07 ----- 7:0,8:0-rel 5:1-ARG0 9:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 1 gold be-v be.02 ----- 1:0-rel 2:1-ARGM-DIS 3:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 8 gold ask-v ask.02 ----- 8:0-rel 9:1-ARG2 12:2-ARG1 3:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 13 gold look-v look.07 ----- 13:0,14:0-rel 15:1-ARG1 9:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 20 gold be-v be.02 ----- 20:0-rel 21:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 45 23 gold call-v call.01 ----- 23:0-rel 21:1-ARG1 24:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 46 3 gold create-v create.01 ----- 3:0-rel 0:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 47 2 gold want-v want.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 47 4 gold discuss-v discuss.01 ----- 4:0-rel 5:1-ARG1 6:1-ARGM-MNR 1:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 47 10 gold let-v let.01 ----- 10:0-rel 0:1-ARGM-ADV 11:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 47 12 gold say-v say.01 ----- 12:0-rel 11:1-ARG0 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 48 14 gold be-v be.03 ----- 14:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 48 18 gold take-v take.01 ----- 18:0-rel 0:1-ARGM-DIS 2:1-ARGM-LOC 11:0-ARGM-MOD 12:1-ARGM-ADV 15:2-ARGM-EXT 19:1-ARG1 20:1-ARG2 21:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 48 22 gold compare-v compare.01 ----- 22:0-rel 23:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 49 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 50 4 gold be-v be.01 ----- 4:0-rel 0:2-ARG1 5:0-ARGM-NEG 6:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 51 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 52 3 gold be-v be.02 ----- 3:0-rel 0:1-ARGM-DIS 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 53 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 54 2 gold want-v want.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 54 4 gold go-v go.02 ----- 4:0-rel 5:1-ARG4 8:2-ARGM-PRP 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 54 9 gold work-v work.01 ----- 9:0-rel 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 55 2 gold go-v go.02 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 55 9 gold want-v want.01 ----- 9:0-rel 6:1-ARGM-TMP 7:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 55 11 gold go-v go.02 ----- 11:0-rel 13:1-ARGM-ADV 7:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 56 1 gold happen-v happen.01 ----- 1:0-rel 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2 9:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 5 gold take-v take.01 ----- 5:0-rel 6:1-ARG1 7:1-ARG2 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 16 gold have-v have.02 ----- 16:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 57 18 gold work-v work.01 ----- 18:0-rel 19:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 58 7 gold send-v send.03 ----- 7:0-rel 0:1-ARGM-ADV 5:1-ARG0 9:1-ARG1 14:1-ARG4 18:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 58 19 gold study-v study.01 ----- 19:0-rel 9:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 2 gold go-v go.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG4 8:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 16 gold be-v be.01 ----- 16:0-rel 14:1-ARG1 18:1-ARGM-DIS 20:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 26 gold go-v go.05 ----- 26:0-rel 25:1-ARG0 27:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 59 28 gold visit-v visit.01 ----- 28:0-rel 29:1-ARG1 25:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 60 1 gold go-v go.05 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 60 3 gold visit-v visit.01 ----- 3:0-rel 4:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 2 gold see-v see.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 8 gold cry-v cry.01 ----- 8:0-rel 0:2-ARGM-TMP 6:1-ARG0 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 12 gold say-v say.01 ----- 12:0-rel 0:2-ARGM-TMP 6:1-ARG0 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 17 gold do-v do.01 ----- 17:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 19 gold want-v want.01 ----- 19:0-rel 15:1-ARG0 16:1-ARGM-ADV 18:0-ARGM-NEG 20:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 61 21 gold stay-v stay.01 ----- 21:0-rel 22:1-ARG3 15:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 62 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 62 3 gold go-v go.02 ----- 3:0-rel 4:1-ARG4 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 4 gold be-v be.03 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 5 gold move-v move.01 ----- 5:0-rel 0:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 7 gold bring-v bring.01 ----- 7:0-rel 0:1-ARGM-TMP 2:1-ARG0 9:1-ARG1 11:1-ARG3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 13 gold have-v have.04 ----- 13:0-rel 0:1-ARGM-TMP 2:1-ARG0 14:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 63 16 gold look-v look.07 ----- 16:0,17:0-rel 14:1-ARG0 18:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 64 7 gold leave-v leave.01 ----- 7:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-DIS 8:1-ARG1 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 65 7 gold return-v return.01 ----- 7:0-rel 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 65 11 gold continue-v continue.01 ----- 11:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARGM-TMP 9:1-ARG0 12:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 65 13 gold work-v work.01 ----- 13:0-rel 14:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 66 2 gold come-v come.01 ----- 2:0-rel 1:1-ARG1 3:1-ARGM-DIR 4:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 66 11 gold find-v find.01 ----- 11:0-rel 0:2-ARGM-TMP 10:1-ARG0 12:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 66 17 gold be-v be.03 ----- 17:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 66 18 gold dot-v dot.01 ----- 18:0-rel 19:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 67 2 gold discover-v discover.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:1-ARGM-DIS 5:1-ARGM-DIS 7:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 67 9 gold have-v have.01 ----- 9:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 67 11 gold wash-v wash.01 ----- 11:0-rel 7:1-ARG0 10:0-ARGM-NEG 12:1-ARG1 14:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 3 gold mention-v mention.01 ----- 3:0-rel 2:1-ARG0 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 5 gold be-v be.01 ----- 5:0-rel 6:1,0:2-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 9 gold be-v be.01 ----- 9:0-rel 10:1,0:2-ARG1 11:1-ARG2 16:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 21 gold think-v think.01 ----- 21:0-rel 17:1-ARGM-ADV 19:1-ARG0 20:0-ARGM-MOD 22:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 26 gold love-v love.01 ----- 26:0-rel 23:1-ARG0 24:0-ARGM-MOD 25:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 68 28 gold care-v care.01 ----- 28:0-rel 23:1-ARG0 24:0-ARGM-MOD 25:1-ARGM-MNR 29:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 69 5 gold mention-v mention.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-TMP 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 69 11 gold be-v be.01 ----- 11:0-rel 0:2-ARG1 12:1-ARGM-ADV 14:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 70 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 71 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 71 5 gold have-v have.03 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 72 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 73 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 73 6 gold go-v go.02 ----- 6:0-rel 4:1-ARG0 5:0-ARGM-MOD 7:1-ARGM-DIR 11:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 73 12 gold pamper-v pamper.01 ----- 12:0-rel 13:1-ARG1 4:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 74 19 gold take-v take.01 ----- 19:0-rel 20:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 74 22 gold love-v love.01 ----- 22:0-rel 23:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 74 25 gold be-v be.01 ----- 25:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 6:1-ARGM-ADV 15:2-ARG1 26:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 75 1 gold be-v be.03 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 75 2 gold influence-v influence.01 ----- 2:0-rel 3:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 76 4 gold be-v be.02 ----- 4:0-rel 0:1-ARGM-ADV 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 76 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2 5:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 77 4 gold ask-v ask.02 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 5:1-ARG2 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 77 7 gold take-v take.01 ----- 7:0-rel 9:2-ARG1 5:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 77 13 gold be-v be.03 ----- 13:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 77 14 gold make-v make.01 ----- 14:0-rel 15:1-ARGM-LOC 9:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 78 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 78 4 gold know-v know.01 ----- 4:0-rel 0:1-ARG0 2:0-ARGM-NEG 3:1-ARGM-ADV 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 78 7 gold be-v be.03 ----- 7:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 78 8 gold make-v make.01 ----- 8:0-rel 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 79 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 80 6 gold be-v be.01 ----- 6:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 5:1-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 81 2 gold send-v send.03 ----- 2:0-rel 3:1-ARG1 5:1-ARG4 8:2-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 81 14 gold be-v be.03 ----- 14:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 81 15 gold influence-v influence.01 ----- 15:0-rel 0:1-ARGM-ADV 16:1-ARG0 20:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 82 2 gold raise-v raise.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 5:1-ARGM-REC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 4 gold mention-v mention.01 ----- 4:0-rel 3:1-ARG0 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 5 gold be-v be.01 ----- 5:0-rel 0:2-ARG1 6:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 8 gold have-v have.02 ----- 8:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 83 10 gold take-v take.01 ----- 10:0-rel 11:1-ARG1 12:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 5 gold be-v be.01 ----- 5:0-rel 1:1-ARG1 6:0-ARGM-NEG 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 13 gold fall-v fall.01 ----- 13:0-rel 10:1-ARG1 14:1-ARG4 18:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 22 gold have-v have.02 ----- 22:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 84 24 gold be-v be.01 ----- 24:0-rel 25:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 5 gold do-v do.02 ----- 5:0-rel 3:1-ARG0 4:0-ARGM-MOD 2:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 6 gold be-v be.01 ----- 6:0-rel 0:0-ARGM-DIS 2:2-ARG1 7:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 8 gold feed-v feed.01 ----- 8:0-rel 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 11 gold make-v make.02 ----- 11:0-rel 12:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 85 15 gold be-v be.01 ----- 15:0-rel 14:1-ARG1 16:0-ARGM-NEG 17:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 86 2 gold have-v have.02 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 86 4 gold face-v face.01 ----- 4:0-rel 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 86 14 gold resolve-v resolve.01 ----- 14:0-rel 11:1-ARG0 12:0-ARGM-MOD 13:0-ARGM-NEG 9:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 87 6 gold have-v have.03 ----- 6:0-rel 7:2-ARG1 10:1-ARGM-TMP 3:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 87 20 gold be-v be.01 ----- 20:0-rel 0:1-ARGM-DIS 3:2-ARGM-ADV 15:2-ARG1 21:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 88 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-TMP 1:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 89 6 gold help-v help.01 ----- 6:0-rel 0:1-ARGM-ADV 3:1-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 11 gold find-v find.03 ----- 11:0,12:1-rel 0:1-ARGM-LOC 9:1-ARG0 13:1-ARGM-MNR 15:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 23 gold work-v work.01 ----- 23:0-rel 24:1-ARGM-LOC 20:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 38 gold have-v have.01 ----- 38:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 39 gold form-v form.01 ----- 39:0-rel 16:2-ARG0 40:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 90 46 gold meet-v meet.02 ----- 46:0-rel 44:0-ARGM-MOD 45:1-ARGM-NEG 40:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 2 gold work-v work.01 ----- 2:0-rel 3:1-ARGM-LOC 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 6 gold be-v be.01 ----- 6:0-rel 0:2-ARG1 7:1-ARGM-ADV 8:2-ARG2 15:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 17 gold be-v be.01 ----- 17:0-rel 16:1-ARG1 18:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 91 24 gold attend-v attend.01 ----- 24:0-rel 22:1-ARG0 25:3-ARG1 18:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 92 3 gold work-v work.01 ----- 3:0-rel 0:1-ARGM-TMP 2:1-ARG0 4:1-ARGM-LOC 7:1-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 92 15 gold receive-v receive.01 ----- 15:0-rel 12:1-ARG0 14:0-ARGM-MOD 16:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 93 4 gold need-v need.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 5:2-ARG1 13:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 93 6 gold love-v love.01 ----- 6:0-rel 7:0,9:0-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 93 9 gold guidance-n guidance.01 ----- 9:0-rel 10:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 94 13 gold create-v create.01 ----- 13:0-rel 0:1-ARGM-TMP 4:2-ARG0 12:0-ARGM-MOD 14:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 95 5 gold have-v have.01 ----- 5:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 95 6 gold make-v make.02 ----- 6:0-rel 0:2-ARG0 7:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 95 17 gold become-v become.01 ----- 17:0-rel 7:2-ARG1 18:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 96 1 gold have-v have.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 96 2 gold see-v see.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 97 0 gold be-v be.02 ----- 0:0-rel 2:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 97 10 gold have-v have.01 ----- 10:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 97 11 gold leave-v leave.02 ----- 11:0-rel 12:1-ARG1 16:1-ARG2 2:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 97 21 gold remember-v remember.01 ----- 21:0-rel 19:1-ARG0 20:1-ARGM-TMP 22:1-ARGM-TMP 2:4-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 98 4 gold be-v be.02 ----- 4:0-rel 1:1-ARGM-DIS 5:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 98 11 gold be-v be.01 ----- 11:0-rel 12:1-ARG2 5:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 99 5 gold do-v do.01 ----- 5:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 99 7 gold do-v do.02 ----- 7:0-rel 0:1-ARG0 3:1-ARGM-DIS 6:0-ARGM-NEG 8:1-ARGM-MNR 10:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 100 1 gold impress-v impress.01 ----- 1:0-rel 2:1-ARG1 3:1-ARGM-EXT 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 100 7 gold be-v be.01 ----- 7:0-rel 0:2-ARG1 8:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 100 11 gold miss-v miss.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 101 1 gold feel-v feel.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 101 6 gold want-v want.01 ----- 6:0-rel 0:1-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 101 10 gold come-v come.01 ----- 10:0-rel 7:1-ARG1 11:1-ARGM-DIR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 102 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 102 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2 6:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 103 2 gold work-v work.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 104 3 gold learn-v learn.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 104 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 104 11 gold run-v run.02 ----- 11:0-rel 0:1-ARGM-TMP 10:1-ARG0 12:1-ARG1 16:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 2 gold arrive-v arrive.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 8 gold do-v do.01 ----- 8:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 10 gold say-v say.01 ----- 10:0-rel 0:1-ARGM-TMP 7:1-ARG0 9:0-ARGM-NEG 11:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 15 gold put-v put.01 ----- 15:0-rel 0:1-ARGM-TMP 7:1-ARG0 16:1-ARG1 17:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 21 gold carry-v carry.01 ----- 21:0-rel 7:1-ARG0 22:1-ARG1 23:1-ARGM-DIR 26:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 105 27 gold see-v see.01 ----- 27:0-rel 28:1-ARG1 22:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 106 2 gold carry-v carry.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1 4:1-ARGM-MNR 6:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 106 7 gold say-v say.01 ----- 7:0-rel 8:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 6 gold take-v take.01 ----- 6:0-rel 1:2-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 10 gold tell-v tell.01 ----- 10:0-rel 1:2-ARG0 11:1-ARG2 12:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 14 gold be-v be.01 ----- 14:0-rel 13:1-ARG1 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 17 gold cure-v cure.01 ----- 17:0-rel 18:1-ARG2 13:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 107 22 gold carry-v carry.01 ----- 22:0-rel 21:1-ARG0 23:1-ARG1 25:1-ARGM-DIR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 3 gold tell-v tell.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG2 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 6 gold happen-v happen.01 ----- 6:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 9 gold say-v say.01 ----- 9:0-rel 0:2-ARGM-TMP 8:1-ARG0 11:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 14 gold have-v have.01 ----- 14:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 108 16 gold buy-v buy.01 ----- 16:0-rel 12:1-ARG0 15:1-ARGM-NEG 17:1-ARG4 18:2-ARG1 22:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 109 5 gold buy-v buy.01 ----- 5:0-rel 0:1-ARGM-TMP 4:1-ARG0 6:1-ARG4 7:2-ARG1 12:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 109 14 gold be-v be.01 ----- 14:0-rel 13:1-ARG1 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 109 21 gold do-v do.01 ----- 21:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 109 23 gold eat-v eat.01 ----- 23:0-rel 20:1-ARG0 22:0-ARGM-NEG 24:1-ARG1 25:1-ARGM-REC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 110 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG2 4:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 111 2 gold hear-v hear.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 111 8 gold understand-v understand.01 ----- 8:0-rel 0:1-ARGM-TMP 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 111 10 gold be-v be.01 ----- 10:0-rel 11:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 112 2 gold have-v have.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 112 3 gold feel-v feel.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 2 gold feel-v feel.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 3 gold be-v be.01 ----- 3:0-rel 0:2-ARG1 4:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 7 gold go-v go.02 ----- 7:0-rel 6:1-ARG0 8:1-ARGM-DIR 9:2-ARG4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 10 gold work-v work.01 ----- 10:0-rel 6:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 113 12 gold leave-v leave.01 ----- 12:0-rel 6:1-ARG0 13:1-ARG1 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 5 gold have-v have.01 ----- 5:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 7 gold say-v say.01 ----- 7:0-rel 3:1-ARG0 6:1-ARGM-ADV 9:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 12 gold be-v be.01 ----- 12:0-rel 11:1-ARG1 13:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 114 18 gold encourage-v encourage.01 ----- 18:0-rel 10:2-ARGM-TMP 16:1-ARG0 17:1-ARGM-TMP 19:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1 20:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 9 gold work-v work.01 ----- 9:0-rel 8:1-ARG0 10:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 12 gold get-v get.01 ----- 12:0-rel 8:1-ARG0 13:1-ARG1 16:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 115 22 gold have-v have.03 ----- 22:0-rel 21:1-ARG0 23:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 116 3 gold receive-v receive.01 ----- 3:0-rel 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 116 12 gold have-v have.01 ----- 12:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 116 17 gold dislike-v dislike.01 ----- 17:0-rel 0:1-ARGM-ADV 9:1-ARG0 10:0-ARGM-MOD 11:0-ARGM-NEG 13:1-ARGM-DIS 15:1-ARGM-DIS 18:1-ARG1 19:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 117 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 117 3 gold want-v want.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 117 5 gold go-v go.02 ----- 5:0-rel 6:1-ARG4 8:1-ARGM-TMP 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 118 8 gold imagine-v imagine.01 ----- 8:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 6:1-ARG0 7:0-ARGM-MOD 9:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 118 10 gold go-v go.01 ----- 10:0-rel 11:1-ARGM-DIR 16:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 119 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 119 4 gold feel-v feel.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 120 4 gold feel-v feel.02 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 120 12 gold work-v work.01 ----- 12:0-rel 13:1-ARGM-LOC 10:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 120 17 gold have-v have.03 ----- 17:0-rel 10:2-ARG0 16:1-ARGM-ADV 18:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 121 1 gold be-v be.03 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 121 2 gold force-v force.01 ----- 2:0-rel 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 122 3 gold be-v be.02 ----- 3:0-rel 0:1-ARGM-DIS 4:1-ARGM-DIS 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 123 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 4 gold ask-v ask.01 ----- 4:0-rel 3:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 8 gold do-v do.01 ----- 8:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 10 gold think-v think.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 11 gold be-v be.01 ----- 11:0-rel 12:2-ARG2 7:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 17 gold work-v work.01 ----- 17:0-rel 15:1-ARG0 18:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 21 gold have-v have.01 ----- 21:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 22 gold cause-v cause.01 ----- 22:0-rel 15:2-ARG0 23:1-ARG1 12:1*23:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 27 gold do-v do.01 ----- 27:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 124 29 gold answer-v answer.01 ----- 29:0-rel 0:1-ARGM-DIS 2:2-ARGM-TMP 26:1-ARG0 28:0-ARGM-NEG
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 125 1 gold go-v go.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG4 3:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 125 4 gold get-v get.01 ----- 4:0-rel 5:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 126 1 gold be-v be.02 ----- 1:0-rel 2:1-ARG1 5:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 127 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 128 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG1 5:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 1 gold happen-v happen.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 2 gold be-v be.01 ----- 2:0-rel 0:2-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 9 gold leave-v leave.01 ----- 9:0-rel 5:1-ARG0 10:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 11 gold work-v work.01 ----- 11:0-rel 12:1-ARGM-LOC 5:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 129 18 gold look-v look.07 ----- 18:0,19:0-rel 4:2-ARGM-TMP 16:1-ARG0 20:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 130 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 130 8 gold be-v be.01 ----- 8:0-rel 9:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 130 13 gold cut-v cut.01 ----- 13:0-rel 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 131 2 gold go-v go.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG4 4:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 131 5 gold play-v play.01 ----- 5:0-rel 6:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 131 11 gold happen-v happen.01 ----- 11:0-rel 0:2-ARGM-TMP 9:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 132 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 132 8 gold help-v help.01 ----- 8:0-rel 5:1-ARG0 6:0-ARGM-MOD 7:0-ARGM-NEG
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 133 3 gold keep-v keep.04 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1 6:1-ARG2 8:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 3 gold go-v go.02 ----- 3:0-rel 2:1-ARG0 4:2-ARG4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 5 gold work-v work.01 ----- 5:0-rel 6:1-ARGM-LOC 2:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 12 gold watch-v watch.01 ----- 12:0-rel 1:1-ARGM-TMP 10:1-ARG0 11:0-ARGM-MOD 13:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 15 gold forbid-v forbid.01 ----- 15:0-rel 1:1-ARGM-TMP 10:1-ARG0 16:1-ARG2 17:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 134 18 gold go-v go.02 ----- 18:0-rel 19:1-ARG4 16:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 135 1 gold have-v have.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 135 2 gold tell-v tell.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG2 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 135 6 gold do-v do.02 ----- 6:0-rel 4:0-ARGM-NEG 7:1-ARG1 8:1-ARGM-TMP 3:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 3 gold say-v say.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 7 gold be-v be.01 ----- 7:0-rel 5:1-ARGM-TMP 8:1-ARG2 10:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 11 gold ask-v ask.02 ----- 11:0-rel 12:1-ARG2 13:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 136 14 gold have-v have.03 ----- 14:0-rel 15:1-ARG1 12:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 137 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 137 4 gold turn-v turn.01 ----- 4:0-rel 3:1-ARG1 5:1-ARGM-DIR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 139 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 140 14 gold have-v have.03 ----- 14:0-rel 0:1-ARGM-LOC 8:2-ARG0 15:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 140 17 gold work-v work.01 ----- 17:0-rel 18:1-ARGM-LOC 15:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 141 9 gold be-v be.01 ----- 9:0-rel 0:3-ARG1 10:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 142 6 gold be-v be.01 ----- 6:0-rel 0:2-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 2 gold want-v want.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 4 gold save-v save.01 ----- 4:0-rel 5:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 9 gold earn-v earn.01 ----- 9:0-rel 10:2-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 16 gold be-v be.01 ----- 16:0-rel 17:1-ARG2 19:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 143 23 gold return-v return.01 ----- 23:0-rel 20:1-ARG1 21:0-ARGM-NEG 24:1-ARG4 25:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 144 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 145 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 4:2-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 145 6 gold exist-v exist.01 ----- 6:0-rel 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 1 gold have-v have.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2 5:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 13 gold be-v be.03 ----- 13:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 14 gold send-v send.02 ----- 14:0-rel 15:1-ARG0 18:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 146 19 gold live-v live.01 ----- 19:0-rel 20:1-ARGM-MNR 24:1-ARGM-LOC 6:3-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 147 2 gold rely-v rely.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 8:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 147 4 gold sell-v sell.01 ----- 4:0-rel 5:1-ARG1 6:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 147 9 gold support-v support.01 ----- 9:0-rel 10:2-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 148 1 gold live-v live.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 149 2 gold have-v have.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 149 4 gold see-v see.01 ----- 4:0-rel 0:1-ARG0 3:0-ARGM-NEG 5:1-ARG1 6:1-ARGM-TMP 7:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 150 3 gold see-v see.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 150 10 gold turn-v turn.01 ----- 10:0-rel 9:0-ARGM-MOD 11:1-ARGM-DIR 4:3-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 151 3 gold envy-v envy.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 152 5 gold want-v want.01 ----- 5:0-rel 0:0-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 152 7 gold be-v be.01 ----- 7:0-rel 8:1-ARG2 2:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 152 10 gold turn-v turn.01 ----- 10:0-rel 11:1-ARGM-DIR 2:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 153 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 4:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 153 7 gold miss-v miss.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1 10:1-ARGM-EXT 4:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 155 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 156 6 gold be-v be.02 ----- 6:0-rel 0:1-ARGM-DIS 2:1-ARGM-TMP 7:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 156 9 gold buy-v buy.01 ----- 9:0-rel 10:1-ARG1 11:1-ARG4 7:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 157 2 gold wish-v wish.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 157 7 gold buy-v buy.01 ----- 7:0-rel 4:1-ARG0 6:0-ARGM-MOD 8:1-ARG4 9:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 158 1 gold envy-v envy.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 159 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 159 4 gold miss-v miss.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1 7:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 160 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 161 1 gold be-v be.03 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 161 2 gold take-v take.01 ----- 2:0-rel 3:1-ARGM-ADV 6:2-ARGM-TMP 10:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 161 12 gold send-v send.02 ----- 12:0-rel 11:1-ARG0 13:1-ARG1 14:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 161 15 gold live-v live.01 ----- 15:0-rel 16:1-ARGM-MNR 13:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 162 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:3-ARG2 6:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 163 6 gold have-v have.03 ----- 6:0-rel 4:1-ARG0 10:1-ARGM-TMP 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 163 13 gold talk-v talk.01 ----- 13:0-rel 14:1-ARGM-MNR 17:1-ARG2 19:2-ARGM-TMP 4:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 164 8 gold be-v be.01 ----- 8:0-rel 0:1-ARGM-LOC 4:2-ARG1 9:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 165 5 gold call-v call.02 ----- 5:0-rel 2:0-ARGM-MOD 3:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 167 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 167 3 gold talk-v talk.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 168 2 gold talk-v talk.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 169 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:0-ARGM-NEG 4:1-ARG2 6:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 169 9 gold come-v come.01 ----- 9:0-rel 7:1-ARG1 8:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 170 2 gold scold-v scold.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:1-ARGM-TMP 7:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 170 10 gold be-v be.01 ----- 10:0-rel 8:1-ARG1 11:1-ARG2 4:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 171 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 171 4 gold be-v be.03 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 171 5 gold lose-v lose.02 ----- 5:0-rel 3:1-ARG0 6:1-ARG1 7:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 171 9 gold do-v do.02 ----- 9:0-rel 8:0-ARGM-NEG 10:1-ARGM-MNR 11:1-ARGM-LOC 3:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 172 2 gold cry-v cry.02 ----- 2:0-rel 0:1-ARGM-TMP 1:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 172 9 gold cry-v cry.02 ----- 9:0-rel 4:1-ARGM-TMP 7:1-ARG0 11:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 173 2 gold move-v move.01 ----- 2:0-rel 1:1-ARG0 3:2-ARGM-DIR 10:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 173 11 gold work-v work.01 ----- 11:0-rel 12:2-ARGM-TMP 1:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 173 22 gold have-v have.03 ----- 22:0-rel 0:1-ARGM-CAU 16:2-ARG0 23:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 6 gold be-v be.03 ----- 6:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 8 gold limit-v limit.01 ----- 8:0-rel 1:1-ARGM-ADV 7:1-ARGM-ADV 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 10 gold provide-v provide.01 ----- 10:0-rel 11:2-ARG1 5:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 16 gold make-v make.02 ----- 16:0-rel 17:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 20 gold have-v have.03 ----- 20:0-rel 18:1-ARG0 21:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 23 gold stay-v stay.01 ----- 23:0-rel 18:1-ARG1 24:1-ARG3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 29 gold fulfill-v fulfill.01 ----- 29:0-rel 1:1-ARGM-ADV 5:1-ARG0 27:0-ARGM-MOD 28:0-ARGM-NEG 30:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 174 33 gold educate-v educate.01 ----- 33:0-rel 34:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 175 2 gold find-v find.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 175 9 gold have-v have.01 ----- 9:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 175 11 gold be-v be.01 ----- 11:0-rel 4:2-ARG1 10:1-ARGM-NEG 12:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 176 7 gold contact-v contact.01 ----- 7:0-rel 0:2-ARG0 5:1-ARGM-TMP 8:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 177 5 gold contact-v contact.01 ----- 5:0-rel 0:2-ARG0 6:1-ARG1 8:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 178 3 gold be-v be.01 ----- 3:0-rel 1:1-ARG1 4:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 178 10 gold communicate-v communicate.01 ----- 10:0-rel 7:0-ARGM-MOD 8:1-ARG0 13:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 178 12 gold exchange-v exchange.01 ----- 12:0-rel 7:0-ARGM-MOD 8:1-ARG0 13:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 179 2 gold find-v find.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 179 22 gold be-v be.01 ----- 22:0-rel 8:2-ARG1 23:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 9 gold talk-v talk.01 ----- 9:0-rel 7:1-ARG0 8:0-ARGM-MOD 10:1-ARGM-MNR 13:1-ARGM-TMP 17:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 19 gold call-v call.02 ----- 19:0-rel 18:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 31 gold survey-v survey.01 ----- 31:0-rel 30:1-ARG0 25:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 180 32 gold talk-v talk.01 ----- 32:0-rel 0:1-ARGM-DIS 2:2-ARGM-ADV 21:3-ARG0 33:1-ARGM-MNR 36:1-ARG2 39:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 181 3 gold talk-v talk.01 ----- 3:0-rel 1:0-ARGM-MOD 2:1-ARG0 4:1-ARG1 5:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 182 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 182 3 gold be-v be.01 ----- 3:0-rel 4:1-ARG2 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 182 6 gold say-v say.01 ----- 6:0-rel 7:2-ARG1 9:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 183 5 gold study-v study.01 ----- 5:0-rel 0:1-ARGM-DIS 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 183 9 gold talk-v talk.01 ----- 9:0-rel 7:1-ARG0 10:1-ARG2 13:1-ARG1 14:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 184 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 184 5 gold work-v work.01 ----- 5:0-rel 6:1-ARGM-LOC 2:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 184 9 gold talk-v talk.01 ----- 9:0-rel 2:2-ARG0 10:1-ARG1 11:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 1 gold touch-v touch.01 ----- 1:0-rel 2:1-ARG1 3:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 5 gold be-v be.01 ----- 5:0-rel 0:2-ARG1 6:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 20 gold be-v be.01 ----- 20:0-rel 7:2-ARG1 21:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 22 gold ask-v ask.01 ----- 22:0-rel 23:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 36 gold have-v have.01 ----- 36:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 185 37 gold earn-v earn.01 ----- 37:0-rel 35:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 186 16 gold be-v be.01 ----- 16:0-rel 0:1-ARGM-ADV 13:1-ARGM-TMP 15:1-ARG1 17:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 187 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 187 8 gold be-v be.01 ----- 8:0-rel 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 188 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG1 4:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 188 6 gold obey-v obey.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 188 12 gold eat-v eat.01 ----- 12:0-rel 11:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 189 13 gold have-v have.03 ----- 13:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 7:1-ARGM-ADV 10:1-ARG0 11:0-ARGM-MOD 12:0-ARGM-NEG 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 190 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 190 6 gold talk-v talk.01 ----- 6:0-rel 5:1-ARG0 7:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 190 14 gold be-v be.01 ----- 14:0-rel 3:2-ARGM-TMP 11:1-ARG1 15:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 191 6 gold have-v have.01 ----- 6:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 191 7 gold realize-v realize.01 ----- 7:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG 8:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 192 5 gold have-v have.01 ----- 5:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 192 6 gold stop-v stop.01 ----- 6:0-rel 0:1-ARGM-DIS 3:1-ARG1 7:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 192 7 gold talk-v talk.01 ----- 7:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 1 gold stop-v stop.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG1 3:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 2 gold talk-v talk.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 5 gold need-v need.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 7 gold pause-v pause.01 ----- 7:0-rel 8:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 9 gold consider-v consider.01 ----- 9:0-rel 10:2-ARG1 4:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 12 gold say-v say.01 ----- 12:0-rel 13:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 193 14 gold be-v be.01 ----- 14:0-rel 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 194 4 gold have-v have.01 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 194 5 gold realize-v realize.01 ----- 5:0-rel 0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 194 11 gold hang-v hang.03 ----- 11:0,12:1-rel 10:1-ARG0 13:1-ARG1 15:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 195 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG1 10:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 196 5 gold be-v be.01 ----- 5:0-rel 0:1-ARGM-ADV 4:1-ARG1 6:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 196 8 gold worry-v worry.02 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 197 6 gold tell-v tell.01 ----- 6:0-rel 1:1-ARG0 7:1-ARG2 8:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 197 11 gold want-v want.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 197 13 gold call-v call.02 ----- 13:0-rel 14:1-ARG1 16:1-ARGM-MNR 9:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 198 5 gold consider-v consider.01 ----- 5:0-rel 0:1-ARGM-ADV 2:1-ARGM-DIS 4:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 198 14 gold do-v do.01 ----- 14:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 198 16 gold have-v have.03 ----- 16:0-rel 9:1-ARGM-ADV 12:1-ARGM-TMP 13:1-ARG0 15:0-ARGM-NEG 17:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 199 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 199 7 gold borrow-v borrow.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG1 10:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 200 5 gold consider-v consider.01 ----- 5:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 200 8 gold need-v need.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1 10:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 201 2 gold tell-v tell.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG2 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 201 8 gold call-v call.02 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-MNR 9:1-ARG1 11:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 201 14 gold be-v be.01 ----- 14:0-rel 12:1-ARG1 15:0-ARGM-NEG 16:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 202 2 gold have-v have.03 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 203 0 gold do-v do.01 ----- 0:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 203 6 gold understand-v understand.01 ----- 6:0-rel 1:1-ARG0 7:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 203 10 gold work-v work.01 ----- 10:0-rel 8:1-ARG0 11:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 204 5 gold conduct-v conduct.01 ----- 5:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 205 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 205 5 gold find-v find.01 ----- 5:0-rel 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 205 15 gold have-v have.03 ----- 15:0-rel 7:2-ARG0 16:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 205 22 gold hold-v hold.01 ----- 22:0-rel 20:1-ARG0 23:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 206 3 gold be-v be.01 ----- 3:0-rel 1:0-ARGM-MOD 2:1-ARG1 4:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 207 3 gold be-v be.01 ----- 3:0-rel 1:0-ARGM-MOD 2:1-ARG1 4:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 208 1 gold interview-v interview.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 208 15 gold work-v work.01 ----- 15:0-rel 16:1-ARGM-LOC 12:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 209 5 gold know-v know.01 ----- 5:0-rel 1:0-ARGM-MOD 2:0-ARGM-NEG 3:1-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 209 8 gold do-v do.02 ----- 8:0-rel 7:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 4 gold tell-v tell.02 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG2 18:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 16 gold mention-v mention.01 ----- 16:0-rel 15:1-ARG0 17:1-ARGM-TMP 9:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 20 gold be-v be.01 ----- 20:0-rel 19:1-ARG1 21:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 210 30 gold work-v work.01 ----- 30:0-rel 31:1-ARGM-LOC 27:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 211 10 gold engage-v engage.01 ----- 10:0-rel 8:1-ARG1 11:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 211 12 gold be-v be.01 ----- 12:0-rel 0:1-ARGM-ADV 2:2-ARG1 13:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 211 28 gold be-v be.01 ----- 28:0-rel 25:2-ARG1 29:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 3 gold believe-v believe.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 13 gold choose-v choose.01 ----- 13:0-rel 12:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 16 gold take-v take.01 ----- 16:0-rel 14:0-ARGM-NEG 17:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 212 20 gold tell-v tell.01 ----- 20:0-rel 14:0-ARGM-NEG 21:1-ARG2 22:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 213 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 213 3 gold do-v do.02 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 214 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 214 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 214 10 gold worry-v worry.01 ----- 10:0-rel 7:1-ARG1 9:0-ARGM-MOD
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 215 9 gold work-v work.01 ----- 9:0-rel 10:1-ARGM-LOC 3:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 215 13 gold have-v have.03 ----- 13:0-rel 0:1-ARGM-DIS 3:3-ARG0 14:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 2 gold do-v do.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 4 gold want-v want.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 8 gold know-v know.01 ----- 8:0-rel 5:1-ARG0 9:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 16 gold tell-v tell.01 ----- 16:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:0-ARGM-NEG 17:1-ARG2 18:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 216 20 gold do-v do.02 ----- 20:0-rel 19:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 217 2 gold do-v do.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 217 4 gold want-v want.01 ----- 4:0-rel 0:1-ARG0 3:0-ARGM-NEG 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 217 6 gold destroy-v destroy.01 ----- 6:0-rel 7:2-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 218 9 gold go-v go.02 ----- 9:0-rel 0:1-ARGM-TMP 3:1-ARG0 10:2-ARG4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 218 11 gold work-v work.01 ----- 11:0-rel 12:1-ARGM-LOC 3:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 218 16 gold do-v do.01 ----- 16:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 218 18 gold come-v come.01 ----- 18:0-rel 0:1-ARGM-TMP 3:1-ARG1 17:0-ARGM-NEG 19:1-ARG4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 219 2 gold have-v have.02 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 219 4 gold make-v make.01 ----- 4:0-rel 5:1-ARG1 6:1-ARG3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 220 1 gold happen-v happen.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 4:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 221 2 gold look-v look.07 ----- 2:0,3:0-rel 0:1-ARG0 1:0-ARGM-MOD 4:1-ARG1 5:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 221 7 gold be-v be.01 ----- 7:0-rel 6:1-ARG1 8:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 222 2 gold be-v be.03 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 222 4 gold go-v go.04 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 222 6 gold do-v do.02 ----- 6:0-rel 7:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 223 4 gold do-v do.02 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1 7:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 223 9 gold finish-v finish.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 223 10 gold eat-v eat.01 ----- 10:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 224 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 224 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 224 13 gold do-v do.02 ----- 13:0-rel 0:1-ARGM-ADV 4:2-ARGM-TMP 9:1-ARG0 10:0-ARGM-MOD 12:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 4 gold hoe-v hoe.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 12 gold be-v be.01 ----- 12:0-rel 11:1-ARG1 13:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 15 gold hurry-n hurry.01 ----- 15:0-rel 16:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 17 gold till-v till.01 ----- 17:0-rel 18:1-ARG1 20:1-ARGM-PRP 11:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 21 gold grow-v grow.03 ----- 21:0-rel 22:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 26 gold help-v help.01 ----- 26:0-rel 8:1-ARGM-DIS 10:2-ARGM-TMP 24:1-ARG0 25:0-ARGM-MOD 27:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 226 27 gold do-v do.02 ----- 27:0-rel 28:1-ARG1 24:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 227 0 gold do-v do.01 ----- 0:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 227 3 gold remember-v remember.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 228 4 gold do-v do.01 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 229 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 230 5 gold want-v want.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 230 7 gold know-v know.01 ----- 7:0-rel 2:1-LINK-SLC 4:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 230 8 gold be-v be.01 ----- 8:0-rel 0:1-ARGM-TMP 2:2-ARG1 10:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 231 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 231 3 gold want-v want.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 231 5 gold know-v know.01 ----- 5:0-rel 6:1-ARG1 2:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 232 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 232 4 gold care-v care.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1 8:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 233 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG2 5:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 233 7 gold know-v know.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 233 10 gold work-v work.01 ----- 10:0-rel 9:1-ARG0 11:1-ARGM-LOC 14:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 233 20 gold care-v care.01 ----- 20:0-rel 19:1-ARG0 21:1-ARG1 23:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 2 gold be-v be.03 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 3 gold wear-v wear.03 ----- 3:0,4:1-rel 1:0-ARGM-MOD 5:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 6 gold work-v work.01 ----- 6:0-rel 7:1-ARGM-LOC 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 11 gold work-v work.01 ----- 11:0-rel 12:1-ARGM-LOC 15:2-ARGM-PRP 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 234 16 gold make-v make.05 ----- 16:0-rel 17:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 235 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 235 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARGM-DIS 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 235 11 gold care-v care.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1 15:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 236 5 gold be-v be.01 ----- 5:0-rel 6:1-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 3 gold do-v do.01 ----- 3:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 5 gold have-v have.03 ----- 5:0-rel 2:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 9 gold think-v think.01 ----- 9:0-rel 1:1-ARGM-ADV 8:1-ARG0 10:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 14 gold be-v be.01 ----- 14:0-rel 10:1-ARG1 11:1-ARGM-DIS 13:0-ARGM-MOD 15:3-ARG2 20:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 237 22 gold work-v work.01 ----- 22:0-rel 21:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 238 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 238 7 gold live-v live.01 ----- 7:0-rel 8:1-ARGM-MNR 3:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 238 13 gold go-v go.02 ----- 13:0-rel 14:1-ARG4 17:1-ARGM-MNR 3:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 239 10 gold want-v want.01 ----- 10:0-rel 0:1-ARGM-ADV 5:1-ARGM-TMP 8:2-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 239 14 gold come-v come.01 ----- 14:0-rel 11:1-ARG1 15:1-ARGM-DIR 16:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 239 17 gold live-v live.01 ----- 17:0-rel 18:1-ARGM-MNR 11:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 8 gold survey-v survey.01 ----- 8:0-rel 7:1-ARG0 5:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 9 gold be-v be.01 ----- 9:0-rel 0:1-ARGM-DIS 2:2-ARG1 10:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 12 gold go-v go.02 ----- 12:0-rel 13:1-ARG4 16:1-ARGM-MNR 2:2-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 20 gold go-v go.02 ----- 20:0-rel 21:1-ARG4 25:2-ARGM-PRP 2:2-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 240 26 gold live-v live.01 ----- 26:0-rel 27:1-ARGM-LOC 2:2-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 4 gold want-v want.01 ----- 4:0-rel 0:1-ARGM-DIS 2:2-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 8 gold come-v come.01 ----- 8:0-rel 5:1-ARG1 9:1-ARGM-DIR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 16 gold do-v do.01 ----- 16:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 18 gold want-v want.01 ----- 18:0-rel 12:2-ARG0 17:0-ARGM-NEG 19:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 241 20 gold go-v go.02 ----- 20:0-rel 21:1-ARG4 12:2-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 242 2 gold ask-v ask.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG2 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 242 6 gold do-v do.01 ----- 6:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 242 8 gold want-v want.01 ----- 8:0-rel 5:1-ARG0 7:0-ARGM-NEG 9:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 242 10 gold go-v go.02 ----- 10:0-rel 11:1-ARG4 5:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 243 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 244 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 244 5 gold be-v be.01 ----- 5:0-rel 3:1-ARG1 6:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 244 10 gold be-v be.01 ----- 10:0-rel 9:1-ARG1 11:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 6 gold go-v go.02 ----- 6:0-rel 5:1-ARG0 7:1-ARG4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 14 gold be-v be.01 ----- 14:0-rel 4:1-ARGM-TMP 11:1-ARG1 12:0-ARGM-MOD 13:0-ARGM-NEG 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 245 17 gold assimilate-v assimilate.01 ----- 17:0-rel 18:1-ARG2 11:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 246 3 gold realize-v realize.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 246 6 gold be-v be.01 ----- 6:0-rel 7:1-ARGM-TMP 8:1-ARG2 12:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 246 16 gold work-v work.01 ----- 16:0-rel 13:1-ARG0 17:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 247 2 gold have-v have.02 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 247 4 gold send-v send.01 ----- 4:0-rel 5:1-ARG1 6:1-ARG2 8:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 248 2 gold go-v go.05 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 248 3 gold live-v live.01 ----- 3:0-rel 4:1-ARGM-MNR 1:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 248 9 gold add-v add.02 ----- 9:0-rel 0:1-ARGM-ADV 7:1-ARG0 8:0-ARGM-MOD 10:1-ARG1 12:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2 6:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 9 gold live-v live.01 ----- 9:0-rel 1:1-ARG0 10:1-ARGM-LOC 13:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 18 gold know-v know.01 ----- 18:0-rel 0:1-ARGM-ADV 16:1-ARG0 17:0-ARGM-MOD 19:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 249 24 gold be-v be.01 ----- 24:0-rel 22:1-ARG1 25:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 250 12 gold work-v work.01 ----- 12:0-rel 13:1-ARGM-LOC 7:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 250 18 gold be-v be.01 ----- 18:0-rel 17:1-ARG1 19:0-ARGM-NEG 20:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 250 26 gold have-v have.03 ----- 26:0-rel 25:1-ARG0 27:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 251 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-ADV 5:1-ARG1 6:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 251 9 gold bring-v bring.01 ----- 9:0-rel 10:1-ARG1 12:1-ARG3 5:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 251 15 gold leave-v leave.01 ----- 15:0-rel 16:1-ARG1 17:1-ARG2 5:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 252 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 252 11 gold be-v be.01 ----- 11:0-rel 2:2-ARGM-TMP 8:1-ARG1 12:0-ARGM-NEG 13:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 253 5 gold say-v say.01 ----- 5:0-rel 3:1-ARG0 4:0-ARGM-MOD 6:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 253 13 gold want-v want.01 ----- 13:0-rel 0:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 253 15 gold live-v live.01 ----- 15:0-rel 16:1-ARGM-MNR 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 7 gold have-v have.02 ----- 7:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 9 gold face-v face.01 ----- 9:0-rel 3:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 12 gold believe-v believe.01 ----- 12:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 11:1-ARG0 13:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 254 17 gold solve-v solve.01 ----- 17:0-rel 14:1-ARG0 15:0-ARGM-MOD 16:0-ARGM-NEG 18:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 255 4 gold know-v know.01 ----- 4:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 255 8 gold be-v be.01 ----- 8:0-rel 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 256 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG1 5:1-ARG2 7:2-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 256 8 gold begin-v begin.01 ----- 8:0-rel 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 257 7 gold leave-v leave.01 ----- 7:0-rel 0:1-ARG0 6:0-ARGM-MOD 8:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 257 12 gold work-v work.01 ----- 12:0-rel 0:1-ARG0 6:0-ARGM-MOD 13:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 258 1 gold have-v have.02 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 258 3 gold make-v make.05 ----- 3:0-rel 4:1-ARG1 5:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 258 6 gold support-v support.01 ----- 6:0-rel 7:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 259 2 gold need-v need.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1 8:1-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 259 11 gold bring-v bring.01 ----- 11:0-rel 12:1-ARG1 14:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 260 3 gold believe-v believe.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 260 5 gold be-v be.02 ----- 5:0-rel 6:1-ARGM-ADV 7:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 261 2 gold have-v have.02 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 261 4 gold consider-v consider.01 ----- 4:0-rel 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 261 9 gold go-v go.02 ----- 9:0-rel 6:1-ARG0 8:0-ARGM-MOD 10:1-ARG4 12:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 262 1 gold have-v have.02 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 262 3 gold find-v find.01 ----- 3:0-rel 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 262 7 gold live-v live.01 ----- 7:0-rel 4:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 263 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 263 6 gold need-v need.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 263 8 gold resolve-v resolve.01 ----- 8:0-rel 3:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 264 3 gold face-v face.01 ----- 3:0-rel 2:1-ARG0 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 264 4 gold be-v be.01 ----- 4:0-rel 0:2-ARG1 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 265 3 gold go-v go.02 ----- 3:0-rel 1:1-ARG0 4:1-ARG4
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 265 11 gold be-v be.01 ----- 11:0-rel 0:1-ARGM-ADV 8:1-ARG1 10:0-ARGM-MOD 12:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 266 2 gold do-v do.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 266 4 gold permit-v permit.01 ----- 4:0-rel 1:1-ARG0 3:0-ARGM-NEG
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 266 9 gold bring-v bring.01 ----- 9:0-rel 0:1-ARGM-CAU 6:1-ARG0 7:0-ARGM-MOD 8:0-ARGM-NEG 10:1-ARG1 12:1-ARG3 15:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 267 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 267 5 gold bring-v bring.01 ----- 5:0-rel 6:1-ARG1 8:1-ARG3 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 268 3 gold tell-v tell.01 ----- 3:0-rel 1:0-ARGM-MOD 2:1-ARG0 4:1-ARG2 6:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 268 9 gold see-v see.01 ----- 9:0-rel 7:1-ARG0 8:0-ARGM-MOD 10:1-ARG1 11:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 269 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 269 3 gold tell-v tell.01 ----- 3:0-rel 4:1-ARG2 5:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 269 7 gold miss-v miss.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1 9:1-ARGM-EXT
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 270 0 gold judge-v judge.01 ----- 0:0-rel 1:1-ARG3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 270 5 gold be-v be.02 ----- 5:0-rel 0:2-ARGM-ADV 7:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 271 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 271 4 gold tell-v tell.02 ----- 4:0-rel 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 272 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 273 5 gold depend-v depend.01 ----- 5:0-rel 0:1-ARGM-ADV 4:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 273 11 gold have-v have.01 ----- 11:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 273 12 gold be-v be.03 ----- 12:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 273 13 gold work-v work.01 ----- 13:0-rel 9:1-ARG0 14:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 274 4 gold have-v have.01 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 274 6 gold go-v go.02 ----- 6:0-rel 0:1-ARGM-DIS 3:1-ARG0 5:1-ARGM-ADV 7:1-ARGM-TMP 11:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 274 13 gold have-v have.01 ----- 13:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 274 14 gold go-v go.02 ----- 14:0-rel 12:1-ARG0 15:1-ARGM-TMP 18:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 7 gold speak-v speak.01 ----- 7:0-rel 6:1-ARGM-ADV
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 12 gold do-v do.01 ----- 12:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 14 gold conduct-v conduct.01 ----- 14:0-rel 0:1-ARGM-LOC 4:1-ARGM-DIS 6:2-ARGM-DIS 9:1-ARGM-DIS 11:1-ARG0 13:0-ARGM-NEG 15:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 275 19 gold comparison-n comparison.01 ----- 19:0-rel 16:0-ARG1 20:1-ARGM-MNR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 276 6 gold report-v report.01 ----- 6:0-rel 0:1-ARGM-DIS 2:1-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 276 13 gold have-v have.01 ----- 13:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 276 14 gold become-v become.01 ----- 14:0-rel 8:1-ARG1 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 277 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 278 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 278 3 gold like-v like.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 278 5 gold speak-v speak.01 ----- 5:0-rel 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 279 1 gold be-v be.02 ----- 1:0-rel 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 279 6 gold be-v be.01 ----- 6:0-rel 7:1-ARG2 3:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 280 5 gold tell-v tell.01 ----- 5:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARG0 6:1-ARG2 7:1-ARGM-REC 8:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 280 16 gold miss-v miss.01 ----- 16:0-rel 9:1-ARG0 10:1-ARGM-MNR 12:1-ARGM-DIS 14:1-ARGM-DIS 17:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 281 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 282 5 gold visit-v visit.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1 2:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 282 12 gold tell-v tell.01 ----- 12:0-rel 0:1-ARGM-DIS 2:2-ARGM-TMP 8:1-ARG0 13:1-ARG2 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 282 16 gold be-v be.01 ----- 16:0-rel 15:1-ARG1 17:1-ARG2 21:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 283 4 gold become-v become.01 ----- 4:0-rel 0:1-ARGM-TMP 3:1-ARG1 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 284 11 gold become-v become.01 ----- 11:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARGM-DIS 6:2-ARG1 12:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 285 6 gold ask-v ask.01 ----- 6:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-ADV 7:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 285 14 gold have-v have.03 ----- 14:0-rel 15:2-ARG1 7:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 6 gold be-v be.01 ----- 6:0-rel 4:1-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 12 gold encourage-v encourage.01 ----- 12:0-rel 3:2-ARGM-TMP 9:1-ARG0 10:0-ARGM-MOD 11:1-ARGM-TMP 13:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 286 17 gold exchange-v exchange.01 ----- 17:0-rel 3:2-ARGM-TMP 9:1-ARG0 10:0-ARGM-MOD 11:1-ARGM-TMP 15:1-ARGM-DIS 18:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 287 6 gold be-v be.01 ----- 6:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 5:1-ARG1 7:0-ARGM-NEG 8:1-ARGM-ADV 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 287 12 gold work-v work.01 ----- 12:0-rel 10:1-ARG0 13:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 288 11 gold work-v work.01 ----- 11:0-rel 9:1-ARG0 12:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 288 15 gold have-v have.01 ----- 15:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 288 16 gold cause-v cause.01 ----- 16:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 9:2-ARG0 17:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 289 3 gold exist-v exist.01 ----- 3:0-rel 0:1-ARG1 2:1-ARGM-DIS
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 290 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 3:1-ARG1 5:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 290 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2 5:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 291 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 291 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 292 7 gold be-v be.01 ----- 7:0-rel 6:1-ARG1 8:1-ARG2 4:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 293 1 gold have-v have.02 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 293 3 gold understand-v understand.01 ----- 3:0-rel 4:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 293 11 gold be-v be.01 ----- 11:0-rel 9:1-ARG1 12:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 2 gold say-v say.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 3 gold be-v be.01 ----- 3:0-rel 0:2-ARG1 4:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 9 gold form-v form.01 ----- 9:0-rel 8:1-ARG0 10:1-ARGM-TMP 5:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 294 16 gold affect-v affect.01 ----- 16:0-rel 5:2-ARG2 15:0-ARGM-MOD 17:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 3 gold be-v be.03 ----- 3:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 4 gold love-v love.01 ----- 4:0-rel 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 7 gold realize-v realize.01 ----- 7:0-rel 8:2-ARG1 12:1-ARGM-TMP 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 14 gold be-v be.01 ----- 14:0-rel 13:1-ARG1 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 17 gold be-v be.01 ----- 17:0-rel 0:2-ARG1 16:0-ARGM-MOD 18:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 295 20 gold love-v love.01 ----- 20:0-rel 21:1-ARG1 23:1-ARGM-TMP 0:2-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 296 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 297 23 gold do-v do.01 ----- 23:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 297 25 gold have-v have.03 ----- 25:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 20:1-ARGM-MNR 22:1-ARG0 24:0-ARGM-NEG 26:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 298 6 gold work-v work.01 ----- 6:0-rel 4:1-ARG0 7:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 298 16 gold receive-v receive.01 ----- 16:0-rel 0:1-ARGM-DIS 3:1-ARGM-ADV 11:1-ARG0 13:1-ARGM-ADV 14:0-ARGM-MOD 15:0-ARGM-NEG 17:1-ARG1 19:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 298 21 gold encounter-v encounter.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 299 4 gold be-v be.03 ----- 4:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 299 6 gold face-v face.01 ----- 6:0-rel 0:1-ARGM-DIS 1:2-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 299 12 gold offer-v offer.01 ----- 12:0-rel 0:1-ARGM-DIS 1:2-ARG0 10:0-ARGM-MOD 11:0-ARGM-NEG 13:1-ARG3 14:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 5 gold believe-v believe.01 ----- 5:0-rel 4:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 8 gold be-v be.01 ----- 8:0-rel 7:1-ARG1 9:0-ARGM-NEG 10:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 15 gold be-v be.01 ----- 15:0-rel 0:1-ARGM-LOC 12:1-ARGM-DIS 14:1-ARG1 16:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 18 gold imagine-v imagine.01 ----- 18:0-rel 19:2-ARG1 14:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 26 gold develop-v develop.01 ----- 26:0-rel 23:1-ARG1 25:0-ARGM-MOD 27:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 300 29 gold grow-v grow.04 ----- 29:0,30:1-rel 28:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 301 2 gold believe-v believe.01 ----- 2:0-rel 0:0-ARGM-MOD 1:1-ARG0 3:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 301 4 gold be-v be.02 ----- 4:0-rel 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 302 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-MOD 1:1-ARG0 3:1-ARG1 12:1-ARGM-CAU
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 302 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 302 14 gold have-v have.01 ----- 14:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 302 16 gold experience-v experience.01 ----- 16:0-rel 13:1-ARG0 15:1-ARGM-NEG 17:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 303 1 gold have-v have.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 303 4 gold experience-v experience.01 ----- 4:0-rel 0:1-ARG0 2:1-ARGM-NEG 3:1-ARGM-MNR 5:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 9 gold do-v do.01 ----- 9:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 11 gold realize-v realize.01 ----- 11:0-rel 3:2-ARG0 10:0-ARGM-NEG 12:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 15 gold be-v be.03 ----- 15:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 19 gold give-v give.01 ----- 19:0-rel 14:0-ARGM-MOD 17:1-ARGM-DIS 22:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 21 gold receive-v receive.01 ----- 21:0-rel 14:0-ARGM-MOD 17:1-ARGM-DIS 22:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 26 gold think-v think.01 ----- 26:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 25:1-ARG0 27:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 28 gold be-v be.01 ----- 28:0-rel 27:1-ARG1 30:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 33 gold do-v do.01 ----- 33:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 35 gold want-v want.01 ----- 35:0-rel 32:1-ARG0 34:0-ARGM-NEG 36:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 304 37 gold imagine-v imagine.01 ----- 37:0-rel 30:1-LINK-SLC 32:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 15 gold get-v get.01 ----- 15:0-rel 11:2-ARG0 16:1-ARGM-CAU 1:2-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 19 gold work-v work.01 ----- 19:0-rel 17:1-ARG0 20:1-ARGM-LOC 23:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 24 gold make-v make.05 ----- 24:0-rel 25:1-ARG1 17:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 28 gold do-v do.01 ----- 28:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 30 gold have-v have.03 ----- 30:0-rel 0:1-ARGM-ADV 27:1-ARG0 29:0-ARGM-NEG 31:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 305 38 gold require-v require.01 ----- 38:0-rel 37:1-ARG0 31:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 306 14 gold be-v be.01 ----- 14:0-rel 0:1-ARGM-ADV 15:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 306 15 gold dissatisfy-v dissatisfy.01 ----- 15:0-rel 0:1-ARGM-ADV 16:1-ARG0
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 307 8 gold believe-v believe.01 ----- 8:0-rel 0:2-ARG0 9:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 307 11 gold be-v be.01 ----- 11:0-rel 10:1-ARG1 12:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 308 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 308 5 gold leave-v leave.01 ----- 5:0-rel 6:1-ARG1 8:1-ARG2 10:1-ARGM-PRD 1:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 309 0 gold do-v do.01 ----- 0:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 309 2 gold understand-v understand.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 310 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 310 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 310 15 gold face-v face.01 ----- 15:0-rel 8:1-ARG0 9:0-ARGM-MOD 10:0-ARGM-NEG 11:1-ARGM-DIS 13:1-ARGM-DIS 5:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 311 1 gold be-v be.03 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 311 2 gold condemn-v condemn.01 ----- 2:0-rel 3:1-ARG3
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 312 4 gold think-v think.01 ----- 4:0-rel 0:1-ARGM-ADV 3:1-ARG0 5:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 312 10 gold have-v have.01 ----- 10:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 312 12 gold have-v have.03 ----- 12:0-rel 5:1-ARG0 11:0-ARGM-NEG 13:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 313 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 314 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 314 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 5:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 315 2 gold face-v face.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 315 15 gold be-v be.01 ----- 15:0-rel 0:1-ARGM-ADV 11:1-ARG1 14:0-ARGM-MOD 16:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 3 gold consider-v consider.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:2-ARG1 13:2-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 16 gold have-v have.01 ----- 16:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 18 gold be-v be.03 ----- 18:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 19 gold solve-v solve.01 ----- 19:0-rel 17:0-ARGM-NEG
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 21 gold satisfy-v satisfy.01 ----- 21:0-rel 17:0-ARGM-NEG
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 316 24 gold guarantee-v guarantee.01 ----- 24:0-rel 17:0-ARGM-NEG
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 317 4 gold be-v be.02 ----- 4:0-rel 0:1-ARGM-DIS 5:2-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 317 8 gold live-v live.01 ----- 8:0-rel 9:1-ARGM-LOC 5:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 318 4 gold interview-v interview.01 ----- 4:0-rel 3:1-ARG0 0:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 318 5 gold live-v live.01 ----- 5:0-rel 0:2-ARG0 6:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 319 2 gold be-v be.02 ----- 2:0-rel 0:1-ARGM-TMP 3:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 320 3 gold stay-v stay.01 ----- 3:0-rel 1:1-ARG1 4:1-ARG3 8:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 320 9 gold look-v look.07 ----- 9:0,10:0-rel 11:1-ARG1 1:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 321 1 gold happen-v happen.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-LOC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 322 3 gold be-v be.03 ----- 3:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 322 4 gold look-v look.07 ----- 4:0,5:0-rel 0:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 323 2 gold save-v save.02 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 323 7 gold be-v be.01 ----- 7:0-rel 5:1-ARG1 8:2-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 324 2 gold call-v call.02 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-TMP 4:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 324 5 gold see-v see.01 ----- 5:0-rel 6:1-ARG1 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 324 8 gold be-v be.01 ----- 8:0-rel 7:1-ARG1 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 325 2 gold tell-v tell.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG2 4:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 325 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 326 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 326 3 gold come-v come.01 ----- 3:0-rel 0:1-ARG1 2:0-ARGM-NEG 4:1-ARGM-DIR 5:1-ARGM-TMP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 327 1 gold do-v do.01 ----- 1:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 327 3 gold come-v come.01 ----- 3:0-rel 0:1-ARG1 2:0-ARGM-NEG 4:1-ARGM-DIR 5:2-ARGM-PRP
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 327 6 gold check-v check.01 ----- 6:0-rel 7:1-ARG2 0:1-LINK-PCR
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 327 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 5 gold do-v do.01 ----- 5:0-rel
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 7 gold return-v return.01 ----- 7:0-rel 4:1-ARG1 6:0-ARGM-NEG 2:1-LINK-SLC
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 8 gold be-v be.01 ----- 8:0-rel 2:2-ARG1 9:1-ARG2
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 12 gold ponder-v ponder.01 ----- 12:0-rel 10:1-ARG0 11:0-ARGM-MOD 13:1-ARG1
+bc/phoenix/00/phoenix_0003@0003@phoenix@bc@en@on 328 16 gold return-v return.01 ----- 16:0-rel 14:1-ARG1 15:0-ARGM-MOD

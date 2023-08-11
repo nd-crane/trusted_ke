@@ -1,0 +1,23 @@
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 0 10 gold 表示-v 表示.01 ----- 10:0-rel 0:6-ARG0 12:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 0 15 gold 继续-v 继续.01 ----- 15:0-rel 16:2-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 0 18 gold 进行-v 进行.01 ----- 18:0-rel 19:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 1 8 gold 举行-v 举行.01 ----- 8:0-rel 4:2-ARG0 6:1-ARGM-LOC 12:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 1 14 gold 说-v 说.01 ----- 14:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-LOC 16:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 1 20 gold 会-v 会.01 ----- 20:0-rel
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 1 21 gold 保障-v 保障.01 ----- 21:0-rel 17:1-ARG0 19:1-ARGM-ADV 22:3-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 2 2 gold 指责-v 指责.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1 4:3-ARG2
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 3 4 gold 支持-v 支持.01 ----- 4:0-rel 0:3-ARG0 5:2-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 3 13 gold 说-v 说.01 ----- 13:0-rel 12:1-ARG0 15:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 3 21 gold 办-v 办.01 ----- 21:0-rel 16:3-ARG1 20:1-ARGM-ADV
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 3 23 gold 到-v 到.01 ----- 23:0-rel
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 4 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 4 6 gold 是-v 是.01 ----- 6:0-rel 4:2-ARG0 7:3-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 5 5 gold 说-v 说.01 ----- 5:0-rel 0:3-ARG0 3:1-ARGM-DIR 7:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 5 12 gold 相信-v 相信.01 ----- 12:0-rel 8:2-ARG0 11:1-ARGM-ADV 13:3-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 5 13 gold 有-v 有.03 ----- 13:0-rel 14:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 5 17 gold 达成-v 达成.01 ----- 17:0-rel 15:1-ARG0 18:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 5 23 gold 感到-v 感到.01 ----- 23:0-rel 20:1-ARG0 25:1-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 6 3 gold 是-v 是.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 4:4-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 6 11 gold 呼吁-v 呼吁.02 ----- 11:0-rel 10:1-ARG0 12:4-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 6 19 gold 举行-v 举行.01 ----- 19:0-rel 12:3-ARG0 20:2-ARG1
+bn/vom/00/vom_0009@0009@vom@bn@ch@on 6 22 gold 讨论-v 讨论.01 ----- 22:0-rel 12:3-ARG0 23:2-ARG1

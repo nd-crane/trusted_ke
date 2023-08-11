@@ -1,0 +1,1828 @@
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 1 2 gold vote-v vote.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 1 7 gold have-v have.01 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 1 10 gold drop-v drop.01 ----- 10:0-rel 0:1-ARGM-TMP 8:1-ARG0 11:1-ARG1 13:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 1 18 gold war-n war.01 ----- 18:0-rel 15:1-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 2 0 gold have-v have.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 2 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 2 3 gold overshadow-v overshadow.01 ----- 3:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 4 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 3:1-ARG2 7:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 4 8 gold air-v air.01 ----- 8:0-rel 9:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 4 12 gold charge-n charge.03 ----- 12:0-rel 9:1-ARG0 13:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 5 8 gold talk-v talk.01 ----- 8:0-rel 9:1-ARGM-DIR 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 7 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 7 4 gold slam-v slam.02 ----- 4:0-rel 3:1-ARG0 5:1,6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 8 0 gold welcome-v welcome.01 ----- 0:0-rel 1:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 9 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 10 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 10 2 gold join-v join.04 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:1-ARGM-TMP 13:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 10 19 gold analysis-n analysis.01 ----- 19:0-rel 18:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 11 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 11 7 gold be-v be.03 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 11 8 gold add-v add.02 ----- 8:0-rel 5:1-ARG0 6:0-ARGM-MOD 9:1-ARGM-TMP 2:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 11 11 gold come-v come.01 ----- 11:0-rel 12:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 12 1 gold stay-v stay.01 ----- 1:0-rel 0:1-ARGM-ADV 2:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 12 2 gold tune-v tune.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 13 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 13 4 gold range-v range.01 ----- 4:0-rel 3:0-ARG2 5:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 14 10 gold go-v go.06 ----- 10:0-rel 1:1-ARGM-TMP 2:2-ARG1 9:1-ARGM-TMP 11:1-ARG2 12:1-ARGM-LOC 16:1-ARGM-TMP 18:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 14 24 gold account-n account.01 ----- 24:0-rel 19:0-ARG0 20:2-ARGM-MNR 25:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 14 28 gold leak-n leak.01 ----- 28:0-rel 27:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 15 5 gold account-n account.01 ----- 5:0-rel 2:0-ARGM-ADJ 3:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 15 7 gold confirm-v confirm.01 ----- 7:0-rel 0:1-ARGM-LOC 6:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 15 10 gold tell-v tell.01 ----- 10:0-rel 9:1-ARG0 11:1-ARG2 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 15 22 gold discuss-v discuss.01 ----- 22:0-rel 15:2-ARG0 23:1-ARG2 25:2-ARGM-TMP 30:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 16 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 16 5 gold be-v be.01 ----- 5:0-rel 2:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 16 15 gold criticize-v criticize.01 ----- 15:0-rel 8:1-ARG0 16:1-ARG1 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 16 22 gold have-v have.03 ----- 22:0-rel 20:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 18 2 gold incur-v incur.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1 9:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 19 1 gold limit-v limit.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 19 6 gold cover-v cover.03 ----- 6:0-rel 7:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 20 4 gold ask-v ask.02 ----- 4:0-rel 2:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 20 9 gold support-n support.01 ----- 9:0-rel 6:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 20 11 gold be-v be.01 ----- 11:0-rel 0:2-ARGM-ADV 10:1-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 20 14 gold answer-v answer.01 ----- 14:0-rel 15:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 20 16 gold question-n question.01 ----- 16:0-rel 15:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 21 5 gold release-v release.01 ----- 5:0-rel 6:1-ARG2 8:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 21 10 gold say-v say.01 ----- 10:0-rel 0:1-ARGM-LOC 4:2-ARG0 11:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 21 12 gold push-v push.04 ----- 12:0-rel 11:1-ARG0 13:1-ARG1 22:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 22 2 gold write-v write.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 23 4 gold say-v say.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 24 2 gold happen-v happen.01 ----- 2:0-rel 0:1-ARG1 1:1-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 25 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 25 7 gold cover-v cover.03 ----- 7:0-rel 1:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 25 12 gold kill-v kill.01 ----- 12:0-rel 10:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 25 18 gold pull-v pull.06 ----- 18:0-rel 10:1-ARG0 19:1-ARG1 21:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 26 1 gold join-v join.04 ----- 1:0-rel 0:0-ARGM-DIS 2:1-ARG1 3:1-ARGM-TMP 4:1-ARGM-LOC 7:2-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 28 11 gold communication-n communication.01 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 29 2 gold have-v have.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 29 9 gold be-v be.01 ----- 9:0-rel 7:1-ARGM-MNR 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 29 11 gold fight-v fight.01 ----- 11:0-rel 0:1-ARGM-DIS 3:1-ARG0 7:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 29 17 gold accounting-n accounting.01 ----- 17:0-rel 16:0-ARGM-MNR 18:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 29 31 gold create-v create.01 ----- 31:0-rel 30:1-ARG0 32:1-ARGM-LOC 27:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 30 3 gold accounting-n accounting.01 ----- 3:0-rel 2:0-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 32 4 gold accounting-n accounting.01 ----- 4:0-rel 1:0-ARGM-NEG 3:0-ARGM-EXT
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 11 gold be-v be.01 ----- 11:0-rel 4:2-ARG1 12:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 15 gold have-v have.03 ----- 15:0-rel 13:1-ARG0 16:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 19 gold know-v know.01 ----- 19:0-rel 13:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 23 gold be-v be.01 ----- 23:0-rel 22:1-ARG1 24:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 26 gold be-v be.01 ----- 26:0-rel 25:1-ARG1 27:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 32 gold do-v do.01 ----- 32:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 33 34 gold know-v know.01 ----- 34:0-rel 3:1-ARGM-ADV 29:1-ARG0 31:1-ARGM-TMP 33:0-ARGM-NEG 35:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 34 1 gold be-v be.02 ----- 1:0-rel 2:1-ARGM-TMP 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 35 1 gold be-v be.01 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 35 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 35 8 gold grant-v grant.01 ----- 8:0-rel 7:1-ARGM-ADV 9:1-ARG0 13:2-ARGM-TMP 2:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 36 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 36 3 gold wait-v wait.01 ----- 3:0-rel 2:1-ARG1 4:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 36 6 gold sit-v sit.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2 9:1-ARGM-TMP 13:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 36 16 gold take-v take.13 ----- 16:0,17:1-rel 14:1-ARG0 15:1-ARGM-ADV 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 37 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 37 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 37 4 gold refer-v refer.01 ----- 4:0-rel 5:1-ARG1 6:1-ARGM-LOC 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 37 11 gold account-n account.01 ----- 11:0-rel 7:1-ARG0 10:0-ARGM-REC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 38 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 38 2 gold pull-v pull.01 ----- 2:0-rel 3:1-ARG2 4:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 39 1 gold be-v be.01 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 40 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 40 6 gold do-v do.01 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 40 8 gold know-v know.01 ----- 8:0-rel 4:1-ARG0 5:1-ARGM-TMP 7:0-ARGM-NEG 2:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 41 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 41 7 gold give-v give.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG2 9:1-ARGM-MNR 11:1-ARGM-ADV 4:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 42 8 gold acknowledge-v acknowledge.01 ----- 8:0-rel 0:1-ARGM-DIS 2:2-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 42 12 gold be-v be.01 ----- 12:0-rel 10:1-ARG1 13:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 42 23 gold be-v be.01 ----- 23:0-rel 24:1-ARG2 13:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 42 29 gold claim-v claim.01 ----- 29:0-rel 28:1-ARG0 30:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 42 31 gold have-v have.01 ----- 31:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 42 32 gold push-v push.04 ----- 32:0-rel 33:1-ARG1 40:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 42 51 gold say-v say.01 ----- 51:0-rel 27:1-ARGM-ADV 43:2-ARG0 52:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 43 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 43 3 gold happen-v happen.01 ----- 3:0-rel 0:1-ARG1 2:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 44 4 gold be-v be.02 ----- 4:0-rel 0:1-ARGM-DIS 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 44 6 gold dispute-n dispute.01 ----- 6:0-rel 7:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 44 9 gold account-n account.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 45 7 gold publish-v publish.01 ----- 7:0-rel 4:1-ARG0 8:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 45 13 gold say-v say.01 ----- 13:0-rel 10:0-ARGM-MNR 11:0-ARGM-NEG 12:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 46 3 gold say-v say.01 ----- 3:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 46 5 gold be-v be.02 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 46 8 gold question-n question.01 ----- 8:0-rel 6:0-ARGM-EXT 7:0-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 47 2 gold be-v be.02 ----- 2:0-rel 0:0-ARGM-DIS 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 6 gold have-v have.03 ----- 6:0-rel 4:1-ARG0 7:1-ARG1 9:1-ARGM-ADV 10:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 13 gold remember-v remember.01 ----- 13:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 29 gold have-v have.01 ----- 29:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 30 gold be-v be.03 ----- 30:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 31 gold go-v go.15 ----- 31:0,32:1-rel 24:2,35:1-ARG1 33:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 43 gold have-v have.01 ----- 43:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 44 gold decide-v decide.01 ----- 44:0-rel 41:1-ARG0 45:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 46 gold cover-v cover.03 ----- 46:0-rel 47:1-ARG1 39:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 53 gold decide-v decide.01 ----- 53:0-rel 52:1-ARG0 54:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 48 55 gold present-v present.01 ----- 55:0-rel 56:1-ARG1 57:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 49 4 gold question-n question.01 ----- 4:0-rel 2:0-ARGM-ADJ 3:0-ARGM-MNR 5:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 49 6 gold be-v be.01 ----- 6:0-rel 0:0-ARGM-DIS 1:2-ARG1 7:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 49 8 gold do-v do.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 49 15 gold allow-v allow.01 ----- 15:0-rel 9:2-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 49 19 gold hijack-v hijack.01 ----- 19:0-rel 16:1-ARG0 20:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 0 gold remember-v remember.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 6 gold break-v break.01 ----- 6:0-rel 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 8 gold have-v have.03 ----- 8:0-rel 1:1-ARGM-TMP 7:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 15 gold do-v do.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 17 gold give-v give.01 ----- 17:0-rel 16:0-ARGM-NEG 18:2-ARG1 9:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 20 gold account-n account.01 ----- 20:0-rel 19:0-ARGM-EXT 21:1-ARG1 25:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 23 gold happen-v happen.01 ----- 23:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 28 gold be-v be.03 ----- 28:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 51 35 gold ignore-v ignore.01 ----- 35:0-rel 29:2-ARG0 36:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 53 8 gold learn-v learn.01 ----- 8:0-rel 7:1-ARG0 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 53 9 gold be-v be.01 ----- 9:0-rel 0:1-ARGM-LOC 3:2-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 53 13 gold take-v take.01 ----- 13:0-rel 11:1-ARG0 14:1-ARG1 16:1-ARG2 20:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 53 26 gold decision-n decision.01 ----- 26:0-rel 23:0-ARG0 24:0-ARGM-TMP 25:0-ARG3 27:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 53 29 gold take-v take.01 ----- 29:0-rel 28:1-ARG0 30:1-ARGM-DIS 31:1-ARG1 33:1-ARGM-PRD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 55 3 gold agree-v agree.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 55 5 gold be-v be.02 ----- 5:0-rel 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 55 8 gold question-n question.01 ----- 8:0-rel 7:0-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 56 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 56 5 gold give-v give.01 ----- 5:0-rel 6:1-ARG2 8:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 56 11 gold credit-n credit.01 ----- 11:0-rel 8:2-ARGM-EXT 12:1-ARGM-ADJ 14:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 56 17 gold attempt-v attempt.01 ----- 17:0-rel 6:1-ARG0 15:1-ARGM-ADV 18:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 56 19 gold answer-v answer.01 ----- 19:0-rel 20:1-ARGM-DIS 21:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 56 24 gold question-n question.01 ----- 24:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 57 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 5:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 57 8 gold jump-v jump.03 ----- 8:0-rel 9:1-ARGM-DIR 10:1-ARGM-DIR 12:1-ARGM-LOC 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 58 2 gold acknowledge-v acknowledge.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 58 8 gold request-n request.01 ----- 8:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 58 10 gold be-v be.01 ----- 10:0-rel 9:1-ARG1 11:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 58 16 gold agree-v agree.01 ----- 16:0-rel 4:1-ARGM-ADV 15:1-ARG0 17:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 58 18 gold refer-v refer.01 ----- 18:0-rel 19:2-ARG1 24:1-ARG2 36:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 58 38 gold have-v have.01 ----- 38:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 58 40 gold work-v work.01 ----- 40:0-rel 37:1-ARG0 39:1-ARGM-TMP 41:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 59 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 59 2 gold have-v have.03 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 60 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 60 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 61 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 61 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 62 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 62 4 gold be-v be.01 ----- 4:0-rel 0:3-ARGM-DIS 2:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 62 8 gold have-v have.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 62 9 gold be-v be.01 ----- 9:0-rel 6:1-ARGM-DIS 7:1-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 63 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARG1 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 63 6 gold request-n request.01 ----- 6:0-rel 5:0-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 64 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 64 5 gold be-v be.01 ----- 5:0-rel 3:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 65 2 gold agree-v agree.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG2 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 66 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 66 10 gold embrace-n embrace.01 ----- 10:0-rel 8:0-ARG0 9:0-ARGM-MNR 11:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 66 17 gold be-v be.03 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 66 18 gold face-v face.01 ----- 18:0-rel 15:1-ARGM-DIS 19:1-ARG1 12:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 66 20 gold do-v do.01 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 66 21 gold go-v go.02 ----- 21:0-rel 15:1-ARGM-ADV 22:1-ARG4 12:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 67 2 gold understand-v understand.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 67 7 gold be-v be.03 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 67 8 gold unleash-v unleash.01 ----- 8:0-rel 9:1-ARGM-LOC 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 68 4 gold discourage-v discourage.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 68 9 gold leak-n leak.01 ----- 9:0-rel 8:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 68 14 gold kill-v kill.01 ----- 14:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 12:1-ARGM-TMP 15:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 68 17 gold write-v write.01 ----- 17:0-rel 15:1-ARG1 18:1-ARG0 21:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 69 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 71 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 71 5 gold show-v show.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 71 8 gold think-v think.01 ----- 8:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 71 9 gold be-v be.01 ----- 9:0-rel 2:2-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 71 14 gold be-v be.01 ----- 14:0-rel 15:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 71 19 gold report-v report.01 ----- 19:0-rel 16:1-ARG0 20:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 72 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 72 4 gold demand-v demand.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1 7:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 72 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 73 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 73 2 gold access-n access.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 74 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 75 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 76 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 3:1-ARG2 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 76 8 gold do-v do.02 ----- 8:0-rel 6:1-ARG0 9:1-ARG1 10:1-ARGM-REC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 77 6 gold make-v make.02 ----- 6:0-rel 4:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 77 16 gold suffer-v suffer.01 ----- 16:0-rel 0:1-ARGM-LOC 3:2-ARGM-DIS 14:1-ARG0 15:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 78 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 79 3 gold go-v go.02 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 80 3 gold go-v go.02 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 81 2 gold win-v win.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 81 3 gold release-n release.01 ----- 3:0-rel 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 82 6 gold come-v come.09 ----- 6:0,7:1-rel 5:1-ARG1 2:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 83 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 83 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1 5:3-ARGM-DIS 7:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 83 6 gold know-v know.01 ----- 6:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 83 9 gold walk-v walk.01 ----- 9:0-rel 8:1-ARG0 10:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 84 2 gold question-n question.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 84 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 84 9 gold question-n question.01 ----- 9:0-rel 7:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 84 11 gold be-v be.03 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 85 0 gold be-v be.03 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 85 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 85 18 gold lean-v lean.01 ----- 18:0-rel 7:2-ARG0 15:1-ARGM-MNR 19:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 85 20 gold suppress-v suppress.01 ----- 20:0-rel 7:2-ARG0 15:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 85 22 gold distort-v distort.01 ----- 22:0-rel 7:2-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 85 24 gold coverage-n coverage.03 ----- 24:0-rel 25:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 86 13 gold be-v be.03 ----- 13:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 86 14 gold quote-v quote.01 ----- 14:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARGM-LOC 9:1-ARGM-DIS 10:1-ARGM-DIS 17:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 86 15 gold excuse-v excuse.01 ----- 15:0-rel 16:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 86 18 gold say-v say.01 ----- 18:0-rel 19:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 86 21 gold be-v be.02 ----- 21:0-rel 22:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 86 29 gold deal-v deal.01 ----- 29:0-rel 28:1-ARG0 30:1-ARG1 31:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 87 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 87 3 gold recall-v recall.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1 8:3-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 87 7 gold be-v be.01 ----- 7:0-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 87 8 gold look-v look.01 ----- 8:0-rel 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 87 13 gold see-v see.01 ----- 13:0-rel 14:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 88 1 gold get-v get.04 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 89 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 89 2 gold buy-v buy.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 89 7 gold do-v do.01 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 89 9 gold recall-v recall.01 ----- 9:0-rel 6:1-ARG0 8:0-ARGM-NEG 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 89 14 gold be-v be.01 ----- 14:0-rel 11:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 91 3 gold think-v think.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 91 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 91 9 gold question-n question.01 ----- 9:0-rel 7:0-ARGM-ADJ 8:0-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 92 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 92 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 92 8 gold be-v be.01 ----- 8:0-rel 5:1-ARGM-DIS 6:1-ARG1 9:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 92 11 gold come-v come.12 ----- 11:0-rel 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 92 13 gold reveal-v reveal.01 ----- 13:0-rel 14:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 2 gold say-v say.01 ----- 2:0-rel 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 5 gold do-v do.01 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 7 gold recall-v recall.01 ----- 7:0-rel 4:1-ARG0 6:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 8 gold be-v be.01 ----- 8:0-rel 0:0-ARGM-DIS 1:2-ARG1 9:1-ARGM-ADV 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 13 gold have-v have.03 ----- 13:0-rel 14:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 17 gold say-v say.01 ----- 17:0-rel 14:1-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 20 gold do-v do.01 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 22 gold recall-v recall.01 ----- 22:0-rel 19:1-ARG0 21:0-ARGM-NEG 23:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 93 26 gold be-v be.01 ----- 26:0-rel 24:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 94 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG1 5:3-ARG2 10:3-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 94 18 gold appear-v appear.01 ----- 18:0-rel 11:1-ARGM-DIS 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 94 29 gold be-v be.03 ----- 29:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 94 30 gold talk-v talk.01 ----- 30:0-rel 21:2-ARG0 31:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 95 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 95 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 96 2 gold be-v be.02 ----- 2:0-rel 0:1-ARGM-ADV 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 96 4 gold question-n question.01 ----- 4:0-rel 5:1-ARGM-DIS 6:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 96 11 gold answer-v answer.01 ----- 11:0-rel 7:1-ARG0 9:0-ARGM-MOD 10:0-ARGM-NEG 12:1-ARGM-ADV 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 97 4 gold share-v share.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1 7:1-ARG2 9:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 97 11 gold have-v have.01 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 97 12 gold be-v be.03 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 97 13 gold turn-v turn.12 ----- 13:0,14:1-rel 15:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 98 7 gold be-v be.01 ----- 7:0-rel 0:1-ARGM-DIS 2:2-ARG1 8:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 98 9 gold recount-v recount.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 98 15 gold have-v have.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 98 16 gold say-v say.01 ----- 16:0-rel 11:2-ARG0 17:1-ARG2 19:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 98 24 gold have-v have.03 ----- 24:0-rel 23:1-ARG0 25:1-ARGM-MNR 20:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 98 29 gold be-v be.01 ----- 29:0-rel 30:2-ARG2 26:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 1 gold say-v say.01 ----- 1:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 5:1-ARGM-ADV 10:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 9 gold account-n account.01 ----- 9:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 14 gold give-v give.01 ----- 14:0-rel 11:1-ARG0 12:0-ARGM-MOD 13:0-ARGM-NEG 15:2-ARG2 17:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 18 gold assurance-n assurance.01 ----- 18:0-rel 19:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 22 gold exonerate-v exonerate.01 ----- 22:0-rel 20:1-ARG0 21:0-ARGM-MOD 23:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 25 gold say-v say.01 ----- 25:0-rel 10:2-ARGM-TMP 24:1-ARG0 26:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 26 gold do-v do.01 ----- 26:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 99 28 gold go-v go.02 ----- 28:0-rel 27:0-ARGM-NEG 29:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 100 5 gold tell-v tell.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-DIS 6:1-ARG2 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 100 10 gold account-n account.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 100 11 gold be-v be.01 ----- 11:0-rel 9:1-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 2 gold help-v help.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 3 gold justify-v justify.01 ----- 3:0-rel 4:1-ARGM-DIS 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 10 gold decision-n decision.01 ----- 10:0-rel 5:1-ARG0 8:1-ARGM-ADJ 11:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 12 gold go-v go.02 ----- 12:0-rel 13:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 17 gold accept-v accept.01 ----- 17:0-rel 5:1-ARG0 16:0-ARGM-NEG 18:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 25 gold offer-v offer.01 ----- 25:0-rel 23:1-ARG0 18:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 101 27 gold sit-v sit.01 ----- 27:0-rel 5:0-ARG1 28:1-ARG2 30:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 103 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 103 3 gold have-v have.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 103 4 gold be-v be.03 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 103 5 gold talk-v talk.01 ----- 5:0-rel 0:3-ARGM-DIS 2:1-ARG0 6:1-ARG2 8:1-ARGM-TMP 11:1-ARG1 14:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 104 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 104 5 gold decision-n decision.01 ----- 5:0-rel 3:1-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 105 2 gold know-v know.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 105 6 gold come-v come.16 ----- 6:0-rel 4:2-ARG1 7:1-ARGM-DIR 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 105 9 gold be-v be.01 ----- 9:0-rel 0:0-ARGM-DIS 3:2-ARG1 10:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 105 11 gold keep-v keep.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1 14:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 105 13 gold promise-n promise.01 ----- 13:0-rel 12:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 105 18 gold promise-n promise.01 ----- 18:0-rel 15:1-ARG0 16:0-ARGM-LVB 19:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 2 gold recall-v recall.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:6-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 10 gold be-v be.01 ----- 10:0-rel 3:3-ARGM-TMP 8:1-ARGM-DIS 9:1-ARG1 11:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 13 gold show-n show.01 ----- 13:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 16 gold be-v be.03 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 17 gold talk-v talk.01 ----- 17:0-rel 15:1-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 20 gold know-v know.01 ----- 20:0-rel 19:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 21 gold do-v do.01 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 32 gold do-v do.01 ----- 32:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 34 gold break-v break.01 ----- 34:0-rel 33:1-ARG0 35:1-ARG1 37:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 38 gold agree-v agree.01 ----- 38:0-rel 39:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 40 gold testify-v testify.01 ----- 40:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 106 42 gold observe-v observe.01 ----- 42:0-rel 43:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 107 2 gold think-v think.01 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 107 9 gold be-v be.03 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 107 11 gold go-v go.15 ----- 11:0,12:1-rel 10:1-ARGM-ADV 13:1-ARGM-LOC 16:1-ARGM-TMP 6:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 107 18 gold point-v point.02 ----- 18:0,19:1-rel 3:2-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 107 20 gold be-v be.01 ----- 20:0-rel 0:2-ARG1 21:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 107 25 gold have-v have.03 ----- 25:0-rel 24:1-ARG0 26:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 108 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 108 4 gold believe-v believe.01 ----- 4:0-rel 3:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 108 6 gold need-v need.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 108 8 gold keep-v keep.01 ----- 8:0-rel 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 108 10 gold promise-n promise.01 ----- 10:0-rel 9:0-ARG0 11:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 109 2 gold try-v try.01 ----- 2:0-rel 1:0-ARGM-MOD 3:2-ARG1 8:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 109 4 gold do-v do.02 ----- 4:0-rel 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 109 13 gold allow-v allow.01 ----- 13:0-rel 11:1-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 109 16 gold protect-v protect.01 ----- 16:0-rel 14:1-ARG0 17:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 111 14 gold do-v do.01 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 111 16 gold have-v have.03 ----- 16:0-rel 13:1-ARG0 15:0-ARGM-NEG 17:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 111 22 gold have-v have.03 ----- 22:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARGM-DIS 4:1-ARGM-ADV 21:1-ARG0 23:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 111 27 gold go-v go.02 ----- 27:0-rel 23:2-ARG0 28:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 111 31 gold interfere-v interfere.01 ----- 31:0-rel 23:2-ARG0 32:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 112 4 gold tolerate-v tolerate.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:0-ARGM-MOD 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 113 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 113 3 gold try-v try.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 114 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1 8:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 114 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1,5:1-ARG2 7:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 114 12 gold say-v say.01 ----- 12:0-rel 9:1-ARG0 10:0-ARGM-MOD 11:1-ARGM-ADV 13:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 115 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 115 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG1 7:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 115 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 116 7 gold say-v say.01 ----- 7:0-rel 0:0-ARGM-DIS 1:2-ARG0 8:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 116 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:0-ARGM-NEG 11:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 116 16 gold like-v like.02 ----- 16:0-rel 13:1-ARG0 14:0-ARGM-MOD 15:1-ARGM-TMP 17:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 116 18 gold go-v go.02 ----- 18:0-rel 19:1-ARG4 22:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 117 2 gold love-v love.02 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 117 4 gold have-v have.03 ----- 4:0-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 118 2 gold love-v love.02 ----- 2:0-rel 0:1-ARG0 1:0-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 118 4 gold have-v have.03 ----- 4:0-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 119 2 gold love-v love.02 ----- 2:0-rel 1:0-ARGM-MOD 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 119 4 gold have-v have.03 ----- 4:0-rel 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 119 18 gold know-v know.01 ----- 18:0-rel 17:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 119 19 gold hang-v hang.01 ----- 19:0-rel 7:2-ARG1 20:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 120 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 120 4 gold report-v report.01 ----- 4:0-rel 0:1-ARG0 2:0-ARGM-NEG 3:1-ARGM-ADV 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 121 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 121 3 gold point-v point.02 ----- 3:0,4:1-rel 0:0-ARGM-DIS 1:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 122 8 gold use-n use.01 ----- 8:0-rel 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 122 11 gold abuse-n abuse.02 ----- 11:0-rel 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 122 16 gold protection-n protection.01 ----- 16:0-rel 17:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 122 19 gold do-v do.01 ----- 19:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 122 21 gold do-v do.01 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 122 23 gold have-v have.03 ----- 23:0-rel 18:1-ARG0 22:0-ARGM-NEG 15:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 122 34 gold have-v have.03 ----- 34:0-rel 29:1-ARG0 35:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 123 1 gold have-v have.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 123 2 gold get-v get.06 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 123 4 gold figure-v figure.05 ----- 4:0,6:1-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 124 3 gold clarify-v clarify.01 ----- 3:0-rel 1:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 124 6 gold do-v do.01 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 124 9 gold testify-v testify.01 ----- 9:0-rel 0:1-ARGM-DIS 1:2-ARGM-ADV 4:1-ARGM-DIS 5:1-ARG0 7:1-ARGM-TMP 8:1-ARGM-DIS 10:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 11 gold promise-n promise.01 ----- 11:0-rel 10:0-ARG0 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 15 gold offer-v offer.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 18 gold be-v be.01 ----- 18:0-rel 19:1-ARG1 20:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 22 gold accept-v accept.01 ----- 22:0-rel 23:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 24 gold be-v be.01 ----- 24:0-rel 25:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 28 gold oppose-v oppose.01 ----- 28:0-rel 23:1-ARG0 30:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 125 31 gold be-v be.01 ----- 31:0-rel 32:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 127 2 gold know-v know.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 128 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:2-ARG2 16:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 128 12 gold update-v update.01 ----- 12:0-rel 5:2-ARG0 13:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 128 20 gold say-v say.01 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 128 23 gold do-v do.01 ----- 23:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 128 25 gold wash-v wash.01 ----- 25:0-rel 17:2-ARG0 21:1-ARGM-ADV 22:1-ARGM-ADV 24:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 129 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 129 6 gold say-v say.01 ----- 6:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 129 8 gold do-v do.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 129 9 gold testify-v testify.01 ----- 9:0-rel 4:1-ARGM-ADV 7:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 130 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 130 5 gold be-v be.01 ----- 5:0-rel 6:1-ARG2 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 130 15 gold have-v have.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 130 16 gold ask-v ask.02 ----- 16:0-rel 13:1-ARG0 14:0-ARGM-MOD 17:1-ARGM-DIS 18:1-ARG2 20:2-ARG1 23:1-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 130 21 gold call-v call.02 ----- 21:0-rel 22:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 130 27 gold hear-v hear.01 ----- 27:0-rel 25:1-ARG0 26:0-ARGM-MOD 28:2-ARG1 33:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 131 4 gold have-v have.01 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 131 5 gold happen-v happen.01 ----- 5:0-rel 0:2-ARG1 3:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 132 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 132 3 gold happen-v happen.01 ----- 3:0-rel 0:1-ARG1 2:0-ARGM-NEG 4:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 132 8 gold be-v be.03 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 132 9 gold protect-v protect.01 ----- 9:0-rel 5:1-ARGM-ADV 6:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 132 15 gold have-v have.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 132 17 gold reveal-v reveal.01 ----- 17:0-rel 13:1-ARG0 14:1-ARGM-TMP 16:0-ARGM-NEG 18:1-ARG2 10:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 133 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 136 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 136 2 gold get-v get.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 136 4 gold response-n response.01 ----- 4:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 137 3 gold be-v be.01 ----- 3:0-rel 4:1-ARG2 11:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 137 9 gold write-v write.01 ----- 9:0-rel 8:1-ARG0 10:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 137 12 gold be-v be.03 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 137 13 gold protect-v protect.01 ----- 13:0-rel 11:1-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 7 gold negotiation-n negotiation.01 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 8 gold take-v take.01 ----- 8:0-rel 6:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 11 gold be-v be.01 ----- 11:0-rel 0:0-ARGM-DIS 1:2-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 15 gold be-v be.03 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 17 gold negotiate-v negotiate.01 ----- 17:0-rel 16:1-ARG0 18:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 20 gold be-v be.03 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 21 gold go-v go.04 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 23 gold say-v say.01 ----- 23:0-rel 24:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 29 gold get-v get.06 ----- 29:0-rel 28:1-ARG0 30:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 31 gold keep-v keep.04 ----- 31:0-rel 32:1-ARG2 38:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 35 gold be-v be.01 ----- 35:0-rel 34:1-ARG1 36:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 39 gold be-v be.02 ----- 39:0-rel 40:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 138 41 gold involve-v involve.01 ----- 41:0-rel 40:1-ARG1 42:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 139 1 gold have-v have.02 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 139 3 gold negotiate-v negotiate.01 ----- 3:0-rel 4:1-ARG1 7:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 139 11 gold talk-v talk.01 ----- 11:0-rel 8:1-ARG0 9:0-ARGM-MOD 10:0-ARGM-NEG 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 140 2 gold have-v have.02 ----- 2:0-rel 1:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 140 4 gold negotiate-v negotiate.01 ----- 4:0-rel 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 140 10 gold be-v be.02 ----- 10:0-rel 9:0-ARGM-MOD 11:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 140 18 gold charge-n charge.03 ----- 18:0-rel 17:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 140 19 gold connect-v connect.01 ----- 19:0-rel 17:1-ARG1 20:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 141 2 gold invoke-v invoke.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 141 14 gold have-v have.02 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 141 16 gold be-v be.01 ----- 16:0-rel 17:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 142 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 142 3 gold mess-v mess.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 4:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 9 gold decide-v decide.01 ----- 9:0-rel 10:1-ARGM-TMP 11:2-ARG1 13:2-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 12 gold testify-v testify.01 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 15 gold get-v get.03 ----- 15:0-rel 14:1-ARG1 16:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 21 gold be-v be.03 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 22 gold threaten-v threaten.01 ----- 22:0-rel 23:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 26 gold charge-n charge.03 ----- 26:0-rel 24:0-ARGM-ADJ 25:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 29 gold want-v want.01 ----- 29:0-rel 28:1-ARG0 30:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 31 gold go-v go.17 ----- 31:0,32:1-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 36 gold be-v be.03 ----- 36:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 37 gold say-v say.01 ----- 37:0-rel 34:1-ARGM-TMP 35:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 38 gold admit-v admit.01 ----- 38:0-rel 34:1-ARGM-TMP 35:1-ARG0 39:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 143 40 gold write-v write.01 ----- 40:0-rel 41:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 144 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:1-ARG2 5:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 145 2 gold continue-v continue.01 ----- 2:0-rel 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 145 4 gold portray-v portray.01 ----- 4:0-rel 5:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 145 9 gold be-v be.03 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 145 11 gold go-v go.04 ----- 11:0-rel 10:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 145 13 gold work-v work.09 ----- 13:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 146 9 gold say-v say.01 ----- 9:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 4:1-ARGM-DIS 5:1-ARGM-ADV 8:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 147 0 gold excuse-v excuse.01 ----- 0:0-rel 1:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 148 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 148 4 gold be-v be.03 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 148 5 gold take-v take.18 ----- 5:0,8:1-rel 3:1-ARG0 6:1-ARG1 9:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 149 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 149 3 gold write-v write.01 ----- 3:0-rel 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 150 3 gold share-v share.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 150 10 gold be-v be.03 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 150 11 gold write-v write.01 ----- 11:0-rel 12:1-ARG1 7:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 151 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 151 2 gold think-v think.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 151 6 gold come-v come.01 ----- 6:0-rel 3:1-ARG1 4:0-ARGM-MOD 5:1-ARGM-TMP 7:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 152 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 152 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 152 4 gold save-v save.03 ----- 4:0-rel 2:1-ARG0 5:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 153 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 3:1-ARG2 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 153 9 gold be-v be.01 ----- 9:0-rel 6:1-ARG1 7:0-ARGM-MOD 8:0-ARGM-NEG 10:1-ARG2 11:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 154 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 3:1-ARG2 5:1-ARGM-DIS 6:1-ARGM-ADV 10:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 154 8 gold report-v report.01 ----- 8:0-rel 7:1-ARG0 9:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 154 14 gold take-v take.01 ----- 14:0-rel 12:1-ARG0 15:1-ARG1 16:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 154 21 gold be-v be.03 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 154 23 gold hope-v hope.01 ----- 23:0-rel 11:2-ARGM-TMP 20:1-ARG0 24:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 154 26 gold resign-v resign.01 ----- 26:0-rel 24:1-ARG0 25:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 155 2 gold throw-v throw.01 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 156 2 gold stay-v stay.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 157 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2 9:2-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 157 12 gold handle-v handle.01 ----- 12:0-rel 11:1-ARG0 13:1-ARG1 9:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 158 3 gold comment-v comment.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 159 0 gold jump-v jump.04 ----- 0:0,1:1-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 160 4 gold tell-v tell.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG2 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 161 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2 23:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 161 25 gold get-v get.06 ----- 25:0-rel 26:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 161 27 gold have-v have.03 ----- 27:0-rel 28:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 161 32 gold connection-n connection.01 ----- 32:0-rel 33:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 162 1 gold get-v get.06 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 162 3 gold know-v know.01 ----- 3:0-rel 4:2-ARG1 13:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 162 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 162 7 gold talk-v talk.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG2 9:1-ARGM-LOC 12:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 162 15 gold know-v know.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 163 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 164 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 164 5 gold know-v know.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 164 6 gold end-v end.03 ----- 6:0,7:1-rel 8:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 165 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 165 9 gold do-v do.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 165 11 gold press-v press.01 ----- 11:0-rel 4:2-ARG0 10:0-ARGM-NEG 12:1-ARG1 14:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 165 20 gold ask-v ask.02 ----- 20:0-rel 4:2-ARG0 10:0-ARGM-NEG 21:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 165 22 gold see-v see.01 ----- 22:0-rel 23:1-ARG1 25:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 165 27 gold be-v be.03 ----- 27:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 165 28 gold defend-v defend.01 ----- 28:0-rel 26:1-ARG0 29:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 166 0 gold ask-v ask.02 ----- 0:0-rel 1:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 166 2 gold see-v see.01 ----- 2:0-rel 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 167 5 gold invite-v invite.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 4:1-ARG0 6:1-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 167 11 gold have-v have.04 ----- 11:0-rel 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 167 14 gold appear-v appear.01 ----- 14:0-rel 12:1-ARG1 15:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 168 2 gold decline-v decline.02 ----- 2:0-rel 0:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 169 2 gold come-v come.01 ----- 2:0-rel 1:1-ARG1 3:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 169 6 gold run-v run.02 ----- 6:0-rel 0:2-ARGM-TMP 4:1-ARG0 7:1-ARGM-PRD 8:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 169 10 gold indictment-n indictment.01 ----- 10:0-rel 9:0-ARGM-ADJ 11:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 169 19 gold script-v script.01 ----- 19:0-rel 20:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 169 20 gold session-n session.01 ----- 20:0-rel 16:1-ARG0 19:0-ARGM-ADJ 21:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 170 0 gold stay-v stay.01 ----- 0:0-rel 1:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 171 0 gold welcome-v welcome.01 ----- 0:0-rel 1:1-ARGM-DIR 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 172 3 gold leak-n leak.01 ----- 3:0-rel 2:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 172 5 gold continue-v continue.01 ----- 5:0-rel 1:1-ARG1 6:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 172 10 gold do-v do.02 ----- 10:0-rel 0:1-ARGM-TMP 8:1-ARG0 11:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 172 20 gold indictment-n indictment.01 ----- 20:0-rel 19:0-ARGM-ADJ 21:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 172 29 gold testify-v testify.01 ----- 29:0-rel 30:1-ARGM-LOC 34:1-ARGM-TMP 38:1-ARGM-TMP 22:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 173 16 gold have-v have.01 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 173 17 gold be-v be.03 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 173 18 gold call-v call.01 ----- 18:0-rel 19:3-ARG2 13:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 174 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 174 3 gold indict-v indict.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 174 5 gold have-v have.02 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 174 7 gold go-v go.02 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 174 9 gold undermine-v undermine.01 ----- 9:0-rel 0:1-ARGM-ADV 8:1-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 174 18 gold support-n support.01 ----- 18:0-rel 14:1-ARG1 17:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 175 2 gold get-v get.03 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 175 3 gold indict-v indict.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 175 6 gold bring-v bring.03 ----- 6:0,7:1-rel 0:1-ARGM-ADV 4:1-ARG0 5:0-ARGM-MOD 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 175 12 gold think-v think.01 ----- 12:0-rel 11:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 176 3 gold talk-v talk.01 ----- 3:0-rel 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 176 11 gold be-v be.01 ----- 11:0-rel 0:2-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 176 14 gold think-v think.01 ----- 14:0-rel 13:1-ARG0 15:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 176 16 gold be-v be.03 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 176 17 gold go-v go.04 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 176 19 gold be-v be.02 ----- 19:0-rel 20:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 176 20 gold indictment-n indictment.01 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 177 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 4:0-ARGM-MOD 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 178 5 gold be-v be.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 178 6 gold indict-v indict.01 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 178 11 gold be-v be.03 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 178 12 gold indict-v indict.01 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 178 17 gold be-v be.03 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 178 19 gold indict-v indict.01 ----- 19:0-rel 18:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 179 0 gold be-v be.01 ----- 0:0-rel 1:0-ARGM-NEG 2:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 3 gold think-v think.01 ----- 3:0-rel 0:3-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 5 gold be-v be.01 ----- 5:0-rel 6:1-ARG2 10:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 9 gold speculate-v speculate.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 14 gold be-v be.03 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 16 gold besmirch-v besmirch.01 ----- 16:0-rel 13:1-ARG0 15:1-ARGM-ADV 17:2-ARG1 21:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 23 gold be-v be.01 ----- 23:0-rel 22:1-ARG1 24:0-ARGM-NEG 25:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 181 28 gold do-v do.02 ----- 28:0-rel 26:1-ARG0 27:0-ARGM-MOD 29:1-ARG1 30:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 182 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 2:1-ARGM-DIS 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 182 7 gold know-v know.01 ----- 7:0-rel 6:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 183 2 gold prefer-v prefer.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 183 5 gold keep-v keep.04 ----- 5:0-rel 4:1-ARG0 6:1-ARG1 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 183 10 gold know-v know.01 ----- 10:0-rel 9:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 183 11 gold watch-v watch.01 ----- 11:0-rel 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 183 13 gold testify-v testify.01 ----- 13:0-rel 12:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 183 15 gold go-v go.02 ----- 15:0-rel 16:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 184 4 gold bring-v bring.03 ----- 4:0,5:1-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:0-ARGM-MOD 3:1-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 185 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 185 3 gold know-v know.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 186 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 186 5 gold know-v know.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG0 4:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 187 2 gold know-v know.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 188 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 189 3 gold use-v use.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 189 5 gold cover-v cover.03 ----- 5:0-rel 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 190 3 gold be-v be.01 ----- 3:0-rel 4:1-ARG2 0:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 190 6 gold wind-v wind.02 ----- 6:0,7:1-rel 0:2-ARG1 8:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 190 8 gold get-v get.03 ----- 8:0-rel 9:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 190 9 gold indict-v indict.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 191 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARGM-DIS 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 191 14 gold be-v be.01 ----- 14:0-rel 12:1-ARGM-ADV 13:1-ARG1 15:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 191 18 gold have-v have.01 ----- 18:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 191 19 gold speculate-v speculate.01 ----- 19:0-rel 0:1-ARGM-DIS 1:0-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 4:2-ARGM-ADV 20:1-ARG1 24:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 193 2 gold have-v have.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 193 3 gold speculate-v speculate.01 ----- 3:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 193 16 gold be-v be.01 ----- 16:0-rel 15:1-ARG1 17:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 193 49 gold sell-v sell.01 ----- 49:0-rel 27:1-ARGM-DIS 28:1-ARGM-LOC 48:1-ARGM-ADV 50:1-ARGM-DIS 51:2,57:1-ARG1 53:1-ARG2 24:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 193 52 gold war-n war.01 ----- 52:0-rel 57:1-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 193 57 gold base-v base.02 ----- 57:0-rel 51:2-ARG1 58:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 193 59 gold lie-n lie.01 ----- 59:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 194 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 194 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARGM-ADV 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 195 2 gold seem-v seem.01 ----- 2:0-rel 0:0-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 195 5 gold find-v find.03 ----- 5:0,6:1-rel 4:1-ARG0 7:1-ARGM-TMP 8:1-ARGM-ADV 9:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 195 22 gold be-v be.01 ----- 22:0-rel 21:1-ARG1 23:1-ARG2 25:2-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 196 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 196 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 196 6 gold question-n question.01 ----- 6:0-rel 4:1-ARGM-MNR 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 197 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 4:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 198 1 gold ask-v ask.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 199 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 199 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 200 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 200 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 200 4 gold overthink-v overthink.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 201 7 gold know-v know.01 ----- 7:0-rel 6:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 204 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 204 5 gold sit-v sit.01 ----- 5:0-rel 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 204 8 gold say-v say.01 ----- 8:0-rel 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 204 13 gold speculate-v speculate.01 ----- 13:0-rel 9:1-ARGM-DIS 10:1-ARG0 11:0-ARGM-MOD 12:1-ARGM-TMP 14:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 205 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 206 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 206 5 gold speculate-v speculate.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 206 9 gold speculate-v speculate.01 ----- 9:0-rel 8:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 207 5 gold be-v be.01 ----- 5:0-rel 0:2-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 207 9 gold have-v have.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 207 10 gold be-v be.01 ----- 10:0-rel 7:1-ARG1 11:1-ARG2 15:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 208 8 gold be-v be.02 ----- 8:0-rel 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 208 15 gold believe-v believe.01 ----- 15:0-rel 16:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 208 18 gold be-v be.01 ----- 18:0-rel 17:2,22:2-ARG1 19:0-ARGM-NEG 21:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 208 23 gold be-v be.03 ----- 23:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 208 24 gold speculate-v speculate.01 ----- 24:0-rel 25:1-ARG1 21:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 208 29 gold get-v get.03 ----- 29:0-rel 27:1-ARG1 30:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 208 30 gold indict-v indict.01 ----- 30:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 209 2 gold be-v be.01 ----- 2:0-rel 1:0-ARGM-MOD 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 209 5 gold think-v think.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 209 11 gold reflect-v reflect.01 ----- 11:0-rel 7:1-ARG1 9:0-ARGM-NEG 12:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 209 15 gold be-v be.01 ----- 15:0-rel 13:1-ARG1 16:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 210 2 gold be-v be.02 ----- 2:0-rel 0:0-ARGM-DIS 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 210 9 gold be-v be.01 ----- 9:0-rel 10:1-ARG2 3:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 211 2 gold want-v want.01 ----- 2:0-rel 0:1-ARGM-DIS 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 211 4 gold turn-v turn.01 ----- 4:0-rel 5:1-ARGM-TMP 6:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 211 18 gold call-v call.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 211 27 gold be-v be.03 ----- 27:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 211 28 gold stage-v stage.01 ----- 28:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 211 33 gold be-v be.01 ----- 33:0-rel 31:1-ARG1 32:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 212 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 212 4 gold look-n look.01 ----- 4:0-rel 1:1-ARG0 2:0-ARGM-LVB 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 213 3 gold interaction-n interaction.01 ----- 3:0-rel 2:0-ARG0 4:1-ARG1 8:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 213 14 gold be-v be.03 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 213 16 gold react-v react.01 ----- 16:0-rel 0:0-ARGM-DIS 1:1-ARGM-LOC 15:1-ARG0 17:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 213 20 gold process-n process.01 ----- 20:0-rel 19:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 214 10 gold have-v have.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 214 11 gold increase-v increase.01 ----- 11:0-rel 0:1-ARGM-DIS 1:1-ARGM-LOC 8:1-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 215 2 gold give-v give.01 ----- 2:0-rel 0:0-ARGM-MOD 1:1-ARG0 3:1-ARG2 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 215 8 gold reception-n reception.01 ----- 8:0-rel 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 217 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 218 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 220 3 gold believe-v believe.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 221 1 gold rehearse-v rehearse.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 222 1 gold rehearse-v rehearse.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 223 1 gold rehearse-v rehearse.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 224 2 gold know-v know.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 225 2 gold remember-v remember.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 225 16 gold say-v say.01 ----- 16:0-rel 3:2-ARGM-TMP 7:2-ARG0 17:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 225 19 gold be-v be.01 ----- 19:0-rel 17:1-ARG1 20:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 225 21 gold light-v light.01 ----- 21:0-rel 22:1-ARG1 24:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 225 29 gold do-v do.02 ----- 29:0-rel 28:1-ARG0 27:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 225 31 gold put-v put.01 ----- 31:0-rel 27:2-ARG0 32:1-ARG1 34:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 226 1 gold look-v look.09 ----- 1:0-rel 0:0-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 226 6 gold be-v be.01 ----- 6:0-rel 0:1-ARGM-DIS 2:1-ARGM-TMP 5:1-ARG1 7:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 226 9 gold see-v see.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 6 gold create-v create.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-TMP 7:1-ARG3 2:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 11 gold be-v be.01 ----- 11:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 12 gold be-v be.01 ----- 12:0-rel 0:0-ARGM-DIS 1:2-ARG1 13:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 14 gold play-v play.01 ----- 14:0-rel 13:1-ARG0 15:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 22 gold have-v have.03 ----- 22:0-rel 20:1-ARG0 16:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 26 gold be-v be.03 ----- 26:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 27 gold become-v become.01 ----- 27:0-rel 24:1-ARG1 25:1-ARGM-TMP 28:2-ARG2 35:1-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 38 gold rescue-v rescue.01 ----- 38:0-rel 39:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 40 gold be-v be.01 ----- 40:0-rel 41:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 41 gold tumble-v tumble.01 ----- 41:0-rel 42:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 45 gold performance-n performance.02 ----- 45:0-rel 44:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 227 48 gold support-n support.01 ----- 48:0-rel 47:0-ARG0 49:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 228 6 gold think-v think.01 ----- 6:0-rel 4:1-ARG0 5:0-ARGM-MOD 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 228 10 gold do-v do.02 ----- 10:0-rel 8:1-ARG0 9:0-ARGM-MOD 11:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 229 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 229 6 gold tell-v tell.01 ----- 6:0-rel 0:3-ARGM-DIS 2:2-ARG0 5:0-ARGM-MOD 7:1-ARG2 8:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 229 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 230 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 231 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 231 7 gold sit-v sit.01 ----- 7:0-rel 2:2-ARG1 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 232 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 232 2 gold go-v go.04 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 232 4 gold speak-v speak.01 ----- 4:0-rel 5:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 233 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 233 3 gold want-v want.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 234 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 234 2 gold go-v go.04 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 234 4 gold walk-v walk.01 ----- 4:0-rel 5:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 235 3 gold happen-v happen.01 ----- 3:0-rel 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 235 4 gold do-v do.01 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 235 6 gold surprise-v surprise.01 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:0-ARGM-NEG 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 236 2 gold hurt-v hurt.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 236 7 gold be-v be.01 ----- 7:0-rel 0:1-ARGM-PRD 5:1-ARGM-DIS 6:1-ARG1 8:1-ARG2 9:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 237 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 237 6 gold surprise-v surprise.01 ----- 6:0-rel 0:1-ARGM-DIS 3:2-ARG0 7:1-ARG1 8:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 238 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:2-ARG2 9:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 238 7 gold surprise-v surprise.01 ----- 7:0-rel 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 239 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 239 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 239 7 gold talk-v talk.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 239 9 gold war-n war.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 240 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 241 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 242 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 242 3 gold talk-v talk.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 242 6 gold war-n war.01 ----- 6:0-rel 7:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 242 14 gold have-v have.01 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 242 15 gold die-v die.01 ----- 15:0-rel 9:2-ARG1 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 243 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 243 4 gold use-v use.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 5:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 244 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 245 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 245 5 gold do-v do.02 ----- 5:0-rel 3:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 245 10 gold expose-v expose.01 ----- 10:0-rel 3:1-ARG0 11:1-ARG1 12:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 247 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 247 7 gold be-v be.03 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 247 12 gold look-n look.01 ----- 12:0-rel 3:2-ARG0 8:1-ARGM-ADJ 9:0-ARGM-LVB 11:0-ARGM-MNR 13:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 247 17 gold be-v be.03 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 247 18 gold do-v do.02 ----- 18:0-rel 15:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 248 3 gold have-v have.02 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 248 5 gold leave-v leave.01 ----- 5:0-rel 6:1-ARG1 7:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 250 8 gold thanks-n thanks.01 ----- 8:0-rel 0:2-ARGM-DIS 12:1-ARG2 9:1-ARGM-EXT
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 250 13 gold join-v join.04 ----- 13:0-rel 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 251 0 gold come-v come.11 ----- 0:0,1:1-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 251 4 gold launch-v launch.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 251 8 gold talk-v talk.01 ----- 8:0-rel 9:1-ARGM-DIR 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 252 7 gold take-v take.21 ----- 7:0,8:1-rel 0:3-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 253 3 gold come-v come.01 ----- 3:0-rel 1:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 254 0 gold welcome-v welcome.01 ----- 0:0-rel 1:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 3 gold talk-v talk.01 ----- 3:0-rel 4:1-ARGM-DIR 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 11 gold believe-v believe.01 ----- 11:0-rel 12:3-ARG1 9:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 15 gold be-v be.03 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 16 gold be-v be.03 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 17 gold treat-v treat.01 ----- 17:0-rel 18:1-ARG2 19:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 22 gold get-v get.01 ----- 22:0-rel 0:1-ARGM-LOC 9:2-ARG0 23:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 26 gold sound-v sound.03 ----- 26:0,27:1-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 255 29 gold give-v give.01 ----- 29:0-rel 9:2-ARG0 30:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 256 4 gold sit-v sit.01 ----- 4:0,5:1-rel 0:1-ARGM-TMP 2:1-ARG1 6:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 256 10 gold be-v be.03 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 256 11 gold peddle-v peddle.01 ----- 11:0-rel 12:2-ARG1 7:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 257 5 gold unload-v unload.02 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG0 6:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 257 10 gold appoint-v appoint.01 ----- 10:0-rel 11:1-ARG1 7:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 258 7 gold handling-n handling.01 ----- 7:0-rel 3:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 258 19 gold kill-v kill.01 ----- 19:0-rel 20:1-ARG1 23:1-ARGM-LOC 9:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 259 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 259 14 gold tell-v tell.01 ----- 14:0-rel 5:2-ARG0 12:1-ARGM-DIS 13:0-ARGM-MOD 15:2-ARG2 21:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 259 23 gold be-v be.03 ----- 23:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 259 24 gold go-v go.04 ----- 24:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 259 26 gold leave-v leave.01 ----- 26:0-rel 27:1-ARG1 29:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 259 31 gold find-v find.01 ----- 31:0-rel 32:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 259 35 gold kill-v kill.01 ----- 35:0-rel 36:1-ARG1 32:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 3 gold order-n order.01 ----- 3:0-rel 1:0-ARGM-LVB 4:1-ARG2 7:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 11 gold order-n order.01 ----- 11:0-rel 12:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 14 gold get-v get.01 ----- 14:0-rel 13:1-ARG0 10:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 18 gold do-v do.02 ----- 18:0-rel 16:1-ARGM-TMP 19:1-ARG1 20:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 21 gold assist-v assist.01 ----- 21:0-rel 24:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 23 gold facilitate-v facilitate.01 ----- 23:0-rel 24:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 260 29 gold undermine-v undermine.01 ----- 29:0-rel 26:1-ARGM-DIS 30:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 261 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 261 10 gold hail-v hail.02 ----- 10:0-rel 8:1-ARG0 11:1-ARG1 6:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 262 3 gold talk-v talk.01 ----- 3:0-rel 4:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 262 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 264 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 264 2 gold deal-v deal.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 6:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 265 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 265 6 gold meet-v meet.02 ----- 6:0-rel 5:1-ARG0 7:1-ARG1 11:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 265 18 gold do-v do.01 ----- 18:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 265 20 gold press-v press.01 ----- 20:0-rel 4:2-ARGM-TMP 17:1-ARG0 19:0-ARGM-NEG 21:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 265 23 gold access-n access.01 ----- 23:0-rel 22:0-ARG0 24:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 265 33 gold hit-v hit.05 ----- 33:0,34:1-rel 32:1-ARG0 35:1-ARG2 37:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 265 39 gold contribution-n contribution.01 ----- 39:0-rel 40:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 266 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 4:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 266 9 gold have-v have.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 266 10 gold say-v say.01 ----- 10:0-rel 7:1-ARG0 11:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 266 15 gold attend-v attend.01 ----- 15:0-rel 16:1-ARG1 13:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 266 19 gold include-v include.01 ----- 19:0-rel 13:1-ARG2 18:0-ARGM-NEG 20:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 266 22 gold say-v say.01 ----- 22:0-rel 13:2-ARG0 23:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 266 24 gold be-v be.01 ----- 24:0-rel 23:1-ARG1 25:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 267 6 gold be-v be.01 ----- 6:0-rel 0:0-ARGM-DIS 1:2-ARG1 7:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 267 10 gold call-v call.02 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-TMP 11:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 268 4 gold do-v do.01 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 268 7 gold know-v know.01 ----- 7:0-rel 0:1-ARGM-TMP 3:1-ARG0 5:0-ARGM-NEG 6:1-ARGM-ADV 8:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 268 9 gold charge-n charge.03 ----- 9:0-rel 12:0-ARGM-LVB
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 268 10 gold be-v be.03 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 268 11 gold be-v be.03 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 269 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 3:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 269 7 gold put-v put.01 ----- 7:0-rel 8:1-ARG1 9:1-ARG2 12:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 269 13 gold contradict-v contradict.01 ----- 13:0-rel 8:1-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 270 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 270 5 gold be-v be.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 270 6 gold offer-v offer.01 ----- 6:0-rel 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 270 10 gold come-v come.01 ----- 10:0-rel 3:1-ARG1 11:1-ARGM-DIR 3:1-LINK-PCR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 270 13 gold give-v give.01 ----- 13:0-rel 3:1-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 271 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 272 5 gold be-v be.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 6:1-ARG1 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 272 11 gold think-v think.01 ----- 11:0-rel 9:1-ARG0 12:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 272 13 gold be-v be.01 ----- 13:0-rel 14:1-ARG2 15:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 272 16 gold air-v air.01 ----- 16:0-rel 9:1-ARG0 17:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 272 21 gold statement-n statement.01 ----- 21:0-rel 18:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 273 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 273 4 gold charge-n charge.03 ----- 4:0-rel 3:0-ARGM-ADJ 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 273 9 gold be-v be.03 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 273 10 gold thwart-v thwart.01 ----- 10:0-rel 11:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 273 14 gold want-v want.01 ----- 14:0-rel 12:1-ARG0 15:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 273 16 gold receive-v receive.01 ----- 16:0-rel 17:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 274 1 gold charge-n charge.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 274 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 275 7 gold be-v be.03 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 275 8 gold counter-v counter.01 ----- 8:0-rel 6:0-ARGM-MOD 1:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 275 9 gold be-v be.01 ----- 9:0-rel 0:0-ARGM-DIS 1:2-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 276 7 gold be-v be.01 ----- 7:0-rel 8:1-ARG2 2:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 276 10 gold be-v be.01 ----- 10:0-rel 11:1-ARG2 2:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 277 3 gold do-v do.02 ----- 3:0-rel 2:1-ARG0 4:1-ARG1 5:1-ARGM-REC 6:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 277 8 gold air-v air.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 277 14 gold charge-n charge.03 ----- 14:0-rel 10:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 278 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 280 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 281 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 282 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 282 2 gold offer-v offer.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG3 4:1-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 282 9 gold interview-n interview.01 ----- 9:0-rel 6:2-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 284 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 285 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 286 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 287 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 288 2 gold talk-v talk.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 289 1 gold issue-v issue.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 289 3 gold statement-n statement.01 ----- 3:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 290 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2 5:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 290 8 gold learn-v learn.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-TMP 9:1-ARG1 11:1-ARG2 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 290 13 gold broadcast-n broadcast.01 ----- 13:0-rel 12:0-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 291 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 291 5 gold invite-v invite.01 ----- 5:0-rel 3:1-ARG0 6:2-ARG1 14:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 292 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 292 3 gold take-v take.10 ----- 3:0-rel 4:1-ARG1 5:2-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 292 6 gold get-v get.04 ----- 6:0-rel 4:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 292 10 gold do-v do.02 ----- 10:0-rel 7:1-ARG0 11:1-ARG1 13:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 292 14 gold verify-v verify.01 ----- 14:0-rel 15:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 293 1 gold be-v be.01 ----- 1:0-rel 2:0-ARGM-NEG 3:1-ARG2 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 293 5 gold have-v have.04 ----- 5:0-rel 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 293 8 gold say-v say.01 ----- 8:0-rel 6:1-ARG0 9:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 293 10 gold be-v be.01 ----- 10:0-rel 9:1-ARG1 11:1-ARG2 12:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 293 12 gold base-v base.02 ----- 12:0-rel 9:1-ARG1 11:1-ARGM-ADV 13:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 294 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 295 3 gold let-v let.01 ----- 3:0-rel 0:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 295 5 gold read-v read.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 295 7 gold statement-n statement.01 ----- 7:0-rel 8:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 2 gold involve-v involve.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG2 3:1-ARGM-DIS 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 5 gold say-v say.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 8 gold contact-v contact.01 ----- 8:0-rel 7:1-ARG0 9:2-ARG1 12:1-ARGM-TMP 15:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 17 gold detail-v detail.01 ----- 17:0-rel 18:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 20 gold charge-n charge.03 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 32 gold say-v say.01 ----- 32:0-rel 22:1-ARGM-TMP 23:1-ARGM-DIS 24:1-ARGM-LOC 28:2-ARG0 33:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 34 gold do-v do.01 ----- 34:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 36 gold want-v want.01 ----- 36:0-rel 33:1-ARG0 35:0-ARGM-NEG 37:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 38 gold be-v be.03 ----- 38:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 296 39 gold interview-v interview.01 ----- 39:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 4 gold response-n response.01 ----- 4:0-rel 0:1-ARG0 1:0-ARGM-LVB 2:0-ARGM-NEG 3:0-ARGM-ADJ 5:1-ARG1 10:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 9 gold allegation-n allegation.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 13 gold launch-v launch.01 ----- 13:0-rel 11:1-ARG0 14:1-ARG1 17:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 22 gold broadcast-n broadcast.01 ----- 22:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 24 gold offer-v offer.01 ----- 24:0-rel 11:1-ARG0 25:1-ARG1 26:1-ARGM-PRD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 35 gold disparage-v disparage.01 ----- 35:0-rel 33:0-ARGM-MOD 34:1-ARGM-ADV 38:1-ARG1 27:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 37 gold attack-v attack.01 ----- 37:0-rel 33:0-ARGM-MOD 34:1-ARGM-ADV 38:1-ARG1 27:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 41 gold deal-v deal.01 ----- 41:0-rel 33:0-ARGM-MOD 34:1-ARGM-ADV 42:1-ARG1 27:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 297 44 gold allegation-n allegation.01 ----- 44:0-rel 43:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 298 8 gold do-v do.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 298 9 gold deal-v deal.01 ----- 9:0-rel 10:1-ARG1 0:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 298 13 gold allegation-n allegation.01 ----- 13:0-rel 11:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 298 14 gold be-v be.03 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 298 15 gold include-v include.01 ----- 15:0-rel 16:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 298 20 gold report-n report.01 ----- 20:0-rel 18:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 299 5 gold be-v be.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 6:1-ARG2 7:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 299 8 gold say-v say.01 ----- 8:0-rel 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 299 11 gold be-v be.03 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 299 12 gold ask-v ask.02 ----- 12:0-rel 10:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 299 14 gold disparage-v disparage.01 ----- 14:0-rel 15:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 300 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 300 2 gold ask-v ask.02 ----- 2:0-rel 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 300 4 gold talk-v talk.01 ----- 4:0-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 300 9 gold be-v be.03 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 300 10 gold say-v say.01 ----- 10:0-rel 8:1-ARG0 6:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 300 12 gold be-v be.01 ----- 12:0-rel 14:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 301 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 301 3 gold mind-v mind.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 301 4 gold disparage-v disparage.01 ----- 4:0-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 303 4 gold disparage-v disparage.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 303 11 gold have-v have.03 ----- 11:0-rel 8:1-ARGM-MNR 12:1-ARG1 15:1-ARGM-ADV 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 303 17 gold do-v do.02 ----- 17:0-rel 18:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 304 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 305 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-TMP 3:1-ARGM-ADV 4:1-ARG2 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 305 8 gold tell-v tell.02 ----- 8:0-rel 7:1-ARG0 9:1-ARG2 10:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 306 5 gold speak-v speak.01 ----- 5:0-rel 1:2-ARG0 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 306 11 gold agree-v agree.01 ----- 11:0-rel 0:2-ARGM-TMP 9:1-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 306 14 gold have-v have.01 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 306 16 gold verify-v verify.01 ----- 16:0-rel 13:1-ARG0 15:1-ARGM-NEG 17:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 306 21 gold have-v have.01 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 306 22 gold say-v say.01 ----- 22:0-rel 18:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 307 2 gold talk-v talk.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 308 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 5:0-ARGM-NEG 6:1-ARG2 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 308 11 gold learn-v learn.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1 6:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 308 18 gold charge-n charge.03 ----- 18:0-rel 15:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 309 4 gold think-v think.01 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 309 5 gold have-v have.01 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 309 7 gold say-v say.01 ----- 7:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:3-ARGM-DIS 6:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 309 10 gold be-v be.01 ----- 10:0-rel 11:1-ARG2 8:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 5 gold find-v find.03 ----- 5:0,6:1-rel 2:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 10 gold be-v be.03 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 11 gold go-v go.04 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 13 gold report-v report.01 ----- 13:0-rel 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 21 gold be-v be.03 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 22 gold go-v go.04 ----- 22:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 24 gold have-v have.03 ----- 24:0-rel 25:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 27 gold allegation-n allegation.01 ----- 27:0-rel 26:0-ARGM-MNR 28:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 310 31 gold handling-n handling.01 ----- 31:0-rel 29:1-ARG0 32:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 2 gold name-v name.01 ----- 2:0-rel 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 5 gold write-v write.01 ----- 5:0-rel 1:2-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 15 gold be-v be.01 ----- 15:0-rel 16:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 23 gold learn-v learn.01 ----- 23:0-rel 20:1-ARG0 24:1-ARG1 16:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 30 gold charge-n charge.03 ----- 30:0-rel 26:2-ARGM-MNR 31:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 35 gold call-v call.02 ----- 35:0-rel 36:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 38 gold be-v be.01 ----- 38:0-rel 39:1-ARG2 36:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 43 gold have-v have.01 ----- 43:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 44 gold do-v do.02 ----- 44:0-rel 32:2-ARG1 42:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 46 gold have-v have.01 ----- 46:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 47 gold verify-v verify.01 ----- 47:0-rel 32:2-ARG0 45:0-ARGM-MOD 48:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 311 54 gold charge-n charge.03 ----- 54:0-rel 49:1-ARG0 51:0-ARGM-LVB 53:0-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 312 4 gold interview-n interview.01 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 312 7 gold have-v have.01 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 312 8 gold back-v back.11 ----- 8:0,9:1-rel 0:0-ARGM-DIS 1:2-ARGM-TMP 5:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 312 11 gold have-v have.01 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 312 13 gold tell-v tell.01 ----- 13:0-rel 0:0-ARGM-DIS 1:2-ARGM-TMP 5:1-ARG0 12:0-ARGM-NEG 14:1-ARG2 15:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 312 18 gold be-v be.01 ----- 18:0-rel 16:1-ARG1 14:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 313 2 gold have-v have.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 313 5 gold insist-v insist.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 4:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 313 8 gold be-v be.01 ----- 8:0-rel 7:1-ARG1 9:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 314 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 314 4 gold tell-v tell.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG2 6:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 314 7 gold be-v be.01 ----- 7:0-rel 6:1-ARG1 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 315 0 gold hold-v hold.05 ----- 0:0,1:1-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 316 5 gold say-v say.01 ----- 5:0-rel 0:3-ARG0 6:1-ARGM-LOC 13:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 316 8 gold statement-n statement.01 ----- 8:0-rel 9:3-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 316 11 gold refer-v refer.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-TMP 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 316 17 gold be-v be.03 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 316 18 gold contact-v contact.01 ----- 18:0-rel 19:1-ARGM-TMP 21:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 316 26 gold charge-n charge.03 ----- 26:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 317 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 318 0 gold be-v be.03 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 318 2 gold say-v say.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 318 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 319 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 319 3 gold tell-v tell.01 ----- 3:0-rel 2:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 320 4 gold be-v be.03 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 320 6 gold base-v base.02 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 3:1-ARG0 5:1-ARGM-TMP 7:1-ARG1 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 320 12 gold have-v have.01 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 320 13 gold tell-v tell.01 ----- 13:0-rel 10:1-ARG0 14:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 321 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 322 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 322 8 gold be-v be.03 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 322 10 gold inform-v inform.01 ----- 10:0-rel 9:0-ARGM-NEG 11:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 322 14 gold charge-n charge.03 ----- 14:0-rel 13:0-ARGM-MNR 15:1-ARG1 19:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 322 20 gold happen-v happen.02 ----- 20:0-rel 19:1,21:2-ARG1 12:2*19:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 322 22 gold be-v be.01 ----- 22:0-rel 23:1-ARG2 12:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 323 6 gold do-v do.01 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 323 7 gold press-v press.01 ----- 7:0-rel 0:1-ARG0 2:1-ARGM-LOC 12:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 323 13 gold cooperate-v cooperate.01 ----- 13:0-rel 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 324 4 gold say-v say.01 ----- 4:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 324 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:2-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 325 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 325 3 gold understand-v understand.01 ----- 3:0-rel 2:0-ARGM-NEG 4:1-ARG0 8:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 325 10 gold be-v be.03 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 325 11 gold read-v read.01 ----- 11:0-rel 12:1-ARG3 16:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 325 21 gold write-v write.01 ----- 21:0-rel 20:1-ARG0 22:1-ARGM-CAU 17:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 325 25 gold put-v put.10 ----- 25:0,29:1-rel 23:1-ARG0 26:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 326 2 gold look-v look.09 ----- 2:0-rel 1:0-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 326 7 gold give-v give.01 ----- 7:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 3:1-ARGM-DIS 5:1-ARG0 8:1-ARG2 10:1-ARG1 12:1-ARGM-TMP 14:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 326 15 gold push-v push.04 ----- 15:0-rel 16:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 327 1 gold criticize-v criticize.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 328 1 gold criticize-v criticize.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 329 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 329 3 gold have-v have.03 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1 6:1-ARGM-LOC 7:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 329 8 gold rebut-v rebut.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 330 14 gold stand-v stand.03 ----- 14:0-rel 12:0-ARGM-MOD 13:0-ARGM-NEG 15:1-ARG1 16:1-ARGM-ADV 1:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 330 17 gold write-v write.01 ----- 17:0-rel 0:1-ARGM-TMP 1:3-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 330 20 gold get-v get.01 ----- 20:0-rel 0:1-ARGM-TMP 1:3-ARG0 21:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 331 2 gold cry-v cry.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 332 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 332 2 gold complain-v complain.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 332 7 gold be-v be.03 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 332 8 gold get-v get.01 ----- 8:0-rel 5:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 333 0 gold look-v look.09 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 334 0 gold look-v look.09 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 334 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 2 gold ask-v ask.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG2 8:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 9 gold say-v say.01 ----- 9:0-rel 10:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 10 gold do-v do.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 12 gold have-v have.03 ----- 12:0-rel 11:1-ARG0 13:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 14 gold obligation-n obligation.01 ----- 14:0-rel 15:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 16 gold verify-v verify.01 ----- 16:0-rel 17:2-ARG1 25:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 18 gold charge-n charge.03 ----- 18:0-rel 19:0-ARGM-LVB 20:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 335 28 gold be-v be.01 ----- 28:0-rel 27:1-ARG1 29:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 336 0 gold be-v be.01 ----- 0:0-rel 2:1-ARG2 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 336 5 gold air-v air.01 ----- 5:0-rel 6:1-ARG1 7:2-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 336 10 gold say-v say.01 ----- 10:0-rel 9:1-ARG0 11:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 337 3 gold do-v do.02 ----- 3:0-rel 0:0-ARGM-DIS 1:0-ARGM-MOD 2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 338 3 gold hear-v hear.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-MOD 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 338 5 gold charge-n charge.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 338 7 gold say-v say.01 ----- 7:0-rel 0:1-ARG0 2:0-ARGM-MOD 8:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 338 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 338 13 gold charge-n charge.03 ----- 13:0-rel 11:1-ARGM-ADJ 14:3-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 338 15 gold be-v be.03 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 338 16 gold level-v level.03 ----- 16:0-rel 17:1-ARG2 10:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 339 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 339 2 gold see-v see.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 339 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 339 8 gold start-v start.01 ----- 8:0-rel 1:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 340 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 340 3 gold do-v do.02 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-NEG 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 341 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 342 3 gold thanks-n thanks.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 6:1-ARG2 4:1-ARGM-EXT
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 342 7 gold come-v come.01 ----- 7:0-rel 8:1-ARGM-DIR 9:2-ARGM-PRP 15:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 342 10 gold talk-v talk.01 ----- 10:0-rel 11:1-ARGM-DIR 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 343 1 gold appreciate-v appreciate.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 344 18 gold be-v be.03 ----- 18:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 344 19 gold suffer-v suffer.01 ----- 19:0-rel 16:1-ARG0 20:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 345 3 gold hype-v hype.01 ----- 3:0-rel 2:0-ARGM-MNR 5:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 345 7 gold be-v be.01 ----- 7:0-rel 8:0-ARGM-NEG 1:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 347 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 349 3 gold have-v have.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 349 4 gold resume-v resume.01 ----- 4:0-rel 0:1-ARG1 5:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 350 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 350 5 gold stop-v stop.01 ----- 5:0-rel 3:1-ARG0 6:1-ARG1 7:1-ARGM-TMP 9:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 351 4 gold crash-v crash.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG1 5:2-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 351 5 gold kill-v kill.01 ----- 5:0-rel 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 352 6 gold strike-v strike.01 ----- 6:0-rel 0:1-ARG2 7:1-ARGM-TMP 9:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 352 11 gold recall-v recall.01 ----- 11:0-rel 10:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 353 4 gold say-v say.01 ----- 4:0-rel 0:2-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 353 6 gold kill-v kill.01 ----- 6:0-rel 5:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 353 15 gold leave-v leave.01 ----- 15:0-rel 5:1-ARG0 16:2-ARG1 22:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 354 2 gold be-v be.01 ----- 2:0-rel 0:2-ARG1 3:1-ARG2 4:1-ARGM-TMP 6:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 354 8 gold plan-v plan.01 ----- 8:0-rel 9:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 354 17 gold spark-v spark.01 ----- 17:0-rel 7:2-ARG0 18:1-ARG1 20:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 355 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 355 5 gold arrest-v arrest.01 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 356 3 gold get-v get.03 ----- 3:0-rel 0:1-ARG1 2:1-ARGM-NEG 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 356 4 gold start-v start.01 ----- 4:0-rel 2:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 357 4 gold show-v show.02 ----- 4:0,5:1-rel 0:0-ARGM-DIS 1:2-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 357 7 gold battle-v battle.01 ----- 7:0-rel 0:0-ARGM-DIS 1:2-ARG0 8:1-ARG1 9:1-ARGM-TMP 12:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 358 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 358 4 gold vandalize-v vandalize.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1 8:2-ARGM-PRD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 358 8 gold set-v set.02 ----- 8:0-rel 9:3-ARG1 13:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 359 0 gold look-v look.01 ----- 0:0-rel 1:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 360 5 gold carry-v carry.01 ----- 5:0-rel 3:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 360 10 gold collide-v collide.01 ----- 10:0-rel 0:2-ARG0 11:1-ARGM-TMP 12:2-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 361 3 gold quote-v quote.01 ----- 3:0-rel 0:1-ARG0 4:1-ARG1 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 361 9 gold say-v say.01 ----- 9:0-rel 10:5-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 361 14 gold be-v be.03 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 361 15 gold kill-v kill.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 362 2 gold be-v be.01 ----- 2:0-rel 1:0-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 363 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 363 2 gold return-v return.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 364 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 4:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 365 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 366 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 366 5 gold come-v come.11 ----- 5:0,6:1-rel 2:1-ARG1 7:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 367 6 gold continue-v continue.01 ----- 6:0-rel 0:2-ARG1 7:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 368 0 gold welcome-v welcome.01 ----- 0:0-rel 1:1-ARGM-DIR 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 369 8 gold turn-v turn.06 ----- 8:0,9:1-rel 4:2-ARG0 7:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 369 10 gold be-v be.01 ----- 10:0-rel 0:1-ARG1 3:1-ARGM-ADV 11:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 370 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 370 4 gold bring-v bring.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 5:1-ARG2 6:2-ARG1 14:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 370 11 gold interview-n interview.01 ----- 11:0-rel 10:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 370 13 gold analysis-n analysis.01 ----- 13:0-rel 10:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 6 gold have-v have.01 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 7 gold place-v place.01 ----- 7:0-rel 4:1-ARG0 8:1-ARG2 0:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 15 gold be-v be.03 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 16 gold simmer-v simmer.01 ----- 16:0-rel 0:2-ARG1 17:1-ARGM-TMP 18:1-ARGM-TMP 36:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 23 gold tear-v tear.01 ----- 23:0-rel 22:0-ARG0 24:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 25 gold go-v go.02 ----- 25:0-rel 19:2-ARG0 26:1-ARG4 29:1-ARGM-TMP 30:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 31 gold vote-v vote.01 ----- 31:0-rel 32:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 41 gold be-v be.03 ----- 41:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 371 42 gold count-v count.01 ----- 42:0-rel 39:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 372 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 372 3 gold get-v get.01 ----- 3:0-rel 0:0-ARGM-DIS 2:1-ARG0 4:1-ARG1 7:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 373 1 gold help-v help.01 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 373 3 gold scrutinize-v scrutinize.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 373 5 gold coverage-n coverage.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 373 7 gold sit-v sit.02 ----- 7:0,8:1-rel 0:2-ARGM-PRP 6:1-ARG1 9:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 373 33 gold be-v be.01 ----- 33:0-rel 31:1-ARG1 34:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 375 2 gold be-v be.01 ----- 2:0-rel 3:1-ARG2 4:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 376 0 gold thank-v thank.01 ----- 0:0-rel 1:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 377 8 gold be-v be.01 ----- 8:0-rel 7:1-ARG1 9:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 377 18 gold have-v have.01 ----- 18:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 377 19 gold lead-v lead.01 ----- 19:0-rel 6:1-ARGM-ADV 16:1-ARG0 17:0-ARGM-MOD 20:1-ARG1 22:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 377 35 gold have-v have.01 ----- 35:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 377 36 gold attack-v attack.01 ----- 36:0-rel 29:1-ARG0 33:1-ARGM-TMP 37:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 378 7 gold do-v do.01 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 378 9 gold rule-v rule.03 ----- 9:0-rel 6:1-ARG0 8:0-ARGM-NEG 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 378 15 gold make-v make.02 ----- 15:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 3:3-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 379 2 gold put-v put.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 381 2 gold think-v think.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1 4:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 382 1 gold be-v be.01 ----- 1:0-rel 2:0-ARGM-NEG 3:1-ARG2 4:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 382 5 gold make-v make.01 ----- 5:0-rel 6:1-ARG1 9:1-ARGM-ADV 0:1-LINK-PCR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 383 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 383 3 gold make-v make.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 383 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2 4:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 383 11 gold war-n war.01 ----- 11:0-rel 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 384 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 385 3 gold go-v go.04 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 385 5 gold win-v win.01 ----- 5:0-rel 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 385 7 gold war-n war.01 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 386 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 386 3 gold go-v go.04 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 386 5 gold win-v win.01 ----- 5:0-rel 6:1-ARG1 7:1-ARGM-MNR 12:2-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 386 12 gold find-v find.01 ----- 12:0-rel 13:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 387 1 gold get-v get.03 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 3:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 388 2 gold be-v be.02 ----- 2:0-rel 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 388 7 gold win-v win.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1 10:1-ARGM-DIS 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 388 9 gold war-n war.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 388 11 gold be-v be.01 ----- 11:0-rel 0:0-ARGM-DIS 1:2-ARG1 12:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 388 13 gold take-v take.01 ----- 13:0-rel 12:1-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 389 2 gold happen-v happen.01 ----- 2:0-rel 0:1-ARG1 1:1-ARGM-ADV 3:3-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 389 9 gold turn-v turn.06 ----- 9:0,11:1-rel 4:1-ARG0 8:1-ARGM-ADV 10:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 390 2 gold be-v be.01 ----- 2:0-rel 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 390 15 gold blow-v blow.06 ----- 15:0,16:1-rel 0:0-ARGM-DIS 1:2-ARGM-DIS 10:1-ARG0 17:1-ARG1 19:1-ARGM-ADV 21:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 391 2 gold tell-v tell.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 391 4 gold be-v be.01 ----- 4:0-rel 0:2-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 391 7 gold be-v be.02 ----- 7:0-rel 8:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 391 9 gold control-v control.01 ----- 9:0-rel 11:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 392 2 gold be-v be.01 ----- 2:0-rel 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 393 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 394 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 394 4 gold have-v have.01 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 394 5 gold be-v be.01 ----- 5:0-rel 2:1-ARG1 3:0-ARGM-MOD 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 395 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 396 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 398 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 398 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 399 0 gold think-v think.01 ----- 0:0-rel 1:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 399 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 400 0 gold be-v be.03 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 400 9 gold feel-v feel.01 ----- 9:0-rel 1:1-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 400 15 gold kill-v kill.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 400 17 gold kill-v kill.01 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 400 19 gold kill-v kill.01 ----- 19:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 401 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 401 4 gold rise-v rise.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:0-ARGM-NEG 5:1-ARGM-TMP 6:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 403 3 gold think-v think.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 403 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 404 1 gold be-v be.02 ----- 1:0-rel 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 405 2 gold be-v be.02 ----- 2:0-rel 0:0-ARGM-DIS 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 405 8 gold do-v do.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 405 10 gold sit-v sit.01 ----- 10:0-rel 7:1-ARG1 9:0-ARGM-NEG 11:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 405 13 gold say-v say.01 ----- 13:0-rel 7:1-ARG0 9:0-ARGM-NEG 14:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 405 14 gold wait-v wait.01 ----- 14:0-rel 15:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 406 1 gold happen-v happen.01 ----- 1:0-rel 2:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 407 4 gold go-v go.02 ----- 4:0-rel 0:1-ARG0 5:1-ARG1 8:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 408 3 gold say-v say.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 409 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 409 10 gold do-v do.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 409 12 gold know-v know.01 ----- 12:0-rel 9:1-ARG0 11:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 409 13 gold abuse-v abuse.01 ----- 13:0-rel 5:1-ARG0 6:2-ARGM-MNR 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 409 17 gold riot-v riot.01 ----- 17:0-rel 4:2-ARGM-TMP 16:1-ARG0 18:1-ARGM-LOC 2:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 410 8 gold be-v be.03 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 410 9 gold be-v be.03 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 410 10 gold defile-v defile.01 ----- 10:0-rel 0:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 2 gold think-v think.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:5-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 4 gold be-v be.01 ----- 4:0-rel 5:2-ARG2 21:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 11 gold have-v have.01 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 14 gold lose-v lose.02 ----- 14:0-rel 10:1-ARG0 12:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 15 gold be-v be.03 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 16 gold numb-v numb.01 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 23 gold do-v do.01 ----- 23:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 25 gold sit-v sit.01 ----- 25:0-rel 22:1-ARG1 24:0-ARGM-NEG 26:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 28 gold say-v say.01 ----- 28:0-rel 22:1-ARG0 24:0-ARGM-NEG 29:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 411 30 gold wait-v wait.01 ----- 30:0-rel 29:1-ARGM-DIS 31:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 412 2 gold cross-v cross.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 413 2 gold have-v have.02 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 413 4 gold call-v call.02 ----- 4:0-rel 5:1-ARG1 6:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 413 11 gold do-v do.01 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 414 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 415 2 gold write-v write.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 415 4 gold drive-v drive.01 ----- 4:0-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 416 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 416 2 gold guard-v guard.01 ----- 2:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 417 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 2:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 417 8 gold experience-n experience.01 ----- 8:0-rel 4:1-ARGM-ADJ 7:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 419 2 gold know-v know.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 419 8 gold be-v be.01 ----- 8:0-rel 9:2-ARG2 3:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 419 11 gold be-v be.01 ----- 11:0-rel 10:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 420 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 422 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 423 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 423 2 gold guard-v guard.01 ----- 2:0-rel 3:1-ARGM-DIS 4:1-ARG0 9:1-ARGM-ADV 10:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 423 13 gold have-v have.01 ----- 13:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 423 14 gold have-v have.03 ----- 14:0-rel 11:1-ARGM-ADV 12:1-ARG0 15:1-ARGM-TMP 16:1-ARGM-DIS 17:1-ARGM-DIS 18:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 424 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 424 7 gold continue-v continue.01 ----- 7:0-rel 8:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 424 14 gold be-v be.01 ----- 14:0-rel 13:1-ARG1 15:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 424 16 gold have-v have.01 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 424 17 gold plague-v plague.01 ----- 17:0-rel 18:1-ARG1 20:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 424 23 gold beginning-n beginning.01 ----- 23:0-rel 22:0-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 425 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 425 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 8:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 425 5 gold have-v have.01 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 425 7 gold feel-v feel.02 ----- 7:0-rel 4:1-ARG0 6:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 426 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 426 10 gold know-v know.01 ----- 10:0-rel 9:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 426 12 gold have-v have.01 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 426 13 gold talk-v talk.01 ----- 13:0-rel 11:1-ARG0 14:1-ARG1 16:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 426 17 gold be-v be.01 ----- 17:0-rel 2:2-ARG1 8:1-ARGM-ADV 18:0-ARGM-NEG 19:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 426 21 gold war-n war.01 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 426 22 gold be-v be.01 ----- 22:0-rel 20:1-ARG1 23:0-ARGM-NEG 24:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 427 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 427 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 427 10 gold think-v think.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 427 13 gold have-v have.01 ----- 13:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 427 16 gold recognize-v recognize.01 ----- 16:0-rel 11:1-ARG0 14:1-ARGM-TMP 15:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 428 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 428 9 gold have-v have.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 428 11 gold be-v be.01 ----- 11:0-rel 7:1-ARG1 10:1-ARGM-TMP 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 428 14 gold acknowledge-v acknowledge.01 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 429 3 gold trip-n trip.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 429 5 gold put-v put.08 ----- 5:0,6:1-rel 0:0-ARGM-DIS 1:1-ARGM-LOC 4:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 430 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 432 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 432 4 gold affect-v affect.01 ----- 4:0-rel 3:1-ARG2 5:1-ARG1 7:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 432 6 gold perception-n perception.01 ----- 6:0-rel 5:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 433 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 434 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 434 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 434 3 gold protect-v protect.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 435 3 gold have-v have.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 435 4 gold be-v be.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG1 2:0-ARGM-MOD 5:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 435 14 gold be-v be.01 ----- 14:0-rel 11:1-ARG1 15:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 436 3 gold tell-v tell.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARG2 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 436 6 gold be-v be.01 ----- 6:0-rel 7:1-ARG2 9:1-ARGM-ADV 16:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 436 19 gold have-v have.01 ----- 19:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 436 20 gold live-v live.01 ----- 20:0-rel 21:1-ARGM-LOC 23:1-ARGM-TMP 17:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 436 27 gold cover-v cover.03 ----- 27:0-rel 28:1-ARG1 17:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 436 29 gold war-n war.01 ----- 29:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 437 2 gold work-v work.01 ----- 2:0-rel 1:1-ARG0 3:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 437 7 gold go-v go.02 ----- 7:0-rel 0:2-ARGM-TMP 5:1-ARG0 6:0-ARGM-MOD 8:1-ARG4 9:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 438 2 gold cross-v cross.02 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 439 1 gold work-v work.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-ADV 6:1-ARGM-TMP 10:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 440 9 gold think-v think.01 ----- 9:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 8:1-ARG0 10:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 440 14 gold know-v know.01 ----- 14:0-rel 10:2-ARG0 15:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 2 gold think-v think.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 8 gold get-v get.01 ----- 8:0-rel 6:1-ARG0 7:0-ARGM-MOD 9:1-ARGM-ADV 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 12 gold be-v be.01 ----- 12:0-rel 3:2-ARG1 13:2-ARG2 23:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 15 gold tell-v tell.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG2 18:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 20 gold do-v do.01 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 22 gold know-v know.01 ----- 22:0-rel 19:1-ARG0 21:0-ARGM-NEG 18:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 25 gold be-v be.03 ----- 25:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 441 26 gold move-v move.01 ----- 26:0-rel 24:1-ARG1 27:1-ARGM-DIR 28:1-ARGM-EXT
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 442 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 8:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 442 11 gold have-v have.03 ----- 11:0-rel 0:2-ARGM-ADV 9:1-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 443 1 gold care-v care.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-MNR 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 444 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 445 9 gold move-v move.01 ----- 9:0-rel 0:0-ARGM-DIS 1:1-ARGM-CAU 6:1-ARG1 7:0-ARGM-MOD 8:0-ARGM-NEG 10:1-ARGM-DIR 11:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 445 15 gold want-v want.01 ----- 15:0-rel 14:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 446 5 gold be-v be.01 ----- 5:0-rel 6:1-ARG2 7:1-ARGM-TMP 1:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 446 9 gold do-v do.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 446 11 gold have-v have.03 ----- 11:0-rel 0:0-ARGM-DIS 1:2-ARG0 10:0-ARGM-NEG 12:2-ARG1 16:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 446 15 gold movement-n movement.01 ----- 15:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 447 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 448 5 gold know-v know.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 448 8 gold say-v say.01 ----- 8:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 3:1-ARGM-ADV 6:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 449 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 449 7 gold go-v go.15 ----- 7:0,8:1-rel 5:1-ARG1 9:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 450 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 450 5 gold progress-n progress.01 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 450 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 450 7 gold make-v make.LV ----- 7:0-rel 5:0-ARGM-PRR 5:1-LINK-PCR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 450 9 gold be-v be.03 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 450 11 gold see-v see.01 ----- 11:0-rel 8:1-ARG0 10:0-ARGM-NEG 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 450 12 gold report-v report.01 ----- 12:0-rel 13:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 451 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 451 2 gold think-v think.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 451 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2 8:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 452 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 452 5 gold have-v have.03 ----- 5:0-rel 2:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 453 1 gold wish-v wish.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 453 4 gold say-v say.01 ----- 4:0-rel 2:1-ARG0 3:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 454 1 gold wish-v wish.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 454 4 gold be-v be.01 ----- 4:0-rel 2:1-ARG1 3:0-ARGM-MOD 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 455 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 455 5 gold have-v have.03 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 456 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 456 5 gold get-v get.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 456 6 gold surprise-n surprise.01 ----- 6:0-rel 7:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 457 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 457 5 gold have-v have.03 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 457 13 gold turn-v turn.17 ----- 13:0,14:1-rel 9:2-ARG1 12:1-ARGM-ADV 6:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 458 3 gold know-v know.01 ----- 3:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 458 5 gold be-v be.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 458 6 gold go-v go.04 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 458 8 gold see-v see.01 ----- 8:0-rel 9:1-ARG1 11:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 458 13 gold come-v come.01 ----- 13:0-rel 14:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 459 5 gold move-v move.01 ----- 5:0-rel 2:1-ARG1 4:0-ARGM-MOD 6:1-ARGM-DIR 7:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 459 12 gold need-v need.01 ----- 12:0-rel 11:1-ARG0 13:2-ARGM-PRP 8:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 459 14 gold talk-v talk.01 ----- 14:0-rel 15:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 459 18 gold do-v do.01 ----- 18:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 459 20 gold have-v have.03 ----- 20:0-rel 0:0-ARGM-DIS 1:1-ARGM-CAU 17:1-ARG0 19:0-ARGM-NEG 21:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 460 9 gold care-v care.01 ----- 9:0-rel 8:1-ARGM-ADV 10:1-ARG1 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 460 14 gold find-v find.02 ----- 14:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 4:1-ARGM-ADV 13:1-ARG0 15:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 461 3 gold report-v report.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1 5:2-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 461 9 gold love-v love.02 ----- 9:0-rel 7:1-ARG0 8:0-ARGM-MOD 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 462 2 gold have-v have.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 462 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARG2 5:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 463 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 464 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 465 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 466 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 466 4 gold put-v put.01 ----- 4:0-rel 2:1-ARGM-TMP 3:1-ARGM-ADV 5:1-ARG1 7:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 467 0 gold pull-v pull.01 ----- 0:0-rel 1:1-ARG2 2:1-ARG1 4:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 467 11 gold have-v have.02 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 467 13 gold say-v say.01 ----- 13:0-rel 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 467 18 gold have-v have.01 ----- 18:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 467 19 gold be-v be.03 ----- 19:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 467 20 gold overshadow-v overshadow.01 ----- 20:0-rel 21:2-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 468 4 gold war-n war.01 ----- 4:0-rel 5:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 468 6 gold drag-v drag.01 ----- 6:0-rel 7:1-ARG2 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 469 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 4:1-ARGM-ADV 5:1-ARG2 7:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 470 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 470 4 gold feel-v feel.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 3:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 470 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 470 7 gold get-v get.01 ----- 7:0-rel 5:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 472 5 gold be-v be.01 ----- 5:0-rel 2:1-ARGM-ADV 4:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 473 5 gold come-v come.01 ----- 5:0-rel 3:1*0:1-ARG1 4:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 473 7 gold go-v go.01 ----- 7:0-rel 3:1*0:1-ARG1 4:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 474 3 gold end-n end.01 ----- 3:0-rel 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 474 19 gold go-v go.02 ----- 19:0-rel 17:1-ARG0 18:0-ARGM-MOD 20:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 474 24 gold produce-v produce.01 ----- 24:0-rel 17:1-ARG0 18:0-ARGM-MOD 25:1-ARG1 30:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 474 28 gold look-v look.01 ----- 28:0-rel 27:0-ARGM-DIR 29:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 475 2 gold happen-v happen.01 ----- 2:0-rel 1:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 475 5 gold think-v think.01 ----- 5:0-rel 0:1-ARGM-ADV 3:1-ARGM-ADV 4:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 475 8 gold be-v be.03 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 475 9 gold go-v go.04 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 475 11 gold have-v have.03 ----- 11:0-rel 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 475 17 gold know-v know.01 ----- 17:0-rel 16:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 476 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 476 5 gold happen-v happen.01 ----- 5:0-rel 2:1-ARG1 4:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 476 7 gold think-v think.01 ----- 7:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 6:1-ARG0 8:1-ARGM-DIS 9:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 476 12 gold be-v be.03 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 476 13 gold see-v see.01 ----- 13:0-rel 11:0-ARGM-MOD 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 477 2 gold ride-v ride.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 5:2-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 478 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 478 4 gold involve-v involve.01 ----- 4:0-rel 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 479 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 479 5 gold think-v think.01 ----- 5:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 4:0-ARGM-NEG 6:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 479 7 gold be-v be.03 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 479 8 gold get-v get.01 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 479 12 gold be-v be.03 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 479 13 gold deserve-v deserve.01 ----- 13:0-rel 11:1-ARG0 9:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 480 1 gold go-v go.02 ----- 1:0-rel 0:0-ARGM-DIS 2:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 480 12 gold observe-v observe.01 ----- 12:0-rel 0:0-ARGM-DIS 1:2-ARGM-ADV 10:1-ARGM-DIS 11:1-ARG0 13:2,17:2-ARG1 16:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 480 20 gold be-v be.03 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 480 21 gold suppose-v suppose.02 ----- 21:0-rel 18:1-ARGM-ADV 22:2-ARG2 13:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 480 23 gold be-v be.03 ----- 23:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 480 25 gold shoulder-v shoulder.01 ----- 25:0-rel 24:1-ARGM-ADV 26:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 480 30 gold conflict-n conflict.01 ----- 30:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 481 4 gold leave-v leave.01 ----- 4:0-rel 0:1-ARG0 5:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 481 6 gold feel-v feel.02 ----- 6:0-rel 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 481 8 gold write-v write.01 ----- 8:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 481 12 gold pull-v pull.02 ----- 12:0,18:1-rel 11:1-ARG0 13:1-ARG1 19:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 481 25 gold collapse-v collapse.01 ----- 25:0-rel 10:1-ARGM-ADV 20:1-ARG1 24:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 482 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 482 5 gold assessment-n assessment.01 ----- 5:0-rel 3:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 482 19 gold say-v say.01 ----- 19:0-rel 12:2-ARG0 20:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 484 10 gold have-v have.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 484 11 gold be-v be.03 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 484 12 gold say-v say.01 ----- 12:0-rel 6:1-ARGM-ADV 7:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 484 14 gold be-v be.01 ----- 14:0-rel 15:1-ARG2 5:3-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 484 24 gold know-v know.01 ----- 24:0-rel 23:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 484 25 gold be-v be.01 ----- 25:0-rel 16:2-ARG1 26:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 484 30 gold suggest-v suggest.01 ----- 30:0-rel 29:1-ARGM-TMP 31:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 485 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 485 3 gold say-v say.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 485 5 gold be-v be.02 ----- 5:0-rel 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 485 17 gold be-v be.01 ----- 17:0-rel 10:3-ARG1 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 485 20 gold tell-v tell.01 ----- 20:0-rel 21:1-ARG2 22:2-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 486 1 gold quote-v quote.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 486 23 gold be-v be.03 ----- 23:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 486 24 gold say-v say.01 ----- 24:0-rel 8:3-ARG0 25:1-ARG2 27:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 487 0 gold be-v be.03 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 487 2 gold call-v call.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 488 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 488 4 gold think-v think.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:2-ARGM-ADV 6:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 488 8 gold be-v be.03 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 488 9 gold be-v be.02 ----- 9:0-rel 10:2-ARG1 17:1-ARGM-DIS 18:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 488 14 gold talk-n talk.01 ----- 14:0-rel 13:0-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 489 5 gold be-v be.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 489 6 gold throw-v throw.01 ----- 6:0-rel 0:0-ARGM-DIS 7:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 490 5 gold have-v have.01 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 490 6 gold get-v get.04 ----- 6:0-rel 2:1-ARGM-TMP 4:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 490 7 gold train-v train.01 ----- 7:0-rel 0:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 491 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 491 4 gold learn-v learn.01 ----- 4:0-rel 3:1-ARG0 5:2-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 491 7 gold go-v go.02 ----- 7:0-rel 6:1-ARG0 8:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 492 2 gold have-v have.03 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 492 7 gold be-v be.01 ----- 7:0-rel 8:2-ARG2 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 492 15 gold have-v have.03 ----- 15:0-rel 0:2-ARGM-LOC 13:1-ARGM-DIS 14:1-ARG0 16:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 493 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 493 5 gold have-v have.03 ----- 5:0-rel 2:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 493 9 gold do-v do.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 493 11 gold have-v have.03 ----- 11:0-rel 0:0-ARGM-DIS 1:2-ARGM-LOC 8:1-ARG0 10:0-ARGM-NEG 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 494 6 gold do-v do.01 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 494 8 gold mean-v mean.01 ----- 8:0-rel 0:0-ARGM-DIS 1:2-ARG0 7:0-ARGM-NEG 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 495 2 gold go-v go.02 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-DIR 4:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 495 5 gold see-v see.01 ----- 5:0-rel 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 496 4 gold have-v have.03 ----- 4:0-rel 0:2-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 497 7 gold follow-v follow.01 ----- 7:0-rel 0:0-ARGM-DIS 5:1*1:2-ARG1 6:0-ARGM-MOD 8:1-ARG2 9:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 497 10 gold battle-n battle.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 498 2 gold take-v take.11 ----- 2:0,6:1-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 498 8 gold be-v be.02 ----- 8:0-rel 0:0-ARGM-DIS 1:2-ARGM-ADV 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 499 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 500 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 501 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 501 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 501 9 gold have-v have.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 501 10 gold fight-v fight.01 ----- 10:0-rel 8:1-ARG0 11:1-ARG1 13:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 501 12 gold war-n war.01 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 501 17 gold be-v be.01 ----- 17:0-rel 15:1-ARG1 16:0-ARGM-MOD 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 502 0 gold be-v be.01 ----- 0:0-rel 1:1-ARG1 2:1-ARG2 4:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 502 7 gold support-v support.01 ----- 7:0-rel 8:1-ARG1 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 502 9 gold war-n war.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 502 11 gold take-v take.01 ----- 11:0-rel 12:1-ARG1 13:1-ARG2 19:1-ARGM-CAU 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 502 20 gold do-v do.02 ----- 20:0-rel 21:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 504 3 gold believe-v believe.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 504 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 505 1 gold believe-v believe.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 505 6 gold be-v be.01 ----- 6:0-rel 3:2-ARG1 7:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 2 gold deal-v deal.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 11 gold be-v be.01 ----- 11:0-rel 4:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 13 gold be-v be.01 ----- 13:0-rel 14:1-ARG2 4:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 18 gold be-v be.03 ----- 18:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 19 gold head-v head.02 ----- 19:0-rel 20:1-ARGM-DIR 24:1-ARGM-MNR 4:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 27 gold be-v be.01 ----- 27:0-rel 28:2-ARG2 25:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 506 33 gold believe-v believe.01 ----- 33:0-rel 32:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 507 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 508 2 gold make-v make.02 ----- 2:0-rel 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 508 10 gold be-v be.01 ----- 10:0-rel 0:0-ARGM-DIS 1:2-ARG1 11:0-ARGM-NEG 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 508 14 gold do-v do.01 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 508 16 gold frame-v frame.03 ----- 16:0-rel 13:1-ARG0 15:0-ARGM-NEG 17:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 509 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 510 4 gold appreciate-v appreciate.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-NEG 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 510 8 gold be-v be.01 ----- 8:0-rel 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 511 2 gold prepare-v prepare.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-NEG 3:2-ARG1 9:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 511 13 gold be-v be.01 ----- 13:0-rel 12:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 512 1 gold mention-v mention.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 512 11 gold be-v be.01 ----- 11:0-rel 10:1-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 513 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 513 4 gold become-v become.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 514 7 gold notice-v notice.01 ----- 7:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 6:1-ARG0 8:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 514 9 gold be-v be.01 ----- 9:0-rel 8:1-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 515 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 517 5 gold be-v be.01 ----- 5:0-rel 2:1-ARGM-ADV 3:1-ARGM-ADV 6:1-ARG1 7:3-ARG2 12:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 517 11 gold coverage-n coverage.03 ----- 11:0-rel 7:2-ARGM-EXT
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 517 14 gold be-v be.01 ----- 14:0-rel 13:1-ARG1 15:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 518 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 519 1 gold think-v think.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 520 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 4:1-ARGM-ADV 5:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 523 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 523 3 gold become-v become.01 ----- 3:0-rel 0:1-ARG1 2:1-ARGM-ADV 4:1-ARGM-DIS 5:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 524 1 gold hear-v hear.01 ----- 1:0-rel 2:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 524 10 gold be-v be.01 ----- 10:0-rel 0:2-ARGM-PRD 8:1-ARGM-ADV 9:1-ARG1 11:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 524 17 gold process-v process.01 ----- 17:0-rel 9:1-ARG1 14:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 526 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 527 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:2,6:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 527 5 gold think-v think.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 528 1 gold have-v have.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 528 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 528 7 gold ask-v ask.02 ----- 7:0-rel 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 528 10 gold write-v write.01 ----- 10:0-rel 8:0-ARGM-NEG 11:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 529 3 gold interview-n interview.01 ----- 3:0-rel 2:0-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 530 0 gold welcome-v welcome.01 ----- 0:0-rel 1:1-ARGM-DIR 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 531 20 gold read-v read.01 ----- 20:0-rel 21:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 532 6 gold be-v be.01 ----- 6:0-rel 4:1-ARG1 7:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 532 9 gold have-v have.01 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 532 10 gold get-v get.02 ----- 10:0-rel 0:1-ARGM-DIS 11:1*1:2-ARG1 8:1-ARG0 12:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 533 14 gold have-v have.01 ----- 14:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 533 16 gold write-v write.01 ----- 16:0-rel 13:1-ARG0 15:1-ARGM-TMP 17:1-ARGM-TMP 11:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 534 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 534 4 gold profile-v profile.01 ----- 4:0-rel 0:1-ARGM-DIS 3:1-ARGM-TMP 5:1-ARGM-ADV 7:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 535 2 gold let-v let.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARGM-DIS 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 535 5 gold say-v say.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 535 8 gold do-v do.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 535 10 gold say-v say.01 ----- 10:0-rel 7:1-ARG0 9:0-ARGM-NEG 11:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 535 12 gold walk-v walk.01 ----- 12:0-rel 11:1-ARG0 13:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 535 17 gold come-v come.04 ----- 17:0-rel 16:1-ARG1 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 537 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 538 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 538 4 gold be-v be.01 ----- 4:0-rel 3:1-ARG1 5:2-ARG2 13:2-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 538 14 gold be-v be.01 ----- 14:0-rel 15:2-ARG2 5:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 539 6 gold say-v say.01 ----- 6:0-rel 5:1-ARG0 3:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 539 7 gold be-v be.01 ----- 7:0-rel 0:1-ARGM-DIS 1:2-ARG1 8:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 539 19 gold play-v play.02 ----- 19:0-rel 18:1-ARG0 20:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 540 2 gold suggestion-n suggestion.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 540 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARGM-DIS 5:4-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 540 6 gold love-v love.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 540 10 gold be-v be.03 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 540 11 gold ask-v ask.02 ----- 11:0-rel 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 540 13 gold speak-v speak.01 ----- 13:0-rel 14:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 540 23 gold give-v give.01 ----- 23:0-rel 22:1-ARG0 24:1-ARG2 25:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 545 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 2 gold reaction-n reaction.01 ----- 2:0-rel 1:0-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:2-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 6 gold look-v look.09 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 9 gold want-v want.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 11 gold understand-v understand.01 ----- 11:0-rel 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 16 gold be-v be.03 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 17 gold flatten-v flatten.01 ----- 17:0-rel 18:1-ARG1 12:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 21 gold do-v do.01 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 546 23 gold go-v go.02 ----- 23:0-rel 22:1-ARG0 24:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 547 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 547 2 gold go-v go.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 547 5 gold do-v do.01 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 547 7 gold know-v know.01 ----- 7:0-rel 4:1-ARG0 6:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 548 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 548 2 gold go-v go.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 549 1 gold do-v do.01 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 549 3 gold go-v go.02 ----- 3:0-rel 0:0-ARGM-DIS 2:1-ARG0 4:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 549 11 gold put-v put.03 ----- 11:0-rel 10:1-ARGM-ADV 12:1-ARG1 14:1-ARG2 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 552 1 gold be-v be.02 ----- 1:0-rel 2:0-ARGM-NEG 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 552 12 gold go-v go.17 ----- 12:0,13:1-rel 11:1-ARGM-ADV 3:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 552 15 gold talk-v talk.01 ----- 15:0-rel 11:1-ARGM-ADV 16:1-ARG2 3:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 552 20 gold be-v be.03 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 552 21 gold do-v do.02 ----- 21:0-rel 22:2-ARG1 17:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 552 27 gold be-v be.03 ----- 27:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 552 29 gold reshape-v reshape.01 ----- 29:0-rel 28:1-ARGM-ADV 30:1-ARG1 17:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 554 3 gold have-v have.03 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 555 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 555 6 gold be-v be.01 ----- 6:0-rel 4:1-ARG1 7:1-ARG2 8:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 555 9 gold prove-v prove.01 ----- 9:0-rel 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 555 14 gold want-v want.01 ----- 14:0-rel 15:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 555 16 gold talk-v talk.01 ----- 16:0-rel 17:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 556 4 gold argue-v argue.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 3:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 557 0 gold wait-v wait.01 ----- 0:0-rel 1:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 558 0 gold wait-v wait.01 ----- 0:0-rel 1:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 559 2 gold subscribe-v subscribe.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:1-ARG1 5:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 559 7 gold be-v be.02 ----- 7:0-rel 8:2-ARG1 14:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 559 16 gold know-v know.01 ----- 16:0-rel 15:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 559 18 gold be-v be.01 ----- 18:0-rel 17:1-ARG1 20:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 561 3 gold say-v say.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 562 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 562 6 gold assessment-n assessment.01 ----- 6:0-rel 4:0-ARGM-MNR 5:0-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 563 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 563 5 gold be-v be.02 ----- 5:0-rel 6:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 563 8 gold happen-v happen.01 ----- 8:0-rel 9:2-ARGM-TMP 6:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 564 2 gold call-v call.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 565 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 566 1 gold distract-v distract.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 567 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 568 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 568 4 gold want-v want.01 ----- 4:0-rel 0:3-ARGM-DIS 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 568 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 568 9 gold see-v see.01 ----- 9:0-rel 7:1-ARGM-ADV 2:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 569 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 569 9 gold make-v make.02 ----- 9:0-rel 10:2-ARG1 4:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 569 11 gold think-v think.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 569 18 gold be-v be.01 ----- 18:0-rel 12:1-ARGM-DIS 13:1-ARG1 19:1-ARGM-ADV 20:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 570 6 gold argue-v argue.01 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 4:1-ARG0 5:0-ARGM-MOD 7:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 570 9 gold mask-v mask.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 570 11 gold be-v be.01 ----- 11:0-rel 12:1-ARGM-ADV 13:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 570 24 gold be-v be.03 ----- 24:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 570 25 gold go-v go.02 ----- 25:0-rel 23:1-ARG0 26:1-ARG3 36:1-ARG4
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 570 31 gold model-n model.01 ----- 31:0-rel 28:0-ARGM-ADJ 29:0-ARGM-ADJ 30:0-ARGM-ADJ 32:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 571 8 gold shift-n shift.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 571 9 gold be-v be.03 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 571 11 gold go-v go.04 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 571 13 gold have-v have.03 ----- 13:0-rel 14:3,20:1-ARG1 18:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 572 3 gold argue-v argue.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:0-ARGM-MOD 4:1-ARGM-EXT 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 572 9 gold get-v get.03 ----- 9:0-rel 8:1-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 572 10 gold miss-v miss.02 ----- 10:0-rel 11:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 573 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 573 4 gold have-v have.03 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 574 3 gold be-v be.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG1 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 575 1 gold put-v put.01 ----- 1:0-rel 0:1-ARGM-DIS 2:1-ARG1 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 577 1 gold buy-v buy.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 578 2 gold enjoy-v enjoy.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 579 2 gold say-v say.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARGM-LOC 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 579 9 gold edit-v edit.01 ----- 9:0-rel 6:1-ARG0 8:1-ARGM-DIS 10:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 579 15 gold say-v say.01 ----- 15:0-rel 14:1-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 579 16 gold do-v do.01 ----- 16:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 579 18 gold publish-v publish.01 ----- 18:0-rel 17:0-ARGM-NEG 19:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 580 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 581 1 gold go-v go.02 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 581 4 gold rewrite-v rewrite.01 ----- 4:0-rel 0:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 582 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 582 4 gold do-v do.01 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 584 3 gold edit-v edit.01 ----- 3:0-rel 0:2-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 585 3 gold give-v give.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG2 5:1-ARG1 7:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 585 9 gold have-v have.02 ----- 9:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 585 11 gold put-v put.01 ----- 11:0-rel 12:1-ARG1 13:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 585 16 gold throw-v throw.01 ----- 16:0-rel 17:1-ARG1 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 585 23 gold start-v start.01 ----- 23:0-rel 24:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 586 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 587 10 gold have-v have.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 587 11 gold go-v go.01 ----- 11:0-rel 0:1-ARGM-DIS 1:2-ARG1 12:1-ARGM-DIR 13:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 587 17 gold experiment-n experiment.01 ----- 17:0-rel 16:0-ARGM-TMP 18:3-ARGM-ADJ 21:2-ARGM-ADJ
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 587 20 gold have-v have.03 ----- 20:0-rel 18:1-ARG0 15:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 587 23 gold cost-v cost.01 ----- 23:0-rel 24:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 587 36 gold read-v read.01 ----- 36:0-rel 32:2-ARG0 37:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 588 1 gold be-v be.03 ----- 1:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 588 2 gold get-v get.06 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 588 4 gold be-v be.01 ----- 4:0-rel 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 589 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 589 4 gold be-v be.01 ----- 4:0-rel 2:1-ARGM-DIS 3:1-ARG1 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 590 3 gold have-v have.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 590 4 gold say-v say.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 591 2 gold want-v want.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 591 6 gold thrive-v thrive.01 ----- 6:0-rel 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 3 gold have-v have.03 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 9 gold grow-v grow.04 ----- 9:0,10:1-rel 7:1-ARG1 11:1-ARGM-LOC 4:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 15 gold think-v think.01 ----- 15:0-rel 16:1-ARG1 12:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 18 gold be-v be.01 ----- 18:0-rel 17:1-ARG1 19:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 21 gold read-v read.01 ----- 21:0-rel 20:1-ARG0 22:1-ARGM-MNR 24:1-ARG3 19:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 26 gold be-v be.03 ----- 26:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 27 gold go-v go.04 ----- 27:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 592 29 gold pay-v pay.01 ----- 29:0-rel 30:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 593 15 gold be-v be.01 ----- 15:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 5:2-ARG1 16:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 593 17 gold get-v get.04 ----- 17:0-rel 16:1-ARG0 18:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 593 19 gold reach-v reach.02 ----- 19:0-rel 20:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 593 24 gold be-v be.01 ----- 24:0-rel 23:1-ARGM-ADV 25:1-ARG2 20:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 593 29 gold get-v get.01 ----- 29:0-rel 28:1-ARG0 30:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 594 3 gold write-v write.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 594 9 gold get-v get.01 ----- 9:0-rel 0:0-ARGM-DIS 1:1-ARGM-CAU 7:1-ARGM-ADV 8:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 595 7 gold be-v be.01 ----- 7:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 5:1*3:1-ARG1 6:0-ARGM-MOD 8:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 596 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 597 2 gold hope-v hope.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1 5:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 597 4 gold work-v work.09 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 597 7 gold want-v want.01 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 597 13 gold have-v have.03 ----- 13:0-rel 8:1-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 597 17 gold be-v be.01 ----- 17:0-rel 18:1-ARG2 14:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 598 6 gold hope-v hope.01 ----- 6:0-rel 0:0-ARGM-DIS 1:1-ARGM-TMP 5:1-ARG0 7:3-ARG1 17:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 598 10 gold find-v find.01 ----- 10:0-rel 7:1-ARG0 8:0-ARGM-MOD 9:1-ARGM-TMP 11:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 598 14 gold re-engage-v re-engage.01 ----- 14:0-rel 15:1-ARG1 11:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 598 20 gold have-v have.01 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 598 21 gold lose-v lose.02 ----- 21:0-rel 18:1-ARGM-ADV 19:1-ARG0 22:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 8 gold be-v be.02 ----- 8:0-rel 0:1-ARGM-DIS 1:1-ARGM-LOC 9:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 10 gold allegation-n allegation.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 11 gold bounce-v bounce.01 ----- 11:0-rel 9:1-ARG1 12:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 18 gold think-v think.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV 19:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 21 gold address-v address.02 ----- 21:0-rel 19:1-ARG0 20:0-ARGM-MOD 15:0-ARG1 22:1-ARGM-MNR 9:2*19:3-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 25 gold be-v be.01 ----- 25:0-rel 26:1-ARG2 9:3-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 26 gold have-v have.01 ----- 26:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 32 gold be-v be.03 ----- 32:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 33 gold tell-v tell.01 ----- 33:0-rel 31:1-ARGM-MNR 34:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 36 gold write-v write.01 ----- 36:0-rel 34:0-ARGM-NEG 37:1-ARG1 39:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 44 gold involvement-n involvement.01 ----- 44:0-rel 41:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 46 gold be-v be.01 ----- 46:0-rel 41:1-ARG1 47:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 599 51 gold be-v be.01 ----- 51:0-rel 41:1-ARG1 50:1-ARGM-TMP 52:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 601 1 gold tell-v tell.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG2 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 601 5 gold write-v write.01 ----- 5:0-rel 3:0-ARGM-NEG 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 602 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 602 3 gold do-v do.01 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 602 5 gold tell-v tell.01 ----- 5:0-rel 0:3-ARGM-DIS 2:1-ARG0 4:0-ARGM-NEG 6:1-ARG2 7:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 602 9 gold write-v write.01 ----- 9:0-rel 7:0-ARGM-NEG 10:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 603 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2 4:2-ARGM-PRD 5:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 604 1 gold mean-v mean.01 ----- 1:0-rel 0:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 604 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 604 4 gold go-v go.02 ----- 4:0-rel 2:1-ARG0 5:1-ARG4 7:1-ARGM-DIS 8:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 605 2 gold be-v be.02 ----- 2:0-rel 0:0-ARGM-DIS 3:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 605 6 gold know-v know.01 ----- 6:0-rel 7:3-ARG1 3:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 605 8 gold be-v be.03 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 605 9 gold go-v go.02 ----- 9:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 606 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 608 0 gold do-v do.01 ----- 0:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 608 3 gold tell-v tell.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 609 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 609 6 gold be-v be.02 ----- 6:0-rel 4:0-ARGM-DIS 7:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 610 2 gold have-v have.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 610 4 gold write-v write.01 ----- 4:0-rel 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 610 8 gold do-v do.01 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 610 10 gold know-v know.01 ----- 10:0-rel 7:1-ARG0 9:0-ARGM-NEG
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 611 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 612 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 612 5 gold do-v do.01 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 612 7 gold know-v know.01 ----- 7:0-rel 4:1-ARG0 6:0-ARGM-NEG 8:1-ARGM-ADV 2:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 613 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 613 4 gold think-v think.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 613 7 gold have-v have.01 ----- 7:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 613 8 gold get-v get.01 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 614 4 gold agree-v agree.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 614 10 gold be-v be.01 ----- 10:0-rel 0:1-ARGM-DIS 2:1-ARGM-ADV 9:1-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 614 14 gold believe-v believe.01 ----- 14:0-rel 15:1-ARG1 11:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 614 19 gold go-v go.02 ----- 19:0-rel 20:1-ARGM-DIR 21:1-ARG4 23:1-ARGM-TMP 11:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 615 2 gold know-v know.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 615 5 gold be-v be.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 615 7 gold be-v be.01 ----- 7:0-rel 0:1-ARGM-DIS 3:1-ARGM-DIS 4:1-ARG1 6:1-ARGM-TMP 8:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 615 16 gold know-v know.01 ----- 16:0-rel 15:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 615 20 gold have-v have.01 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 615 21 gold be-v be.01 ----- 21:0-rel 0:1-ARGM-DIS 3:1-ARGM-DIS 4:1-ARG1 17:1-ARGM-DIS 19:1-ARGM-DIS 22:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 616 9 gold engender-v engender.01 ----- 9:0-rel 0:0-ARGM-DIS 1:2-ARG0 7:1-ARGM-DIS 8:1-ARGM-DIS 10:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 617 4 gold be-v be.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG1 5:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 617 11 gold explain-v explain.01 ----- 11:0-rel 8:1-ARG0 9:0-ARGM-MOD 10:1-ARGM-ADV 5:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 619 2 gold do-v do.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 619 5 gold get-v get.03 ----- 5:0-rel 3:1-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 619 6 gold carry-v carry.01 ----- 6:0-rel 7:1-ARGM-DIR 8:1-ARG3
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 620 2 gold ride-v ride.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1 5:1-ARGM-DIR 9:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 621 6 gold announce-v announce.01 ----- 6:0-rel 1:3-ARG0 7:1-ARGM-TMP 9:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 621 11 gold be-v be.02 ----- 11:0-rel 12:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 621 22 gold think-v think.01 ----- 22:0-rel 0:2-ARGM-TMP 21:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 621 25 gold go-v go.02 ----- 25:0-rel 24:1-ARG0 26:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 622 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 623 6 gold say-v say.01 ----- 6:0-rel 0:1-ARGM-LOC 4:1-ARGM-TMP 5:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 623 8 gold be-v be.03 ----- 8:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 623 9 gold increase-v increase.01 ----- 9:0-rel 7:1-ARG0 10:1-ARG1 11:1-ARGM-LOC 18:1-ARGM-CAU
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 623 22 gold call-v call.01 ----- 22:0-rel 21:1-ARG0 23:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 624 3 gold attack-v attack.01 ----- 3:0-rel 4:1-ARG1 6:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 624 7 gold come-v come.01 ----- 7:0-rel 8:0-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 624 9 gold come-v come.03 ----- 9:0-rel 0:1-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 625 5 gold be-v be.03 ----- 5:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 625 6 gold search-v search.01 ----- 6:0-rel 0:0-ARGM-DIS 1:2-ARG0 4:0-ARGM-MOD 7:2-ARG2 12:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 625 13 gold try-v try.01 ----- 13:0-rel 14:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 625 15 gold stop-v stop.01 ----- 15:0-rel 16:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 626 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:3-ARGM-DIS 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 626 2 gold let-v let.01 ----- 2:0-rel 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 626 4 gold face-v face.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 627 3 gold be-v be.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 627 15 gold provide-v provide.01 ----- 15:0-rel 0:0-ARGM-DIS 1:1-ARGM-CAU 10:1-ARG0 14:0-ARGM-MOD 16:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 627 21 gold coverage-n coverage.03 ----- 21:0-rel 16:1-ARGM-MNR 18:2-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 628 2 gold concern-v concern.02 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 629 3 gold alert-n alert.01 ----- 3:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 629 8 gold be-v be.01 ----- 8:0-rel 4:2-ARG1 9:1-ARG2 15:1-ARGM-TMP 17:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 629 20 gold be-v be.03 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 629 21 gold describe-v describe.01 ----- 21:0-rel 19:1-ARG0 22:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 630 5 gold be-v be.01 ----- 5:0-rel 0:0-ARGM-DIS 1:2-ARG1 6:0-ARGM-NEG 7:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 631 9 gold be-v be.01 ----- 9:0-rel 0:1-ARG1 2:1-ARGM-ADV 10:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 631 11 gold allegation-n allegation.01 ----- 11:0-rel 12:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 631 14 gold be-v be.01 ----- 14:0-rel 11:2-ARG1 15:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 632 3 gold offer-v offer.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARGM-DIS
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 6 gold help-v help.02 ----- 6:0-rel 0:2-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 8 gold notice-v notice.01 ----- 8:0-rel 0:2-ARG0 4:0-ARGM-MOD 5:0-ARGM-NEG 9:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 15 gold be-v be.01 ----- 15:0-rel 16:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 20 gold have-v have.01 ----- 20:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 21 gold be-v be.03 ----- 21:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 22 gold call-v call.02 ----- 22:0-rel 23:1-ARGM-DIR 24:2-ARGM-PRP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 25 gold testify-v testify.01 ----- 25:0-rel 26:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 29 gold leak-n leak.01 ----- 29:0-rel 28:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 35 gold be-v be.03 ----- 35:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 36 gold be-v be.03 ----- 36:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 37 gold assail-v assail.01 ----- 37:0-rel 38:1-ARG0 40:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 633 44 gold nomination-n nomination.01 ----- 44:0-rel 42:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 634 2 gold have-v have.01 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 634 3 gold be-v be.01 ----- 3:0-rel 4:1-ARG2 0:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 634 10 gold have-v have.01 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 634 11 gold be-v be.03 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 634 13 gold occur-v occur.01 ----- 13:0-rel 0:2-ARG1 12:1-ARGM-DIS 14:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 634 16 gold follow-v follow.01 ----- 16:0-rel 17:1-ARGM-MNR 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 634 21 gold relate-v relate.01 ----- 21:0-rel 20:0-ARG1 22:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 635 12 gold be-v be.03 ----- 12:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 635 13 gold report-v report.01 ----- 13:0-rel 0:1-ARGM-TMP 4:2-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 635 17 gold be-v be.03 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 635 18 gold play-v play.07 ----- 18:0,19:1-rel 15:1-ARG0 20:1-ARG1 22:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 636 3 gold coverage-n coverage.03 ----- 3:0-rel 2:0-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 636 4 gold keep-v keep.02 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 636 5 gold roll-v roll.01 ----- 5:0-rel 6:1-ARGM-DIR 9:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 637 10 gold report-v report.01 ----- 10:0-rel 0:1-ARGM-ADV 1:1-ARGM-TMP 3:2-ARG0 11:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 637 15 gold be-v be.01 ----- 15:0-rel 12:1-ARG1 16:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 638 4 gold give-v give.01 ----- 4:0-rel 0:1-ARG0 5:1-ARG2 6:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 639 7 gold quote-v quote.01 ----- 7:0-rel 0:1-ARGM-DIS 1:2-ARG0 8:1-ARG1 10:1-ARGM-TMP 11:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 639 12 gold say-v say.01 ----- 12:0-rel 13:4-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 639 17 gold give-v give.01 ----- 17:0-rel 18:1-ARG1 20:1-ARG2 13:1-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 639 19 gold tip-n tip.03 ----- 19:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 639 27 gold say-v say.01 ----- 27:0-rel 13:2-ARG0 26:1-ARGM-TMP 28:3-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 639 30 gold be-v be.01 ----- 30:0-rel 28:1-ARG1 31:1-ARGM-ADV 32:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 640 2 gold be-v be.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG1 3:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 640 17 gold do-v do.01 ----- 17:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 640 19 gold mention-v mention.01 ----- 19:0-rel 18:0-ARGM-NEG 20:1-ARG1 24:1-ARGM-ADV 7:2-LINK-SLC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 641 8 gold need-v need.01 ----- 8:0-rel 0:1-ARGM-TMP 5:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 641 10 gold be-v be.03 ----- 10:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 641 11 gold report-v report.01 ----- 11:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 642 1 gold give-v give.01 ----- 1:0-rel 2:2-ARG1 6:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 642 9 gold learn-v learn.01 ----- 9:0-rel 10:2,13:1-ARG1 12:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 642 20 gold scare-v scare.01 ----- 20:0-rel 21:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 643 2 gold come-v come.01 ----- 2:0-rel 1:1-ARG1 3:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 644 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 644 8 gold know-v know.01 ----- 8:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 645 1 gold want-v want.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 645 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 645 4 gold ride-v ride.01 ----- 4:0-rel 5:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 645 9 gold walk-v walk.01 ----- 9:0-rel 10:1-ARGM-LOC
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 645 16 gold get-v get.01 ----- 16:0-rel 17:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 646 6 gold be-v be.03 ----- 6:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 646 7 gold cover-v cover.03 ----- 7:0-rel 2:2-ARG0 8:2-ARG1 17:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 646 19 gold set-v set.06 ----- 19:0,20:1-rel 0:0-ARGM-DIS 1:2-ARGM-TMP 18:1-ARG0 21:1-ARGM-MNR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 647 2 gold be-v be.03 ----- 2:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 647 3 gold go-v go.06 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:1-ARGM-MNR 5:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 648 3 gold look-n look.01 ----- 3:0-rel 0:1-ARGM-DIS 1:0-ARGM-LVB
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 650 3 gold be-v be.03 ----- 3:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 650 4 gold get-v get.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 650 7 gold break-n break.02 ----- 7:0-rel 6:0-ARGM-ADJ 8:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 651 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-ADV 3:1-ARGM-TMP 4:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 652 2 gold walk-v walk.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-DIR
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 653 2 gold see-v see.01 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 653 6 gold be-v be.01 ----- 6:0-rel 4:1-ARG1 7:3-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 654 0 gold talk-v talk.01 ----- 0:0-rel 1:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 655 6 gold point-v point.02 ----- 6:0,7:1-rel 2:1-ARG0
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 655 9 gold be-v be.01 ----- 9:0-rel 0:0-ARGM-DIS 1:1-ARGM-ADV 8:1-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 655 15 gold accuse-v accuse.01 ----- 15:0-rel 12:1-ARG0 16:1-ARG1 18:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 655 19 gold stage-v stage.01 ----- 19:0-rel 20:2-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 656 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2 4:1-ARGM-ADV
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 657 0 gold join-v join.04 ----- 0:0-rel 1:1-ARG1 2:1-ARGM-TMP 3:1-ARGM-TMP 5:1-ARGM-TMP 14:1-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 657 19 gold critique-v critique.01 ----- 19:0-rel 20:1-ARG1
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 658 5 gold begin-v begin.01 ----- 5:0-rel 0:2-ARG1 6:1-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 659 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 659 9 gold talk-n talk.01 ----- 9:0-rel 8:0-ARGM-TMP
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 660 4 gold be-v be.03 ----- 4:0-rel
+bc/cnn/00/cnn_0008@0008@cnn@bc@en@on 660 5 gold get-v get.16 ----- 5:0,6:1-rel 3:1-ARG0

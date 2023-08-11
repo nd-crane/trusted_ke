@@ -1,0 +1,617 @@
+#begin document (nw/ann/01/ann_0109); part 000
+nw/ann/01/ann_0109   0   0    [WORD]                         VOC_PART   (TOP(INTJ(PRT*)        [LEMMA]  -   -   -   *     -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC             (NP*         [LEMMA]  -   -   -   *   (23
+nw/ann/01/ann_0109   0   2    [WORD]            DET+NOUN+CASE_DEF_GEN             (NP*))))     [LEMMA]  -   -   -   *    23)
+
+nw/ann/01/ann_0109   0    0    [WORD]                  NOUN+CASE_INDEF_ACC   (TOP(S(NP(NP(NP*)                   [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0    1    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0    2    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0    3    [WORD]                                 PUNC               (NP*                    [LEMMA]   -   -   -    (EVENT*             *               *           -
+nw/ann/01/ann_0109   0    4    [WORD]           DET+NOUN_PROP+CASE_DEF_GEN               (NP*)                   [LEMMA]   -   -   -          *             *               *         (19)
+nw/ann/01/ann_0109   0    5    [WORD]     NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN         (NP(NP(NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0    6    [WORD]      ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN                  *)                   [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0    7    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0    8    [WORD]                DET+NOUN+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0    9    [WORD]                 DET+ADJ+CASE_DEF_GEN                  *)))                 [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   10    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   11    [WORD]                DET+NOUN+CASE_DEF_GEN            (NP(NP*)                   [LEMMA]   -   1   -          *             *               *           -
+nw/ann/01/ann_0109   0   12    [WORD]                             NOUN_NUM               (NP*))))                [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   13    [WORD]                                 PUNC                  *))))                [LEMMA]   -   -   -          *)            *               *           -
+nw/ann/01/ann_0109   0   14    [WORD]                                 PUNC                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   15    [WORD]                                 CONJ                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   16    [WORD]     NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC            (NP(NP*)                   [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   17    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   18    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   19    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN            (NP(NP*)                   [LEMMA]   -   -   -      (ORG*             *               *         (14
+nw/ann/01/ann_0109   0   20    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   21    [WORD]                            NOUN_PROP               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   22    [WORD]                        DET+NOUN_PROP                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   23    [WORD]                            NOUN_PROP                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   24    [WORD]                        DET+NOUN_PROP                  *)))))))             [LEMMA]   -   -   -          *)            *               *          14)
+nw/ann/01/ann_0109   0   25    [WORD]                                 PUNC                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   26    [WORD]                   PV+PVSUFF_SUBJ:3MS               (VP*                    [LEMMA]  02   -   -          *           (V*)              *           -
+nw/ann/01/ann_0109   0   27    [WORD]                            NOUN_PROP            (NP(NP*                    [LEMMA]   -   -   -   (PERSON*        (ARG0*               *          (5
+nw/ann/01/ann_0109   0   28    [WORD]                            NOUN_PROP                  *)                   [LEMMA]   -   -   -          *)            *               *           -
+nw/ann/01/ann_0109   0   29    [WORD]                                 PUNC                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   30    [WORD]                    NOUN+CASE_DEF_NOM               (NP*                    [LEMMA]   -   1   -          *             *               *           -
+nw/ann/01/ann_0109   0   31    [WORD]                    NOUN+CASE_DEF_GEN               (NP*                    [LEMMA]   -   2   -          *             *               *           -
+nw/ann/01/ann_0109   0   32    [WORD]                    NOUN+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   33    [WORD]   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               (NP*)))))               [LEMMA]   -   -   -          *             *)              *      (14)|5)
+nw/ann/01/ann_0109   0   34    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *    (ARGM-ADV*               *           -
+nw/ann/01/ann_0109   0   35    [WORD]             NOUN_PROP+CASE_INDEF_GEN               (NP*))                  [LEMMA]   -   -   -       (GPE)            *)              *         (17)
+nw/ann/01/ann_0109   0   36    [WORD]                                 PUNC                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   37    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *        (ARG1*               *           -
+nw/ann/01/ann_0109   0   38    [WORD]   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN            (NP(NP*                    [LEMMA]   -   -   -          *             *          (ARG1*          (2
+nw/ann/01/ann_0109   0   39    [WORD]    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN                  *)                   [LEMMA]   -   -   -          *             *               *)          -
+nw/ann/01/ann_0109   0   40    [WORD]                             REL_PRON        (SBAR(WHNP*)                   [LEMMA]   -   -   -          *             *        (R-ARG1*)          -
+nw/ann/01/ann_0109   0   41    [WORD]              PV_PASS+PVSUFF_SUBJ:3FS             (S(VP*                    [LEMMA]  02   1   -          *             *             (V*)          -
+nw/ann/01/ann_0109   0   42    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *             *      (ARGM-CAU*           -
+nw/ann/01/ann_0109   0   43    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   44    [WORD]                    NOUN+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   45    [WORD]   NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_GEN         (NP(NP(NP*                    [LEMMA]   -   -   -     (DATE*             *               *           -
+nw/ann/01/ann_0109   0   46    [WORD]                  NOUN+CASE_INDEF_GEN               (NP*))                  [LEMMA]   -   1   -          *)            *               *           -
+nw/ann/01/ann_0109   0   47    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   48    [WORD]                    NOUN+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   49    [WORD]                DET+NOUN+CASE_DEF_GEN            (NP(NP*                    [LEMMA]   -   -   -          *             *               *         (11
+nw/ann/01/ann_0109   0   50    [WORD]                 DET+ADJ+CASE_DEF_GEN                  *)                   [LEMMA]   -   -   -      (NORP)            *               *           -
+nw/ann/01/ann_0109   0   51    [WORD]                            NOUN_PROP               (NP*                    [LEMMA]   -   -   -   (PERSON*             *               *           -
+nw/ann/01/ann_0109   0   52    [WORD]                        DET+NOUN_PROP                  *)))))               [LEMMA]   -   -   -          *)            *               *          11)
+nw/ann/01/ann_0109   0   53    [WORD]                                 PUNC                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   54    [WORD]                                 CONJ                  *                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   55    [WORD]   NOUN_NUM+NSUFF_FEM_SG+CASE_DEF_GEN            (NP(NP*                    [LEMMA]   -   -   -     (DATE*             *               *           -
+nw/ann/01/ann_0109   0   56    [WORD]                  NOUN+CASE_INDEF_GEN               (NP*))                  [LEMMA]   -   1   -          *)            *               *           -
+nw/ann/01/ann_0109   0   57    [WORD]                                 PREP               (PP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   58    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               (NP*                    [LEMMA]   -   -   -          *             *               *           -
+nw/ann/01/ann_0109   0   59    [WORD]                DET+NOUN+CASE_DEF_GEN            (NP(NP*                    [LEMMA]   -   -   -          *             *               *         (23
+nw/ann/01/ann_0109   0   60    [WORD]                 DET+ADJ+CASE_DEF_GEN                  *)                   [LEMMA]   -   -   -      (NORP)            *               *           -
+nw/ann/01/ann_0109   0   61    [WORD]                            NOUN_PROP               (NP*                    [LEMMA]   -   -   -   (PERSON*             *               *           -
+nw/ann/01/ann_0109   0   62    [WORD]                            NOUN_PROP                  *)))))))))))))))     [LEMMA]   -   -   -          *)            *)              *)      23)|2)
+nw/ann/01/ann_0109   0   63    [WORD]                                 PUNC                  *))                  [LEMMA]   -   -   -          *             *               *           -
+
+nw/ann/01/ann_0109   0    0    [WORD]     NOUN+NSUFF_FEM_SG+CASE_DEF_NOM   (TOP(S(NP(NP*           [LEMMA]   -   -   -    (EVENT*             *      (2
+nw/ann/01/ann_0109   0    1    [WORD]                               PUNC            (NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0    2    [WORD]     NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               *           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0    3    [WORD]              DET+NOUN+CASE_DEF_GEN            (NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0    4    [WORD]                               CONJ               *           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0    5    [WORD]              DET+NOUN+CASE_DEF_GEN               *)          [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0    6    [WORD]                               PUNC               *))         [LEMMA]   -   -   -          *)            *       2)
+nw/ann/01/ann_0109   0    7    [WORD]                         DEM_PRON_F            (NP*))         [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0    8    [WORD]                 PV+PVSUFF_SUBJ:3MS            (VP*           [LEMMA]  01   -   -          *           (V*)      -
+nw/ann/01/ann_0109   0    9    [WORD]                               PREP            (PP*           [LEMMA]   -   -   -          *        (ARG2*       -
+nw/ann/01/ann_0109   0   10    [WORD]              DET+NOUN+CASE_DEF_GEN            (NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   11    [WORD]               DET+ADJ+CASE_DEF_GEN               *))         [LEMMA]   -   -   -      (NORP)            *)      -
+nw/ann/01/ann_0109   0   12    [WORD]                               PREP            (PP*           [LEMMA]   -   -   -          *    (ARGM-LOC*       -
+nw/ann/01/ann_0109   0   13    [WORD]                           PRON_3FS         (NP(NP*)))        [LEMMA]   -   -   -          *             *)     (2)
+nw/ann/01/ann_0109   0   14    [WORD]                NOUN+CASE_INDEF_NOM            (NP*           [LEMMA]   -   -   -          *        (ARG1*       -
+nw/ann/01/ann_0109   0   15    [WORD]                 ADJ+CASE_INDEF_NOM               *)          [LEMMA]   -   -   -          *             *)      -
+nw/ann/01/ann_0109   0   16    [WORD]                               PUNC               *           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   17    [WORD]   NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC         (NP(NP*)          [LEMMA]   -   -   -          *    (ARGM-ADV*       -
+nw/ann/01/ann_0109   0   18    [WORD]                               CONJ               *           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   19    [WORD]                NOUN+CASE_INDEF_ACC            (NP*)          [LEMMA]   -   1   -          *             *       -
+nw/ann/01/ann_0109   0   20    [WORD]                               CONJ               *           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   21    [WORD]   NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC            (NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   22    [WORD]    ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC               *)          [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   23    [WORD]                               CONJ               *           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   24    [WORD]   NOUN+NSUFF_FEM_PL+CASE_INDEF_ACC         (NP(NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   25    [WORD]    ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC               *)          [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   26    [WORD]                               PREP            (PP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   27    [WORD]     NOUN+NSUFF_FEM_SG+CASE_DEF_GEN            (NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   28    [WORD]                           DET+NOUN            (NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   29    [WORD]              DET+NOUN+CASE_DEF_GEN               *           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   30    [WORD]                          NOUN_PROP               *           [LEMMA]   -   -   -   (PERSON*             *       -
+nw/ann/01/ann_0109   0   31    [WORD]                          NOUN_PROP               *))))))     [LEMMA]   -   -   -          *)            *)      -
+nw/ann/01/ann_0109   0   32    [WORD]                               PUNC               *))         [LEMMA]   -   -   -          *             *       -
+
+nw/ann/01/ann_0109   0    0    [WORD]                                 CONJ       (TOP(S(S*                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0    1    [WORD]                   PV+PVSUFF_SUBJ:3MS            (VP*                      [LEMMA]  01   -   -          *       (V*)          *               *               *               *          -
+nw/ann/01/ann_0109   0    2    [WORD]                                 PREP            (PP*                      [LEMMA]   -   -   -          *    (ARG2*           *               *               *               *          -
+nw/ann/01/ann_0109   0    3    [WORD]                            NOUN_PROP            (NP*))                    [LEMMA]   -   -   -    (PERSON)        *)     (ARG0*)         (ARG0*)         (ARG0*)              *         (5)
+nw/ann/01/ann_0109   0    4    [WORD]     NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM         (NP(NP*)                     [LEMMA]   -   -   -          *    (ARG1*           *               *               *               *         (4
+nw/ann/01/ann_0109   0    5    [WORD]                                 PREP            (PP*                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0    6    [WORD]                            NOUN_PROP            (NP*                      [LEMMA]   -   -   -   (PERSON*         *           *               *               *               *        (23
+nw/ann/01/ann_0109   0    7    [WORD]                            NOUN_PROP               *)))))                 [LEMMA]   -   -   -          *)        *)          *               *               *               *      23)|4)
+nw/ann/01/ann_0109   0    8    [WORD]                   PV+PVSUFF_SUBJ:3MS          (S(VP*))                    [LEMMA]  07   1   -          *         *         (V*)              *               *               *          -
+nw/ann/01/ann_0109   0    9    [WORD]                                 CONJ               *                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   10    [WORD]                   PV+PVSUFF_SUBJ:3MS          (S(VP*                      [LEMMA]  03   2   -          *         *           *             (V*)              *               *          -
+nw/ann/01/ann_0109   0   11    [WORD]                        PVSUFF_DO:3FS            (NP*)                     [LEMMA]   -   -   -          *         *           *          (ARG1*)              *               *         (4)
+nw/ann/01/ann_0109   0   12    [WORD]                  NOUN+CASE_INDEF_ACC            (NP*)                     [LEMMA]   -   -   -          *         *           *      (ARGM-TMP*)              *               *          -
+nw/ann/01/ann_0109   0   13    [WORD]                                 PREP            (PP*                      [LEMMA]   -   -   -          *         *           *      (ARGM-TMP*               *               *          -
+nw/ann/01/ann_0109   0   14    [WORD]     NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN         (NP(NP*)                     [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   15    [WORD]                   PV+PVSUFF_SUBJ:3MS     (SBAR(S(VP*                      [LEMMA]  01   -   -          *         *           *               *             (V*)              *          -
+nw/ann/01/ann_0109   0   16    [WORD]                        PVSUFF_DO:3FS         (NP(NP*))                    [LEMMA]   -   -   -          *         *           *               *          (ARG1*)              *         (5)
+nw/ann/01/ann_0109   0   17    [WORD]                                 PREP            (PP*                      [LEMMA]   -   -   -          *         *           *               *      (ARGM-ADV*               *          -
+nw/ann/01/ann_0109   0   18    [WORD]     NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN         (NP(NP*)                     [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   19    [WORD]                                 PREP            (PP*                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   20    [WORD]                                 PUNC         (NP(NP*                      [LEMMA]   -   -   -      (ORG*         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   21    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN               *                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   22    [WORD]                DET+NOUN+CASE_DEF_GEN            (NP*                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   23    [WORD]                 DET+ADJ+CASE_DEF_GEN               *)                     [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   24    [WORD]                                 PUNC               *)                     [LEMMA]   -   -   -          *)        *           *               *               *               *          -
+nw/ann/01/ann_0109   0   25    [WORD]                                 PUNC               *                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   26    [WORD]                            NOUN_PROP            (NP*                      [LEMMA]   -   -   -      (GPE*         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   27    [WORD]                        DET+NOUN_PROP               *)                     [LEMMA]   -   -   -          *)        *           *               *               *               *          -
+nw/ann/01/ann_0109   0   28    [WORD]                                 PUNC               *                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   29    [WORD]                              REL_ADV   (SBAR(WHADVP*)                     [LEMMA]   -   -   -          *         *           *               *               *      (ARGM-LOC*)         -
+nw/ann/01/ann_0109   0   30    [WORD]                   PV+PVSUFF_SUBJ:3FS       (S(VP(VP*                      [LEMMA]  03   2   -          *         *           *               *               *             (V*)         -
+nw/ann/01/ann_0109   0   31    [WORD]   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM            (NP*                      [LEMMA]   -   -   -          *         *           *               *               *          (ARG0*          -
+nw/ann/01/ann_0109   0   32    [WORD]                            NOUN_PROP               *                      [LEMMA]   -   -   -   (PERSON*         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   33    [WORD]                            NOUN_PROP               *                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   34    [WORD]                            NOUN_PROP               *)                     [LEMMA]   -   -   -          *)        *           *               *               *               *)         -
+nw/ann/01/ann_0109   0   35    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_ACC            (NP*                      [LEMMA]   -   2   -          *         *           *               *               *          (ARG1*          -
+nw/ann/01/ann_0109   0   36    [WORD]                DET+NOUN+CASE_DEF_GEN            (NP*)))                   [LEMMA]   -   -   -          *         *           *               *               *               *)         -
+nw/ann/01/ann_0109   0   37    [WORD]                                 CONJ               *                      [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   38    [WORD]                DET+NOUN+CASE_DEF_NOM      (VP(NP(NP*)                     [LEMMA]   -   -   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   39    [WORD]                            NOUN_PROP            (NP*                      [LEMMA]   -   -   -   (PERSON*         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   40    [WORD]                            NOUN_PROP               *))                    [LEMMA]   -   -   -          *)        *           *               *               *               *          -
+nw/ann/01/ann_0109   0   41    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_ACC            (NP*                      [LEMMA]   -   2   -          *         *           *               *               *               *          -
+nw/ann/01/ann_0109   0   42    [WORD]                DET+NOUN+CASE_DEF_GEN            (NP*)))))))))))))))))     [LEMMA]   -   -   -          *         *           *               *)              *)              *          -
+nw/ann/01/ann_0109   0   43    [WORD]                                 PUNC               *))                    [LEMMA]   -   -   -          *         *           *               *               *               *          -
+
+nw/ann/01/ann_0109   0   0    [WORD]                             CONJ   (TOP(S*       [LEMMA]  -   -   -          *        -
+nw/ann/01/ann_0109   0   1    [WORD]                              ADV    (ADVP*)      [LEMMA]  -   -   -          *        -
+nw/ann/01/ann_0109   0   2    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM      (NP*       [LEMMA]  -   -   -          *       (4
+nw/ann/01/ann_0109   0   3    [WORD]                        NOUN_PROP      (NP*))     [LEMMA]  -   -   -    (PERSON)   (5)|4)
+nw/ann/01/ann_0109   0   4    [WORD]                             PUNC         *))     [LEMMA]  -   -   -          *        -
+
+nw/ann/01/ann_0109   0   0    [WORD]                         VOC_PART   (TOP(S(NP(PRT*)           [LEMMA]   -   -   -   *    (ARG0*       -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC                *            [LEMMA]   -   -   -   *         *     (23
+nw/ann/01/ann_0109   0   2    [WORD]            DET+NOUN+CASE_DEF_GEN             (NP*))          [LEMMA]   -   -   -   *         *)     23)
+nw/ann/01/ann_0109   0   3    [WORD]                               CV             (VP*            [LEMMA]  01   -   -   *       (V*)      -
+nw/ann/01/ann_0109   0   4    [WORD]                             PREP             (PP*            [LEMMA]   -   -   -   *    (ARG1*       -
+nw/ann/01/ann_0109   0   5    [WORD]                         ADJ_COMP        (NP(ADJP*            [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   6    [WORD]            DET+NOUN+CASE_DEF_GEN             (NP*)))))))     [LEMMA]   -   -   -   *         *)      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    PV+PVSUFF_SUBJ:3FS   (TOP(S(VP*          [LEMMA]  01   -   -   *           (V*)       -
+nw/ann/01/ann_0109   0   1    [WORD]                     NOUN+CASE_DEF_NOM      (NP(NP*          [LEMMA]   -   -   -   *        (ARG1*        -
+nw/ann/01/ann_0109   0   2    [WORD]                         POSS_PRON_3MS         (NP*))        [LEMMA]   -   -   -   *             *      (23)
+nw/ann/01/ann_0109   0   3    [WORD]                  DET+ADJ+CASE_DEF_NOM       (ADJP*))        [LEMMA]   -   -   -   *             *)       -
+nw/ann/01/ann_0109   0   4    [WORD]   NOUN.VN+NSUFF_FEM_SG+CASE_INDEF_ACC       (S(VP*)))))     [LEMMA]   -   -   -   *    (ARGM-ADV*)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]                   PV+PVSUFF_SUBJ:3FS   (TOP(S(VP*          [LEMMA]  01   2   -   *           (V*)          *        -
+nw/ann/01/ann_0109   0   1    [WORD]                        PVSUFF_DO:3MS         (NP*)         [LEMMA]   -   -   -   *        (ARG1*)          *      (23)
+nw/ann/01/ann_0109   0   2    [WORD]                    NOUN+CASE_DEF_NOM      (NP(NP*          [LEMMA]   -   -   -   *        (ARG0*      (ARG1*        -
+nw/ann/01/ann_0109   0   3    [WORD]                             DET+NOUN         (NP*))        [LEMMA]   -   -   -   *             *           *       (3
+nw/ann/01/ann_0109   0   4    [WORD]                 DET+ADJ+CASE_DEF_GEN       (ADJP*))        [LEMMA]   -   -   -   *             *)          *)       3)
+nw/ann/01/ann_0109   0   5    [WORD]   ADJ.VN+NSUFF_FEM_SG+CASE_INDEF_ACC       (S(VP*)))))     [LEMMA]  02   -   -   *    (ARGM-ADV*)        (V*)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]                                  CONJ   (TOP(S*          [LEMMA]   -   -   -   *             *           *        -
+nw/ann/01/ann_0109   0   1    [WORD]                    PV+PVSUFF_SUBJ:3FS      (VP*          [LEMMA]  01   -   -   *           (V*)          *        -
+nw/ann/01/ann_0109   0   2    [WORD]                         PVSUFF_DO:3MS      (NP*)         [LEMMA]   -   -   -   *        (ARG2*)          *      (23)
+nw/ann/01/ann_0109   0   3    [WORD]                     NOUN+CASE_DEF_ACC      (NP*          [LEMMA]   -   -   -   *        (ARG1*      (ARG1*        -
+nw/ann/01/ann_0109   0   4    [WORD]                 DET+NOUN+CASE_DEF_GEN      (NP*))        [LEMMA]   -   3   -   *             *)          *)       -
+nw/ann/01/ann_0109   0   5    [WORD]   NOUN.VN+NSUFF_FEM_SG+CASE_INDEF_ACC    (S(VP*)))))     [LEMMA]  01   -   -   *    (ARGM-MNR*)        (V*)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]                 CONJ   (TOP(S*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   1    [WORD]   PV+PVSUFF_SUBJ:3MS      (VP*           [LEMMA]  02   -   -          *           (V*)      -
+nw/ann/01/ann_0109   0   2    [WORD]                 PREP      (PP*           [LEMMA]   -   -   -          *    (ARGM-MNR*       -
+nw/ann/01/ann_0109   0   3    [WORD]        DET+NOUN_PROP      (NP*))         [LEMMA]   -   -   -    (PERSON)            *)      -
+nw/ann/01/ann_0109   0   4    [WORD]                 PREP      (PP*           [LEMMA]   -   -   -          *        (ARG1*       -
+nw/ann/01/ann_0109   0   5    [WORD]    NOUN+CASE_DEF_GEN      (NP*           [LEMMA]   -   -   -          *             *       -
+nw/ann/01/ann_0109   0   6    [WORD]        POSS_PRON_3FS      (NP*))))))     [LEMMA]   -   -   -          *             *)     (3)
+
+nw/ann/01/ann_0109   0   0    [WORD]                    NOUN_PROP   (TOP(FRAG(NP*          [LEMMA]   -   -   -   (PERSON*         *     (23
+nw/ann/01/ann_0109   0   1    [WORD]                    NOUN_PROP               *)         [LEMMA]   -   -   -          *)        *      23)
+nw/ann/01/ann_0109   0   2    [WORD]                         PREP    (SBARQ(WHPP*          [LEMMA]   -   -   -          *    (ARG2*       -
+nw/ann/01/ann_0109   0   3    [WORD]   INTERROG_PRON+CASE_DEF_GEN          (WHNP*          [LEMMA]   -   -   -          *         *       -
+nw/ann/01/ann_0109   0   4    [WORD]        DET+NOUN+CASE_DEF_GEN            (NP*)))       [LEMMA]   -   -   -          *         *)      -
+nw/ann/01/ann_0109   0   5    [WORD]           PV+PVSUFF_SUBJ:3FS          (S(VP*)))))     [LEMMA]  01   -   -          *       (V*)      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                                  CONJ   (TOP(S*          [LEMMA]   -   -   -   *             *        *        -
+nw/ann/01/ann_0109   0   1    [WORD]                    PV+PVSUFF_SUBJ:3MS      (VP*          [LEMMA]  01   -   -   *           (V*)       *        -
+nw/ann/01/ann_0109   0   2    [WORD]                     NOUN+CASE_DEF_NOM   (NP(NP*          [LEMMA]   -   -   -   *        (ARG1*        *        -
+nw/ann/01/ann_0109   0   3    [WORD]                         POSS_PRON_2MS      (NP*))        [LEMMA]   -   -   -   *             *        *      (23)
+nw/ann/01/ann_0109   0   4    [WORD]                  DET+ADJ+CASE_DEF_NOM    (ADJP*))        [LEMMA]   -   -   -   *             *)       *        -
+nw/ann/01/ann_0109   0   5    [WORD]   NOUN.VN+NSUFF_FEM_SG+CASE_INDEF_ACC    (S(VP*)))))     [LEMMA]  01   -   -   *    (ARGM-ADV*)     (V*)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]       PV+PVSUFF_SUBJ:1S   (TOP(S(VP*         [LEMMA]  02   -   -   *       (V*)          -
+nw/ann/01/ann_0109   0   1    [WORD]       NOUN+CASE_DEF_ACC         (NP*         [LEMMA]   -   -   -   *    (ARG1*          (6
+nw/ann/01/ann_0109   0   2    [WORD]           POSS_PRON_2MS         (NP*)))      [LEMMA]   -   -   -   *         *)     (23)|6)
+nw/ann/01/ann_0109   0   3    [WORD]                    PUNC            *)        [LEMMA]   -   -   -   *         *           -
+nw/ann/01/ann_0109   0   4    [WORD]       NOUN+CASE_DEF_NOM       (S(NP*         [LEMMA]   -   -   -   *         *           -
+nw/ann/01/ann_0109   0   5    [WORD]   DET+NOUN+CASE_DEF_GEN         (NP*))       [LEMMA]   -   -   -   *         *           -
+nw/ann/01/ann_0109   0   6    [WORD]                    PREP         (PP*         [LEMMA]   -   -   -   *         *           -
+nw/ann/01/ann_0109   0   7    [WORD]                PRON_3MS         (NP*))))     [LEMMA]   -   -   -   *         *          (6)
+
+nw/ann/01/ann_0109   0   0    [WORD]      PV+PVSUFF_SUBJ:1S   (TOP(S(VP*           [LEMMA]  02   -   -   *       (V*)      -
+nw/ann/01/ann_0109   0   1    [WORD]                   NOUN      (NP(NP*           [LEMMA]   -   -   -   *    (ARG1*      (6)
+nw/ann/01/ann_0109   0   2    [WORD]   DET+ADJ+CASE_DEF_ACC            *)          [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   3    [WORD]                   PREP         (PP*           [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   4    [WORD]    NOUN+CASE_INDEF_GEN         (NP*))))))     [LEMMA]   -   -   -   *         *)      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    CONJ    (TOP(FRAG*              [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   1    [WORD]                    NOUN       (NP(NP*              [LEMMA]   -   -   -   *         *      (24
+nw/ann/01/ann_0109   0   2    [WORD]                    NOUN          (NP*))            [LEMMA]   -   2   -   *         *       24)
+nw/ann/01/ann_0109   0   3    [WORD]      PV+PVSUFF_SUBJ:3MS   (SBAR(S(VP*              [LEMMA]  01   -   -   *       (V*)       -
+nw/ann/01/ann_0109   0   4    [WORD]   DET+NOUN+CASE_DEF_NOM          (NP*)             [LEMMA]   -   -   -   *    (ARG0*)       -
+nw/ann/01/ann_0109   0   5    [WORD]                    PREP          (PP*              [LEMMA]   -   -   -   *    (ARG1*        -
+nw/ann/01/ann_0109   0   6    [WORD]                PRON_3FS       (NP(NP*)))))))))     [LEMMA]   -   -   -   *         *)     (24)
+
+nw/ann/01/ann_0109   0   0    [WORD]                    CONJ   (TOP(S*          [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   1    [WORD]       NOUN+CASE_DEF_NOM   (NP(NP*          [LEMMA]   -   -   -   *         *       (9
+nw/ann/01/ann_0109   0   2    [WORD]           POSS_PRON_2MS      (NP*))        [LEMMA]   -   -   -   *         *      (23)
+nw/ann/01/ann_0109   0   3    [WORD]    DET+ADJ+NSUFF_FEM_SG    (ADJP*          [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   4    [WORD]   DET+NOUN+CASE_DEF_ACC         *))        [LEMMA]   -   -   -   *         *        9)
+nw/ann/01/ann_0109   0   5    [WORD]      PV+PVSUFF_SUBJ:3MS      (VP*          [LEMMA]  01   -   -   *       (V*)       -
+nw/ann/01/ann_0109   0   6    [WORD]           PVSUFF_DO:3FS   (NP(NP*)))))     [LEMMA]   -   -   -   *    (ARG1*)      (9)
+
+nw/ann/01/ann_0109   0   0    [WORD]        PV+PVSUFF_SUBJ:3FS    (TOP(S(VP*              [LEMMA]  02   -   -   *       (V*)          *        -
+nw/ann/01/ann_0109   0   1    [WORD]         NOUN+CASE_DEF_ACC       (NP(NP*              [LEMMA]   -   -   -   *    (ARG1*           *      (15
+nw/ann/01/ann_0109   0   2    [WORD]             POSS_PRON_2MS          (NP*))            [LEMMA]   -   -   -   *         *           *      (23)
+nw/ann/01/ann_0109   0   3    [WORD]   DET+ADJ.VN+CASE_DEF_ACC   (SBAR(S(VP*              [LEMMA]  01   -   -   *         *         (V*)       -
+nw/ann/01/ann_0109   0   4    [WORD]                      PREP          (PP*              [LEMMA]   -   -   -   *         *      (ARG2*        -
+nw/ann/01/ann_0109   0   5    [WORD]       NOUN+CASE_INDEF_GEN          (NP*)))))))))     [LEMMA]   -   -   -   *         *)          *)      15)
+
+nw/ann/01/ann_0109   0   0    [WORD]                     NOUN   (TOP(S(NP*         [LEMMA]   -   -   -   *    (ARG0*        -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN_PROP+CASE_DEF_GEN         (NP*))       [LEMMA]   -   -   -   *         *)       -
+nw/ann/01/ann_0109   0   2    [WORD]                VERB_PART     (VP(PRT*)        [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   3    [WORD]       PV+PVSUFF_SUBJ:3FS            *         [LEMMA]  01   -   -   *       (V*)       -
+nw/ann/01/ann_0109   0   4    [WORD]                     PREP         (PP*         [LEMMA]   -   -   -   *    (ARG2*        -
+nw/ann/01/ann_0109   0   5    [WORD]                 PRON_3MS         (NP*))       [LEMMA]   -   -   -   *         *)     (15)
+nw/ann/01/ann_0109   0   6    [WORD]      NOUN+CASE_INDEF_ACC         (NP*))))     [LEMMA]   -   -   -   *    (ARG1*)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]                          RC_PART   (TOP(S(PRT*)        [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   1    [WORD]                         PRON_2MS          (NP*)        [LEMMA]  -   -   -   *    (23)
+nw/ann/01/ann_0109   0   2    [WORD]                             PREP          (PP*         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   3    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_GEN          (NP*         [LEMMA]  -   -   -   *    (10
+nw/ann/01/ann_0109   0   4    [WORD]            DET+NOUN+CASE_DEF_GEN          (NP*)))      [LEMMA]  -   -   -   *     10)
+nw/ann/01/ann_0109   0   5    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM          (NP*         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   6    [WORD]                    POSS_PRON_3FS          (NP*))))     [LEMMA]  -   -   -   *    (10)
+
+nw/ann/01/ann_0109   0   0    [WORD]           IV3FS+IV+IVSUFF_MOOD:I   (TOP(S(VP*           [LEMMA]  01   -   -   *           (V*)          *        -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC         (NP*           [LEMMA]   -   -   -   *        (ARG1*           *      (18
+nw/ann/01/ann_0109   0   2    [WORD]            DET+NOUN+CASE_DEF_GEN         (NP*))         [LEMMA]   -   -   -   *             *)          *       18)
+nw/ann/01/ann_0109   0   3    [WORD]           IV3FS+IV+IVSUFF_MOOD:I       (S(VP*           [LEMMA]  01   -   -   *    (ARGM-ADV*         (V*)       -
+nw/ann/01/ann_0109   0   4    [WORD]                    IVSUFF_DO:3FS         (NP*))))))     [LEMMA]   -   -   -   *             *)     (ARG1*)     (18)
+
+nw/ann/01/ann_0109   0   0    [WORD]                 VOC_PART   (TOP(INTJ(PRT*)         [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN.VN+CASE_INDEF_ACC           (S(VP*          [LEMMA]  01   -   -   *           (V*)    -
+nw/ann/01/ann_0109   0   2    [WORD]        NOUN+CASE_DEF_ACC             (NP*          [LEMMA]   -   -   -   *        (ARG1*     -
+nw/ann/01/ann_0109   0   3    [WORD]    DET+NOUN+CASE_DEF_GEN             (NP*))        [LEMMA]   -   -   -   *             *)    -
+nw/ann/01/ann_0109   0   4    [WORD]                     NOUN             (NP*)))))     [LEMMA]   -   -   -   *    (ARGM-ADV*)    -
+
+nw/ann/01/ann_0109   0   0    [WORD]                NOUN+CASE_DEF_NOM   (TOP(NP(NP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]                NOUN+CASE_DEF_GEN          (NP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_GEN          (NP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]            DET+NOUN+CASE_DEF_GEN          (NP*))))     [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]                             PREP          (PP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   5    [WORD]              NOUN+CASE_INDEF_GEN          (NP*))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                        NOUN_PROP   (TOP(SBARQ(NP*)         [LEMMA]  -   -   -   *    (23)
+nw/ann/01/ann_0109   0   1    [WORD]                     INTERROG_ADV         (WHADVP*)         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   2    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM           (S(NP*          [LEMMA]  -   -   -   *     (7
+nw/ann/01/ann_0109   0   3    [WORD]            DET+NOUN+CASE_DEF_GEN             (NP*))        [LEMMA]  -   -   -   *      7)
+nw/ann/01/ann_0109   0   4    [WORD]                             PREP             (PP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   5    [WORD]              NOUN+CASE_INDEF_GEN             (NP*)))))     [LEMMA]  -   -   -   *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                               NOUN   (TOP(S(NP*           [LEMMA]   -   -   -   *         *           *       -
+nw/ann/01/ann_0109   0   1    [WORD]                 PV+PVSUFF_SUBJ:3MP       (S(VP*           [LEMMA]  01   -   -   *       (V*)          *       -
+nw/ann/01/ann_0109   0   2    [WORD]   NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC      (NP(NP*)          [LEMMA]   -   -   -   *    (ARG1*           *       -
+nw/ann/01/ann_0109   0   3    [WORD]                               PREP         (PP*           [LEMMA]   -   -   -   *         *           *       -
+nw/ann/01/ann_0109   0   4    [WORD]         DET+NOUN_PROP+CASE_DEF_GEN         (NP*))))))     [LEMMA]   -   -   -   *         *)          *       -
+nw/ann/01/ann_0109   0   5    [WORD]              IV1S+IV+IVSUFF_MOOD:I         (VP*           [LEMMA]  01   -   -   *         *         (V*)      -
+nw/ann/01/ann_0109   0   6    [WORD]                      IVSUFF_DO:3MP         (NP*))))       [LEMMA]   -   -   -   *         *      (ARG1*)     (7)
+
+nw/ann/01/ann_0109   0   0    [WORD]           DEM_PRON_F   (TOP(S(NP*)        [LEMMA]  -   -   -   *     -
+nw/ann/01/ann_0109   0   1    [WORD]    NOUN+CASE_DEF_NOM         (NP*         [LEMMA]  -   -   -   *     -
+nw/ann/01/ann_0109   0   2    [WORD]                 TYPO         (NP*))       [LEMMA]  -   -   -   *     -
+nw/ann/01/ann_0109   0   3    [WORD]             VOC_PART     (NP(PRT*)        [LEMMA]  -   -   -   *     -
+nw/ann/01/ann_0109   0   4    [WORD]                 NOUN            *         [LEMMA]  -   -   -   *   (23
+nw/ann/01/ann_0109   0   5    [WORD]             DET+NOUN         (NP*))       [LEMMA]  -   -   -   *    23)
+nw/ann/01/ann_0109   0   6    [WORD]   PV+PVSUFF_SUBJ:3FS       (S(VP*))))     [LEMMA]  -   -   -   *     -
+
+nw/ann/01/ann_0109   0   0    [WORD]                         CONJ    (TOP(S*        [LEMMA]   -   -   -       *         *        -
+nw/ann/01/ann_0109   0   1    [WORD]                         PREP       (PP*        [LEMMA]   -   -   -       *         *        -
+nw/ann/01/ann_0109   0   2    [WORD]   DET+NOUN_PROP+CASE_DEF_GEN       (NP*))      [LEMMA]   -   -   -    (GPE)        *      (19)
+nw/ann/01/ann_0109   0   3    [WORD]                         NOUN       (NP*        [LEMMA]   -   -   -       *    (ARG1*        -
+nw/ann/01/ann_0109   0   4    [WORD]        DET+NOUN+CASE_DEF_GEN       (NP*))      [LEMMA]   -   -   -       *         *)       -
+nw/ann/01/ann_0109   0   5    [WORD]                    VERB_PART   (VP(PRT*)       [LEMMA]   -   -   -       *         *        -
+nw/ann/01/ann_0109   0   6    [WORD]                      PV_PASS          *)))     [LEMMA]  01   -   -       *       (V*)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]               DIALECT   (TOP(S(NP*)        [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   1    [WORD]     NOUN+CASE_DEF_ACC         (NP*         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   2    [WORD]              DET+NOUN         (NP*))       [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   3    [WORD]              PRON_2MS         (NP*)        [LEMMA]  -   -   -   *    (23)
+nw/ann/01/ann_0109   0   4    [WORD]                  PREP         (PP*         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   5    [WORD]   NOUN+CASE_INDEF_GEN         (NP*))))     [LEMMA]  -   -   -   *    (19)
+
+nw/ann/01/ann_0109   0   0    [WORD]                                  ADV   (TOP(S(ADVP*)           [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   1    [WORD]   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM           (NP*)           [LEMMA]   -   -   -   *    (ARG0*)     (0)
+nw/ann/01/ann_0109   0   2    [WORD]               IV3FS+IV+IVSUFF_MOOD:I           (VP*            [LEMMA]  01   -   -   *       (V*)      -
+nw/ann/01/ann_0109   0   3    [WORD]                                 PREP           (PP*            [LEMMA]   -   -   -   *    (ARG1*       -
+nw/ann/01/ann_0109   0   4    [WORD]                    NOUN+CASE_DEF_GEN           (NP*            [LEMMA]   -   2   -   *         *       -
+nw/ann/01/ann_0109   0   5    [WORD]       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN           (NP*            [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   6    [WORD]                        POSS_PRON_3FS           (NP*)))))))     [LEMMA]   -   -   -   *         *)     (0)
+
+nw/ann/01/ann_0109   0   0    [WORD]   IV3MP+IV+IVSUFF_SUBJ:MP_MOOD:I   (TOP(S(VP*           [LEMMA]  01   -   -          *       (V*)      -
+nw/ann/01/ann_0109   0   1    [WORD]              NOUN+CASE_INDEF_ACC      (NP(NP*)          [LEMMA]   -   -   -          *    (ARG1*       -
+nw/ann/01/ann_0109   0   2    [WORD]                             PREP         (PP*           [LEMMA]   -   -   -          *         *       -
+nw/ann/01/ann_0109   0   3    [WORD]                        NOUN_PROP         (NP*           [LEMMA]   -   -   -   (PERSON*         *     (11
+nw/ann/01/ann_0109   0   4    [WORD]                        NOUN_PROP            *           [LEMMA]   -   -   -          *         *       -
+nw/ann/01/ann_0109   0   5    [WORD]                        NOUN_PROP            *))))))     [LEMMA]   -   -   -          *)        *)     11)
+
+nw/ann/01/ann_0109   0   0    [WORD]                     PREP   (TOP(S(PP*          [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   1    [WORD]            DET+NOUN_PROP         (NP*))        [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   2    [WORD]                     NOUN         (NP*          [LEMMA]   -   -   -   *         *      (1
+nw/ann/01/ann_0109   0   3    [WORD]    DET+NOUN+CASE_DEF_GEN         (NP*))        [LEMMA]   -   -   -   *         *       1)
+nw/ann/01/ann_0109   0   4    [WORD]   IV3MS+IV+IVSUFF_MOOD:I         (VP*          [LEMMA]  01   1   -   *       (V*)      -
+nw/ann/01/ann_0109   0   5    [WORD]            IVSUFF_DO:3FS      (NP(NP*)))))     [LEMMA]   -   -   -   *    (ARG1*)     (1)
+
+nw/ann/01/ann_0109   0   0    [WORD]                           VOC_PART   (TOP(S(NP(PRT*)           [LEMMA]   -   -   -   *    (ARG1*)       -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC                *)           [LEMMA]   -   -   -   *         *      (16)
+nw/ann/01/ann_0109   0   2    [WORD]                 PV+PVSUFF_SUBJ:3FS             (VP*            [LEMMA]  01   -   -   *       (V*)       -
+nw/ann/01/ann_0109   0   3    [WORD]                               PREP             (PP*            [LEMMA]   -   -   -   *    (ARG0*        -
+nw/ann/01/ann_0109   0   4    [WORD]                  NOUN+CASE_DEF_GEN             (NP*            [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   5    [WORD]     NOUN+NSUFF_FEM_SG+CASE_DEF_GEN             (NP*            [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   6    [WORD]                      POSS_PRON_3FS             (NP*)))))))     [LEMMA]   -   -   -   *         *)     (16)
+
+nw/ann/01/ann_0109   0   0    [WORD]               NOUN_PROP   (TOP(S(NP*)         [LEMMA]   -   -   -   *        (ARG1*)     (ARG1*)     (ARG0*)     (23)
+nw/ann/01/ann_0109   0   1    [WORD]                      CV         (VP*          [LEMMA]  04   -   -   *           (V*)          *           *        -
+nw/ann/01/ann_0109   0   2    [WORD]   ADJ.VN+CASE_INDEF_ACC       (S(VP*))        [LEMMA]  01   -   -   *    (ARGM-ADV*)        (V*)          *        -
+nw/ann/01/ann_0109   0   3    [WORD]                    PUNC            *          [LEMMA]   -   -   -   *             *           *           *        -
+nw/ann/01/ann_0109   0   4    [WORD]                    PREP       (S(PP*          [LEMMA]   -   -   -   *    (ARGM-ADV*           *      (ARG2*        -
+nw/ann/01/ann_0109   0   5    [WORD]   DET+NOUN+CASE_DEF_GEN         (NP*))        [LEMMA]   -   -   -   *             *           *           *)       -
+nw/ann/01/ann_0109   0   6    [WORD]   ADJ.VN+CASE_INDEF_ACC         (VP*)))))     [LEMMA]  01   -   -   *             *)          *         (V*)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    CONJ      (TOP(S*         [LEMMA]   -   -   -   *             *        -
+nw/ann/01/ann_0109   0   1    [WORD]                VOC_PART     (NP(PRT*)        [LEMMA]   -   -   -   *        (ARG0*        -
+nw/ann/01/ann_0109   0   2    [WORD]       NOUN+CASE_DEF_NOM            *)        [LEMMA]   -   -   -   *             *)     (13)
+nw/ann/01/ann_0109   0   3    [WORD]      CV+CVSUFF_SUBJ:2FS         (VP*         [LEMMA]  01   -   -   *           (V*)       -
+nw/ann/01/ann_0109   0   4    [WORD]                    PREP         (PP*         [LEMMA]   -   -   -   *    (ARGM-MNR*        -
+nw/ann/01/ann_0109   0   5    [WORD]   DET+NOUN+CASE_DEF_GEN         (NP*))       [LEMMA]   -   1   -   *             *)       -
+nw/ann/01/ann_0109   0   6    [WORD]       NOUN+CASE_DEF_ACC         (NP*         [LEMMA]   -   -   -   *        (ARG1*        -
+nw/ann/01/ann_0109   0   7    [WORD]           POSS_PRON_3MS         (NP*))))     [LEMMA]   -   -   -   *             *)       -
+nw/ann/01/ann_0109   0   8    [WORD]                NEG_PART   (FRAG(PRT*)))      [LEMMA]   -   -   -   *             *        -
+
+nw/ann/01/ann_0109   0   0    [WORD]                             CONJ       (TOP(S*            [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   1    [WORD]                             VERB          (VP*            [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   2    [WORD]                    PVSUFF_DO:2FS          (NP*)           [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   3    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC       (NP(NP*            [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   4    [WORD]         NOUN_PROP+CASE_INDEF_GEN          (NP*))          [LEMMA]  -   -   -    (GPE)   (17)
+nw/ann/01/ann_0109   0   5    [WORD]                         REL_PRON   (SBAR(WHNP*)           [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   6    [WORD]               PV+PVSUFF_SUBJ:3FS        (S(VP*)))))))     [LEMMA]  -   -   -       *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                             CONJ   (TOP(S*          [LEMMA]   -   -   -       *             *        -
+nw/ann/01/ann_0109   0   1    [WORD]                             PREP      (PP*          [LEMMA]   -   -   -       *             *        -
+nw/ann/01/ann_0109   0   2    [WORD]       DET+NOUN_PROP+CASE_DEF_GEN      (NP*))        [LEMMA]   -   -   -    (GPE)            *      (19)
+nw/ann/01/ann_0109   0   3    [WORD]               CV+CVSUFF_SUBJ:2FS      (VP*          [LEMMA]  01   -   -       *           (V*)       -
+nw/ann/01/ann_0109   0   4    [WORD]                             PREP      (PP*          [LEMMA]   -   -   -       *    (ARGM-GOL*        -
+nw/ann/01/ann_0109   0   5    [WORD]            DET+NOUN+CASE_DEF_GEN      (NP*))        [LEMMA]   -   -   -       *             *)     (12)
+nw/ann/01/ann_0109   0   6    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC      (NP*          [LEMMA]   -   -   -       *        (ARG1*        -
+nw/ann/01/ann_0109   0   7    [WORD]                    POSS_PRON_3MS      (NP*)))))     [LEMMA]   -   -   -       *             *)     (12)
+
+nw/ann/01/ann_0109   0   0    [WORD]                             CONJ   (TOP(S*          [LEMMA]   -   -   -          *         *        -
+nw/ann/01/ann_0109   0   1    [WORD]               CV+CVSUFF_SUBJ:2FS      (VP*          [LEMMA]  01   -   -          *       (V*)       -
+nw/ann/01/ann_0109   0   2    [WORD]                             PREP      (PP*          [LEMMA]   -   -   -          *    (ARG2*        -
+nw/ann/01/ann_0109   0   3    [WORD]                        NOUN_PROP      (NP*))        [LEMMA]   -   -   -    (PERSON)        *)     (23)
+nw/ann/01/ann_0109   0   4    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC      (NP*          [LEMMA]   -   -   -          *         *        -
+nw/ann/01/ann_0109   0   5    [WORD]            DET+NOUN+CASE_DEF_GEN      (NP*)))))     [LEMMA]   -   -   -          *         *        -
+
+nw/ann/01/ann_0109   0   0    [WORD]                   NOUN+CASE_DEF_NOM   (TOP(S(NP(NP*         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   1    [WORD]                       POSS_PRON_2FS            (NP*))       [LEMMA]  -   -   -   *    (13)
+nw/ann/01/ann_0109   0   2    [WORD]   DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM          (ADJP*         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   3    [WORD]                DET+ADJ+CASE_DEF_NOM               *))       [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   4    [WORD]                                PREP            (PP*         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   5    [WORD]               DET+NOUN+CASE_DEF_GEN            (NP*))))     [LEMMA]  -   -   -   *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                     PREP   (TOP(S(PP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   1    [WORD]                 PRON_3MS         (NP*))        [LEMMA]  -   -   -   *    (23)
+nw/ann/01/ann_0109   0   2    [WORD]                 DET+NOUN         (NP*)         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   3    [WORD]   IV3FS+IV+IVSUFF_MOOD:I         (VP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   4    [WORD]    DET+NOUN+CASE_DEF_ACC         (NP*)         [LEMMA]  -   -   -   *    (22)
+nw/ann/01/ann_0109   0   5    [WORD]                     PREP         (PP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   6    [WORD]    DET+NOUN+CASE_DEF_GEN         (NP*)))))     [LEMMA]  -   -   -   *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    CONJ   (TOP(S*            [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   1    [WORD]      PV+PVSUFF_SUBJ:2MS      (VP*            [LEMMA]  01   -   -   *       (V*)       -
+nw/ann/01/ann_0109   0   2    [WORD]           PVSUFF_DO:3MS      (NP*)           [LEMMA]   -   -   -   *    (ARG1*)     (22)
+nw/ann/01/ann_0109   0   3    [WORD]                    PREP      (PP*            [LEMMA]   -   -   -   *    (ARG2*        -
+nw/ann/01/ann_0109   0   4    [WORD]     NOUN+CASE_INDEF_GEN   (NP(NP*)           [LEMMA]   -   -   -   *         *      (25
+nw/ann/01/ann_0109   0   5    [WORD]                    PREP      (PP*            [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   6    [WORD]   DET+NOUN+CASE_DEF_GEN      (NP*)))))))     [LEMMA]   -   -   -   *         *)      25)
+
+nw/ann/01/ann_0109   0   0    [WORD]                     ADJ   (TOP(S(ADJP*)         [LEMMA]  01   -   -   *           (V*)       -
+nw/ann/01/ann_0109   0   1    [WORD]       NOUN+CASE_DEF_NOM           (NP*          [LEMMA]   -   -   -   *        (ARG1*        -
+nw/ann/01/ann_0109   0   2    [WORD]           POSS_PRON_3FS           (NP*))        [LEMMA]   -   -   -   *             *)     (25)
+nw/ann/01/ann_0109   0   3    [WORD]                    PREP           (PP*          [LEMMA]   -   -   -   *    (ARGM-LOC*        -
+nw/ann/01/ann_0109   0   4    [WORD]   DET+NOUN+CASE_DEF_GEN        (NP(NP*)         [LEMMA]   -   -   -   *             *        -
+nw/ann/01/ann_0109   0   5    [WORD]   DET+NOUN+CASE_DEF_GEN           (NP*)))))     [LEMMA]   -   -   -   *             *)       -
+
+nw/ann/01/ann_0109   0   0    [WORD]   NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC   (TOP(NP(NP(NP*)            [LEMMA]   -   -   -   *    (ARG1*        -
+nw/ann/01/ann_0109   0   1    [WORD]                               PREP             (PP*             [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   2    [WORD]                           PRON_2MS             (NP*)))          [LEMMA]   -   -   -   *         *)       -
+nw/ann/01/ann_0109   0   3    [WORD]                 PV+PVSUFF_SUBJ:3FS      (SBAR(S(VP*             [LEMMA]  01   -   -   *       (V*)       -
+nw/ann/01/ann_0109   0   4    [WORD]                               PREP             (PP*             [LEMMA]   -   -   -   *    (ARG2*        -
+nw/ann/01/ann_0109   0   5    [WORD]                               NOUN             (NP*             [LEMMA]   -   -   -   *         *        -
+nw/ann/01/ann_0109   0   6    [WORD]              DET+NOUN+CASE_DEF_GEN             (NP*))))))))     [LEMMA]   -   1   -   *         *)     (20)
+
+nw/ann/01/ann_0109   0   0    [WORD]                    PREP   (TOP(FRAG(PP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   1    [WORD]                PRON_3MS            (NP*))        [LEMMA]  -   -   -   *    (23)
+nw/ann/01/ann_0109   0   2    [WORD]       NOUN+CASE_DEF_NOM            (NP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   3    [WORD]           POSS_PRON_2MS            (NP*))        [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   4    [WORD]                    NOUN         (NP(NP*)         [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   5    [WORD]                    PREP            (PP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   6    [WORD]   DET+NOUN+CASE_DEF_GEN            (NP*)))))     [LEMMA]  -   -   -   *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                             CONJ   (TOP(S*          [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM      (NP*          [LEMMA]   -   -   -   *    (ARG1*       -
+nw/ann/01/ann_0109   0   2    [WORD]            DET+NOUN+CASE_DEF_GEN      (NP*))        [LEMMA]   -   -   -   *         *)      -
+nw/ann/01/ann_0109   0   3    [WORD]           IV3FS+IV+IVSUFF_MOOD:I      (VP*          [LEMMA]  01   4   -   *       (V*)      -
+nw/ann/01/ann_0109   0   4    [WORD]                     IVSUFF_DO:1S      (NP*)         [LEMMA]   -   -   -   *    (ARG3*)     (5)
+nw/ann/01/ann_0109   0   5    [WORD]                             PREP      (PP*          [LEMMA]   -   -   -   *    (ARG2*       -
+nw/ann/01/ann_0109   0   6    [WORD]                         DET+NOUN      (NP*)))))     [LEMMA]   -   -   -   *         *)      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                               CONJ   (TOP(FRAG*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]   NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM         (NP*)        [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]                               PREP         (PP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]                  NOUN+CASE_DEF_GEN         (NP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]              DET+NOUN+CASE_DEF_GEN         (NP*)))      [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   5    [WORD]                               PREP         (PP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   6    [WORD]              DET+NOUN+CASE_DEF_GEN         (NP*))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    PREP   (TOP(S(PP*         [LEMMA]  -   -   -        *   -
+nw/ann/01/ann_0109   0   1    [WORD]   DET+NOUN+CASE_DEF_GEN         (NP*))       [LEMMA]  -   -   -        *   -
+nw/ann/01/ann_0109   0   2    [WORD]                    NOUN      (NP(NP*         [LEMMA]  -   -   -        *   -
+nw/ann/01/ann_0109   0   3    [WORD]       NOUN+CASE_DEF_GEN         (NP*         [LEMMA]  -   -   -    (DATE)  -
+nw/ann/01/ann_0109   0   4    [WORD]           POSS_PRON_3MS         (NP*)))      [LEMMA]  -   -   -        *   -
+nw/ann/01/ann_0109   0   5    [WORD]    DET+ADJ+CASE_DEF_GEN       (ADJP*))))     [LEMMA]  -   -   -        *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]        NOUN+CASE_DEF_NOM   (TOP(FRAG(NP*           [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   1    [WORD]                 DET+NOUN            (NP*))         [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   2    [WORD]                     CONJ               *           [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   3    [WORD]   IV3FS+IV+IVSUFF_MOOD:I          (S(VP*           [LEMMA]  01   -   -   *           (V*)    -
+nw/ann/01/ann_0109   0   4    [WORD]                     PREP            (PP*           [LEMMA]   -   -   -   *    (ARGM-CAU*     -
+nw/ann/01/ann_0109   0   5    [WORD]    DET+NOUN+CASE_DEF_GEN            (NP*))))))     [LEMMA]   -   -   -   *             *)    -
+
+nw/ann/01/ann_0109   0   0    [WORD]                  NOUN+CASE_INDEF_ACC   (TOP(NP(NP*)        [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]                                 PREP          (PP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN          (NP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN             *         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]                             DET+NOUN             *))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    PREP   (TOP(FRAG(PP*          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]       NOUN+CASE_DEF_GEN            (NP*          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]   DET+NOUN+CASE_DEF_GEN            (NP*)))       [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]     NOUN+CASE_INDEF_ACC         (NP(NP*)         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]                    PREP            (PP*          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   5    [WORD]   DET+NOUN+CASE_DEF_GEN            (NP*)))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    NOUN   (TOP(S(NP*          [LEMMA]  -   -   -          *    -
+nw/ann/01/ann_0109   0   1    [WORD]   DET+NOUN+CASE_DEF_GEN      (NP(NP*)         [LEMMA]  -   -   -          *    -
+nw/ann/01/ann_0109   0   2    [WORD]               NOUN_PROP         (NP*)))       [LEMMA]  -   -   -    (PERSON)   -
+nw/ann/01/ann_0109   0   3    [WORD]                    PREP         (PP*          [LEMMA]  -   -   -          *    -
+nw/ann/01/ann_0109   0   4    [WORD]                    NOUN         (NP*          [LEMMA]  -   -   -          *   (8
+nw/ann/01/ann_0109   0   5    [WORD]   DET+NOUN+CASE_DEF_GEN         (NP*)))))     [LEMMA]  -   -   -          *    8)
+
+nw/ann/01/ann_0109   0   0    [WORD]   IV3FS+IV+IVSUFF_MOOD:I   (TOP(S(VP*            [LEMMA]  02   -   -   *       (V*)      -
+nw/ann/01/ann_0109   0   1    [WORD]        NOUN+CASE_DEF_ACC         (NP*            [LEMMA]   -   -   -   *    (ARG1*       -
+nw/ann/01/ann_0109   0   2    [WORD]            POSS_PRON_3FS         (NP*))          [LEMMA]   -   -   -   *         *)     (8)
+nw/ann/01/ann_0109   0   3    [WORD]      NOUN+CASE_INDEF_ACC    (S(NP(NP*)           [LEMMA]   -   -   -   *    (ARG2*       -
+nw/ann/01/ann_0109   0   4    [WORD]                     PREP         (PP*            [LEMMA]   -   -   -   *         *       -
+nw/ann/01/ann_0109   0   5    [WORD]    DET+NOUN+CASE_DEF_GEN         (NP*)))))))     [LEMMA]   -   -   -   *         *)      -
+
+nw/ann/01/ann_0109   0   0    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM   (TOP(S(NP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]            DET+NOUN+CASE_DEF_GEN         (NP*))       [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]                             PREP         (PP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]            DET+NOUN+CASE_DEF_GEN         (NP*         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]                             CONJ            *         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   5    [WORD]            DET+NOUN+CASE_DEF_GEN            *))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                  CONJ   (TOP(FRAG*           [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]                  PREP         (PP*           [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]   NOUN+CASE_INDEF_GEN         (NP*))         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]                  CONJ            *           [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]     NOUN+CASE_DEF_NOM       (S(NP*           [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   5    [WORD]   NOUN+CASE_INDEF_GEN         (NP*))         [LEMMA]  -   2   -   *   -
+nw/ann/01/ann_0109   0   6    [WORD]                  PREP         (PP*           [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   7    [WORD]     NOUN+CASE_DEF_GEN         (NP*           [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   8    [WORD]                  NOUN         (NP*))))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                               CONJ   (TOP(FRAG*             [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]                               PREP         (PP*             [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]   NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN      (NP(NP*)            [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]                               CONJ            *             [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]                NOUN+CASE_INDEF_GEN      (NP(NP*)            [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   5    [WORD]                               PREP         (PP*             [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   6    [WORD]            NOUN_QUANT+CASE_DEF_GEN         (NP*             [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   7    [WORD]                NOUN+CASE_INDEF_GEN         (NP*))))))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                NOUN+CASE_DEF_NOM   (TOP(FRAG(NP*           [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   1    [WORD]            DET+NOUN+CASE_DEF_GEN            (NP*))         [LEMMA]   -   -   -   *    (ARG0*)    -
+nw/ann/01/ann_0109   0   2    [WORD]                             CONJ               *           [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   3    [WORD]               PV+PVSUFF_SUBJ:3MP          (S(VP*           [LEMMA]  01   -   -   *       (V*)    -
+nw/ann/01/ann_0109   0   4    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC            (NP*           [LEMMA]   -   -   -   *    (ARG1*     -
+nw/ann/01/ann_0109   0   5    [WORD]            DET+NOUN+CASE_DEF_GEN            (NP*))))))     [LEMMA]   -   -   -   *         *)    -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    CONJ   (TOP(S*           [LEMMA]   -   -   -   *             *       -
+nw/ann/01/ann_0109   0   1    [WORD]      PV+PVSUFF_SUBJ:3MS      (VP*           [LEMMA]  01   -   -   *           (V*)      -
+nw/ann/01/ann_0109   0   2    [WORD]       NOUN+CASE_DEF_ACC      (NP*           [LEMMA]   -   -   -   *        (ARG1*       -
+nw/ann/01/ann_0109   0   3    [WORD]           POSS_PRON_3FS      (NP*))         [LEMMA]   -   -   -   *             *)      -
+nw/ann/01/ann_0109   0   4    [WORD]                    PREP      (PP*           [LEMMA]   -   -   -   *    (ARGM-LOC*       -
+nw/ann/01/ann_0109   0   5    [WORD]              DEM_PRON_F   (NP(NP*)          [LEMMA]   -   -   -   *             *     (20
+nw/ann/01/ann_0109   0   6    [WORD]   DET+NOUN+CASE_DEF_GEN      (NP*))))))     [LEMMA]   -   1   -   *             *)     20)
+
+nw/ann/01/ann_0109   0   0    [WORD]            NOUN+CASE_DEF_NOM   (TOP(S(S(NP(NP*          [LEMMA]  -   -   -       *        (21
+nw/ann/01/ann_0109   0   1    [WORD]   DET+NOUN_PROP+CASE_DEF_GEN              (NP*))        [LEMMA]  -   -   -    (GPE)   (19)|21)
+nw/ann/01/ann_0109   0   2    [WORD]                     PRON_3MP              (NP*))        [LEMMA]  -   -   -       *        (21)
+nw/ann/01/ann_0109   0   3    [WORD]                         NOUN              (NP*          [LEMMA]  -   -   -       *          -
+nw/ann/01/ann_0109   0   4    [WORD]                 POSS_PRON_1S              (NP*)))       [LEMMA]  -   -   -       *         (5)
+nw/ann/01/ann_0109   0   5    [WORD]                         CONJ                 *          [LEMMA]  -   -   -       *          -
+nw/ann/01/ann_0109   0   6    [WORD]                     PRON_3MP            (S(NP*)         [LEMMA]  -   -   -       *        (21)
+nw/ann/01/ann_0109   0   7    [WORD]                         NOUN              (NP*          [LEMMA]  -   -   -       *          -
+nw/ann/01/ann_0109   0   8    [WORD]                 POSS_PRON_1S              (NP*)))))     [LEMMA]  -   -   -       *         (5)
+
+nw/ann/01/ann_0109   0   0    [WORD]                       NOUN   (TOP(FRAG(NP*)         [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   1    [WORD]                       PREP            (PP*          [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   2    [WORD]   NOUN_PROP+CASE_INDEF_GEN            (NP*))        [LEMMA]  -   -   -    (GPE)   (17)
+nw/ann/01/ann_0109   0   3    [WORD]                       PREP         (PP(PP*          [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   4    [WORD]        NOUN+CASE_INDEF_GEN            (NP*))        [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   5    [WORD]                       CONJ               *          [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   6    [WORD]                       PREP            (PP*          [LEMMA]  -   -   -       *      -
+nw/ann/01/ann_0109   0   7    [WORD]          NOUN+CASE_DEF_GEN            (NP*)))))     [LEMMA]  -   -   -       *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                         PREP   (TOP(S(PP*          [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   1    [WORD]   DET+NOUN+NSUFF_MASC_PL_GEN         (NP*))        [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   2    [WORD]           PV+PVSUFF_SUBJ:3MP         (VP*          [LEMMA]  01   4   -   *           (V*)    -
+nw/ann/01/ann_0109   0   3    [WORD]                         PREP         (PP*          [LEMMA]   -   -   -   *    (ARGM-MNR*     -
+nw/ann/01/ann_0109   0   4    [WORD]          NOUN+CASE_INDEF_GEN         (NP*          [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   5    [WORD]           ADJ+CASE_INDEF_GEN            *)))))     [LEMMA]   -   -   -   *             *)    -
+
+nw/ann/01/ann_0109   0   0    [WORD]                         CONJ   (TOP(FRAG*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   1    [WORD]                         PREP         (PP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   2    [WORD]   DET+NOUN_PROP+CASE_DEF_GEN         (NP*))        [LEMMA]  -   -   -   *    (23)
+nw/ann/01/ann_0109   0   3    [WORD]                         PREP         (PP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   4    [WORD]            NOUN+CASE_DEF_GEN         (NP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   5    [WORD]        DET+NOUN+CASE_DEF_GEN         (NP*          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   6    [WORD]                         CONJ            *          [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   7    [WORD]        DET+NOUN+CASE_DEF_GEN            *)))))     [LEMMA]  -   -   -   *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]                             PREP   (TOP(FRAG(PP*           [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   1    [WORD]            DET+NOUN+CASE_DEF_GEN            (NP*))         [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   2    [WORD]                             CONJ               *           [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   3    [WORD]           IV3MS+IV+IVSUFF_MOOD:I          (S(VP*           [LEMMA]  01   -   -   *       (V*)    -
+nw/ann/01/ann_0109   0   4    [WORD]   NOUN+NSUFF_FEM_SG+CASE_DEF_ACC            (NP*           [LEMMA]   -   -   -   *    (ARG1*     -
+nw/ann/01/ann_0109   0   5    [WORD]            DET+NOUN+CASE_DEF_GEN            (NP*))))))     [LEMMA]   -   -   -   *         *)    -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    CONJ   (TOP(S*          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   1    [WORD]                 PRON_1P      (NP*)         [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   2    [WORD]   IV1P+IV+IVSUFF_MOOD:I      (VP*          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   3    [WORD]                    PREP      (PP*          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   4    [WORD]   DET+NOUN+CASE_DEF_GEN      (NP*          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   5    [WORD]                    CONJ         *          [LEMMA]  -   -   -   *   -
+nw/ann/01/ann_0109   0   6    [WORD]   DET+NOUN+CASE_DEF_GEN         *)))))     [LEMMA]  -   -   -   *   -
+
+nw/ann/01/ann_0109   0   0    [WORD]                 REL_ADV   (TOP(SBAR(WHADVP*)           [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   1    [WORD]      PV+PVSUFF_SUBJ:3MS              (S(VP*            [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   2    [WORD]            PVSUFF_DO:1P                (NP*)           [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   3    [WORD]   DET+NOUN+CASE_DEF_NOM                (NP*)           [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   4    [WORD]                    PREP                (PP*            [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   5    [WORD]       NOUN+CASE_DEF_GEN             (NP(NP*            [LEMMA]  -   -   -   *      -
+nw/ann/01/ann_0109   0   6    [WORD]           POSS_PRON_3MS                (NP*))          [LEMMA]  -   -   -   *    (23)
+nw/ann/01/ann_0109   0   7    [WORD]    DET+ADJ+CASE_DEF_GEN              (ADJP*)))))))     [LEMMA]  -   -   -   *      -
+
+nw/ann/01/ann_0109   0   0    [WORD]   IV3FS+IV+IVSUFF_MOOD:I   (TOP(S(S(VP*           [LEMMA]  01   -   -   *       (V*)    -
+nw/ann/01/ann_0109   0   1    [WORD]      NOUN+CASE_INDEF_ACC           (NP*)))        [LEMMA]   -   -   -   *    (ARG2*)    -
+nw/ann/01/ann_0109   0   2    [WORD]                     CONJ              *           [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   3    [WORD]              PSEUDO_VERB         (S(VP*           [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   4    [WORD]        NOUN+CASE_DEF_ACC           (NP*)          [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   5    [WORD]                     PREP           (PP*           [LEMMA]   -   -   -   *         *     -
+nw/ann/01/ann_0109   0   6    [WORD]        NOUN+CASE_DEF_GEN           (NP*))))))     [LEMMA]   -   -   -   *         *     -
+
+nw/ann/01/ann_0109   0   0    [WORD]                                 CONJ   (TOP(S*            [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   1    [WORD]                   PV+PVSUFF_SUBJ:3FS      (VP*            [LEMMA]  01   -   -   *           (V*)    -
+nw/ann/01/ann_0109   0   2    [WORD]                         PVSUFF_DO:1P      (NP*)           [LEMMA]   -   -   -   *        (ARG1*)    -
+nw/ann/01/ann_0109   0   3    [WORD]                                 PREP      (PP*            [LEMMA]   -   -   -   *    (ARGM-MNR*     -
+nw/ann/01/ann_0109   0   4    [WORD]                    NOUN+CASE_DEF_GEN      (NP*            [LEMMA]   -   -   -   *             *     -
+nw/ann/01/ann_0109   0   5    [WORD]   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN   (NP(NP*)           [LEMMA]   -   1   -   *             *     -
+nw/ann/01/ann_0109   0   6    [WORD]                DET+NOUN+CASE_DEF_GEN      (NP*)))))))     [LEMMA]   -   -   -   *             *)    -
+
+nw/ann/01/ann_0109   0   0    [WORD]                    CONJ   (TOP(S(S*         [LEMMA]   -   -   -   *      *     -
+nw/ann/01/ann_0109   0   1    [WORD]                    VERB        (VP*         [LEMMA]   -   -   -   *      *     -
+nw/ann/01/ann_0109   0   2    [WORD]           PVSUFF_DO:2FS        (NP*)        [LEMMA]   -   -   -   *      *     -
+nw/ann/01/ann_0109   0   3    [WORD]                    NOUN        (NP*         [LEMMA]   -   -   -   *      *     -
+nw/ann/01/ann_0109   0   4    [WORD]   DET+NOUN+CASE_DEF_GEN        (NP*))))     [LEMMA]   -   -   -   *      *     -
+nw/ann/01/ann_0109   0   5    [WORD]                    CONJ           *         [LEMMA]   -   -   -   *      *     -
+nw/ann/01/ann_0109   0   6    [WORD]      CV+CVSUFF_SUBJ:2FS      (S(VP*))       [LEMMA]  01   -   -   *    (V*)    -
+nw/ann/01/ann_0109   0   7    [WORD]                    PUNC           *))       [LEMMA]   -   -   -   *      *     -
+
+#end document

@@ -1,0 +1,22 @@
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 5 gold 报道-v 报道.01 ----- 5:0-rel 0:2-ARG0 3:1-ARGM-TMP 6:2-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 6 gold 有-v 有.05 ----- 6:0-rel 7:3-ARGM-ADV
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 9 gold 进行-v 进行.01 ----- 9:0-rel 10:1-ARG1 14:1-ARG0
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 18 gold 遭到-v 遭到.01 ----- 18:0-rel 19:6-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 24 gold 试图-v 试图.01 ----- 24:0-rel 19:2-ARG0 25:2-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 25 gold 平息-v 平息.02 ----- 25:0-rel 26:2-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 30 gold 发动-v 发动.01 ----- 30:0-rel 19:2-ARG0 32:1-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 0 38 gold 抗议-v 抗议.01 ----- 38:0-rel 7:2-ARG0 39:4-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 1 4 gold 说-v 说.01 ----- 4:0-rel 0:3-ARG0 6:3-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 1 12 gold 有-v 有.05 ----- 12:0-rel 6:1-ARGM-LOC 13:3-ARGM-ADV
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 1 17 gold 导致-v 导致.01 ----- 17:0-rel 13:2-ARG0 16:1-ARG0 18:2-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 1 18 gold 死亡-v 死亡.01 ----- 18:0-rel
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 2 21 gold 自焚-v 自焚.01 ----- 21:0-rel 22:1-ARG0
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 2 27 gold 看到-v 看到.01 ----- 27:0-rel 24:1-ARGM-TMP 25:1-ARG0 26:1-ARGM-DIS 29:2-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 2 33 gold 传-v 传.02 ----- 33:0-rel 29:1-ARG1 30:1-ARGM-DIR
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 2 34 gold 出来-v 出来.01 ----- 34:0-rel
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 3 4 gold 认为-v 认为.01 ----- 4:0-rel 0:1-ARGM-DIS 1:2-ARG0 6:2-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 3 9 gold 攻击-v 攻击.01 ----- 9:0-rel 7:2-ARG0 10:3-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 3 14 gold 有-v 有.05 ----- 14:0-rel 15:2-ARGM-ADV
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 3 16 gold 进行-v 进行.01 ----- 16:0-rel 15:1-ARG0 17:1-ARG1
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 3 24 gold 有-v 有.05 ----- 24:0-rel 6:1-ARGM-TMP 23:1-ARGM-ADV 25:3-ARGM-ADV
+bn/cbs/01/cbs_0149@0149@cbs@bn@ch@on 3 31 gold 死亡-v 死亡.01 ----- 31:0-rel 25:2-ARG1 28:1-ARGM-LOC

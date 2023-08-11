@@ -1,0 +1,17 @@
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 0 4 gold want-v want.01 ----- 4:0-rel 0:1-ARG1 5:1-ARG2
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 0 12 gold be-v be.01 ----- 12:0-rel 0:2-ARG1 13:1-ARG2
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 1 2 gold tell-v tell.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG2 4:3-ARG1
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 1 9 gold be-v be.03 ----- 9:0-rel
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 1 10 gold capture-v capture.01 ----- 10:0-rel 11:3-ARGM-LOC
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 2 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 2 4 gold have-v have.01 ----- 4:0-rel
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 2 5 gold try-v try.01 ----- 5:0-rel 3:1-ARG0 6:2-ARG1
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 2 7 gold flee-v flee.01 ----- 7:0-rel 8:1-ARG1
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 2 12 gold be-v be.03 ----- 12:0-rel
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 2 13 gold turn-v turn.01 ----- 13:0,14:1-rel 15:1-ARGM-LOC
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 3 10 gold take-v take.12 ----- 10:0,11:1-rel 0:1-ARGM-TMP 5:2-ARG0 12:2-ARG1
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 3 21 gold kill-v kill.01 ----- 21:0-rel 0:1-ARGM-TMP 5:2-ARG0 22:2-ARG1
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 3 25 gold bind-v bind.01 ----- 25:0-rel 23:0-ARG2 27:0-ARG1
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 4 1 gold be-v be.03 ----- 1:0-rel
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 4 2 gold convict-v convict.01 ----- 2:0-rel 3:1-ARGM-MNR 5:1-ARG0
+bn/cnn/02/cnn_0209@0209@cnn@bn@en@on 4 10 gold sentence-v sentence.01 ----- 10:0-rel 11:1-ARG2

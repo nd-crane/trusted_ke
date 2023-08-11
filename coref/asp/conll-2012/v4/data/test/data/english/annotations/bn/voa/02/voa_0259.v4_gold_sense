@@ -1,0 +1,61 @@
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 6 call-v 6
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 9 leader-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 11 stop-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 12 talk-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 14 war-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 17 make-v 15
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 18 peace-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 2 interview-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 9 say-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 11 know-v 2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 13 be-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 16 peace-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 19 return-n 4
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 21 land-n 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 22 capture-v ?,? 3
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 28 war-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 2 2 acknowledge-v ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 2 7 right-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 2 9 return-n 2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 2 interview-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 4 leader-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 7 say-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 13 make-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 15 progress-n ?,? 3
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 28 suspend-v 3
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 29 contact-n ?,? 3
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 38 election-n 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 4 3 have-v ?,? 2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 4 5 report-n ?,? 2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 4 decision-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 7 meet-v 2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 12 come-v 6
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 16 leader-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 19 speech-n ?,? 4
+bn/voa/02/voa_0259@0259@voa@bn@en@on 6 2 accuse-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 6 10 war-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 6 13 people-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 1 day-n 3
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 8 announce-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 14 talk-n ?,? 3
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 16 bring-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 24 agreement-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 8 6 reaffirm-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 8 8 commitment-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 8 10 peace-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 8 15 meet-v 2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 1 meeting-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 3 expect-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 14 security-n ?,? 3
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 16 tell-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 22 meeting-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 24 be-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 28 question-n 6
+bn/voa/02/voa_0259@0259@voa@bn@en@on 10 1 describe-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 10 4 speech-n ?,? 4
+bn/voa/02/voa_0259@0259@voa@bn@en@on 11 4 risk-v ?,? 2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 11 7 meeting-n ?,? 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 11 13 election-n 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 12 2 trail-v 1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 12 7 line-n 4
+bn/voa/02/voa_0259@0259@voa@bn@en@on 12 15 opinion-n ?,? 1

@@ -1,0 +1,119 @@
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 2 say-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 11 step-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 17 lot-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 19 analysis-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 21 take-v ?,? 14.1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 22 place-n ?,? 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 27 step-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 31 job-n ?,? 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 34 do-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 37 be-v ?,? 4
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 39 office-n 4
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 42 job-n ?,? 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 44 have-v 12
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 0 47 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 1 8 introduce-v ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 1 10 moment-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 1 17 environment-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 2 5 consider-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 2 17 be-v 5
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 2 20 lot-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 2 26 take-v ?,? 14.1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 2 27 place-n ?,? 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 2 32 step-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 3 3 suppose-v 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 3 4 take-v ?,? 14.1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 3 5 place-n ?,? 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 4 1 think-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 4 3 people-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 4 5 watch-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 4 7 administration-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 4 9 action-n 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 4 11 watch-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 4 15 action-n 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 5 2 be-v ?,? 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 5 5 take-v 5
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 5 7 job-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 5 11 place-n ?,? 6
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 5 15 leave-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 6 1 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 6 7 administration-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 6 11 show-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 1 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 7 communicate-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 9 administration-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 11 message-n 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 14 public-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 20 group-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 23 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 27 bring-v ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 35 policy-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 36 maker-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 38 message-n 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 41 administration-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 7 46 undercut-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 1 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 4 lead-v ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 10 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 16 sue-v ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 24 consider-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 27 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 35 end-v 4
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 37 become-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 46 course-n 13
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 49 be-v 5
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 51 lot-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 53 criticism-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 8 56 regulation-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 9 2 hear-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 9 5 have-v 12
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 9 7 say-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 9 15 announce-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 9 17 resignation-n 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 10 3 leave-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 10 6 clash-n ?,? 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 10 9 administration-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 10 12 fact-n ?,? 5
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 10 17 have-v 4
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 11 1 report-v 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 11 10 ask-v ?,? 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 11 13 give-v 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 12 3 be-v ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 12 7 page-n ?,? 9
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 1 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 5 protocol-n ?,? 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 10 do-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 13 need-v ?,? 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 15 get-v 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 16 do-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 21 change-n ?,? 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 13 22 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 14 2 leave-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 14 6 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 14 9 time-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 14 11 do-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 15 4 agree-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 16 1 say-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 16 4 time-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 17 2 suppose-v 2
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 17 5 reason-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 17 9 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 17 12 step-n ?,? 5
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 17 15 administration-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 18 1 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 18 5 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 18 13 think-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 18 16 marriage-n 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 18 20 be-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 18 28 see-v 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 18 31 undermine-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 1 mean-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 9 be-v ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 13 page-n ?,? 9
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 18 think-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 20 have-v 12
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 21 see-v 3
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 23 book-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 27 contain-v 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 19 29 page-n ?,? 1
+bn/cnn/03/cnn_0359@0359@cnn@bn@en@on 20 4 be-v 5

@@ -1,0 +1,139 @@
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 5 1 have-v 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 5 8 sympathy-n ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 5 13 read-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 7 8 approach-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 7 11 borrow-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 7 18 meet-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 8 2 say-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 8 8 want-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 8 10 go-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 9 3 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 9 8 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 9 13 make-v 3
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 10 1 add-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 10 6 use-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 10 13 return-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 11 2 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 11 14 live-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 11 23 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 12 9 lend-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 12 15 think-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 12 20 use-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 13 3 happen-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 14 5 call-v 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 14 10 take-v 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 14 21 be-v ?,? 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 15 3 agree-v 3
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 15 5 ask-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 15 9 rush-v ?,? 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 16 2 last-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 16 9 tell-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 16 19 be-v ?,? 5
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 16 26 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 16 34 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 17 5 ask-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 17 9 rush-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 18 2 show-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 18 12 indicate-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 18 14 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 18 19 fault-n 5
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 19 1 clash-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 19 5 go-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 19 9 make-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 19 12 turn-n 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 21 1 force-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 21 15 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 21 22 ask-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 21 26 send-v ?,? 3
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 22 4 begin-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 23 6 call-v 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 23 12 need-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 23 20 ask-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 23 25 come-v 5
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 24 1 tell-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 24 6 cover-v ?,? 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 25 5 call-v 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 25 12 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 25 16 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 25 21 afford-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 26 1 try-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 26 9 tell-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 27 6 voice-n 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 27 10 come-v 5
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 27 24 save-v ?,? 3
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 27 40 live-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 27 44 spend-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 28 2 say-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 28 5 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 28 11 have-v ?,? 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 28 17 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 28 21 blame-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 29 1 add-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 29 5 pay-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 29 11 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 30 1 hang-v 8
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 30 11 go-v ?,? 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 31 16 lose-v 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 32 1 ask-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 32 4 take-v ?,? 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 32 10 let-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 32 12 calm-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 33 4 take-v 7
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 33 10 feel-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 34 13 change-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 35 2 ring-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 35 6 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 35 9 go-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 36 1 think-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 36 3 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 36 11 end-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 37 2 come-v 5
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 37 10 be-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 37 15 voice-n 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 38 1 say-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 38 9 have-v 4
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 38 43 sue-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 38 47 compensate-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 38 68 see-v ?,? 6
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 39 1 add-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 39 4 be-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 39 23 double-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 40 10 scare-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 41 2 take-v ?,? 5
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 42 5 retain-v ?,? 3
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 43 7 solve-v ?,? 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 43 12 make-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 44 1 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 44 7 ask-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 45 1 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 45 7 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 46 5 find-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 46 18 report-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 47 2 find-v ?,? 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 47 4 put-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 48 3 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 49 3 drop-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 50 6 stop-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 50 10 come-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 51 4 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 51 9 dream-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 51 20 have-v ?,? 5
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 53 1 come-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 53 9 go-v ?,? 7
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 53 11 lend-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 53 19 ask-v ?,? 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 54 1 think-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 54 5 say-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 55 2 suggest-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 55 5 lend-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 56 4 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 57 2 have-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 58 16 speak-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 58 17 ask-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 58 29 answer-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 59 3 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 59 7 do-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 60 1 lend-v 2
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 60 14 believe-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 60 16 be-v 1
+wb/c2e/00/c2e_0029@0029@c2e@wb@en@on 61 4 be-v ?,? 1

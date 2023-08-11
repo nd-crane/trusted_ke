@@ -1,0 +1,13 @@
+bn/pri/00/pri_0059@0059@pri@bn@en@on 0 0 gold clash-n clash.01 ----- 0:0-rel
+bn/pri/00/pri_0059@0059@pri@bn@en@on 0 1 gold continue-v continue.01 ----- 1:0-rel 0:1-ARG1 2:1-ARGM-TMP 3:1-ARGM-LOC
+bn/pri/00/pri_0059@0059@pri@bn@en@on 1 2 gold fire-v fire.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-DIR 7:2-ARGM-PRD
+bn/pri/00/pri_0059@0059@pri@bn@en@on 1 7 gold kill-v kill.01 ----- 7:0-rel 8:1-ARG1
+bn/pri/00/pri_0059@0059@pri@bn@en@on 2 4 gold guard-v guard.01 ----- 4:0-rel 0:2-ARGM-TMP 2:1-ARG0 5:1-ARG1
+bn/pri/00/pri_0059@0059@pri@bn@en@on 2 8 gold shoot-v shoot.02 ----- 8:0-rel 0:2-ARGM-TMP 2:2-ARG0 11:2-ARG1
+bn/pri/00/pri_0059@0059@pri@bn@en@on 2 10 gold kill-v kill.01 ----- 10:0-rel 0:2-ARGM-TMP 2:2-ARG0 11:2-ARG1
+bn/pri/00/pri_0059@0059@pri@bn@en@on 2 15 gold be-v be.03 ----- 15:0-rel
+bn/pri/00/pri_0059@0059@pri@bn@en@on 2 17 gold identify-v identify.01 ----- 17:0-rel 16:1-ARGM-TMP 18:1-ARG2 11:1-LINK-SLC
+bn/pri/00/pri_0059@0059@pri@bn@en@on 3 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+bn/pri/00/pri_0059@0059@pri@bn@en@on 3 6 gold have-v have.01 ----- 6:0-rel
+bn/pri/00/pri_0059@0059@pri@bn@en@on 3 7 gold be-v be.03 ----- 7:0-rel
+bn/pri/00/pri_0059@0059@pri@bn@en@on 3 8 gold approach-v approach.01 ----- 8:0-rel 4:1-ARG1 9:1-ARG2 12:1-ARGM-MNR

@@ -1,0 +1,25 @@
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 0 8 gold bear-v bear.01 ----- 8:0-rel 9:2-ARG1 3:1-LINK-SLC
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 0 13 gold war-n war.01 ----- 13:0-rel
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 1 10 gold be-v be.01 ----- 10:0-rel 11:1-ARG2 5:1-LINK-SLC
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 2 6 gold check-n check.01 ----- 6:0-rel 7:1-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 3 4 gold be-v be.03 ----- 4:0-rel
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 3 5 gold hang-v hang.01 ----- 5:0-rel 0:2-ARG1 6:1-ARG2 17:1-ARGM-TMP
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 3 15 gold reject-v reject.01 ----- 15:0-rel 14:0-ARGM-MNR 16:0-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 4 3 gold do-v do.01 ----- 3:0-rel
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 4 5 gold approve-v approve.01 ----- 5:0-rel 1:1-ARG0 4:0-ARGM-NEG 6:1-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 4 10 gold say-v say.01 ----- 10:0-rel 0:1-ARGM-ADV 9:1-ARG0 11:3-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 4 13 gold file-v file.01 ----- 13:0-rel 11:1-ARG0 12:0-ARGM-MOD 14:1-ARG4
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 5 4 gold approve-v approve.01 ----- 4:0-rel 0:1-ARGM-TMP 1:1-ARG0 5:2-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 6 1 gold warn-v warn.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 6 4 gold seek-v seek.01 ----- 4:0-rel 2:1-ARG0 3:0-ARGM-MOD 5:1-ARG1 7:1-ARGM-ADV
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 6 9 gold do-v do.01 ----- 9:0-rel
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 6 10 gold file-v file.01 ----- 10:0-rel 8:1-ARG0 11:1-ARG4
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 7 3 gold be-v be.03 ----- 3:0-rel
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 7 4 gold plan-v plan.01 ----- 4:0-rel 0:2-ARG0 5:2-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 7 6 gold cut-v cut.02 ----- 6:0-rel 7:1-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 8 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 8 4 gold eliminate-v eliminate.01 ----- 4:0-rel 2:1-ARG0 3:0-ARGM-MOD 5:2-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 9 0 gold let-v let.01 ----- 0:0-rel 1:2-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 9 2 gold look-v look.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 10 3 gold be-v be.01 ----- 3:0-rel 0:2-ARG1 4:1-ARG2
+bn/cnn/02/cnn_0289@0289@cnn@bn@en@on 14 3 gold continue-v continue.01 ----- 3:0-rel 0:2-ARG1 4:1-ARGM-TMP

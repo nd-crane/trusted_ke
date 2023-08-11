@@ -1,0 +1,6 @@
+bn/voa/02/voa_0249@0249@voa@bn@en@on 0 0 gold report-n report.01 ----- 0:0-rel 1:1-ARGM-LOC
+bn/voa/02/voa_0249@0249@voa@bn@en@on 0 3 gold say-v say.01 ----- 3:0-rel 0:2-ARG0 4:5-ARG1
+bn/voa/02/voa_0249@0249@voa@bn@en@on 0 10 gold be-v be.03 ----- 10:0-rel
+bn/voa/02/voa_0249@0249@voa@bn@en@on 0 11 gold plan-v plan.01 ----- 11:0-rel 4:3-ARG0 12:2-ARG1
+bn/voa/02/voa_0249@0249@voa@bn@en@on 0 13 gold announce-v announce.01 ----- 13:0-rel 14:2-ARG1
+bn/voa/02/voa_0249@0249@voa@bn@en@on 1 2 gold visit-v visit.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1 11:1-ARGM-TMP

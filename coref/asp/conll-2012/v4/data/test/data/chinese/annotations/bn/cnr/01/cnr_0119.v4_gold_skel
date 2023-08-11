@@ -1,0 +1,129 @@
+#begin document (bn/cnr/01/cnr_0119); part 000
+bn/cnr/01/cnr_0119   0    0    [WORD]   NR   (TOP(IP(IP(NP(NP*)        -    -   -   -        (GPE)   (ARGM-TPC*           *               *               *      (2)
+bn/cnr/01/cnr_0119   0    1    [WORD]   NN                (NP*))       -    -   -   -           *             *)          *               *               *       -
+bn/cnr/01/cnr_0119   0    2    [WORD]   PU                   *         -    -   -   -           *             *           *               *               *       -
+bn/cnr/01/cnr_0119   0    3    [WORD]   NR                (NP*         -    -   -   -        (GPE)       (ARG0*           *               *               *      (2
+bn/cnr/01/cnr_0119   0    4    [WORD]   NR                   *)        -    -   -   -        (GPE)            *)          *               *               *       2)
+bn/cnr/01/cnr_0119   0    5    [WORD]   VV                (VP*         -   01   -   -           *           (V*)          *               *               *       -
+bn/cnr/01/cnr_0119   0    6    [WORD]   VV          (NP(IP(VP*         -   01   -   -           *        (ARG1*         (V*)              *               *       -
+bn/cnr/01/cnr_0119   0    7    [WORD]   NN                (NP*         -    -   -   -           *             *      (ARG1*               *               *       -
+bn/cnr/01/cnr_0119   0    8    [WORD]   NN                   *         -    -   -   -           *             *           *               *               *       -
+bn/cnr/01/cnr_0119   0    9    [WORD]   NN                   *)))      -    -   -   -           *             *           *)              *               *       -
+bn/cnr/01/cnr_0119   0   10    [WORD]   NN                (NP*))))     -    -   -   -           *             *)          *               *               *       -
+bn/cnr/01/cnr_0119   0   11    [WORD]   PU                   *         -    -   -   -           *             *           *               *               *       -
+bn/cnr/01/cnr_0119   0   12    [WORD]   NT             (IP(NP*)        -    -   -   -           *             *           *      (ARGM-TMP*)              *      (1)
+bn/cnr/01/cnr_0119   0   13    [WORD]   NN             (NP(NP*)        -    -   -   -           *             *           *          (ARG1*               *      (0
+bn/cnr/01/cnr_0119   0   14    [WORD]   JJ              (ADJP*)        -    -   -   -           *             *           *               *               *       -
+bn/cnr/01/cnr_0119   0   15    [WORD]   NN                (NP*))       -    -   -   -           *             *           *               *)              *       0)
+bn/cnr/01/cnr_0119   0   16    [WORD]   VV                (VP*         -   01   -   -           *             *           *             (V*)              *       -
+bn/cnr/01/cnr_0119   0   17    [WORD]   CD          (IP(VP(QP*)        -    -   -   -    (PERCENT)            *           *          (ARG1*      (ARGM-ADV*)      -
+bn/cnr/01/cnr_0119   0   18    [WORD]   AD              (ADVP*)        -    -   -   -           *             *           *               *      (ARGM-ADV*)      -
+bn/cnr/01/cnr_0119   0   19    [WORD]   VV                (VP*)))))    -   01   -   -           *             *           *               *)            (V*)      -
+bn/cnr/01/cnr_0119   0   20    [WORD]   PU                   *))       -    -   -   -           *             *           *               *               *       -
+
+bn/cnr/01/cnr_0119   0    0    [WORD]   JJ   (TOP(IP(NP(NP(ADJP*)       -    -   -   -            *    (ARGM-LOC*      (ARGM-LOC*     (2
+bn/cnr/01/cnr_0119   0    1    [WORD]   NN                  (NP*        -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0    2    [WORD]   NN                     *))      -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0    3    [WORD]   NR                  (NP*))      -    -   -   -         (GPE)            *)              *)     2)
+bn/cnr/01/cnr_0119   0    4    [WORD]   JJ       (NP(NP(NP(ADJP*)       -    -   -   -            *        (ARG0*          (ARG0*      -
+bn/cnr/01/cnr_0119   0    5    [WORD]   NN                  (NP*))      -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0    6    [WORD]   CC                     *        -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0    7    [WORD]   JJ             (NP(ADJP*)       -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0    8    [WORD]   NN                  (NP*)))     -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0    9    [WORD]   NN                  (NP*))      -    -   -   -            *             *)              *)     -
+bn/cnr/01/cnr_0119   0   10    [WORD]   VV               (VP(VP*        -   01   -   -            *           (V*)              *      -
+bn/cnr/01/cnr_0119   0   11    [WORD]   CD                  (QP*))      -    -   -   -            *        (ARG1*)              *      -
+bn/cnr/01/cnr_0119   0   12    [WORD]   PU                     *        -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0   13    [WORD]   VV                  (VP*        -   01   -   -            *             *             (V*)     -
+bn/cnr/01/cnr_0119   0   14    [WORD]   DT            (NP(NP(DP*)       -    -   2   -            *             *          (ARG1*      -
+bn/cnr/01/cnr_0119   0   15    [WORD]   NN                  (NP*))      -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0   16    [WORD]   JJ                (ADJP*)       -    -   -   -            *             *               *      -
+bn/cnr/01/cnr_0119   0   17    [WORD]   NN                  (NP*))      -    -   -   -            *             *               *)     -
+bn/cnr/01/cnr_0119   0   18    [WORD]   CD                  (QP*        -    -   -   -    (CARDINAL)            *      (ARGM-EXT*      -
+bn/cnr/01/cnr_0119   0   19    [WORD]   CC                     *        -    -   7   -            *             *               *      -
+bn/cnr/01/cnr_0119   0   20    [WORD]   CD                     *        -    -   -   -    (CARDINAL)            *               *      -
+bn/cnr/01/cnr_0119   0   21    [WORD]    M                 (CLP*))))    -    -   -   -            *             *               *)     -
+bn/cnr/01/cnr_0119   0   22    [WORD]   PU                     *))      -    -   -   -            *             *               *      -
+
+bn/cnr/01/cnr_0119   0    0    [WORD]     P   (TOP(IP(IP(PP*         -    -    -   -       *    (ARGM-PRP*        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0    1    [WORD]    DT          (NP(DP*         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0    2    [WORD]     M            (CLP*))       -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0    3    [WORD]    NN             (NP*)))      -    -    -   -       *             *)       *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0    4    [WORD]    PU                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0    5    [WORD]    NR             (NP*)        -    -    -   -    (GPE)       (ARG0*)       *           *               *               *        *      (2)
+bn/cnr/01/cnr_0119   0    6    [WORD]     P          (VP(PP*         -    -    3   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0    7    [WORD]    NN          (NP(NP*         -    -    -   -       *             *        *           *               *               *        *      (0
+bn/cnr/01/cnr_0119   0    8    [WORD]    NN                *)        -    -    -   -       *             *        *           *               *               *        *       0)
+bn/cnr/01/cnr_0119   0    9    [WORD]    NN             (NP*         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   10    [WORD]    CC                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   11    [WORD]    NN                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   12    [WORD]    NN                *)))      -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   13    [WORD]    VV             (VP*         -   01   11   -       *           (V*)       *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   14    [WORD]    AS                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   15    [WORD]    JJ        (NP(ADJP*)        -    -    -   -       *        (ARG1*        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   16    [WORD]    NN             (NP*)))))    -    -    -   -       *             *)       *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   17    [WORD]    PU                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   18    [WORD]     P       (IP(VP(PP*         -    -    -   -       *             *        *      (ARG1*               *               *        *       -
+bn/cnr/01/cnr_0119   0   19    [WORD]    NT      (NP(DNP(NP*)        -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   20    [WORD]   DEG                *)        -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   21    [WORD]    VV            (FLR*)        -   01    -   -       *             *      (V*)          *               *               *        *       -
+bn/cnr/01/cnr_0119   0   22    [WORD]    JJ        (NP(ADJP*)        -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   23    [WORD]    NN             (NP*))))     -    -    -   -       *             *        *           *)              *               *        *       -
+bn/cnr/01/cnr_0119   0   24    [WORD]    VV             (VP*         -   01    -   -       *             *        *         (V*)              *               *        *       -
+bn/cnr/01/cnr_0119   0   25    [WORD]    JJ        (NP(ADJP*)        -    -    -   -       *             *        *      (ARG2*               *               *        *       -
+bn/cnr/01/cnr_0119   0   26    [WORD]    NN             (NP*)))))    -    -    -   -       *             *        *           *)              *               *        *       -
+bn/cnr/01/cnr_0119   0   27    [WORD]    PU                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   28    [WORD]    NN          (IP(NP*         -    -    -   -       *             *        *           *               *               *        *      (0
+bn/cnr/01/cnr_0119   0   29    [WORD]    NN                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   30    [WORD]    NN                *)        -    -    -   -       *             *        *           *               *               *        *       0)
+bn/cnr/01/cnr_0119   0   31    [WORD]    AD     (VP(VP(ADVP*)        -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   32    [WORD]    VV             (VP*))       -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   33    [WORD]    PU                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   34    [WORD]     P          (VP(PP*         -    -    -   -       *             *        *           *          (ARG0*               *        *       -
+bn/cnr/01/cnr_0119   0   35    [WORD]    NN             (NP*))       -    -    -   -       *             *        *           *               *)              *        *       -
+bn/cnr/01/cnr_0119   0   36    [WORD]    AD           (ADVP*)        -    -    -   -       *             *        *           *      (ARGM-ADV*)              *        *       -
+bn/cnr/01/cnr_0119   0   37    [WORD]    VV             (VP*))))     -   01    -   -       *             *        *           *             (V*)              *        *       -
+bn/cnr/01/cnr_0119   0   38    [WORD]    PU                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   39    [WORD]    AD     (IP(VP(ADVP*)        -    -    -   -       *             *        *           *               *      (ARGM-ADV*)       *       -
+bn/cnr/01/cnr_0119   0   40    [WORD]    VV             (VP*         -   01    -   -       *             *        *           *               *             (V*)       *       -
+bn/cnr/01/cnr_0119   0   41    [WORD]    NN    (NP(CP(IP(NP*         -    -    -   -       *             *        *           *               *          (ARG1*        *       -
+bn/cnr/01/cnr_0119   0   42    [WORD]    NN                *         -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   43    [WORD]    NN                *)        -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   44    [WORD]    VV             (VP*         -   01    2   -       *             *        *           *               *               *      (V*)      -
+bn/cnr/01/cnr_0119   0   45    [WORD]    NN             (NP*)))      -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   46    [WORD]   DEC                *)        -    -    -   -       *             *        *           *               *               *        *       -
+bn/cnr/01/cnr_0119   0   47    [WORD]    NN             (NP*)))))    -    -    -   -       *             *        *           *               *               *)       *       -
+bn/cnr/01/cnr_0119   0   48    [WORD]    PU                *))       -    -    -   -       *             *        *           *               *               *        *       -
+
+bn/cnr/01/cnr_0119   0    0    [WORD]    P   (TOP(IP(PP*        -   -   5   -         *     -
+bn/cnr/01/cnr_0119   0    1    [WORD]   NT      (LCP(NP*)       -   -   -   -     (DATE)   (1)
+bn/cnr/01/cnr_0119   0    2    [WORD]   LC             *))      -   -   -   -         *     -
+bn/cnr/01/cnr_0119   0    3    [WORD]   PU             *        -   -   -   -         *     -
+bn/cnr/01/cnr_0119   0    4    [WORD]   DT       (NP(DP*)       -   -   2   -         *    (2
+bn/cnr/01/cnr_0119   0    5    [WORD]   NN          (NP*))      -   -   -   -         *     2)
+bn/cnr/01/cnr_0119   0    6    [WORD]   AD     (VP(ADVP*)       -   -   2   -         *     -
+bn/cnr/01/cnr_0119   0    7    [WORD]   VV          (VP*        -   -   -   -         *     -
+bn/cnr/01/cnr_0119   0    8    [WORD]   NN       (NP(NP*)       -   -   -   -         *    (0
+bn/cnr/01/cnr_0119   0    9    [WORD]   JJ        (ADJP*)       -   -   -   -         *     -
+bn/cnr/01/cnr_0119   0   10    [WORD]   NN          (NP*        -   -   -   -         *     -
+bn/cnr/01/cnr_0119   0   11    [WORD]   NN             *))      -   -   -   -         *     0)
+bn/cnr/01/cnr_0119   0   12    [WORD]   CD          (QP*        -   -   -   -   (MONEY*     -
+bn/cnr/01/cnr_0119   0   13    [WORD]    M         (CLP*))))    -   -   -   -         *)    -
+bn/cnr/01/cnr_0119   0   14    [WORD]   PU             *))      -   -   -   -         *     -
+
+bn/cnr/01/cnr_0119   0    0    [WORD]    NN   (TOP(IP(NP(NP*)       -    -   -   -           *        (ARG0*        *      (0)
+bn/cnr/01/cnr_0119   0    1    [WORD]    JJ           (ADJP*)       -    -   -   -           *             *        *       -
+bn/cnr/01/cnr_0119   0    2    [WORD]    NN             (NP*))      -    -   -   -           *             *)       *       -
+bn/cnr/01/cnr_0119   0    3    [WORD]    AD        (VP(ADVP*)       -    -   -   -           *    (ARGM-DIS*)       *       -
+bn/cnr/01/cnr_0119   0    4    [WORD]     P             (PP*        -    -   -   -           *        (ARG1*        *       -
+bn/cnr/01/cnr_0119   0    5    [WORD]    NT      (QP(DNP(NP*)       -    -   -   -           *             *        *      (1)
+bn/cnr/01/cnr_0119   0    6    [WORD]   DEG                *)       -    -   -   -           *             *        *       -
+bn/cnr/01/cnr_0119   0    7    [WORD]    CD             (QP*)))     -    -   -   -    (PERCENT)            *)       *       -
+bn/cnr/01/cnr_0119   0    8    [WORD]    VV         (VP(VRD*        -   02   1   -           *           (V*)       *       -
+bn/cnr/01/cnr_0119   0    9    [WORD]    VV                *)       -   01   3   -           *             *      (V*)      -
+bn/cnr/01/cnr_0119   0   10    [WORD]    NT      (QP(DNP(NP*)       -    -   -   -           *        (ARG2*        *       -
+bn/cnr/01/cnr_0119   0   11    [WORD]   DEG                *)       -    -   -   -           *             *        *       -
+bn/cnr/01/cnr_0119   0   12    [WORD]    CD             (QP*))))    -    -   -   -    (PERCENT)            *)       *       -
+bn/cnr/01/cnr_0119   0   13    [WORD]    PU                *))      -    -   -   -           *             *        *       -
+
+#end document

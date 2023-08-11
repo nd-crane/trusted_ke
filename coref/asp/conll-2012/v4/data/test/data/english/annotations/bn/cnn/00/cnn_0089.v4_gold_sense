@@ -1,0 +1,28 @@
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 0 6 cause-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 1 1 say-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 1 8 be-v 4
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 1 19 be-v 4
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 2 2 hit-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 3 1 be-v ?,? 2
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 3 2 part-n ?,? 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 4 1 say-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 4 5 know-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 4 8 be-v 4
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 5 5 time-n ?,? 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 6 1 hope-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 6 5 flight-n ?,? 2
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 6 8 help-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 6 9 solve-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 7 1 pilot-n ?,? 2
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 7 4 keep-v 3
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 8 1 people-n ?,? 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 8 3 kill-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 8 6 accident-n ?,? 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 8 9 take-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 8 10 place-n ?,? 3
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 9 2 have-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 9 4 ground-n ?,? 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 9 14 know-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 9 16 pilot-n ?,? 2
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 9 17 take-v 1
+bn/cnn/00/cnn_0089@0089@cnn@bn@en@on 9 20 turn-n 2

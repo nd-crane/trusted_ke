@@ -1,0 +1,8 @@
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 0 16 gold 签署-v 签署.01 ----- 16:0-rel 0:5-ARG0 13:1-ARGM-TMP 14:1-ARGM-LOC 17:2-ARG1
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 0 20 gold 开展-v 开展.01 ----- 20:0-rel 21:1-ARG1
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 1 22 gold 实现-v 实现.01 ----- 22:0-rel 23:1-ARG1
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 1 33 gold 开展-v 开展.01 ----- 33:0-rel 0:1-ARGM-TMP 6:1-ARG0 7:1-ARGM-ADV 8:1-ARG0 13:1-ARGM-LOC 34:1-ARG1
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 2 5 gold 抨击-v 抨击.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARGM-DIS 6:2-ARG1
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 2 10 gold 指-v 指.02 ----- 10:0-rel 0:1-ARGM-DIS 1:1-ARG0 11:2-ARG1
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 2 12 gold 缺乏-v 缺乏.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bn/cbs/01/cbs_0109@0109@cbs@bn@ch@on 2 22 gold 带来-v 带来.01 ----- 22:0-rel 11:1-ARG0 15:1-ARGM-ADV 16:1-ARGM-LOC 19:1-ARG2 23:2-ARG1

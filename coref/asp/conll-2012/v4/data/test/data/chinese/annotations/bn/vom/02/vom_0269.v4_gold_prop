@@ -1,0 +1,20 @@
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 0 4 gold 指控-v 指控.01 ----- 4:0-rel 5:3-ARG2 15:1-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 0 9 gold 爆炸-v 爆炸.01 ----- 9:0-rel 5:1-ARGM-LOC 10:2-ARG0
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 0 29 gold 恢复-v 恢复.01 ----- 29:0-rel 0:3-ARG0 19:1-ARGM-TMP 26:1-ARGM-TMP 27:1-ARGM-LOC 30:1-ARG0
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 1 4 gold 宣布-v 宣布.01 ----- 4:0-rel 0:1-ARG0 2:2-ARGM-ADV 6:2-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 1 10 gold 传唤-v 传唤.01 ----- 10:0-rel 6:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV 9:1-ARGM-ADV 11:2-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 2 3 gold 预计-v 预计.01 ----- 3:0-rel 0:1-ARGM-MNR 4:3-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 2 7 gold 使-v 使.01 ----- 7:0-rel 4:2-ARG0 6:1-ARGM-ADV 8:1-ARG1 9:3-ARG2
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 2 10 gold 结束-v 结束.01 ----- 10:0-rel 9:1-ARGM-ADV
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 4 2 gold 说-v 说.01 ----- 2:0-rel 0:2-ARG0 3:2-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 4 3 gold 需要-v 需要.01 ----- 3:0-rel
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 4 6 gold 得到-v 得到.01 ----- 6:0-rel 4:1-ARGM-DIR 7:1-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 4 9 gold 帮助-v 帮助.01 ----- 9:0-rel 10:3-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 5 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 3:2-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 5 5 gold 答应-v 答应.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:5-ARG2
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 5 8 gold 提供-v 提供.01 ----- 8:0-rel 6:1-ARG2 9:1-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 6 5 gold 指控-v 指控.01 ----- 5:0-rel 6:2-ARG2
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 6 6 gold 策划-v 策划.01 ----- 6:0-rel 7:1-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 7 12 gold 炸毁-v 炸毁.01 ----- 12:0-rel 0:1-ARGM-TMP
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 7 18 gold 导致-v 导致.01 ----- 18:0-rel 14:3-ARG0 19:3-ARG1
+bn/vom/02/vom_0269@0269@vom@bn@ch@on 7 21 gold 丧生-v 丧生.01 ----- 21:0-rel 19:2-ARG0

@@ -1,0 +1,385 @@
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 0 6 gold 跑-v 跑.01 ----- 6:0-rel 2:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-DIS 7:1-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 2 0 gold 看-v 看.02 ----- 0:0-rel 1:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 2 3 gold 是-v 是.01 ----- 3:0-rel 4:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 4 5 gold 是-v 是.04 ----- 5:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 4 11 gold 着火-v 着火.01 ----- 11:0-rel 9:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 6 2 gold 这样-v 这样.01 ----- 2:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 8 3 gold 是-v 是.04 ----- 3:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 11 6 gold 到-v 到.02 ----- 6:0-rel 0:1-ARGM-DIS 1:3-ARGM-TPC 4:1-ARGM-DIS 5:1-ARGM-DIR 7:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 13 5 gold 是-v 是.04 ----- 5:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 13 8 gold 能-v 能.01 ----- 8:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 14 2 gold 有-v 有.05 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 16 1 gold 对-v 对.02 ----- 1:0-rel 0:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 18 3 gold 到-v 到.02 ----- 3:0-rel 4:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 18 13 gold 会-v 会.02 ----- 13:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 18 14 gold 警告-v 警告.01 ----- 14:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 3:2-ARGM-TMP 12:1-ARG0 15:1-ARGM-EXT
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 18 17 gold 完-v 完.01 ----- 17:0-rel 16:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 18 21 gold 知道-v 知道.01 ----- 21:0-rel 20:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 21 1 gold 好玩-v 好玩.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 22 5 gold 干什么-v 干什么.01 ----- 5:0-rel 2:1-ARGM-LOC 4:1-ARGM-TMP
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 24 1 gold 干什么-v 干什么.01 ----- 1:0-rel 0:1-ARGM-TMP
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 24 3 gold 上课-v 上课.01 ----- 3:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 25 0 gold 上课-v 上课.01 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 27 2 gold 没有-v 没有.03 ----- 2:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 27 9 gold 是-v 是.01 ----- 9:0-rel 8:1-ARGM-ADV 10:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 28 4 gold 惨-v 惨.01 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 28 17 gold 多-v 多.03 ----- 17:0-rel 7:2-ARG0 9:3-ARGM-DGR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 29 3 gold 是-v 是.04 ----- 3:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 29 4 gold 放假-v 放假.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-TMP 2:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 30 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 30 5 gold 放假-v 放假.01 ----- 5:0-rel 7:1-ARGM-TMP
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 30 8 gold 没-v 没.02 ----- 8:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:6-ARGM-TMP 9:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 30 18 gold 是-v 是.04 ----- 18:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 30 19 gold 有-v 有.03 ----- 19:0-rel 13:2-ARGM-TMP 17:1-ARGM-ADV 20:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 30 23 gold 知道-v 知道.01 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 30 25 gold 叫-v 叫.01 ----- 25:0-rel 24:1-ARG0 26:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 31 0 gold 知道-v 知道.01 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 31 5 gold 上课-v 上课.01 ----- 5:0-rel 2:1-ARGM-ADV 3:1-ARGM-TMP 4:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 32 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 33 7 gold 有-v 有.05 ----- 7:0-rel 2:1-ARGM-DIS 3:2-ARGM-TMP 8:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 34 4 gold 是-v 是.01 ----- 4:0-rel 2:2-ARG0 5:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 35 3 gold 不同-v 不同.01 ----- 3:0-rel 1:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 35 6 gold 统一-v 统一.01 ----- 6:0-rel 5:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 36 1 gold 统一-v 统一.01 ----- 1:0-rel 0:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 36 7 gold 统一-v 统一.01 ----- 7:0-rel 6:1-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 37 1 gold 统一-v 统一.01 ----- 1:0-rel 0:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 38 2 gold 分-v 分.01 ----- 2:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 38 4 gold 分-v 分.01 ----- 4:0-rel 1:1-ARG1 5:1-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 8 gold 叫-v 叫.01 ----- 8:0-rel 6:2-ARG2 9:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 13 gold 知道-v 知道.01 ----- 13:0-rel 12:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 16 gold 叫-v 叫.01 ----- 16:0-rel 17:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 35 gold 有-v 有.07 ----- 35:0-rel 30:1-ARGM-ADV 31:2-ARG0 34:1-ARGM-DIS 36:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 46 gold 是-v 是.01 ----- 46:0-rel 41:1-ARG0 43:1-ARGM-DIS 45:1-ARGM-ADV 50:4-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 51 gold 上班-v 上班.01 ----- 51:0-rel 50:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 54 gold 上学-v 上学.01 ----- 54:0-rel 53:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 39 58 gold 对-v 对.02 ----- 58:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 41 11 gold 上-v 上.02 ----- 11:0-rel 0:2-ARGM-TPC 3:1-ARGM-ADV 5:1-ARGM-DIS 6:1-ARGM-TMP 8:1-ARGM-DIS 9:1-ARGM-TMP 10:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 43 9 gold 是-v 是.04 ----- 9:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 43 10 gold 定在-v 定在.01 ----- 10:0-rel 0:1-ARGM-DIS 1:3-ARG1 7:1-ARGM-ADV 8:1-ARGM-ADV 11:2-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 43 21 gold 安排-v 安排.01 ----- 21:0-rel 17:1-ARG0 18:1-ARGM-ADV 19:1-ARGM-ADV 20:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 43 25 gold 知道-v 知道.01 ----- 25:0-rel 24:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 44 3 gold 不错-v 不错.01 ----- 3:0-rel 2:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 45 6 gold 算-v 算.01 ----- 6:0-rel 3:1-ARG0 5:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 45 10 gold 知道-v 知道.01 ----- 10:0-rel 9:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 45 14 gold 算-v 算.01 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 46 4 gold 定-v 定.01 ----- 4:0-rel 3:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 46 7 gold 是-v 是.04 ----- 7:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 46 9 gold 定-v 定.01 ----- 9:0-rel 0:1-ARGM-DIS 3:2-ARGM-ADV 6:1-ARG0 8:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 46 12 gold 是-v 是.04 ----- 12:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 46 13 gold 说-v 说.01 ----- 13:0-rel 11:1-ARG0 15:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 46 33 gold 知道-v 知道.01 ----- 33:0-rel 32:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 47 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 48 1 gold 是-v 是.04 ----- 1:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 48 2 gold 有-v 有.05 ----- 2:0-rel 0:1-ARGM-ADV 3:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 2 gold 对-v 对.02 ----- 2:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 11 gold 是-v 是.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-DIS 12:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 31 gold 算-v 算.01 ----- 31:0-rel 16:1-ARGM-DIS 19:1-ARGM-DIS 25:1-ARGM-TPC 26:1-ARGM-DIS 27:2-ARG0 29:1-ARGM-ADV 33:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 40 gold 是-v 是.01 ----- 40:0-rel 38:1-ARG0 39:1-ARGM-ADV 42:4-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 44 gold 过-v 过.01 ----- 44:0-rel 42:2-ARG1 45:1-ARGM-EXT
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 54 gold 放-v 放.05 ----- 54:0-rel 55:2-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 60 gold 是-v 是.04 ----- 60:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 49 61 gold 这样-v 这样.01 ----- 61:0-rel 59:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 50 4 gold 定-v 定.01 ----- 4:0-rel 3:1-ARG0 7:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 50 6 gold 是-v 是.01 ----- 6:0-rel 3:5-ARG0 7:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 50 13 gold 惨-v 惨.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 51 4 gold 是-v 是.01 ----- 4:0-rel 1:2-ARGM-TMP 3:1-ARGM-ADV 5:5-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 51 8 gold 是-v 是.04 ----- 8:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 51 9 gold 上-v 上.02 ----- 9:0-rel 5:2-ARGM-TMP 10:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 51 17 gold 上-v 上.02 ----- 17:0-rel 14:2-ARGM-TMP 18:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 51 23 gold 上-v 上.01 ----- 23:0-rel 28:1-ARGM-TMP 24:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 51 35 gold 是-v 是.01 ----- 35:0-rel 23:6-ARGM-TPC 34:1-ARG0 36:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 53 0 gold 算-v 算.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 53 3 gold 多-v 多.03 ----- 3:0-rel 2:1-ARGM-DGR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 53 9 gold 是-v 是.04 ----- 9:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 53 10 gold 有-v 有.05 ----- 10:0-rel 5:1-ARG0 6:2-ARGM-TMP 8:1-ARGM-ADV 11:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 55 15 gold 说-v 说.01 ----- 15:0-rel 12:1-ARG0 13:1-ARGM-DIR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 57 0 gold 有-v 有.08 ----- 0:0-rel 1:5-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 57 1 gold 选-v 选.02 ----- 1:0-rel 2:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 62 1 gold 讲-v 讲.01 ----- 1:0-rel 0:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 63 3 gold 想-v 想.02 ----- 3:0-rel 2:1-ARGM-DGR 4:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 63 4 gold 上-v 上.02 ----- 4:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 64 3 gold 叫-v 叫.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 64 5 gold 想-v 想.02 ----- 5:0-rel 4:1-ARGM-DGR 6:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 64 6 gold 上-v 上.02 ----- 6:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 64 11 gold 上-v 上.02 ----- 11:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 65 2 gold 上-v 上.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 66 2 gold 上-v 上.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 66 12 gold 有-v 有.05 ----- 12:0-rel 4:1-ARG0 6:1-ARGM-TMP 8:1-ARGM-TMP 11:1-ARGM-ADV 13:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 68 6 gold 安排-v 安排.01 ----- 6:0-rel 0:1-ARGM-DIS 1:2-ARG1 4:2-ARGM-ADV 7:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 69 5 gold 上-v 上.02 ----- 5:0-rel 0:2-ARGM-TMP 3:1-ARGM-FRQ 4:1-ARGM-ADV 6:2-ARG1 10:1-ARGM-TMP
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 70 2 gold 死死-v 死死.01 ----- 2:0-rel 0:2-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 71 3 gold 在-v 在.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-DIS 2:1-ARGM-ADV 4:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 71 10 gold 没有-v 没有.02 ----- 10:0-rel 7:1-ARGM-TMP 8:1-ARGM-TMP 9:1-ARGM-ADV 11:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 72 2 gold 回家-v 回家.01 ----- 2:0-rel 0:1-ARGM-TMP
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 74 4 gold 没事-v 没事.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 74 10 gold 去-v 去.02 ----- 10:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 74 13 gold 听-v 听.01 ----- 13:0-rel 1:1-ARGM-DIS 2:1-ARG0 9:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 74 15 gold 行-v 行.04 ----- 15:0-rel 1:1-ARGM-DIS 2:1-ARG0 14:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 74 20 gold 玩-v 玩.01 ----- 20:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 76 2 gold 旷课-v 旷课.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 77 6 gold 看看-v 看看.01 ----- 6:0-rel 7:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 77 18 gold 是-v 是.01 ----- 18:0-rel 13:3-ARG0 17:1-ARGM-ADV 21:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 78 10 gold 听到-v 听到.01 ----- 10:0-rel 6:1-ARGM-ADV 12:1-ARGM-TMP 9:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 78 14 gold 能-v 能.01 ----- 14:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 78 15 gold 考-v 考.02 ----- 15:0-rel 6:5-ARGM-TMP 16:1-ARG4
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 78 18 gold 那样-v 那样.01 ----- 18:0-rel 6:5-ARGM-TMP 14:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 79 2 gold 好-v 好.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 80 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 2 gold 上-v 上.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 7 gold 过来-v 过来.01 ----- 7:0-rel 6:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 10 gold 讲-v 讲.01 ----- 10:0-rel 6:1-ARG0 9:1-ARGM-DGR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 12 gold 说-v 说.01 ----- 12:0-rel 6:1-ARG0 14:5-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 18 gold 需要-v 需要.03 ----- 18:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 19 gold 作-v 作.01 ----- 19:0-rel 14:3-ARGM-TPC 17:1-ARGM-ADV 20:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 29 gold 写-v 写.01 ----- 29:0-rel 27:1-ARGM-ADV 28:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 81 33 gold 有-v 有.03 ----- 33:0-rel 31:1-ARG0 32:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 82 1 gold 爱-v 爱.01 ----- 1:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 82 2 gold 听-v 听.02 ----- 2:0-rel 0:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 82 4 gold 听-v 听.01 ----- 4:0-rel 3:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 82 8 gold 想-v 想.02 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 82 9 gold 做-v 做.05 ----- 9:0-rel 10:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 82 12 gold 可以-v 可以.02 ----- 12:0-rel 6:2-ARG0 11:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 83 2 gold 来-v 来.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 84 2 gold 要-v 要.05 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 3:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 84 3 gold 这样-v 这样.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 86 14 gold 这样-v 这样.01 ----- 14:0-rel 2:2-ARG0 13:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 87 6 gold 这样-v 这样.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 87 19 gold 拿来-v 拿来.01 ----- 19:0-rel 8:1-ARGM-DIS 9:2-ARGM-TMP 12:1-ARGM-ADV 14:1-ARG1 16:1-ARGM-ADV 17:1-ARGM-BNF
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 88 7 gold 拿-v 拿.03 ----- 7:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 2:1-ARGM-LOC 5:2-ARG0 9:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 88 14 gold 画-v 画.01 ----- 14:0-rel 17:1-ARGM-TMP 15:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 88 20 gold 分-v 分.01 ----- 20:0-rel 13:1-ARGM-ADV 14:6-ARGM-TMP 19:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 88 21 gold 分-v 分.01 ----- 21:0-rel 13:1-ARGM-ADV 14:6-ARGM-TMP 19:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 89 6 gold 算了-v 算了.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 90 2 gold 想-v 想.02 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 90 3 gold 要-v 要.01 ----- 3:0-rel 4:4-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 90 5 gold 算了-v 算了.01 ----- 5:0-rel 4:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 90 12 gold 算了-v 算了.01 ----- 12:0-rel 8:2-ARG0 11:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 90 18 gold 没-v 没.01 ----- 18:0-rel 15:2-ARG1 19:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 91 4 gold 是-v 是.04 ----- 4:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 92 12 gold 可恶-v 可恶.01 ----- 12:0-rel 9:2-ARG0 11:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 92 19 gold 画-v 画.01 ----- 19:0-rel 14:2-ARG0 16:1-ARGM-ADV 17:1-ARGM-BNF 20:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 92 25 gold 多-v 多.03 ----- 25:0-rel 24:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 92 28 gold 多-v 多.03 ----- 28:0-rel 27:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 93 4 gold 画-v 画.01 ----- 4:0-rel 0:1-ARGM-ADV 1:1-ARGM-LOC 3:1-ARGM-ADV 6:1-ARGM-EXT
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 93 10 gold 考-v 考.02 ----- 10:0-rel 12:1-ARGM-TMP
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 93 15 gold 考-v 考.02 ----- 15:0-rel 9:1-ARGM-DIS 10:6-ARGM-TMP 18:2-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 95 9 gold 学-v 学.01 ----- 9:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 2:2-ARG1 5:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 95 14 gold 是-v 是.03 ----- 14:0-rel 10:1-ARGM-ADV 11:2-ARG0 13:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 95 38 gold 知道-v 知道.01 ----- 38:0-rel 34:1-ARG0 35:1-ARGM-ADV 36:1-ARGM-ADV 37:1-ARGM-ADV 39:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 95 40 gold 知道-v 知道.01 ----- 40:0-rel 39:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 96 5 gold 考-v 考.02 ----- 5:0-rel 4:1-ARG1 8:1-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 96 13 gold 是-v 是.01 ----- 13:0-rel 0:1-ARGM-DIS 4:5-ARG0 11:1-ARGM-ADV 12:1-ARGM-ADV 14:8-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 96 18 gold 学-v 学.01 ----- 18:0-rel 14:3-ARGM-TMP 20:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 98 3 gold 放-v 放.04 ----- 3:0-rel 2:1-ARG0 5:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 98 9 gold 放-v 放.04 ----- 9:0-rel 2:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 98 13 gold 放-v 放.04 ----- 13:0-rel 2:1-ARG0 14:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 99 1 gold 多-v 多.03 ----- 1:0-rel 0:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 100 1 gold 多-v 多.03 ----- 1:0-rel 0:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 100 5 gold 放-v 放.04 ----- 5:0-rel 4:1-ARGM-ADV 8:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 100 13 gold 是-v 是.03 ----- 13:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 101 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 104 1 gold 看-v 看.02 ----- 1:0-rel 0:1-ARGM-LOC 3:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 104 9 gold 放-v 放.04 ----- 9:0-rel 0:3-ARGM-TPC 6:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 105 4 gold 待-v 待.03 ----- 4:0-rel 0:1-ARGM-ADV 1:1-ARGM-ADV 2:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 105 19 gold 去-v 去.02 ----- 19:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 105 20 gold 看-v 看.02 ----- 20:0-rel 16:1-ARGM-LOC 18:1-ARG0 21:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 107 1 gold 差-v 差.01 ----- 1:0-rel 0:1-ARGM-ADV 2:2-ARG1 5:3-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 107 6 gold 知道-v 知道.01 ----- 6:0-rel 5:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 109 7 gold 对-v 对.02 ----- 7:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 109 10 gold 棒-v 棒.01 ----- 10:0-rel 9:1-ARGM-DGR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 109 13 gold 知道-v 知道.01 ----- 13:0-rel 12:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 109 32 gold 知道-v 知道.01 ----- 32:0-rel 31:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 111 4 gold 去-v 去.02 ----- 4:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 111 5 gold 看-v 看.02 ----- 5:0-rel 2:1-ARGM-TMP 7:4-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 111 15 gold 演-v 演.01 ----- 15:0-rel 7:1-ARG0 16:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 111 22 gold 开枪-v 开枪.01 ----- 22:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 111 26 gold 躲-v 躲.01 ----- 26:0-rel 22:2-ARGM-ADV 23:1-ARG0 24:1-ARGM-ADV 25:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 111 30 gold 知道-v 知道.01 ----- 30:0-rel 29:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 112 3 gold 精彩-v 精彩.01 ----- 3:0-rel 2:1-ARGM-DGR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 112 20 gold 是-v 是.03 ----- 20:0-rel 19:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 112 30 gold 知道-v 知道.01 ----- 30:0-rel 29:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 113 0 gold 是-v 是.03 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 113 5 gold 拍-v 拍.01 ----- 5:0-rel 2:1-ARGM-DIS 4:1-ARG0 6:2-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 113 11 gold 拍-v 拍.01 ----- 11:0-rel 10:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 113 15 gold 是-v 是.01 ----- 15:0-rel 14:1-ARGM-DIS 16:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 114 3 gold 忘-v 忘.01 ----- 3:0-rel 2:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 116 0 gold 叫-v 叫.01 ----- 0:0-rel 1:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 116 5 gold 演-v 演.02 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 116 10 gold 那样-v 那样.01 ----- 10:0-rel 17:1-ARG0 8:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 117 10 gold 是-v 是.04 ----- 10:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 117 19 gold 打-v 打.02 ----- 19:0-rel 0:1-ARGM-DIS 4:1-ARGM-DIS 8:1-ARG0 9:1-ARGM-DIS 12:2-ARG1 15:2-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 117 22 gold 知道-v 知道.01 ----- 22:0-rel 0:2-ARG1 21:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 6 gold 拿-v 拿.03 ----- 6:0-rel 0:1-ARGM-DIS 3:2-ARG0 7:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 9 gold 站-v 站.01 ----- 9:0-rel 0:1-ARGM-DIS 3:2-ARG0 10:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 13 gold 指-v 指.05 ----- 13:0-rel 0:1-ARGM-DIS 5:1-ARG0 14:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 20 gold 晃-v 晃.02 ----- 20:0-rel 16:1-ARGM-DIS 17:1-ARG0 18:1-ARGM-ADV 19:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 27 gold 知道-v 知道.01 ----- 27:0-rel 26:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 32 gold 摔-v 摔.03 ----- 32:0-rel 16:1-ARGM-DIS 17:2-ARGM-ADV 22:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 35 gold 摔-v 摔.03 ----- 35:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 42 gold 挂-v 挂.01 ----- 42:0-rel 35:3-ARGM-TMP 41:1-ARGM-DIS 44:1-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 48 gold 捣蛋-v 捣蛋.01 ----- 48:0-rel 46:1-ARG0 47:1-ARGM-LOC 49:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 52 gold 知道-v 知道.01 ----- 52:0-rel 51:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 59 gold 有-v 有.03 ----- 59:0-rel 55:1-ARGM-DIS 57:1-ARGM-ADV 58:1-ARG0 60:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 66 gold 按-v 按.01 ----- 66:0-rel 64:1-ARG0 65:1-ARGM-DIS 67:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 71 gold 挂-v 挂.01 ----- 71:0-rel 70:1-ARGM-ADV 73:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 119 75 gold 出去-v 出去.01 ----- 75:0-rel 64:2-ARGM-ADV 70:5-ARG0 74:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 120 9 gold 是-v 是.04 ----- 9:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 120 13 gold 拍-v 拍.01 ----- 13:0-rel 5:1-ARGM-DIS 6:1-ARGM-TMP 7:1-ARG0 8:1-ARGM-ADV 11:1-ARGM-DIS 14:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 120 20 gold 按-v 按.02 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-DIS 24:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 120 32 gold 看-v 看.02 ----- 32:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 120 36 gold 知道-v 知道.01 ----- 36:0-rel 35:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 120 39 gold 要-v 要.03 ----- 39:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 120 40 gold 有-v 有.05 ----- 40:0-rel 38:1-ARGM-ADV 41:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 121 5 gold 看-v 看.02 ----- 5:0-rel 0:1-ARGM-DIS 4:1-ARG0 7:2-ARGM-EXT
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 121 8 gold 过瘾-v 过瘾.01 ----- 8:0-rel 7:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 122 4 gold 行-v 行.04 ----- 4:0-rel 1:1-ARGM-ADV 3:1-ARGM-DIS
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 123 4 gold 联系-v 联系.02 ----- 4:0-rel 0:1-ARGM-ADV 1:1-ARG1 5:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 124 2 gold 对-v 对.02 ----- 2:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 124 4 gold 对-v 对.02 ----- 4:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 124 6 gold 对-v 对.02 ----- 6:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 124 8 gold 对-v 对.02 ----- 8:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 124 10 gold 对-v 对.02 ----- 10:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 125 1 gold 象-v 象.01 ----- 1:0-rel 0:1-ARGM-ADV 2:3-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 125 7 gold 有-v 有.03 ----- 7:0-rel 6:1-ARGM-TMP 8:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 125 12 gold 是-v 是.01 ----- 12:0-rel 13:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 125 18 gold 有-v 有.07 ----- 18:0-rel 17:1-ARGM-DIS 19:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 125 24 gold 知道-v 知道.01 ----- 24:0-rel 21:1-ARG0 22:1-ARGM-ADV 23:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 126 6 gold 演-v 演.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 126 13 gold 有-v 有.03 ----- 13:0-rel 11:1-ARGM-DIS 12:1-ARG0 14:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 127 3 gold 想-v 想.02 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-DGR 4:2-ARG1 16:4-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 127 4 gold 看-v 看.02 ----- 4:0-rel 5:5-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 127 10 gold 是-v 是.04 ----- 10:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 127 12 gold 绑-v 绑.02 ----- 12:0-rel 5:3-ARG2 11:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 127 17 gold 知道-v 知道.01 ----- 17:0-rel 16:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 130 5 gold 绑-v 绑.02 ----- 5:0-rel 0:1-ARGM-ADV 2:1-ARG1 3:1-ARGM-ADV 4:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 130 8 gold 是-v 是.01 ----- 8:0-rel 7:1-ARG0 9:5-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 130 9 gold 拍成-v 拍成.01 ----- 9:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 130 24 gold 擦掉-v 擦掉.01 ----- 24:0-rel 9:3-ARGM-TMP 15:1-ARGM-MNR 19:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 130 26 gold 知道-v 知道.01 ----- 26:0-rel 25:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 130 29 gold 对-v 对.02 ----- 29:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 132 7 gold 拍-v 拍.01 ----- 7:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 5:1-ARG0 6:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 132 15 gold 没-v 没.02 ----- 15:0-rel 13:1-ARGM-ADV 14:1-ARG0 16:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 132 25 gold 能-v 能.01 ----- 25:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 132 31 gold 对-v 对.02 ----- 31:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 133 11 gold 是-v 是.04 ----- 11:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 133 20 gold 走-v 走.02 ----- 20:0-rel 1:1-ARGM-DIS 3:3-ARG0 10:1-ARGM-ADV 13:1-ARGM-DIS 15:1-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 133 37 gold 是-v 是.01 ----- 37:0-rel 35:1-ARG0 39:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 133 41 gold 拿掉-v 拿掉.01 ----- 41:0-rel 39:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 133 44 gold 知道-v 知道.01 ----- 44:0-rel 43:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 135 4 gold 可以-v 可以.01 ----- 4:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 135 5 gold 摆-v 摆.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 135 11 gold 拍-v 拍.01 ----- 11:0-rel 8:1-ARGM-DIS 10:1-ARGM-ADV 12:1-ARGM-FRQ 13:2-ARG1 16:1-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 135 23 gold 重合-v 重合.01 ----- 23:0-rel 19:1-ARGM-DIS 20:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 135 26 gold 知道-v 知道.01 ----- 26:0-rel 25:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 136 3 gold 聪明-v 聪明.01 ----- 3:0-rel 2:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 137 7 gold 看到-v 看到.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 137 14 gold 记得-v 记得.01 ----- 14:0-rel 12:1-ARGM-ADV 13:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 137 17 gold 是-v 是.04 ----- 17:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 137 18 gold 拍-v 拍.01 ----- 18:0-rel 19:1-ARGM-ADV 20:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 137 21 gold 没有-v 没有.02 ----- 21:0-rel 20:1-ARG0 22:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 137 27 gold 要-v 要.03 ----- 27:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 137 37 gold 对-v 对.02 ----- 37:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 138 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 5 gold 没有-v 没有.03 ----- 5:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 9 gold 采访-v 采访.01 ----- 9:0-rel 7:1-ARGM-TMP 8:1-ARGM-ADV 10:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 14 gold 知道-v 知道.01 ----- 14:0-rel 13:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 36 gold 有-v 有.03 ----- 36:0-rel 27:1-ARGM-DIS 33:1-ARGM-TMP 37:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 43 gold 主持-v 主持.01 ----- 43:0-rel 37:2-ARG0 41:1-ARGM-ADV 42:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 46 gold 采访-v 采访.01 ----- 46:0-rel 37:2-ARG0 45:1-ARGM-DIS 47:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 60 gold 认识-v 认识.01 ----- 60:0-rel 59:1-ARGM-ADV 61:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 65 gold 是-v 是.03 ----- 65:0-rel 59:3-ARG0 64:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 139 68 gold 知道-v 知道.01 ----- 68:0-rel 67:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 140 4 gold 娱乐-v 娱乐.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-EXT
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 140 11 gold 是-v 是.04 ----- 11:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 140 12 gold 做-v 做.01 ----- 12:0-rel 7:1-ARGM-DIS 9:1-ARG0 10:1-ARGM-DIS 13:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 140 19 gold 知道-v 知道.01 ----- 19:0-rel 18:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 141 2 gold 知道-v 知道.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 141 9 gold 追杀-v 追杀.02 ----- 9:0-rel 4:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 144 0 gold 追-v 追.01 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 144 3 gold 追-v 追.01 ----- 3:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 144 6 gold 追-v 追.01 ----- 6:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 144 9 gold 追-v 追.01 ----- 9:0-rel 10:2-ARGM-EXT
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 144 12 gold 高兴-v 高兴.01 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-DGR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 145 0 gold 听说-v 听说.01 ----- 0:0-rel 1:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 145 3 gold 爱-v 爱.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DGR 4:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 145 4 gold 看-v 看.02 ----- 4:0-rel 5:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 145 9 gold 感兴趣-v 感兴趣.01 ----- 9:0-rel 1:1-ARG0 7:1-ARGM-ADV 10:1-ARGM-EXT
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 146 6 gold 有-v 有.05 ----- 6:0-rel 2:1-ARGM-DIS 3:2-ARG0 5:1-ARGM-ADV 7:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 146 19 gold 说-v 说.01 ----- 19:0-rel 16:2-ARG0 21:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 146 28 gold 弄-v 弄.05 ----- 28:0-rel 21:1-ARG1 24:1-ARGM-ADV 25:1-ARGM-ADV 26:1-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 147 7 gold 大-v 大.01 ----- 7:0-rel 2:1-ARGM-DIS 3:2-ARG0 6:1-ARGM-DGR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 147 10 gold 知道-v 知道.01 ----- 10:0-rel 9:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 148 10 gold 多-v 多.03 ----- 10:0-rel 0:1-ARGM-DIS 5:1-ARGM-DIS 7:1,8:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 149 2 gold 容纳-v 容纳.01 ----- 2:0-rel 3:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 150 17 gold 是-v 是.04 ----- 17:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 150 20 gold 导向-v 导向.01 ----- 20:0-rel 13:1-ARG0 15:1-ARGM-ADV 16:1-ARGM-ADV 19:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 150 28 gold 说-v 说.01 ----- 28:0-rel 26:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 150 30 gold 是-v 是.01 ----- 30:0-rel 24:1-ARG0 31:1-ARG1 32:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 150 37 gold 知道-v 知道.01 ----- 37:0-rel 36:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 152 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARGM-DIS 3:7-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 152 3 gold 自杀-v 自杀.01 ----- 3:0-rel 5:1-ARGM-TMP
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 152 12 gold 开-v 开.07 ----- 12:0-rel 3:6-ARGM-TMP 7:2-ARG0 9:1-ARGM-DIR
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 153 4 gold 是-v 是.04 ----- 4:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 153 5 gold 追杀-v 追杀.01 ----- 5:0-rel 2:1-ARG0 3:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 153 11 gold 拿-v 拿.03 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 153 20 gold 动-v 动.01 ----- 20:0-rel 8:1-ARGM-DIS 9:1-ARGM-PRP 14:1-ARGM-DIS 15:1-ARG0 18:1-ARGM-ADV 19:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 153 25 gold 对-v 对.02 ----- 25:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 154 24 gold 致敬-v 致敬.01 ----- 24:0-rel 11:1-ARGM-DIS 13:1-ARGM-DIS 14:2-ARGM-TPC 17:2-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 154 30 gold 流-v 流.01 ----- 30:0-rel 11:1-ARGM-DIS 13:1-ARGM-DIS 14:2-ARGM-TPC 17:2-ARG2 28:1-ARGM-DIS 29:1-ARGM-DIS 32:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 156 6 gold 认识-v 认识.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 156 9 gold 演-v 演.02 ----- 9:0-rel 10:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 157 3 gold 是-v 是.01 ----- 3:0-rel 2:1-ARGM-ADV 4:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 158 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARGM-ADV 2:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 159 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 160 9 gold 是-v 是.01 ----- 9:0-rel 4:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 161 6 gold 说-v 说.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-DIS 8:6-ARG1 20:3-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 161 9 gold 演-v 演.01 ----- 9:0-rel 8:1-ARG0 11:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 161 18 gold 上映-v 上映.01 ----- 18:0-rel 8:5-ARG1 14:1-ARGM-ADV 15:1-ARGM-LOC
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 161 22 gold 说-v 说.01 ----- 22:0-rel 20:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 162 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 163 2 gold 写-v 写.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 164 6 gold 看-v 看.02 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 164 10 gold 说-v 说.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-DIS 11:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 164 25 gold 问-v 问.01 ----- 25:0-rel 20:1-ARGM-TMP 23:1-ARG0 24:1-ARGM-DIS 28:1-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 164 34 gold 演-v 演.01 ----- 34:0-rel 32:1-ARG0 33:1-ARGM-ADV 36:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 165 2 gold 看-v 看.02 ----- 2:0-rel 0:1-ARGM-TMP 1:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 165 6 gold 演-v 演.01 ----- 6:0-rel 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 165 9 gold 演-v 演.01 ----- 9:0-rel 11:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 166 1 gold 是-v 是.03 ----- 1:0-rel 0:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 167 7 gold 是-v 是.01 ----- 7:0-rel 2:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 167 14 gold 是-v 是.01 ----- 14:0-rel 2:1-ARG0 11:1-ARGM-TMP 13:1-ARGM-ADV 16:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 167 20 gold 知道-v 知道.01 ----- 20:0-rel 19:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 170 1 gold 进-v 进.07 ----- 1:0-rel 0:1-ARG0 3:2-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 171 0 gold 对-v 对.02 ----- 0:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 171 2 gold 对-v 对.02 ----- 2:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 171 7 gold 叫-v 叫.01 ----- 7:0-rel 6:1-ARG2 8:3-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 171 16 gold 对-v 对.02 ----- 16:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 172 19 gold 是-v 是.04 ----- 19:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 172 20 gold 让-v 让.02 ----- 20:0-rel 5:1-ARGM-DIS 10:4-ARGM-TPC 18:1-ARGM-ADV 21:1-ARG1 22:2-ARG2
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 172 22 gold 点-v 点.01 ----- 22:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 173 7 gold 知道-v 知道.01 ----- 7:0-rel 4:1-ARGM-DIS 5:1-ARG0 6:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 173 11 gold 知道-v 知道.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 173 24 gold 看-v 看.02 ----- 24:0-rel 15:1-ARGM-TMP 16:1-ARGM-DIS 18:2-ARGM-TPC 20:1-ARG0 21:1-ARGM-ADV 22:1-ARGM-ADV 23:1-ARGM-ADV 29:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 173 32 gold 知道-v 知道.01 ----- 32:0-rel 31:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 174 2 gold 上-v 上.01 ----- 2:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 175 11 gold 反对-v 反对.01 ----- 11:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 175 13 gold 无效-v 无效.01 ----- 13:0-rel 10:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 175 22 gold 算-v 算.01 ----- 22:0-rel 18:2-ARG0 21:1-ARGM-ADV 23:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 175 23 gold 和蔼-v 和蔼.01 ----- 23:0-rel 18:2-ARG0 21:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 176 5 gold 说-v 说.01 ----- 5:0-rel 4:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 177 4 gold 看-v 看.02 ----- 4:0-rel 3:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 177 11 gold 那样-v 那样.01 ----- 11:0-rel 9:1,10:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 177 15 gold 镇定-v 镇定.01 ----- 15:0-rel 14:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 177 16 gold 那样-v 那样.01 ----- 16:0-rel 14:1,15:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 177 21 gold 对-v 对.02 ----- 21:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 5 gold 可-v 可.01 ----- 5:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 6 gold 挖-v 挖.01 ----- 6:0-rel 0:1-ARG0 1:1-ARGM-TMP 2:1-ARGM-DIS 4:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 13 gold 可-v 可.01 ----- 13:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 14 gold 挖-v 挖.01 ----- 14:0-rel 8:1-ARG1 11:1-ARGM-ADV 12:1-ARGM-ADV
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 17 gold 开始-v 开始.02 ----- 17:0-rel 16:1-ARGM-DIS 18:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 18 gold 去-v 去.02 ----- 18:0-rel
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 19 gold 挖-v 挖.01 ----- 19:0-rel 16:1-ARGM-DIS 20:1-ARG1
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 180 23 gold 知道-v 知道.01 ----- 23:0-rel 22:1-ARG0
+tc/ch/00/ch_0009@0009@ch@tc@ch@on 183 21 gold 谈恋爱-v 谈恋爱.01 ----- 21:0-rel 15:1-ARGM-TMP 16:1-ARG0 17:1-ARG0

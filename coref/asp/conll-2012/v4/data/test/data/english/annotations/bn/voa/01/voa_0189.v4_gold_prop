@@ -1,0 +1,6 @@
+bn/voa/01/voa_0189@0189@voa@bn@en@on 0 5 gold continue-v continue.01 ----- 5:0-rel 0:2-ARG1 6:1-ARGM-TMP 11:1-ARGM-MNR
+bn/voa/01/voa_0189@0189@voa@bn@en@on 0 15 gold reduce-v reduce.01 ----- 15:0-rel 14:0-ARGM-ADV 16:0-ARG1
+bn/voa/01/voa_0189@0189@voa@bn@en@on 1 4 gold meet-v meet.03 ----- 4:0-rel 0:2-ARG0 5:1-ARGM-MNR 6:1-ARGM-LOC 10:1-ARG1 14:1-ARGM-PRP
+bn/voa/01/voa_0189@0189@voa@bn@en@on 1 17 gold restart-v restart.01 ----- 17:0-rel 18:2-ARG1
+bn/voa/01/voa_0189@0189@voa@bn@en@on 1 19 gold negotiation-n negotiation.01 ----- 19:0-rel 18:0-ARGM-MNR 20:1-ARG0 22:1-ARG2
+bn/voa/01/voa_0189@0189@voa@bn@en@on 1 25 gold settlement-n settlement.01 ----- 25:0-rel 24:0-ARGM-TMP

@@ -1,0 +1,10 @@
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 0 2 gold have-v have.01 ----- 2:0-rel
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 0 3 gold win-v win.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 1 6 gold be-v be.03 ----- 6:0-rel
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 1 7 gold give-v give.01 ----- 7:0-rel 0:2-ARG0 8:1-ARG1 10:1-ARG2
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 2 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 2 11 gold use-v use.01 ----- 11:0-rel 10:1-ARGM-MNR 12:1-ARG2
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 2 13 gold analyze-v analyze.01 ----- 13:0-rel 14:2-ARG1
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 3 2 gold share-v share.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:2-ARG1
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 4 3 gold be-v be.01 ----- 3:0-rel 0:1-ARG1 4:2-ARG2
+bn/cnn/00/cnn_0029@0029@cnn@bn@en@on 4 11 gold announce-v announce.01 ----- 11:0-rel 10:1-ARG1 12:1-ARG0

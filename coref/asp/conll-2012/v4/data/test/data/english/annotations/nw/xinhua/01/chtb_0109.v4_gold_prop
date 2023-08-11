@@ -1,0 +1,59 @@
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 0 2 gold presentation-n presentation.01 ----- 2:0-rel
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 1 2 gold increase-v increase.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 3 8 gold accomplish-v accomplish.01 ----- 8:0-rel 0:2-ARG0 9:4-ARG1 33:2-ARGM-PRD
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 3 12 gold add-v add.02 ----- 12:0-rel 10:0-ARGM-TMP 13:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 3 19 gold calculate-v calculate.01 ----- 19:0-rel 20:1-ARG0 9:2-LINK-PCR
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 3 34 gold drop-v drop.01 ----- 34:0-rel 33:1-ARG2 35:1-ARGM-PRD 0:2-LINK-PCR
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 4 25 gold regard-v regard.01 ----- 25:0-rel 23:0-ARGM-MOD 26:1-ARG2 16:1-LINK-SLC
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 5 5 gold own-v own.01 ----- 5:0-rel 4:0-ARG0 6:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 6 2 gold drop-v drop.01 ----- 2:0-rel 0:1-ARG1 3:1-ARGM-ADV
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 7 2 gold add-v add.03 ----- 2:0-rel 1:0-ARGM-TMP 3:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 7 6 gold own-v own.01 ----- 6:0-rel 5:0-ARG0 11:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 7 9 gold own-v own.01 ----- 9:0-rel 8:0-ARG0 10:0,11:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 7 27 gold add-v add.03 ----- 27:0-rel 28:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 8 0 gold grow-v grow.01 ----- 0:0-rel 1:1-ARG2
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 8 7 gold decline-v decline.01 ----- 7:0-rel 0:2-ARGM-PRD 8:2-ARG2
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 8 18 gold add-v add.02 ----- 18:0-rel 19:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 9 4 gold add-v add.03 ----- 4:0-rel 3:0-ARGM-TMP 5:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 9 24 gold add-v add.03 ----- 24:0-rel 25:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 10 5 gold progress-n progress.01 ----- 5:0-rel 1:1-ARG1 3:0-ARGM-LVB 4:0-ARGM-MNR
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 11 9 gold impact-n impact.01 ----- 9:0-rel 10:1-ARG0
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 11 14 gold adjustment-n adjustment.01 ----- 14:0-rel 11:1-ARGM-MNR 15:1-ARG4
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 12 1 gold production-n production.01 ----- 1:0-rel 2:1-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 12 23 gold impact-n impact.01 ----- 23:0-rel 24:1-ARG0
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 14 9 gold make-v make.01 ----- 9:0-rel 7:0-ARG0 10:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 15 4 gold make-v make.01 ----- 4:0-rel 2:0-ARG0 5:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 15 8 gold make-v make.01 ----- 8:0-rel 9:1-ARG2 7:1-LINK-PCR
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 15 14 gold drop-v drop.01 ----- 14:0-rel 0:2-ARG1 15:1-ARG2 17:1-ARG4
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 16 6 gold have-v have.03 ----- 6:0-rel 0:2-ARG0 7:1-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 17 10 gold cut-v cut.01 ----- 10:0-rel 8:0-ARG1 11:0-ARG0
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 17 28 gold drop-v drop.01 ----- 28:0-rel 0:2-ARG1 29:1-ARG2 31:1-ARG4
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 18 7 gold grow-v grow.01 ----- 7:0-rel 0:3-ARG1 8:1-ARG2
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 19 5 gold control-v control.01 ----- 5:0-rel 3:0-ARG0 6:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 19 18 gold grow-v grow.01 ----- 18:0-rel 0:2-ARG1 19:1-ARG2 22:1-ARG4
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 20 6 gold grow-v grow.01 ----- 6:0-rel 9:1-ARG2 10:2-ARGM-ADV
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 20 8 gold drop-v drop.01 ----- 8:0-rel 9:1-ARGM-EXT 10:2-ARGM-PRD
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 21 26 gold grow-v grow.01 ----- 26:0-rel 12:2-ARG1 27:1-ARG2 30:1-ARG4 0:3-LINK-SLC
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 22 42 gold drop-v drop.01 ----- 42:0-rel 33:2-ARG1 43:1-ARG2 46:1-ARG4
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 23 7 gold marketing-n marketing.01 ----- 7:0-rel 4:0-ARGM-MNR
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 23 8 gold have-v have.03 ----- 8:0-rel 1:2-ARG0 9:1-ARG1 12:1-ARGM-ADV
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 23 14 gold grow-v grow.01 ----- 14:0-rel 13:1-ARG1 15:1-ARG2
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 24 11 gold achieve-v achieve.01 ----- 11:0-rel 13:5-ARGM-PRD
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 25 30 gold trade-n trade.01 ----- 30:0-rel 29:0-ARG2
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 26 7 gold recover-v recover.02 ----- 7:0-rel 8:1-ARGM-PRD
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 28 1 gold analysis-n analysis.01 ----- 1:0-rel 2:1-ARG0
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 28 7 gold show-v show.01 ----- 7:0-rel 0:2-ARG0 9:1-ARGM-TMP 12:2-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 28 28 gold increase-v increase.01 ----- 28:0-rel 26:1-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 28 46 gold grow-v grow.01 ----- 46:0-rel 35:2-ARG1 47:1-ARG2
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 28 52 gold transfer-n transfer.01 ----- 52:0-rel 53:1-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 28 64 gold restrain-v restrain.01 ----- 64:0-rel 65:0-ARG0
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 28 66 gold assail-v assail.01 ----- 66:0-rel 64:1-ARG0 67:2-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 12 gold carry-v carry.01 ----- 12:0-rel 0:1-ARGM-TMP 10:0-ARGM-MOD 13:1-ARGM-DIR 17:1-ARGM-TMP
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 15 gold implement-v implement.01 ----- 15:0-rel 0:1-ARGM-TMP 10:0-ARGM-MOD 17:1-ARGM-TMP
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 21 gold own-v own.01 ----- 21:0-rel 19:0-ARG0 22:0-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 25 gold continue-v continue.01 ----- 25:0-rel 26:2-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 27 gold reinforce-v reinforce.01 ----- 27:0-rel 28:1-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 30 gold strive-v strive.01 ----- 30:0-rel 31:2-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 32 gold increase-v increase.01 ----- 32:0-rel 33:1-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 36 gold improve-v improve.01 ----- 36:0-rel 37:1-ARG1
+nw/xinhua/01/chtb_0109@0109@xinhua@nw@en@on 29 40 gold promote-v promote.02 ----- 40:0-rel 41:2-ARG1

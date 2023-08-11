@@ -1,0 +1,7 @@
+bn/cnr/00/cnr_0069@0069@cnr@bn@ch@on 0 10 gold 盗-v 盗.01 ----- 10:0-rel
+bn/cnr/00/cnr_0069@0069@cnr@bn@ch@on 0 13 gold 有-v 有.03 ----- 13:0-rel 0:2-ARGM-TMP 4:2-ARGM-LOC 7:3-ARG0 12:1-ARGM-ADV 14:1-ARG1
+bn/cnr/00/cnr_0069@0069@cnr@bn@ch@on 1 16 gold 发生-v 发生.01 ----- 16:0-rel 0:2-ARGM-TMP 7:4-ARG1 17:2-ARG0
+bn/cnr/00/cnr_0069@0069@cnr@bn@ch@on 1 26 gold 达-v 达.01 ----- 26:0-rel 0:2-ARGM-TMP 7:4-ARG0 16:1-ARG0 25:1-ARGM-ADV 27:1-ARG1
+bn/cnr/00/cnr_0069@0069@cnr@bn@ch@on 2 3 gold 进入-v 进入.01 ----- 3:0-rel 0:1-ARGM-TMP 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bn/cnr/00/cnr_0069@0069@cnr@bn@ch@on 2 7 gold 确保-v 确保.01 ----- 7:0-rel 8:1-ARG1
+bn/cnr/00/cnr_0069@0069@cnr@bn@ch@on 2 20 gold 守护-v 守护.01 ----- 20:0-rel 6:1-ARGM-PRP 11:1-ARG0 13:1-ARGM-ADV 14:1-ARGM-LOC 21:1-ARG1

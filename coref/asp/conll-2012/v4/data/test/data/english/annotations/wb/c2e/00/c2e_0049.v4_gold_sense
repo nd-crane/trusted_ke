@@ -1,0 +1,78 @@
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 2 11 be-v ?,? 7
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 3 16 be-v ?,? 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 4 0 note-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 4 5 include-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 5 6 be-v ?,? 7
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 6 11 be-v ?,? 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 6 26 include-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 7 5 narrate-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 8 2 believe-v ?,? 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 8 6 see-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 9 0 let-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 9 2 describe-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 9 10 imagine-v ?,? 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 9 18 see-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 10 5 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 11 11 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 11 27 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 12 7 pay-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 12 15 fill-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 12 29 get-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 13 8 lead-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 14 3 be-v ?,? 3
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 14 12 have-v ?,? 12
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 14 14 share-v ?,? 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 15 1 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 15 11 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 16 5 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 17 4 buy-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 17 19 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 18 20 see-v ?,? 3
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 18 28 make-v 7
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 19 2 be-v ?,? 3
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 19 16 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 20 1 want-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 20 3 say-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 20 6 think-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 20 10 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 21 10 think-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 21 28 be-v ?,? 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 22 9 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 23 5 form-v 3
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 23 12 gather-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 23 16 support-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 24 4 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 25 7 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 25 17 reduce-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 25 27 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 25 34 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 26 13 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 27 6 become-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 27 27 make-v ?,? 3
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 28 9 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 29 1 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 29 5 transfer-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 30 12 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 31 1 need-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 31 6 control-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 32 3 condemn-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 32 6 say-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 32 13 make-v 3
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 33 2 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 33 9 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 33 15 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 33 17 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 34 2 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 34 9 be-v 2
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 34 11 ride-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 35 1 save-v ?,? 3
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 35 4 reduce-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 35 9 let-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 35 11 know-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 35 14 be-v 4
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 35 20 say-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 35 23 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 36 7 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 38 13 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 39 9 be-v 1
+wb/c2e/00/c2e_0049@0049@c2e@wb@en@on 39 13 buy-v 1

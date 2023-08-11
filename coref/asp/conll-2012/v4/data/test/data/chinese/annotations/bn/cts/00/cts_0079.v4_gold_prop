@@ -1,0 +1,39 @@
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 6 gold 到-v 到.01 ----- 6:0-rel 0:2-ARG0 2:1-ARG0 4:1-ARGM-TMP 7:2-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 13 gold 查获-v 查获.01 ----- 13:0-rel 0:2-ARG0 2:1-ARG0 4:1-ARGM-TMP 10:1-ARGM-ADV 11:1-ARGM-LOC 15:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 19 gold 按摩-v 按摩.01 ----- 19:0-rel 15:2-ARG0 17:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 23 gold 要求-v 要求.02 ----- 23:0-rel 22:1-ARGM-ADV 24:5-ARG1 27:2-ARG2
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 24 gold 按摩-v 按摩.01 ----- 24:0-rel 26:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 27 gold 离开-v 离开.01 ----- 27:0-rel
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 33 gold 障碍-v 障碍.01 ----- 33:0-rel 32:1-ARG0 34:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 38 gold 按摩-v 按摩.01 ----- 38:0-rel 40:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 41 gold 处以-v 处以.01 ----- 41:0-rel 21:1-ARGM-ADV 29:1-ARGM-ADV 30:1-ARGM-MNR 37:1-ARG2 42:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 3 gold 加上-v 加上.01 ----- 3:0-rel 4:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 21 gold 有-v 有.05 ----- 21:0-rel 22:2-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 23 gold 指出-v 指出.01 ----- 23:0-rel 22:1-ARG0 24:4-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 28 gold 有-v 有.05 ----- 28:0-rel 24:3-ARG0 29:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 33 gold 按摩-v 按摩.01 ----- 33:0-rel 29:2-ARG0 31:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 4 gold 走进-v 走进.01 ----- 4:0-rel 0:1-ARGM-ADV 1:2-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 10 gold 查获-v 查获.01 ----- 10:0-rel 0:1-ARGM-ADV 1:2-ARG0 8:1-ARGM-ADV 9:1-ARGM-ADV 11:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 19 gold 按摩-v 按摩.01 ----- 19:0-rel 17:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 26 gold 告诫-v 告诫.01 ----- 26:0-rel 23:1-ARG0 24:1-ARGM-ADV 25:1-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 3 gold 让-v 让.02 ----- 3:0-rel 0:3-ARG0 4:6-ARG1 8:3-ARG2
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 5 gold 按摩-v 按摩.01 ----- 5:0-rel 4:1-ARGM-ADV 7:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 8 gold 吓-v 吓.01 ----- 8:0-rel 10:2-ARGM-FRQ
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 11 gold 跳-v 跳.01 ----- 11:0-rel 10:1-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 15 gold 得-v 得.01 ----- 15:0-rel
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 16 gold 乖乖-v 乖乖.01 ----- 16:0-rel
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 18 gold 拿出-v 拿出.01 ----- 18:0-rel 14:1-ARGM-DIS 16:2-ARGM-ADV 19:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 1 gold 解释-v 解释.01 ----- 1:0-rel 0:1-ARG0 4:2-ARG3
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 2 gold 说-v 说.01 ----- 2:0-rel 0:1-ARG0 4:2-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 7 gold 障碍-v 障碍.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 14 gold 得-v 得.01 ----- 14:0-rel
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 17 gold 按摩-v 按摩.01 ----- 17:0-rel 4:1-ARGM-MNR 11:2-ARG0 13:1-ARGM-ADV 15:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 5 7 gold 要-v 要.05 ----- 7:0-rel 1:1-ARGM-ADV 6:1-ARGM-ADV 8:2-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 5 9 gold 来-v 来.05 ----- 9:0-rel 1:1-ARGM-ADV 6:1-ARGM-DIS 8:1-ARGM-ADV 10:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 5 10 gold 执法-v 执法.01 ----- 10:0-rel 1:1-ARG0 6:1-ARGM-ADV 8:1-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 6 10 gold 发现-v 发现.01 ----- 10:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-LOC 9:1-ARGM-DIS 11:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 6 15 gold 挂牌-v 挂牌.01 ----- 15:0-rel 11:2-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 6 16 gold 等候-v 等候.01 ----- 16:0-rel 11:2-ARG0 17:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 7 4 gold 查获-v 查获.01 ----- 4:0-rel 1:1-ARGM-ADV 2:2-ARGM-ADV 5:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 7 10 gold 决定-v 决定.01 ----- 10:0-rel 0:2-ARGM-ADV 8:1-ARG0 9:1-ARGM-ADV 11:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 7 16 gold 处以-v 处以.01 ----- 16:0-rel 11:1-ARGM-MNR 13:1-ARG2 17:1-ARG1

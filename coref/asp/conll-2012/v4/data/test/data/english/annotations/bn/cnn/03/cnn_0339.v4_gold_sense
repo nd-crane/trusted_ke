@@ -1,0 +1,183 @@
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 0 8 be-v 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 1 7 describe-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 2 1 say-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 2 3 find-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 2 4 evidence-n 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 2 8 day-n 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 3 2 join-v 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 4 2 have-v ?,? 7
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 5 0 thanks-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 5 2 have-v ?,? 7
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 6 13 sense-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 6 18 evoke-v ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 6 19 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 6 21 sense-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 6 23 history-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 7 0 give-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 7 8 think-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 7 10 future-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 7 11 hold-v ?,? 6
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 8 0 do-v 7
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 8 2 mean-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 8 5 start-v ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 11 4 trip-n 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 12 1 be-v ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 12 6 end-n 10
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 13 3 take-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 13 4 risk-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 1 be-v ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 5 position-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 10 be-v ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 15 kill-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 23 think-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 26 be-v 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 32 war-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 37 talk-n ?,? 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 40 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 43 rush-n 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 45 war-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 48 push-n ?,? 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 50 war-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 53 drive-n ?,? 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 55 war-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 61 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 70 make-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 14 74 criticism-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 15 1 say-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 15 6 invade-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 15 9 finish-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 15 10 develop-v ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 15 13 weapon-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 16 3 weapon-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 16 8 say-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 16 15 get-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 16 18 weapon-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 16 21 invade-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 1 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 8 mean-v ?,? 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 14 point-n ?,? 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 20 war-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 27 criticize-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 29 do-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 33 act-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 40 argue-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 43 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 45 do-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 52 finish-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 17 60 finish-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 2 take-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 4 side-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 10 take-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 12 risk-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 14 support-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 20 point-n ?,? 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 22 help-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 18 26 remove-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 20 2 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 20 13 do-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 21 1 seem-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 21 3 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 21 5 core-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 21 8 argument-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 2 point-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 6 course-n 13
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 10 fact-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 13 matter-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 14 be-v ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 17 mistake-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 21 make-v 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 24 removal-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 22 26 power-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 23 1 mistake-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 23 11 point-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 23 16 make-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 23 18 peace-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 23 20 permit-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 23 23 fly-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 24 1 hurt-v 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 24 4 read-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 2 town-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 4 be-v 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 14 get-v 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 19 boast-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 23 be-v 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 26 talk-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 27 take-v ?,? 14.1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 25 28 place-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 26 1 have-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 26 6 meeting-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 1 say-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 7 lose-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 9 round-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 11 do-v 7
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 13 mind-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 16 keep-v 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 21 air-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 27 transport-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 28 thing-n 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 32 say-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 27 37 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 28 1 ask-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 28 4 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 28 8 mean-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 29 3 believe-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 30 1 use-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 30 5 kill-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 30 8 think-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 30 19 try-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 30 21 do-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 30 32 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 30 35 edge-n ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 2 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 9 event-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 12 believe-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 15 say-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 18 be-v 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 20 argument-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 26 administration-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 31 27 member-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 32 2 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 32 5 one-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 32 7 know-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 32 9 change-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 32 11 mind-n 6
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 33 4 take-v 5
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 33 6 view-n ?,? 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 33 9 time-n 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 33 11 think-v ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 33 15 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 33 18 save-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 34 5 be-v ?,? 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 34 8 chain-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 34 10 command-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 36 2 make-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 36 4 decision-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 36 7 move-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 36 12 information-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 36 20 devastate-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 38 5 know-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 1 hurt-v ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 8 people-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 14 community-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 26 people-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 30 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 37 murder-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 39 torture-v ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 41 reduce-v ?,? 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 43 misery-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 39 48 application-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 0 mistake-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 1 make-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 4 mistake-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 5 part-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 8 experience-n 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 13 have-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 18 make-v 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 40 19 mistake-n ?,? 2
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 41 0 be-v 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 41 3 sense-n 4
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 41 8 be-v ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 41 12 track-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 41 16 be-v 3
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 41 18 commitment-n ?,? 1
+bn/cnn/03/cnn_0339@0339@cnn@bn@en@on 41 22 part-n ?,? 2

@@ -1,0 +1,32 @@
+bn/voa/01/voa_0159@0159@voa@bn@en@on 0 5 gold be-v be.03 ----- 5:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 0 6 gold kill-v kill.01 ----- 6:0-rel 0:1-ARGM-TMP 7:1-ARGM-TMP 8:1-ARGM-TMP
+bn/voa/01/voa_0159@0159@voa@bn@en@on 1 2 gold report-v report.01 ----- 2:0-rel 0:1-ARG0 3:1-ARGM-DIR
+bn/voa/01/voa_0159@0159@voa@bn@en@on 2 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:5-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 2 20 gold open-v open.01 ----- 20:0-rel 4:2-ARG0 21:1-ARG1 22:1-ARG3
+bn/voa/01/voa_0159@0159@voa@bn@en@on 2 21 gold fire-n fire.01 ----- 21:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 2 28 gold respond-v respond.01 ----- 28:0-rel 26:1-ARG0
+bn/voa/01/voa_0159@0159@voa@bn@en@on 3 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 3 5 gold hit-v hit.01 ----- 5:0-rel 2:1-ARG2 6:1-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 3 10 gold kill-v kill.01 ----- 10:0-rel 2:1-ARG0 11:3-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 4 6 gold be-v be.03 ----- 6:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 4 7 gold kill-v kill.01 ----- 7:0-rel 8:1-ARGM-LOC
+bn/voa/01/voa_0159@0159@voa@bn@en@on 4 11 gold clash-n clash.01 ----- 11:0-rel 10:0-ARGM-MNR 13:2-ARGM-ADJ
+bn/voa/01/voa_0159@0159@voa@bn@en@on 4 14 gold go-v go.15 ----- 14:0,15:1-rel 16:1-ARGM-TMP 9:1-LINK-SLC
+bn/voa/01/voa_0159@0159@voa@bn@en@on 5 10 gold gun-v gun.01 ----- 10:0,11:1-rel 0:1-ARGM-LOC 8:1-ARG0 12:2-ARG1 20:1-ARGM-TMP
+bn/voa/01/voa_0159@0159@voa@bn@en@on 5 22 gold be-v be.03 ----- 22:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 5 23 gold stand-v stand.01 ----- 23:0-rel 21:1-ARG1 24:1-ARG2
+bn/voa/01/voa_0159@0159@voa@bn@en@on 6 1 gold call-v call.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 4:2-ARG2
+bn/voa/01/voa_0159@0159@voa@bn@en@on 6 3 gold shoot-n shoot.01 ----- 3:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 6 5 gold assassination-n assassination.01 ----- 5:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 7 3 gold say-v say.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 7 5 gold be-v be.03 ----- 5:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 7 6 gold check-v check.01 ----- 6:0-rel 4:1-ARG0 7:1-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 7 8 gold report-n report.01 ----- 8:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 8 1 gold shoot-n shoot.01 ----- 1:0-rel
+bn/voa/01/voa_0159@0159@voa@bn@en@on 8 2 gold appear-v appear.02 ----- 2:0-rel 0:1,3:2-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 8 4 gold be-v be.01 ----- 4:0-rel 5:2-ARG2
+bn/voa/01/voa_0159@0159@voa@bn@en@on 8 11 gold target-v target.01 ----- 11:0-rel 12:0-ARG2 13:1-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 9 5 gold say-v say.01 ----- 5:0-rel 0:2-ARG0 6:1-ARGM-TMP 8:3-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 9 10 gold have-v have.03 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-TMP 11:2-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 9 14 gold track-v track.02 ----- 14:0,15:0-rel 8:1-ARG0 16:2-ARG1
+bn/voa/01/voa_0159@0159@voa@bn@en@on 9 18 gold attack-v attack.01 ----- 18:0-rel 19:1-ARG1 16:1-LINK-SLC

@@ -1,0 +1,25 @@
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 0 26 gold 主办-v 主办.01 ----- 26:0-rel 31:3-ARG1 3:1-ARG0 25:1-ARGM-ADV
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 0 42 gold 揭晓-v 揭晓.01 ----- 42:0-rel 0:2-ARGM-DIS 3:6-ARG0 39:1-ARGM-TMP 40:1-ARGM-LOC
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 3:9-ARG1
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 6 gold 创办-v 创办.01 ----- 6:0-rel 7:4-ARG1 19:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 22 gold 让-v 让.02 ----- 22:0-rel 29:1-ARG0 23:1-ARG1 24:2-ARG2
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 24 gold 变-v 变.01 ----- 24:0-rel 25:1-ARG2
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 43 gold 做出-v 做出.01 ----- 43:0-rel 37:1-ARGM-PRP 44:2-ARG1 54:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 57 gold 继续-v 继续.01 ----- 57:0-rel 58:1-ARG1 66:1-ARG1
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 58 gold 荣获-v 荣获.01 ----- 58:0-rel 59:3-ARG1 66:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 73 gold 取得-v 取得.01 ----- 73:0-rel 69:1-ARG2 74:2-ARG1 87:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 91 gold 管理-v 管理.01 ----- 91:0-rel 107:1-ARG0 90:1-ARGM-ADV
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 94 gold 使-v 使.01 ----- 94:0-rel 107:1-ARG0 95:2-ARG1 99:3-ARG2
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 99 gold 扭亏-v 扭亏.01 ----- 99:0-rel
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 100 gold 脱困-v 脱困.01 ----- 100:0-rel
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 110 gold 瞄准-v 瞄准.01 ----- 110:0-rel 123:1-ARG0 111:1-ARG2
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 114 gold 打造-v 打造.01 ----- 114:0-rel 115:3-ARG1 123:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 126 gold 担任-v 担任.01 ----- 126:0-rel 127:3-ARG1 145:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 1 151 gold 取得-v 取得.01 ----- 151:0-rel 148:1-ARG2 152:2-ARG1 167:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 2 5 gold 强烈-v 强烈.01 ----- 5:0-rel 8:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 2 14 gold 高尚-v 高尚.01 ----- 14:0-rel 16:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 2 18 gold 卓越-v 卓越.01 ----- 18:0-rel 20:1-ARG0
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 2 23 gold 展示-v 展示.01 ----- 23:0-rel 0:3-ARG0 22:1-ARGM-ADV 25:4-ARG1
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 3 3 gold 实现-v 实现.01 ----- 3:0-rel 4:4-ARG1
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 3 10 gold 奋斗-v 奋斗.01 ----- 10:0-rel 2:1-ARG1
+bn/cnr/00/cnr_0059@0059@cnr@bn@ch@on 3 16 gold 实现-v 实现.01 ----- 16:0-rel 0:1-ARG0 1:1-ARGM-LOC 15:1-ARGM-ADV 18:1-ARG1

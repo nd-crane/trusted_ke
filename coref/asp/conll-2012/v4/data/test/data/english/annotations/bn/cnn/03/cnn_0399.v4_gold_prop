@@ -1,0 +1,10 @@
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 0 2 gold get-v get.05 ----- 2:0-rel 3:1-ARG2 6:2-ARGM-ADV
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 0 13 gold be-v be.03 ----- 13:0-rel
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 0 14 gold target-v target.01 ----- 14:0-rel 11:1-ARG0 15:1-ARG1
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 1 2 gold have-v have.01 ----- 2:0-rel
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 1 4 gold link-v link.01 ----- 4:0-rel 0:1-ARG2 3:1-ARGM-MNR 5:1-ARG1
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 3 2 gold believe-v believe.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:4-ARG1
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 3 6 gold attack-v attack.01 ----- 6:0-rel 5:1-ARG1 7:1-ARGM-LOC
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 3 10 gold be-v be.01 ----- 10:0-rel 3:2-ARG1 11:1-ARG2 13:1-ARGM-DIS
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 4 1 gold talk-v talk.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG2
+bn/cnn/03/cnn_0399@0399@cnn@bn@en@on 4 9 gold be-v be.02 ----- 9:0-rel 10:3-ARG1

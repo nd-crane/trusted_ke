@@ -1,0 +1,32 @@
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 1 7 gold have-v have.01 ----- 7:0-rel
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 1 8 gold arise-v arise.01 ----- 8:0-rel 0:2-ARG1 9:1-ARGM-MNR 10:1-ARGM-TMP
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 1 18 gold have-v have.01 ----- 18:0-rel
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 1 20 gold become-v become.01 ----- 20:0-rel 0:2-ARG1 19:1-ARGM-TMP 21:2-ARG2 28:1-ARGM-ADV
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 1 36 gold account-v account.01 ----- 36:0-rel 29:1-ARG0 37:1-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 1 47 gold trade-n trade.01 ----- 47:0-rel 46:0-ARGM-ADJ
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 2 7 gold start-v start.01 ----- 7:0-rel 0:2-ARG0 8:1-ARG1 11:1-ARGM-TMP
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 3 4 gold use-n use.01 ----- 4:0-rel 0:1-ARG0 3:0-ARGM-LVB 5:1-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 3 15 gold stress-v stress.01 ----- 15:0-rel 0:1-ARG0 14:1-ARGM-ADV 16:2-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 3 16 gold introduce-v introduce.02 ----- 16:0-rel 17:1-ARG1 23:2-ARGM-ADV
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 3 24 gold increase-v increase.01 ----- 24:0-rel 23:1-ARGM-DIS 25:1-ARG1 29:1-ARG2
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 4 7 gold have-v have.03 ----- 7:0-rel 0:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-TMP 8:3-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 4 22 gold have-v have.01 ----- 22:0-rel
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 4 23 gold reach-v reach.01 ----- 23:0-rel 19:3-ARG0 24:2-ARG1 28:1-ARGM-ADV
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 5 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1 11:1-ARGM-ADV
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 5 18 gold reach-v reach.01 ----- 18:0-rel 12:1-ARG0 19:2-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 10 gold have-v have.01 ----- 10:0-rel
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 12 gold become-v become.01 ----- 12:0-rel 0:1-ARGM-MNR 9:1-ARG1 11:1-ARGM-TMP 13:2-ARG2 26:2-ARGM-ADV 40:1-ARGM-ADV 50:1-ARGM-ADV
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 18 gold manufacture-v manufacture.01 ----- 18:0-rel 17:0-ARG1 19:0-ARG0
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 27 gold export-v export.01 ----- 27:0-rel 26:1-ARGM-TMP 28:4-ARG1 9:1-LINK-PCR
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 41 gold earn-v earn.01 ----- 41:0-rel 42:0,43:0-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 43 gold exchange-n exchange.01 ----- 43:0-rel 41:0-ARGM-PRD 42:0-ARG2
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 44 gold reach-v reach.01 ----- 44:0-rel 41:1-ARG0 45:2-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 6 55 gold account-v account.01 ----- 55:0-rel 51:2-ARG0 56:1-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 7 2 gold presentation-n presentation.01 ----- 2:0-rel
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 7 12 gold have-v have.01 ----- 12:0-rel
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 7 13 gold show-v show.01 ----- 13:0-rel 0:1-ARGM-ADV 4:2-ARG0 14:2-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 7 18 gold increase-n increase.01 ----- 18:0-rel 17:0-ARGM-MNR
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 8 11 gold examine-v examine.01 ----- 11:0-rel 0:1-ARGM-TMP 8:1-ARG0 10:1-ARGM-MNR 12:1-ARG1
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 8 22 gold pass-v pass.07 ----- 22:0-rel 18:2-ARG1 23:1-ARGM-EXT 25:2-ARGM-PRD
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 8 25 gold account-v account.01 ----- 25:0-rel 26:1-ARG1 18:2-LINK-PCR
+nw/xinhua/02/chtb_0239@0239@xinhua@nw@en@on 9 29 gold have-v have.03 ----- 29:0-rel 0:1-ARGM-LOC 4:2-ARG0 30:1-ARG1

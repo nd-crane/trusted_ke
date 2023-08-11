@@ -1,0 +1,20 @@
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 1 7 gold purchase-v purchase.01 ----- 7:0-rel 8:1-ARG0 13:2-ARGM-MNR 4:1-LINK-PCR
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 1 13 gold use-v use.01 ----- 13:0-rel 14:2-ARG1
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 1 16 gold provide-v provide.01 ----- 16:0-rel 17:1-ARG0 14:1-LINK-PCR
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 1 24 gold hold-v hold.04 ----- 24:0-rel 25:1-ARGM-TMP 26:1-ARGM-LOC
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 2 10 gold have-v have.01 ----- 10:0-rel
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 2 11 gold enter-v enter.01 ----- 11:0-rel 6:2-ARG0 12:1-ARG1 13:1-ARGM-MNR
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 3 12 gold come-v come.01 ----- 12:0-rel 13:1-ARGM-ADV 14:2-ARGM-PRP 0:3-LINK-SLC
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 3 15 gold attend-v attend.01 ----- 15:0-rel 16:1-ARG1 0:3*11:1-LINK-SLC 11:1-LINK-PCR
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 3 26 gold hand-v hand.01 ----- 26:0-rel 0:4-ARG0 27:3-ARG1 41:1-ARG2
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 4 2 gold include-v include.01 ----- 2:0-rel 0:1-ARG2 3:3-ARG1
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 6 gold deliver-v deliver.01 ----- 6:0-rel 0:2-ARG0 7:1-ARG1 9:1-ARGM-LOC
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 8 gold speech-n speech.01 ----- 8:0-rel 7:0-ARGM-MNR
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 14 gold hope-v hope.01 ----- 14:0-rel 15:2-ARG1
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 16 gold use-v use.01 ----- 16:0-rel 17:1-ARG1 18:1-ARG2 21:3-ARGM-PRP
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 20 gold start-n start.01 ----- 20:0-rel
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 22 gold expand-v expand.01 ----- 22:0-rel 23:2-ARG1
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 23 gold trade-n trade.01 ----- 23:0-rel 24:1-ARG0
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 5 30 gold promote-v promote.01 ----- 30:0-rel 31:1-ARG1 32:1-ARGM-LOC
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 6 6 gold provide-v provide.01 ----- 6:0-rel 0:1-ARGM-TMP 2:2-ARG0 7:1-ARG2 8:1-ARG1
+nw/xinhua/01/chtb_0159@0159@xinhua@nw@en@on 7 10 gold import-v import.01 ----- 10:0-rel 11:2-ARG1

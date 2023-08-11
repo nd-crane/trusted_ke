@@ -1,0 +1,100 @@
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 0 3 follow-v 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 0 8 lead-n ?,? 4
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 0 10 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 0 13 back-v ?,? 5
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 0 19 program-n 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 0 22 airline-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 1 9 company-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 1 10 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 1 14 renew-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 1 15 contract-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 1 22 unit-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 1 32 unit-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 1 38 end-n ?,? 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 2 2 remain-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 2 5 program-n 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 2 12 unit-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 3 0 industry-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 3 1 estimate-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 3 2 put-v 5
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 3 6 cost-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 3 10 program-n ?,? 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 4 6 specify-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 4 8 cost-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 4 10 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 4 13 airline-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 4 15 drop-v ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 4 16 account-n ?,? 8
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 5 20 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 5 22 have-v 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 5 24 plan-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 5 26 follow-v 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 5 27 suit-n ?,? 6
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 1 fact-n ?,? 5
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 4 indicate-v ?,? 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 6 see-v ?,? 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 8 benefit-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 10 stay-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 14 program-n ?,? 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 19 earn-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 27 get-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 6 31 discount-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 4 see-v ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 7 news-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 14 benefit-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 17 program-n ?,? 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 20 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 26 vice-n ?,? 4
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 27 president-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 7 29 marketing-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 8 3 be-v 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 8 8 airline-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 8 12 have-v 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 8 13 agreement-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 9 2 participate-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 9 9 program-n 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 9 14 airline-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 9 16 include-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 9 24 unit-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 10 1 month-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 10 12 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 10 16 drop-v ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 10 18 marketing-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 10 19 agreement-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 10 56 end-v ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 2 time-n 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 5 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 8 fee-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 11 airline-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 12 amount-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 20 value-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 22 redeem-v 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 23 award-n ?,? 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 11 24 top-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 12 0 analyst-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 12 6 doubt-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 12 8 number-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 12 9 be-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 13 1 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 13 6 cost-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 13 7 be-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 13 14 level-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 5 vice-n ?,? 4
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 6 president-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 8 marketing-n ?,? 4
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 10 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 16 cost-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 17 attach-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 23 program-n 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 27 diminish-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 14 29 value-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 15 3 be-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 15 11 say-v ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 2 have-v 12
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 4 look-v 5
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 6 get-v 3
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 8 cost-n ?,? 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 13 be-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 17 way-n ?,? 2
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 19 do-v 1
+nw/wsj/23/wsj_2394@2394@wsj@nw@en@on 16 24 say-v ?,? 1

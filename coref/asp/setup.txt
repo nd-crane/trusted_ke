@@ -1,0 +1,12 @@
+Followed instructions at https://github.com/lyutyuh/asp
+
+git submodule add https://github.com/lyutyuh/ASP.git asp
+cd ASP
+export ASP=$PWD # setting environment variable
+
+mamba create -n asp
+mamba env update -n asp -f environment.yml
+
+Got an error about repodata
+
+Then downloaded conll-2012 data

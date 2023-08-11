@@ -1,0 +1,44 @@
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 5 gold have-v have.01 ----- 5:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 6 gold call-v call.05 ----- 6:0,7:0-rel 0:3-ARG0 8:1-ARG1 10:3-ARG2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 11 gold stop-v stop.01 ----- 11:0-rel 12:2-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 12 gold talk-v talk.01 ----- 12:0-rel 13:1-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 14 gold war-n war.01 ----- 14:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 0 17 gold make-v make.01 ----- 17:0-rel 18:2-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 2 gold interview-n interview.01 ----- 2:0-rel 3:1-ARG0 6:1-ARGM-TMP
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 9 gold say-v say.01 ----- 9:0-rel 0:1-ARGM-LOC 7:1-ARG0 10:3-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 11 gold know-v know.01 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 13 gold be-v be.01 ----- 13:0-rel 14:1-ARG2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 19 gold return-n return.02 ----- 19:0-rel 20:1-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 22 gold capture-v capture.01 ----- 22:0-rel 21:1-ARG1 23:1-ARGM-TMP
+bn/voa/02/voa_0259@0259@voa@bn@en@on 1 28 gold war-n war.01 ----- 28:0-rel 25:0-ARGM-TMP 26:1-ARGM-LOC
+bn/voa/02/voa_0259@0259@voa@bn@en@on 2 2 gold acknowledge-v acknowledge.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 2 9 gold return-n return.01 ----- 9:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 2 gold interview-n interview.01 ----- 2:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 7 gold say-v say.01 ----- 7:0-rel 0:1-ARGM-LOC 3:2-ARG0 8:4-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 12 gold have-v have.01 ----- 12:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 15 gold progress-n progress.01 ----- 15:0-rel 8:1-ARG1 13:0-ARGM-LVB 14:0-ARGM-ADJ 16:4-ARGM-ADJ
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 27 gold have-v have.01 ----- 27:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 28 gold suspend-v suspend.01 ----- 28:0-rel 23:2-ARG0 29:2-ARG1 33:1-ARGM-TMP
+bn/voa/02/voa_0259@0259@voa@bn@en@on 3 29 gold contact-n contact.01 ----- 29:0-rel 30:1-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 4 3 gold have-v have.03 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 4 5 gold report-n report.01 ----- 5:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 4 gold decision-n decision.01 ----- 4:0-rel 0:2-ARG0 5:1-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 7 gold meet-v meet.03 ----- 7:0-rel 2:0-ARG0 5:0-ARGM-NEG 8:1-ARG1 10:1-ARGM-TMP
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 12 gold come-v come.01 ----- 12:0-rel 0:3-ARG1 13:1-ARGM-TMP
+bn/voa/02/voa_0259@0259@voa@bn@en@on 5 19 gold speech-n speech.01 ----- 19:0-rel 14:1-ARG0 18:0-ARGM-MNR 20:1-ARGM-TMP 22:1-ARG2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 6 2 gold accuse-v accuse.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:1-ARG2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 6 5 gold wage-v wage.01 ----- 5:0-rel 6:1-ARG1 11:1-ARG2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 6 10 gold war-n war.01 ----- 10:0-rel 7:1-ARGM-MNR 11:1-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 7 gold have-v have.01 ----- 7:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 14 gold talk-n talk.01 ----- 14:0-rel 13:0-ARGM-ADJ
+bn/voa/02/voa_0259@0259@voa@bn@en@on 7 15 gold have-v have.01 ----- 15:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 8 6 gold reaffirm-v reaffirm.01 ----- 6:0-rel 0:1-ARGM-TMP 4:1-ARG0 7:3-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 8 15 gold meet-v meet.03 ----- 15:0-rel 4:1-ARG0 16:1-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 2 gold be-v be.03 ----- 2:0-rel
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 3 gold expect-v expect.01 ----- 3:0-rel 4:2-ARGM-TMP 7:1-ARGM-LOC
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 16 gold tell-v tell.01 ----- 16:0-rel 11:2-ARG0 17:1-ARG2 19:1-ARGM-TMP 20:3-ARG1
+bn/voa/02/voa_0259@0259@voa@bn@en@on 9 24 gold be-v be.01 ----- 24:0-rel 20:1-ARG1 23:1-ARGM-TMP 25:1-ARG2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 10 1 gold describe-v describe.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 5:1-ARG2
+bn/voa/02/voa_0259@0259@voa@bn@en@on 10 4 gold speech-n speech.01 ----- 4:0-rel 3:0-ARG0
+bn/voa/02/voa_0259@0259@voa@bn@en@on 11 4 gold risk-v risk.01 ----- 4:0-rel 0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1 8:1-ARGM-TMP
+bn/voa/02/voa_0259@0259@voa@bn@en@on 12 2 gold trail-v trail.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:1,4:0-ARGM-EXT 5:2-ARG1 13:1-ARGM-LOC

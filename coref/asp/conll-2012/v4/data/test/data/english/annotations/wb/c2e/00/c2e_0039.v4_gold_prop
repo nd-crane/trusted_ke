@@ -1,0 +1,90 @@
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 0 1 gold thank-v thank.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 0 6 gold wish-v wish.01 ----- 6:0-rel 0:1-ARG0 7:1-ARG2 8:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 3 3 gold thank-v thank.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 3 8 gold wish-v wish.01 ----- 8:0-rel 2:1-ARG0 9:1-ARG2 10:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 5 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 5 10 gold lose-v lose.02 ----- 10:0-rel 9:1-ARG0 11:1-ARG1 15:2-ARGM-ADV
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 5 17 gold be-v be.01 ----- 17:0-rel 16:1-ARG1 18:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 5 25 gold find-v find.01 ----- 25:0-rel 26:1-ARG1 28:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 5 32 gold keep-v keep.01 ----- 32:0-rel 33:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 5 34 gold go-v go.01 ----- 34:0-rel 33:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 6 9 gold be-v be.02 ----- 9:0-rel 1:1-ARGM-TMP 10:1-ARGM-ADV 11:3-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 6 23 gold think-v think.01 ----- 23:0-rel 20:1-ARG0 22:0-ARGM-NEG 24:3-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 6 27 gold go-v go.04 ----- 27:0-rel
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 6 30 gold hire-v hire.01 ----- 30:0-rel 31:1-ARG1 32:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 7 5 gold weigh-v weigh.02 ----- 5:0-rel 2:1-ARG0 6:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 7 16 gold eat-v eat.01 ----- 16:0-rel 13:1-ARG0 14:0-ARGM-MOD 15:0-ARGM-NEG
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 7 20 gold sleep-v sleep.01 ----- 20:0-rel 13:1-ARG0 18:0-ARGM-MOD 19:0-ARGM-NEG
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 7 25 gold go-v go.08 ----- 25:0-rel 22:1-ARG1 24:1-ARGM-ADV 26:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 8 3 gold need-v need.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 8 8 gold get-v get.03 ----- 8:0-rel 9:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 9 2 gold start-v start.01 ----- 2:0-rel 0:1-ARGM-TMP 1:1-ARG0 3:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 9 3 gold connect-v connect.01 ----- 3:0-rel 4:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 9 11 gold go-v go.02 ----- 11:0-rel 10:1-ARG0 12:1-ARG4 14:2-ARGM-PRP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 9 15 gold ask-v ask.02 ----- 15:0-rel 16:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 9 19 gold consult-v consult.01 ----- 19:0-rel 10:1-ARG0 20:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 9 25 gold look-v look.01 ----- 25:0-rel 10:1-ARG0 26:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 9 30 gold solve-v solve.01 ----- 30:0-rel 31:1-ARG1 27:1-LINK-SLC
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 10 13 gold get-v get.03 ----- 13:0-rel 0:4-ARG1 14:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 10 14 gold involve-v involve.01 ----- 14:0-rel
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 11 3 gold be-v be.01 ----- 3:0-rel 0:1*6:2-ARG1 4:1-ARGM-TMP 5:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 11 7 gold help-v help.01 ----- 7:0-rel 8:1-ARG2 9:1-ARGM-TMP 5:1-LINK-SLC
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 12 2 gold get-v get.04 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 12 5 gold know-v know.01 ----- 5:0-rel 4:1-ARG0 3:1-LINK-SLC
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 12 7 gold recommend-v recommend.01 ----- 7:0-rel 3:2-ARG0 8:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 12 10 gold help-v help.01 ----- 10:0-rel 3:2-ARG0 11:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 12 12 gold send-v send.04 ----- 12:0,13:1-rel 11:1-ARG0 14:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 12 17 gold call-v call.02 ----- 17:0-rel 3:2-ARG0
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 12 19 gold commiserate-v commiserate.01 ----- 19:0-rel 3:2-ARG0 20:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 1 gold be-v be.02 ----- 1:0-rel 2:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 7 gold get-v get.01 ----- 7:0-rel 6:1-ARGM-TMP 8:1-ARG1 2:1-LINK-SLC
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 15 gold want-v want.01 ----- 15:0-rel 12:1-ARG0 14:0-ARGM-NEG 16:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 17 gold go-v go.02 ----- 17:0-rel
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 21 gold recommend-v recommend.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 24 gold go-v go.02 ----- 24:0-rel 22:1-ARG0 25:1-ARGM-GOL
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 30 gold be-v be.01 ----- 30:0-rel 29:1-ARG1 31:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 39 gold be-v be.01 ----- 39:0-rel 37:1-ARG1 40:0-ARGM-NEG 41:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 48 gold help-v help.01 ----- 48:0-rel 44:1-ARGM-ADV 46:1-ARG0 47:0-ARGM-MOD 49:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 50 gold keep-v keep.01 ----- 50:0-rel 49:1-ARG0 51:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 13 57 gold think-v think.01 ----- 57:0-rel 56:1-ARG0 58:3-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 14 6 gold fly-v fly.01 ----- 6:0-rel 0:1-ARGM-TMP 7:1-ARGM-GOL 10:2-ARGM-PRD
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 14 10 gold land-v land.01 ----- 10:0-rel 11:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 16 7 gold pass-v pass.03 ----- 7:0-rel 0:1-ARGM-TMP 2:2-ARG1 8:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 16 10 gold have-v have.01 ----- 10:0-rel
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 16 11 gold get-v get.05 ----- 11:0-rel 9:1-ARG1 12:1-ARGM-DIR 13:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 17 2 gold be-v be.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 17 6 gold walk-v walk.01 ----- 6:0-rel
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 17 12 gold pump-v pump.02 ----- 12:0,13:1-rel 14:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 17 19 gold be-v be.01 ----- 19:0-rel 17:1-ARG1 18:0-ARGM-MOD 20:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 18 4 gold last-v last.01 ----- 4:0-rel 0:1-ARG1 3:0-ARGM-NEG 5:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 18 12 gold be-v be.01 ----- 12:0-rel 11:1-ARG1 13:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 19 1 gold feel-v feel.02 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 19 4 gold go-v go.06 ----- 4:0-rel 2:1-ARG1 5:1-ARGM-MNR
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 19 8 gold start-v start.01 ----- 8:0-rel 0:1-ARG0 9:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 19 10 gold feel-v feel.01 ----- 10:0-rel 11:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 20 8 gold be-v be.01 ----- 8:0-rel 1:1-ARGM-TMP 4:1-ARG1 9:0-ARGM-NEG 10:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 20 20 gold go-v go.02 ----- 20:0-rel 21:1-ARGM-DIR
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 20 23 gold talk-v talk.01 ----- 23:0-rel 24:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 21 5 gold get-v get.05 ----- 5:0-rel 1:1-ARGM-TMP 4:1-ARG1 6:1-ARGM-DIR 7:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 21 10 gold run-v run.02 ----- 10:0-rel 1:1-ARGM-TMP 4:1-ARG0 11:1-ARGM-DIR 12:2-ARGM-PRP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 21 13 gold chat-v chat.01 ----- 13:0-rel 14:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 21 20 gold be-v be.01 ----- 20:0-rel 18:1-ARG1 21:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 21 25 gold embarrass-v embarrass.01 ----- 25:0-rel 18:1-ARG0 24:0-ARGM-NEG 26:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 21 33 gold end-v end.01 ----- 33:0-rel 29:1-ARGM-TMP 32:1-ARG1 34:1-ARGM-MNR
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 22 24 gold say-v say.01 ----- 24:0-rel 23:1-ARG0 25:5-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 22 28 gold be-v be.01 ----- 28:0-rel 26:0-ARGM-MOD 27:0-ARGM-NEG 29:1-ARG2 30:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 22 33 gold come-v come.01 ----- 33:0-rel 31:1-ARG1 34:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 22 51 gold wait-v wait.01 ----- 51:0-rel 38:1-ARG1 39:0-ARGM-MOD 52:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 22 63 gold return-v return.01 ----- 63:0-rel 59:1-ARG1 62:0-ARGM-MOD
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 22 65 gold turn-v turn.06 ----- 65:0,66:0-rel 59:1-ARG0 62:0-ARGM-MOD 67:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 23 2 gold go-v go.02 ----- 2:0-rel 1:1-ARG0 3:2-ARG4
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 23 10 gold fill-v fill.03 ----- 10:0,11:1-rel 9:1-ARG0 12:2-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 24 7 gold settle-v settle.03 ----- 7:0-rel 0:1-ARGM-TMP 4:1-ARG1 6:1-ARGM-TMP
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 25 4 gold receive-v receive.01 ----- 4:0-rel 0:1-ARGM-TMP 1:1-ARGM-TMP 3:1-ARG0 5:1-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 26 10 gold go-v go.02 ----- 10:0-rel 1:1-LINK-PCR
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 26 17 gold guarantee-v guarantee.01 ----- 17:0-rel 19:0-ARG1
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 27 3 gold thank-v thank.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG0 4:1-ARG1 5:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 27 6 gold help-v help.01 ----- 6:0-rel 7:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 28 9 gold look-v look.01 ----- 9:0-rel 8:1-ARGM-TMP 10:1-ARG1 3:1-LINK-SLC
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 28 13 gold be-v be.01 ----- 13:0-rel 3:2-ARG1 12:0-ARGM-MOD 14:1-ARG2
+wb/c2e/00/c2e_0039@0039@c2e@wb@en@on 28 16 gold find-v find.01 ----- 16:0-rel 17:1-ARG1 20:1-ARGM-TMP

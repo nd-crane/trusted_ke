@@ -1,0 +1,1092 @@
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 0 10 gold 工作-v 工作.01 ----- 10:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-LOC
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 1 6 gold 有-v 有.03 ----- 6:0-rel 0:1-ARG0 1:1-ARG0 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 3 1 gold 追随-v 追随.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 5 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 5 12 gold 细看-v 细看.01 ----- 12:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 5 23 gold 超出-v 超出.01 ----- 23:0-rel 12:3-ARGM-MNR 15:2-ARG0 25:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 5 27 gold 能-v 能.01 ----- 27:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 6 2 gold 是-v 是.04 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 6 3 gold 超出-v 超出.01 ----- 3:0-rel 0:1-ARGM-ADV 1:1-ARGM-ADV 5:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 6 6 gold 敢于-v 敢于.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 6 7 gold 描述-v 描述.01 ----- 7:0-rel 5:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 7 4 gold 勒令-v 勒令.01 ----- 4:0-rel 0:1-ARGM-TMP 5:2-ARG2 8:1-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 7 5 gold 关闭-v 关闭.01 ----- 5:0-rel 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 7 22 gold 付-v 付.01 ----- 22:0-rel 9:1-ARG0 10:1-ARGM-TMP 14:1-ARGM-ADV 15:1-ARGM-ADV 16:1-ARG2 23:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 8 2 gold 拿到-v 拿到.01 ----- 2:0-rel 5:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 8 8 gold 遗弃-v 遗弃.01 ----- 8:0-rel 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 8 15 gold 不幸-v 不幸.01 ----- 15:0-rel 0:1-ARGM-DIR 13:1-ARG0 14:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 9 6 gold 定罪-v 定罪.01 ----- 6:0-rel 2:1-ARG1 4:1-ARGM-TMP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 9 9 gold 做-v 做.01 ----- 9:0-rel 2:1-ARG0 3:1-ARGM-TMP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 9 11 gold 一样-v 一样.01 ----- 11:0-rel 0:2-ARGM-MNR
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 9 18 gold 释放-v 释放.01 ----- 18:0-rel 13:1-ARG1 17:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 9 22 gold 继续-v 继续.01 ----- 22:0-rel 13:1-ARG0 14:1-ARGM-TMP 21:1-ARGM-DIS 23:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 9 30 gold 去-v 去.01 ----- 30:0-rel 13:1-ARG0 27:1-ARGM-TMP 31:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 9 38 gold 露面-v 露面.01 ----- 38:0-rel 13:1-ARG0 36:1-ARGM-TMP 37:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 10 6 gold 工作-v 工作.01 ----- 6:0-rel 8:1-ARG0 3:1-ARGM-LOC
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 10 13 gold 盖-v 盖.02 ----- 13:0-rel 25:1-ARG1 12:1-ARGM-ADV 15:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 10 19 gold 戴-v 戴.01 ----- 19:0-rel 25:1-ARG0 12:1-ARGM-ADV 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 10 27 gold 是-v 是.01 ----- 27:0-rel 2:1-ARGM-DIR 11:2-ARG0 26:1-ARGM-ADV 28:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 10 30 gold 有钱-v 有钱.01 ----- 30:0-rel 36:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 10 32 gold 溺爱-v 溺爱.01 ----- 32:0-rel 36:1-ARG0 33:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 11 5 gold 会-v 会.01 ----- 5:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 11 6 gold 穿-v 穿.01 ----- 6:0-rel 0:1-ARGM-DIS 1:2-ARG0 4:1-ARGM-ADV 7:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 12 1 gold 有-v 有.01 ----- 1:0-rel 0:1-ARGM-ADV 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 13 8 gold 熟悉-v 熟悉.01 ----- 8:0-rel 0:1-ARGM-ADV 1:3-ARG1 6:1-ARGM-ADV 7:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 14 7 gold 刊登-v 刊登.01 ----- 7:0-rel 0:1-ARGM-TMP 3:1-ARG1 9:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 14 18 gold 是-v 是.01 ----- 18:0-rel 15:5-ARG0 20:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 14 21 gold 说-v 说.01 ----- 21:0-rel 20:1-ARG0 23:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 14 23 gold 令-v 令.01 ----- 23:0-rel 27:1-ARG0 24:1-ARG1 25:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 14 25 gold 毛骨悚然-v 毛骨悚然.01 ----- 25:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 14 28 gold 是-v 是.01 ----- 28:0-rel 23:5-ARG0 29:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 15 4 gold 是-v 是.01 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-ADV 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 15 9 gold 声称-v 声称.01 ----- 9:0-rel 11:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 15 12 gold 来自-v 来自.01 ----- 12:0-rel 8:5-ARG0 13:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 15 15 gold 放弃-v 放弃.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV 24:1,26:4,28:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 15 18 gold 让-v 让.02 ----- 18:0-rel 19:1-ARG1 20:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 15 21 gold 知道-v 知道.01 ----- 21:0-rel 20:1-ARGM-ADV 24:1,26:4,28:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 15 26 gold 预计-v 预计.01 ----- 26:0-rel 28:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 16 0 gold 读到-v 读到.01 ----- 0:0-rel 1:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 16 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 16 5 gold 让-v 让.02 ----- 5:0-rel 6:1-ARG1 7:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 16 7 gold 作-v 作.01 ----- 7:0-rel 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 16 21 gold 是-v 是.01 ----- 21:0-rel 17:1-ARG0 18:1-ARGM-ADV 19:1-ARGM-ADV 20:1-ARGM-ADV 22:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 16 25 gold 耸人听闻-v 耸人听闻.01 ----- 25:0-rel 28:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 17 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 18 8 gold 安排-v 安排.01 ----- 8:0-rel 3:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 7:1-ARGM-ADV 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 18 9 gold 让-v 让.02 ----- 9:0-rel 10:1-ARG1 11:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 18 11 gold 成为-v 成为.01 ----- 11:0-rel 12:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 1 gold 讲述-v 讲述.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 4 gold 是-v 是.04 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 6 gold 让-v 让.02 ----- 6:0-rel 2:1-ARG0 5:1-ARGM-ADV 7:1-ARG1 8:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 8 gold 参加-v 参加.01 ----- 8:0-rel 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 23 gold 说-v 说.01 ----- 23:0-rel 0:1-ARG0 22:1-ARGM-DIS 24:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 26 gold 知道-v 知道.01 ----- 26:0-rel 24:1-ARG0 25:1-ARGM-ADV 27:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 32 gold 会-v 会.02 ----- 32:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 34 gold 有-v 有.03 ----- 34:0-rel 27:1-ARGM-LOC 31:1-ARGM-ADV 35:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 19 36 gold 发生-v 发生.01 ----- 36:0-rel 35:1-ARG0 38:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 20 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 20 3 gold 感觉-v 感觉.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1 8:1-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 20 12 gold 会-v 会.02 ----- 12:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 20 13 gold 病-v 病.01 ----- 13:0-rel 9:1-ARG0 10:1-ARGM-TMP 11:1-ARGM-ADV 15:1-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 21 4 gold 做-v 做.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-ADV 5:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 21 10 gold 写道-v 写道.01 ----- 10:0-rel 9:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 22 1 gold 使-v 使.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1 8:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 22 8 gold 上升-v 上升.01 ----- 8:0-rel 11:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 22 16 gold 看到-v 看到.01 ----- 16:0-rel 15:1-ARG0 17:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 22 25 gold 交换-v 交换.01 ----- 25:0-rel 17:1-ARG0 21:1-ARGM-DIS 22:1-ARGM-MNR 26:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 23 2 gold 熟悉-v 熟悉.01 ----- 2:0-rel 11:1-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 23 16 gold 是-v 是.01 ----- 16:0-rel 0:1-ARGM-DIR 14:1-ARG0 17:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 23 22 gold 作为-v 作为.02 ----- 22:0-rel 27:1-ARG0 23:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 23 34 gold 送给-v 送给.01 ----- 34:0-rel 22:5-ARG0 29:3-ARG1 32:1-ARGM-MNR 35:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 23 37 gold 虐待-v 虐待.01 ----- 37:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 23 39 gold 换取-v 换取.01 ----- 39:0-rel 22:5-ARG0 40:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 24 1 gold 缺少-v 缺少.01 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 24 4 gold 是-v 是.01 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-ADV 5:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 25 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARGM-ADV 2:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 25 8 gold 描述-v 描述.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-DIS 10:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 25 13 gold 戴-v 戴.01 ----- 13:0-rel 20:1-ARG0 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 26 0 gold 相比-v 相比.01 ----- 0:0-rel 1:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 26 1 gold 怀疑-v 怀疑.01 ----- 1:0-rel 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 26 7 gold 有关-v 有关.01 ----- 7:0-rel 2:2-ARG0 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 26 16 gold 能-v 能.01 ----- 16:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 26 17 gold 了解-v 了解.01 ----- 17:0-rel 0:2-ARGM-ADV 9:1-ARG0 10:1-ARGM-ADV 11:1-ARG2 18:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 27 3 gold 说明-v 说明.01 ----- 3:0-rel 0:1-ARGM-ADV 1:1-ARG0 2:1-ARGM-ADV 4:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 27 6 gold 是-v 是.04 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 27 8 gold 利用-v 利用.01 ----- 8:0-rel 4:2-ARG0 7:1-ARGM-ADV 9:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 27 11 gold 存在-v 存在.01 ----- 11:0-rel 13:1-ARG1 9:1-ARGM-ADV 10:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 27 18 gold 要-v 要.03 ----- 18:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 27 23 gold 怀疑-v 怀疑.01 ----- 23:0-rel 20:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 27 27 gold 常见-v 常见.01 ----- 27:0-rel 16:2-ARG0 19:1-ARGM-ADV 25:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 28 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 28 5 gold 会-v 会.02 ----- 5:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 28 6 gold 想到-v 想到.01 ----- 6:0-rel 3:1-ARGM-ADV 4:1-ARG0 7:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 29 5 gold 应-v 应.02 ----- 5:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 29 8 gold 信-v 信.01 ----- 8:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 6:1-ARGM-ADV 7:1-ARGM-ADV 9:2-ARG1 12:3-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 29 13 gold 考虑-v 考虑.01 ----- 13:0-rel 12:1-ARGM-ADV 15:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 31 15 gold 是-v 是.01 ----- 15:0-rel 1:1-ARGM-TMP 14:1-ARG0 16:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 32 4 gold 是-v 是.01 ----- 4:0-rel 0:1-ARG0 5:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 32 8 gold 包括-v 包括.01 ----- 8:0-rel 5:3-ARG0 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 33 2 gold 愿意-v 愿意.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 33 8 gold 会-v 会.02 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 33 9 gold 读到-v 读到.01 ----- 9:0-rel 0:2-ARGM-ADV 4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 7:1-ARGM-ADV 10:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 33 11 gold 讲述-v 讲述.01 ----- 11:0-rel 10:1-ARG0 13:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 2 gold 试-v 试.01 ----- 2:0-rel 7:1,8:1-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 4 gold 脱离-v 脱离.01 ----- 4:0-rel 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 10 gold 一样-v 一样.01 ----- 10:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 14 gold 爬-v 爬.03 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 18 gold 回到-v 回到.01 ----- 18:0-rel 12:1-ARG0 13:1-ARGM-ADV 20:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 22 gold 放弃-v 放弃.01 ----- 22:0-rel 12:1-ARG0 13:1-ARGM-ADV 24:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 29 gold 是-v 是.01 ----- 29:0-rel 28:1-ARGM-ADV 30:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 33 gold 威胁-v 威胁.01 ----- 33:0-rel 31:1-ARG0 32:1-ARGM-ADV 34:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 34 gold 要-v 要.03 ----- 34:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 34 35 gold 打官司-v 打官司.01 ----- 35:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 3 gold 使-v 使.01 ----- 3:0-rel 0:1-ARGM-ADV 2:1-ARG0 4:1-ARG1 6:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 6 gold 有-v 有.05 ----- 6:0-rel 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 8 gold 认为-v 认为.01 ----- 8:0-rel 10:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 13 gold 讨厌-v 讨厌.01 ----- 13:0-rel 10:1-ARG0 11:2-ARGM-ADV 14:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 17 gold 是-v 是.01 ----- 17:0-rel 10:2-ARG0 18:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 19 gold 怕-v 怕.01 ----- 19:0-rel 20:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 21 gold 长-v 长.03 ----- 21:0-rel 20:1-ARG0 22:1-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 35 22 gold 象-v 象.01 ----- 22:0-rel 20:1-ARG0 23:3-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 36 5 gold 审讯-v 审讯.01 ----- 5:0-rel 3:1-ARGM-TMP 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 36 12 gold 出现-v 出现.01 ----- 12:0-rel 0:1-ARGM-DIS 2:1-ARGM-TMP 8:1-ARG1 10:2-ARGM-ADV 13:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 37 9 gold 重要-v 重要.01 ----- 9:0-rel 0:1-ARGM-LOC 5:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-ADV 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 38 11 gold 有-v 有.05 ----- 11:0-rel 0:1-ARGM-DIS 1:3-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 10:1-ARGM-ADV 12:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 39 1 gold 不错-v 不错.01 ----- 1:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 40 4 gold 去-v 去.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-TMP 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 40 7 gold 度假-v 度假.01 ----- 7:0-rel 0:1-ARG0 1:1-ARGM-TMP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 40 12 gold 露面-v 露面.01 ----- 12:0-rel 0:1-ARG0 10:1-ARGM-ADV 11:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 41 8 gold 有-v 有.05 ----- 8:0-rel 0:1-ARGM-ADV 2:1-ARGM-TMP 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 41 10 gold 说-v 说.01 ----- 10:0-rel 9:1-ARG2 11:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 41 12 gold 回到-v 回到.01 ----- 12:0-rel 11:1-ARG0 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 43 2 gold 不可思议-v 不可思议.01 ----- 2:0-rel 6:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 43 4 gold 不可思议-v 不可思议.01 ----- 4:0-rel 6:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 45 7 gold 神圣-v 神圣.01 ----- 7:0-rel 0:1-ARGM-DIR 4:2-ARG0 9:2-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 45 10 gold 如-v 如.01 ----- 10:0-rel 0:1-ARGM-DIR 4:2-ARG0 9:1-ARGM-ADV 11:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 45 16 gold 照-v 照.01 ----- 16:0-rel 17:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 45 23 gold 消灭-v 消灭.01 ----- 23:0-rel 21:1-ARGM-DIS 22:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 46 1 gold 上钩-v 上钩.01 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 46 4 gold 成-v 成.01 ----- 4:0-rel 0:2-ARG0 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 48 0 gold 是-v 是.01 ----- 0:0-rel 1:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 48 5 gold 说-v 说.01 ----- 5:0-rel 4:1-ARG2 6:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 48 13 gold 滋润-v 滋润.01 ----- 13:0-rel 16:1-ARG0 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 48 21 gold 看见-v 看见.01 ----- 21:0-rel 19:1-ARGM-DIS 20:1-ARG0 23:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 48 28 gold 讲-v 讲.01 ----- 28:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 48 30 gold 是-v 是.01 ----- 30:0-rel 28:5-ARG0 32:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 49 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 49 5 gold 命名-v 命名.01 ----- 5:0-rel 0:1-ARG1 3:1-ARG3
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 50 3 gold 说-v 说.01 ----- 3:0-rel 2:1-ARG2 5:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 50 6 gold 会-v 会.02 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 50 7 gold 轮到-v 轮到.01 ----- 7:0-rel 5:1-ARGM-TMP 8:3-ARG1 15:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 50 18 gold 推翻-v 推翻.01 ----- 18:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 51 7 gold 出生-v 出生.01 ----- 7:0-rel 3:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 51 14 gold 避免-v 避免.01 ----- 14:0-rel 0:1-ARG0 15:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 52 5 gold 联系-v 联系.03 ----- 5:0-rel 2:1-ARG1 4:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 52 8 gold 有-v 有.03 ----- 8:0-rel 0:1-ARGM-ADV 2:6-ARG0 7:1-ARGM-ADV 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 52 18 gold 知道-v 知道.01 ----- 18:0-rel 17:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 53 1 gold 提-v 提.01 ----- 1:0-rel 0:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 54 1 gold 需要-v 需要.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 55 2 gold 找到-v 找到.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 55 7 gold 去-v 去.02 ----- 7:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 55 8 gold 打猎-v 打猎.01 ----- 8:0-rel 6:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 55 10 gold 来-v 来.05 ----- 10:0-rel 6:1-ARG0 11:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 55 11 gold 贴-v 贴.01 ----- 11:0-rel 6:1-ARG0 12:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 55 15 gold 贴-v 贴.01 ----- 15:0-rel 14:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 56 6 gold 考虑-v 考虑.01 ----- 6:0-rel 0:1-ARGM-LOC 7:1-ARGM-ADV 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 57 2 gold 牵涉-v 牵涉.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 57 8 gold 得-v 得.02 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 57 13 gold 决定-v 决定.01 ----- 13:0-rel 6:1-ARGM-DIS 7:1-ARG1 9:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 58 3 gold 想-v 想.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:7-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 58 5 gold 重要-v 重要.01 ----- 5:0-rel 4:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 58 7 gold 是-v 是.01 ----- 7:0-rel 4:6-ARG0 8:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 59 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 60 2 gold 是-v 是.01 ----- 2:0-rel 0:2-ARG0 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 6 gold 度过-v 度过.01 ----- 6:0-rel 0:3-ARG1 3:1-ARGM-LOC
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 10 gold 打猎-v 打猎.01 ----- 10:0-rel 12:1-ARGM-TMP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 16 gold 放-v 放.02 ----- 16:0-rel 8:1-ARGM-DIS 9:1-ARGM-TMP 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 18 gold 出来-v 出来.01 ----- 18:0-rel 8:1-ARGM-DIS 9:1-ARGM-TMP 14:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 22 gold 是-v 是.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-ADV 23:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 23 gold 让-v 让.02 ----- 23:0-rel 24:2-ARG1 28:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 30 gold 飞向-v 飞向.01 ----- 30:0-rel 29:1-ARG0 31:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 34 gold 享受-v 享受.01 ----- 34:0-rel 29:1-ARG0 35:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 61 48 gold 杀死-v 杀死.01 ----- 48:0-rel 28:1-ARGM-TMP 43:1-ARGM-MNR 49:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 62 4 gold 是-v 是.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 62 11 gold 有-v 有.03 ----- 11:0-rel 0:2-ARGM-ADV 8:2-ARG0 12:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 62 13 gold 令-v 令.01 ----- 13:0-rel 19:1-ARG0 14:1-ARG1 15:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 62 15 gold 恶心-v 恶心.01 ----- 15:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 62 17 gold 卑劣-v 卑劣.01 ----- 17:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 62 22 gold 参加-v 参加.01 ----- 22:0-rel 26:1-ARG0 23:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 62 29 gold 缺乏-v 缺乏.01 ----- 29:0-rel 21:1-ARGM-DIS 22:5-ARG0 27:1-ARGM-ADV 28:1-ARGM-ADV 30:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 63 10 gold 有趣-v 有趣.01 ----- 10:0-rel 0:4-ARG0 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 64 1 gold 摘自-v 摘自.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 65 7 gold 是-v 是.01 ----- 7:0-rel 0:2-ARG0 8:1-ARG1 17:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 65 17 gold 安排-v 安排.01 ----- 17:0-rel 8:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 66 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 66 10 gold 任-v 任.01 ----- 10:0-rel 0:1-ARG0 9:1-ARGM-ADV 11:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 66 24 gold 创建-v 创建.01 ----- 24:0-rel 20:1-ARG0 22:1-ARGM-TMP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 67 3 gold 服务-v 服务.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-DIS 2:1-ARGM-ADV 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 68 14 gold 成-v 成.01 ----- 14:0-rel 17:1-ARG0 2:1-ARGM-LOC 12:1-ARGM-ADV 13:1-ARGM-ADV 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 68 19 gold 有-v 有.03 ----- 19:0-rel 0:1-ARGM-DIS 2:7-ARG0 21:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 68 26 gold 包括-v 包括.01 ----- 26:0-rel 27:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 68 29 gold 记得-v 记得.01 ----- 29:0-rel 30:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 69 1 gold 走进-v 走进.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 69 11 gold 关闭-v 关闭.01 ----- 11:0-rel 9:1-ARG1 10:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 70 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 72 2 gold 以为-v 以为.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 72 5 gold 会-v 会.02 ----- 5:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 72 6 gold 报道-v 报道.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 7:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 72 18 gold 是-v 是.01 ----- 18:0-rel 16:1-ARGM-DIS 17:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 73 4 gold 发展-v 发展.01 ----- 4:0-rel 2:1-ARGM-TMP 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 73 7 gold 说-v 说.04 ----- 7:0-rel 0:1-ARGM-ADV 1:1-ARGM-TMP 6:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 74 6 gold 提到-v 提到.01 ----- 6:0-rel 2:2-ARG0 7:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 74 12 gold 会-v 会.02 ----- 12:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 74 13 gold 有-v 有.01 ----- 13:0-rel 7:1-ARGM-ADV 8:3-ARG0 11:1-ARGM-ADV 14:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 74 15 gold 般-v 般.01 ----- 15:0-rel 17:1-ARG0 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 74 21 gold 像-v 像.01 ----- 21:0-rel 19:1-ARGM-ADV 20:1-ARGM-ADV 22:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 74 27 gold 受-v 受.01 ----- 27:0-rel 26:1-ARG0 29:1-ARGM-TMP 28:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 74 33 gold 冻结-v 冻结.01 ----- 33:0-rel 22:3-ARG1 25:1-ARGM-TMP 31:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 75 2 gold 属于-v 属于.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 76 2 gold 变态-v 变态.01 ----- 2:0-rel 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 76 4 gold 是-v 是.01 ----- 4:0-rel 1:6-ARG0 6:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 76 7 gold 是-v 是.04 ----- 7:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 76 8 gold 假装-v 假装.01 ----- 8:0-rel 6:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 7 gold 说-v 说.01 ----- 7:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 9:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 11 gold 看见-v 看见.01 ----- 11:0-rel 9:1-ARGM-DIS 10:1-ARG0 12:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 17 gold 看见-v 看见.01 ----- 17:0-rel 9:1-ARGM-DIS 10:1-ARG0 18:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 19 gold 坐-v 坐.01 ----- 19:0-rel 18:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 21 gold 没-v 没.02 ----- 21:0-rel 18:1-ARG0 22:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 23 gold 干-v 干.01 ----- 23:0-rel 18:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 26 gold 喝酒-v 喝酒.01 ----- 26:0-rel 25:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 29 gold 咒骂-v 咒骂.01 ----- 29:0-rel 28:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 36 gold 滑稽-v 滑稽.01 ----- 36:0-rel 31:4-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 37 gold 可笑-v 可笑.01 ----- 37:0-rel 31:4-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 44 gold 是-v 是.01 ----- 44:0-rel 42:1-ARG0 43:1-ARGM-ADV 45:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 49 gold 是-v 是.04 ----- 49:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 58 gold 会-v 会.02 ----- 58:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 61 gold 是-v 是.04 ----- 61:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 77 63 gold 疯狂-v 疯狂.01 ----- 63:0-rel 60:1-ARG0 62:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 78 1 gold 接受-v 接受.01 ----- 1:0-rel 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 78 5 gold 言-v 言.02 ----- 5:0-rel 0:1-ARG0 1:3-ARGM-TMP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 78 9 gold 写-v 写.01 ----- 9:0-rel 8:1-ARG0 17:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 82 14 gold 咒骂-v 咒骂.01 ----- 14:0-rel 0:1-ARGM-TMP 2:1-ARGM-LOC 11:2-ARG0 16:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 82 21 gold 祝福-v 祝福.01 ----- 21:0-rel 0:1-ARGM-TMP 2:1-ARGM-LOC 11:2-ARG0 20:1-ARGM-DIS 22:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 82 23 gold 受损-v 受损.01 ----- 23:0-rel 25:1,27:1-ARG0 22:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 82 29 gold 许诺-v 许诺.01 ----- 29:0-rel 0:1-ARGM-TMP 2:1-ARGM-LOC 11:2-ARG0 30:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 82 41 gold 死去-v 死去.01 ----- 41:0-rel 30:5-ARG0 39:1-ARGM-TMP 40:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 83 2 gold 下令-v 下令.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:3-ARG1 24:3-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 83 11 gold 驻-v 驻.01 ----- 11:0-rel 22:1-ARG0 12:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 83 16 gold 受-v 受.01 ----- 16:0-rel 22:1-ARG0 14:1-ARGM-LOC 18:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 83 32 gold 叫做-v 叫做.01 ----- 32:0-rel 35:1-ARG1 33:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 83 48 gold 用作-v 用作.01 ----- 48:0-rel 41:1-ARGM-DIS 42:1-ARG0 43:1-ARGM-ADV 45:2-ARG1 49:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 84 2 gold 经历-v 经历.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 9 gold 付-v 付.01 ----- 9:0-rel 0:2-ARG0 11:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 16 gold 给-v 给.01 ----- 16:0-rel 0:2-ARG0 17:2-ARG2 22:2-ARG3
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 23 gold 举行-v 举行.01 ----- 23:0-rel 24:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 24 gold 使用-v 使用.01 ----- 24:0-rel 27:1-ARG2 25:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 31 gold 给-v 给.01 ----- 31:0-rel 0:2-ARG0 30:1-ARGM-DIS 32:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 34 gold 名叫-v 名叫.01 ----- 34:0-rel 39:1-ARG0 35:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 44 gold 带来-v 带来.01 ----- 44:0-rel 41:1-ARG0 42:1-ARG2 46:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 85 57 gold 是-v 是.01 ----- 57:0-rel 56:1-ARGM-ADV 58:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 9 gold 安排-v 安排.01 ----- 9:0-rel 16:1-ARG0 10:2-ARG1 12:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 14 gold 见面-v 见面.01 ----- 14:0-rel 12:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 17 gold 是-v 是.01 ----- 17:0-rel 0:1-ARGM-MNR 9:5-ARG0 19:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 30 gold 是-v 是.01 ----- 30:0-rel 29:1-ARG0 31:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 37 gold 相信-v 相信.01 ----- 37:0-rel 36:1-ARG0 38:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 38 gold 是-v 是.01 ----- 38:0-rel 39:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 43 gold 叫-v 叫.04 ----- 43:0-rel 39:2-ARG0 44:1-ARG1 45:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 87 45 gold 杀-v 杀.01 ----- 45:0-rel 47:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 88 1 gold 援引-v 援引.01 ----- 1:0-rel 0:1-ARG0 4:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 88 11 gold 是-v 是.01 ----- 11:0-rel 4:2-ARG0 12:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 88 14 gold 安排-v 安排.01 ----- 14:0-rel 12:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 89 0 gold 等-v 等.01 ----- 0:0-rel 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 90 3 gold 是-v 是.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 90 10 gold 是-v 是.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 90 17 gold 有-v 有.01 ----- 17:0-rel 9:1-ARG0 18:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 91 1 gold 是-v 是.04 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 91 2 gold 援引-v 援引.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 92 5 gold 开始-v 开始.02 ----- 5:0-rel 0:1-ARGM-TMP 3:1-ARG0 6:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 92 8 gold 寻找-v 寻找.01 ----- 8:0-rel 0:1-ARGM-TMP 3:1-ARG0 6:1-ARGM-LOC 9:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 93 1 gold 看中-v 看中.01 ----- 1:0-rel 0:1-ARG0 3:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 93 9 gold 位于-v 位于.01 ----- 9:0-rel 15:1-ARG0 10:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 94 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 95 4 gold 称作-v 称作.01 ----- 4:0-rel 0:1-ARG1 3:1-ARGM-DIS 5:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 95 11 gold 买下-v 买下.01 ----- 11:0-rel 0:1-ARG0 8:1-ARGM-DIR 13:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 96 7 gold 有-v 有.05 ----- 7:0-rel 0:1-ARGM-DIS 1:3-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 96 9 gold 知道-v 知道.01 ----- 9:0-rel 8:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 96 17 gold 报道-v 报道.01 ----- 17:0-rel 0:2-ARGM-ADV 11:1-ARGM-DIS 12:1-ARG0 16:1-ARGM-ADV 19:7-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 96 24 gold 争吵-v 争吵.01 ----- 24:0-rel 27:1-ARG0 19:1-ARGM-ADV 20:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 96 29 gold 住-v 住.01 ----- 29:0-rel 19:6-ARG0 28:1-ARGM-DIS 30:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 97 6 gold 说-v 说.01 ----- 6:0-rel 1:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 97 10 gold 买下-v 买下.01 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 97 21 gold 用作-v 用作.01 ----- 21:0-rel 0:1-ARGM-MNR 8:1-ARGM-TMP 15:1-ARG1 18:1-ARGM-ADV 20:1-ARG0 22:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 98 1 gold 付-v 付.01 ----- 1:0-rel 0:1-ARG0 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 98 5 gold 买下-v 买下.01 ----- 5:0-rel 0:1-ARG0 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 98 12 gold 来自-v 来自.01 ----- 12:0-rel 11:1-ARG0 13:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 99 6 gold 有-v 有.03 ----- 6:0-rel 9:1-ARG0 1:1-ARG0 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 99 20 gold 是-v 是.01 ----- 20:0-rel 0:1-ARGM-MNR 14:3-ARG0 21:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 99 25 gold 雄厚-v 雄厚.01 ----- 25:0-rel 27:1,28:1-ARG0 24:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 100 0 gold 让-v 让.02 ----- 0:0-rel 1:1-ARG1 2:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 100 2 gold 受苦-v 受苦.01 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 101 4 gold 会-v 会.02 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 101 5 gold 让-v 让.02 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG0 6:1-ARG1 7:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 101 7 gold 变成-v 变成.01 ----- 7:0-rel 8:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 101 8 gold 这样-v 这样.01 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 101 18 gold 没有-v 没有.02 ----- 18:0-rel 14:1-ARG0 17:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 7 gold 说明-v 说明.01 ----- 7:0-rel 4:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-ADV 8:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 10 gold 是-v 是.04 ----- 10:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 12 gold 利用-v 利用.01 ----- 12:0-rel 8:2-ARG0 11:1-ARGM-ADV 13:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 15 gold 存在-v 存在.01 ----- 15:0-rel 17:1-ARG1 13:1-ARGM-ADV 14:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 23 gold 要-v 要.03 ----- 23:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 28 gold 怀疑-v 怀疑.01 ----- 28:0-rel 25:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 31 gold 为-v 为.01 ----- 31:0-rel 20:2-ARG0 24:1-ARGM-ADV 30:1-ARGM-ADV 32:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 102 32 gold 常见-v 常见.01 ----- 32:0-rel 20:2-ARG0 24:1-ARGM-ADV 30:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 103 1 gold 同意-v 同意.01 ----- 1:0-rel 0:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 104 1 gold 认为-v 认为.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 104 7 gold 是-v 是.01 ----- 7:0-rel 2:2-ARG0 6:1-ARGM-ADV 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 104 10 gold 可怕-v 可怕.01 ----- 10:0-rel 12:1-ARG0 9:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 105 3 gold 发生-v 发生.01 ----- 3:0-rel 0:3-ARG0 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 106 5 gold 遇见-v 遇见.01 ----- 5:0-rel 0:3-ARG0 7:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 106 11 gold 大-v 大.01 ----- 11:0-rel 15:1-ARG0 8:1-ARGM-ADV 12:1-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 106 19 gold 乐意-v 乐意.01 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV 20:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 106 22 gold 买-v 买.01 ----- 22:0-rel 20:1-ARGM-BNF 23:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 106 25 gold 能-v 能.01 ----- 25:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 106 26 gold 喝-v 喝.01 ----- 26:0-rel 27:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 106 28 gold 买-v 买.01 ----- 28:0-rel 25:2-ARGM-ADV 29:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 107 3 gold 迷上-v 迷上.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-ADV 5:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 107 13 gold 见面-v 见面.01 ----- 13:0-rel 9:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 107 18 gold 符合-v 符合.01 ----- 18:0-rel 15:2-ARG0 17:1-ARGM-ADV 19:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 107 20 gold 列-v 列.02 ----- 20:0-rel 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 108 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 108 5 gold 名叫-v 名叫.01 ----- 5:0-rel 8:1-ARG0 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 111 11 gold 喝-v 喝.01 ----- 11:0-rel 0:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-LOC 13:1-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 112 4 gold 失去-v 失去.01 ----- 4:0-rel 0:3-ARG0 3:1-ARGM-ADV 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 113 1 gold 继续-v 继续.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 113 2 gold 喝酒-v 喝酒.01 ----- 2:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 115 2 gold 盯-v 盯.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 115 6 gold 看-v 看.01 ----- 6:0-rel 0:1-ARG0 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 115 18 gold 掉到-v 掉到.01 ----- 18:0-rel 8:1-ARG0 9:1-ARGM-DIR 14:1-ARGM-ADV 19:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 116 1 gold 想-v 想.01 ----- 1:0-rel 0:1-ARG0 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 116 6 gold 是-v 是.04 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 117 3 gold 如-v 如.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 118 3 gold 让-v 让.02 ----- 3:0-rel 0:3-ARG0 4:1-ARG1 5:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 118 5 gold 一头雾水-v 一头雾水.01 ----- 5:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 119 1 gold 注意-v 注意.01 ----- 1:0-rel 0:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 119 5 gold 盯-v 盯.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 119 8 gold 看-v 看.02 ----- 8:0-rel 3:1-ARG0 4:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 120 1 gold 站-v 站.02 ----- 1:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 120 4 gold 走进-v 走进.01 ----- 4:0-rel 0:1-ARG0 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 120 7 gold 回来-v 回来.01 ----- 7:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 120 9 gold 拿-v 拿.01 ----- 9:0-rel 0:1-ARG0 7:3-ARGM-TMP 11:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 121 3 gold 丢在-v 丢在.01 ----- 3:0-rel 0:1-ARG0 2:1-ARG2 4:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 122 2 gold 坐-v 坐.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 122 5 gold 说-v 说.01 ----- 5:0-rel 0:1-ARG0 4:1-ARGM-DIS 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 122 8 gold 看-v 看.02 ----- 8:0-rel 10:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 122 9 gold 看-v 看.02 ----- 9:0-rel 10:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 122 12 gold 有-v 有.03 ----- 12:0-rel 13:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 122 14 gold 喜欢-v 喜欢.01 ----- 14:0-rel 13:1-ARG0 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 123 7 gold 伸进-v 伸进.01 ----- 7:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1 5:2-ARGM-ADV 9:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 124 4 gold 砸-v 砸.01 ----- 4:0-rel 1:1-ARG0 2:1-ARG1 7:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 125 2 gold 弄错-v 弄错.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 125 13 gold 是-v 是.04 ----- 13:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 125 17 gold 吓-v 吓.01 ----- 17:0-rel 5:1-ARGM-TMP 11:1-ARG1 12:1-ARGM-ADV 15:2-ARG0 19:2-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 125 19 gold 屁滚尿流-v 屁滚尿流.01 ----- 19:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 126 3 gold 算-v 算.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 126 4 gold 运气-v 运气.01 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 126 9 gold 是-v 是.01 ----- 9:0-rel 6:3-ARG0 10:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 126 16 gold 是-v 是.01 ----- 16:0-rel 6:3-ARG0 14:1-ARGM-DIS 15:1-ARGM-ADV 17:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 127 1 gold 打-v 打.02 ----- 1:0-rel 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 127 6 gold 跳-v 跳.01 ----- 6:0-rel 0:1-ARG0 1:3-ARGM-TMP 5:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 127 12 gold 抓起-v 抓起.01 ----- 12:0-rel 0:1-ARG0 1:3-ARGM-TMP 13:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 127 27 gold 踢-v 踢.01 ----- 27:0-rel 0:1-ARG0 1:3-ARGM-TMP 22:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 127 30 gold 拖-v 拖.03 ----- 30:0-rel 0:1-ARG0 1:3-ARGM-TMP 32:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 127 33 gold 昏迷-v 昏迷.01 ----- 33:0-rel 35:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 127 36 gold 离开-v 离开.01 ----- 36:0-rel 0:1-ARG0 1:3-ARGM-TMP 38:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 128 9 gold 发生-v 发生.01 ----- 9:0-rel 0:1-ARGM-DIS 2:1-ARGM-TPC 6:3-ARG0 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 129 7 gold 卖-v 卖.01 ----- 7:0-rel 0:1-ARGM-TMP 1:2-ARG0 6:1-ARGM-ADV 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 130 3 gold 有-v 有.01 ----- 3:0-rel 0:3-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 130 16 gold 是-v 是.01 ----- 16:0-rel 14:1-ARGM-DIS 15:1-ARG0 17:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 131 6 gold 能-v 能.01 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 131 7 gold 去-v 去.02 ----- 7:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 131 8 gold 取货-v 取货.01 ----- 8:0-rel 0:1-ARGM-ADV 2:3-ARG0 5:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 131 13 gold 去-v 去.01 ----- 13:0-rel 10:1-ARGM-DIS 11:1-ARG0 12:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 132 2 gold 走-v 走.02 ----- 2:0-rel 1:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 132 9 gold 解释-v 解释.01 ----- 9:0-rel 0:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 7:1-ARG2 10:4-ARG3
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 132 14 gold 是-v 是.01 ----- 14:0-rel 10:3-ARG0 13:1-ARGM-ADV 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 133 1 gold 决定-v 决定.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 133 2 gold 去-v 去.01 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 134 7 gold 剩下-v 剩下.01 ----- 7:0-rel 0:1-ARG2 6:1-ARGM-ADV 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 135 1 gold 没有-v 没有.02 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 135 6 gold 陪伴-v 陪伴.01 ----- 6:0-rel 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 135 10 gold 是-v 是.01 ----- 10:0-rel 6:5-ARG0 9:1-ARGM-ADV 11:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 136 1 gold 有-v 有.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 136 5 gold 保持-v 保持.01 ----- 5:0-rel 2:2-ARG1 6:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 136 6 gold 空荡-v 空荡.01 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 136 12 gold 有-v 有.03 ----- 12:0-rel 2:2-ARG0 8:1-ARGM-ADV 11:1-ARGM-ADV 13:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 137 1 gold 会-v 会.02 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 137 4 gold 诅咒-v 诅咒.01 ----- 4:0-rel 0:1-ARG0 2:2-ARGM-ADV 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 137 6 gold 使-v 使.01 ----- 6:0-rel 10:1-ARG0 7:1-ARG1 8:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 137 8 gold 恼火-v 恼火.01 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 138 2 gold 可悲-v 可悲.01 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 139 8 gold 有-v 有.03 ----- 8:0-rel 0:3-ARGM-TMP 5:3-ARG0 9:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 139 12 gold 变得-v 变得.01 ----- 12:0-rel 9:2-ARG0 13:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 139 14 gold 讨厌-v 讨厌.01 ----- 14:0-rel 13:1-ARGM-ADV 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 139 21 gold 打死-v 打死.01 ----- 21:0-rel 9:2-ARG0 18:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 140 2 gold 能-v 能.01 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 140 3 gold 想象-v 想象.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 140 4 gold 是-v 是.01 ----- 4:0-rel 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 140 5 gold 为了-v 为了.01 ----- 5:0-rel 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 141 1 gold 能-v 能.01 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 142 0 gold 对不起-v 对不起.01 ----- 0:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 142 2 gold 继续-v 继续.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 142 3 gold 扯-v 扯.01 ----- 3:0-rel 1:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 143 3 gold 知道-v 知道.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 143 6 gold 会-v 会.02 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 143 8 gold 归类-v 归类.01 ----- 8:0-rel 4:1-ARG0 7:1-ARGM-ADV 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 144 15 gold 符合-v 符合.01 ----- 15:0-rel 0:1-ARGM-ADV 1:3-ARG0 14:1-ARGM-ADV 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 145 3 gold 思索-v 思索.02 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 145 10 gold 得-v 得.02 ----- 10:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 145 11 gold 说-v 说.01 ----- 11:0-rel 8:1-ARGM-DIS 9:1-ARG0 13:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 145 27 gold 提供-v 提供.01 ----- 27:0-rel 13:1-ARGM-TMP 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV 22:1-ARG2 28:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 145 31 gold 摸-v 摸.01 ----- 31:0-rel 13:1-ARGM-TMP 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV 30:1-ARGM-ADV 32:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 146 2 gold 要-v 要.03 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 146 3 gold 闭嘴-v 闭嘴.01 ----- 3:0-rel 0:1-ARGM-TMP 1:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 147 0 gold 说到-v 说到.01 ----- 0:0-rel 1:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 148 1 gold 记得-v 记得.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 148 10 gold 进行-v 进行.02 ----- 10:0-rel 12:1-ARG1 8:1-ARGM-TMP 9:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 148 14 gold 有-v 有.08 ----- 14:0-rel 4:1-ARG0 5:1-ARG0 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 149 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 150 7 gold 是-v 是.01 ----- 7:0-rel 0:1-ARG0 6:1-ARGM-ADV 8:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 150 16 gold 是-v 是.01 ----- 16:0-rel 17:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 150 19 gold 位于-v 位于.01 ----- 19:0-rel 27:1-ARG0 20:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 150 21 gold 叫做-v 叫做.01 ----- 21:0-rel 27:1-ARG1 22:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 151 6 gold 设在-v 设在.01 ----- 6:0-rel 0:1-ARGM-ADV 2:3-ARG1 7:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 151 8 gold 位于-v 位于.01 ----- 8:0-rel 13:1-ARG0 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 152 14 gold 有-v 有.08 ----- 14:0-rel 0:3-ARG0 4:1-ARGM-DIS 5:1-ARG0 9:1-ARGM-LOC 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 152 20 gold 是-v 是.01 ----- 20:0-rel 17:2-ARG0 19:1-ARGM-ADV 21:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 153 14 gold 作为-v 作为.01 ----- 14:0-rel 0:3-ARG0 5:1-ARG1 15:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 153 22 gold 肆虐-v 肆虐.01 ----- 22:0-rel 24:1-ARGM-LOC 21:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 154 7 gold 是-v 是.01 ----- 7:0-rel 0:5-ARG0 8:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 155 5 gold 是-v 是.01 ----- 5:0-rel 0:4-ARG0 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 161 3 gold 是-v 是.01 ----- 3:0-rel 0:3-ARG0 5:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 161 8 gold 有-v 有.01 ----- 8:0-rel 5:2-ARGM-TMP 7:1-ARG0 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 162 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 165 10 gold 是-v 是.01 ----- 10:0-rel 0:4-ARG0 9:1-ARGM-ADV 11:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 166 3 gold 虐待-v 虐待.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 5:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 1 gold 怀疑-v 怀疑.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 5 gold 有-v 有.01 ----- 5:0-rel 8:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 9 gold 用作-v 用作.01 ----- 9:0-rel 2:1-ARG1 4:6-ARG0 10:6-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 10 gold 保护-v 保护.01 ----- 10:0-rel 15:1-ARG0 11:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 17 gold 转移-v 转移.01 ----- 17:0-rel 20:1-ARGM-MNR 18:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 24 gold 有-v 有.01 ----- 24:0-rel 27:1-ARG0 25:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 32 gold 放弃-v 放弃.01 ----- 32:0-rel 29:1-ARG0 30:1-ARGM-TMP 31:1-ARGM-ADV 34:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 167 35 gold 负责-v 负责.01 ----- 35:0-rel 22:1-ARGM-ADV 23:2-ARG0 28:1-ARGM-LOC 36:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 168 4 gold 有效-v 有效.01 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-ADV 6:1-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 168 10 gold 感觉-v 感觉.01 ----- 10:0-rel 7:2-ARG0 12:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 168 15 gold 天真-v 天真.01 ----- 15:0-rel 12:1-ARG0 13:1-ARGM-ADV 14:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 168 19 gold 会-v 会.02 ----- 19:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 168 20 gold 干-v 干.01 ----- 20:0-rel 12:2-ARGM-ADV 17:1-ARG0 18:1-ARGM-ADV 21:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 168 24 gold 有关-v 有关.01 ----- 24:0-rel 27:1-ARG0 22:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 169 1 gold 有-v 有.03 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 7:1-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 169 4 gold 是-v 是.04 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 169 5 gold 如此-v 如此.01 ----- 5:0-rel 0:1-ARG0 3:1-ARGM-ADV 7:1-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 169 14 gold 是-v 是.01 ----- 14:0-rel 8:3-ARG0 13:1-ARGM-ADV 15:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 169 25 gold 可以-v 可以.01 ----- 25:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 169 26 gold 有-v 有.01 ----- 26:0-rel 23:1-ARGM-DIS 24:1-ARG0 27:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 170 3 gold 来-v 来.01 ----- 3:0-rel 0:1-ARGM-ADV 1:1-ARG0 2:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 171 1 gold 是-v 是.04 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 171 2 gold 这样-v 这样.01 ----- 2:0-rel 0:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 171 12 gold 虐待-v 虐待.01 ----- 12:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 171 19 gold 是-v 是.04 ----- 19:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 171 20 gold 无辜-v 无辜.01 ----- 20:0-rel 16:1-ARGM-DIS 17:1-ARG0 18:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 172 3 gold 是-v 是.01 ----- 3:0-rel 1:2-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 172 6 gold 传给-v 传给.01 ----- 6:0-rel 4:1-ARG0 7:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 172 18 gold 必须-v 必须.02 ----- 18:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 172 19 gold 公开-v 公开.01 ----- 19:0-rel 0:1-ARGM-PRP 11:2-ARG1 17:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 173 2 gold 用来-v 用来.01 ----- 2:0-rel 8:1-ARG1 3:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 173 3 gold 造成-v 造成.01 ----- 3:0-rel 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 173 11 gold 可以-v 可以.01 ----- 11:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 173 12 gold 用来-v 用来.01 ----- 12:0-rel 0:1-ARGM-DIS 2:5-ARG1 13:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 173 13 gold 治疗-v 治疗.01 ----- 13:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 174 4 gold 穿-v 穿.01 ----- 4:0-rel 7:1-ARG0 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 175 1 gold 记得-v 记得.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 175 6 gold 吓-v 吓.02 ----- 6:0-rel 2:1-ARGM-TMP 4:2-ARG0 8:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 175 8 gold 死去-v 死去.01 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 176 2 gold 讲-v 讲.01 ----- 2:0-rel 0:1-ARG2 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 177 0 gold 说到-v 说到.01 ----- 0:0-rel 1:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 177 8 gold 尝试-v 尝试.01 ----- 8:0-rel 0:2-ARGM-ADV 5:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 177 9 gold 写-v 写.01 ----- 9:0-rel 10:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 177 14 gold 牵涉-v 牵涉.01 ----- 14:0-rel 16:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 178 15 gold 寻找-v 寻找.01 ----- 15:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-BNF 16:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 179 0 gold 想到-v 想到.01 ----- 0:0-rel 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 179 14 gold 改为-v 改为.01 ----- 14:0-rel 5:1-ARGM-DIS 6:1-ARG0 11:1-ARGM-ADV 13:1-ARG1 16:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 180 2 gold 是-v 是.01 ----- 2:0-rel 0:5-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 181 2 gold 发现-v 发现.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 181 7 gold 是-v 是.01 ----- 7:0-rel 4:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 181 13 gold 有-v 有.03 ----- 13:0-rel 17:1-ARG0 10:1-ARGM-LOC 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 183 8 gold 读-v 读.01 ----- 8:0-rel 1:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 6:2-ARGM-ADV 10:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 184 1 gold 有-v 有.03 ----- 1:0-rel 0:1-ARGM-ADV 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 184 5 gold 读到-v 读到.01 ----- 5:0-rel 0:3-ARGM-ADV 3:1-ARG0 4:1-ARGM-ADV 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 184 9 gold 忘记-v 忘记.01 ----- 9:0-rel 0:3-ARGM-ADV 3:1-ARG0 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 185 3 gold 是-v 是.04 ----- 3:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 185 7 gold 记住-v 记住.01 ----- 7:0-rel 0:1-ARGM-ADV 1:1-ARG0 2:1-ARGM-ADV 4:2-ARGM-ADV 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 186 13 gold 命名-v 命名.01 ----- 13:0-rel 0:1-ARGM-MNR 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 186 20 gold 是-v 是.04 ----- 20:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 186 22 gold 令-v 令.01 ----- 22:0-rel 18:1-ARG0 19:1-ARGM-ADV 21:1-ARGM-ADV 23:1-ARG1 24:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 186 24 gold 失望-v 失望.01 ----- 24:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 187 4 gold 写-v 写.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV 3:1-ARGM-ADV 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 188 6 gold 是-v 是.04 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 188 7 gold 属于-v 属于.01 ----- 7:0-rel 0:2-ARG0 5:1-ARGM-ADV 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 189 7 gold 提到-v 提到.01 ----- 7:0-rel 0:1-ARGM-LOC 5:1-ARGM-ADV 6:1-ARGM-ADV 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 190 12 gold 发生-v 发生.01 ----- 12:0-rel 15:3,18:1-ARG0 11:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 190 23 gold 有-v 有.03 ----- 23:0-rel 0:1-ARGM-ADV 4:1-ARGM-LOC 21:1-ARGM-ADV 24:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 191 0 gold 没有-v 没有.03 ----- 0:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 192 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 193 3 gold 公布-v 公布.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-ADV 5:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 194 2 gold 公布-v 公布.01 ----- 2:0-rel 0:2-ARG0 4:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 194 4 gold 令-v 令.01 ----- 4:0-rel 8:1-ARG0 5:1-ARG1 6:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 194 6 gold 吃惊-v 吃惊.01 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 194 15 gold 是-v 是.01 ----- 15:0-rel 10:4-ARG0 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 196 8 gold 失踪-v 失踪.01 ----- 8:0-rel 0:1-ARGM-TMP 4:4-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 196 12 gold 报告-v 报告.01 ----- 12:0-rel 11:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 197 12 gold 有-v 有.03 ----- 12:0-rel 9:2-ARGM-TMP 11:1-ARGM-ADV 13:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 198 3 gold 不同凡响-v 不同凡响.01 ----- 3:0-rel 0:3-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 199 2 gold 欣赏-v 欣赏.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 199 8 gold 建立-v 建立.01 ----- 8:0-rel 13:1-ARGM-MNR 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 199 21 gold 加-v 加.01 ----- 21:0-rel 15:2-ARG0 17:1-ARGM-BNF 24:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 199 25 gold 使-v 使.01 ----- 25:0-rel 15:6-ARG0 26:1-ARG1 27:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 199 27 gold 能-v 能.01 ----- 27:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 199 35 gold 跟随-v 跟随.01 ----- 35:0-rel 28:2-ARGM-ADV 32:1-ARGM-ADV 33:2-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 199 37 gold 寻求-v 寻求.01 ----- 37:0-rel 28:2-ARGM-ADV 32:1-ARGM-ADV 33:2-ARGM-ADV 38:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 200 3 gold 如同-v 如同.01 ----- 3:0-rel 0:3-ARG0 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 201 4 gold 经历-v 经历.01 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-ADV 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 201 12 gold 富有-v 富有.01 ----- 12:0-rel 0:1-ARG0 1:1-ARGM-ADV 11:1-ARGM-ADV 13:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 202 2 gold 有-v 有.05 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 202 6 gold 让-v 让.02 ----- 6:0-rel 3:2-ARG0 7:1-ARG1 8:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 202 8 gold 失望-v 失望.01 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 202 19 gold 喜欢-v 喜欢.01 ----- 19:0-rel 14:2-ARG0 18:1-ARGM-ADV 20:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 203 5 gold 是-v 是.01 ----- 5:0-rel 0:2-ARG0 7:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 203 7 gold 公开-v 公开.01 ----- 7:0-rel 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 204 5 gold 给出-v 给出.01 ----- 5:0-rel 3:2-ARG0 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 204 11 gold 寻找-v 寻找.01 ----- 11:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-LOC 12:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 205 4 gold 没有-v 没有.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 205 9 gold 没有-v 没有.01 ----- 9:0-rel 6:2-ARG1 10:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 205 13 gold 在-v 在.01 ----- 13:0-rel 10:1-ARG0 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 206 2 gold 愿意-v 愿意.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 206 3 gold 现身-v 现身.01 ----- 3:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 207 2 gold 请-v 请.01 ----- 2:0-rel 3:1-ARG1 4:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 207 4 gold 参加-v 参加.01 ----- 4:0-rel 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 207 10 gold 算-v 算.01 ----- 10:0-rel 7:1-ARGM-DIS 8:1-ARG0 9:1-ARGM-ADV 11:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 207 11 gold 要求-v 要求.03 ----- 11:0-rel 12:2-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 207 13 gold 多-v 多.01 ----- 13:0-rel 12:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 208 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 208 8 gold 保持-v 保持.01 ----- 8:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:1-ARGM-PRP 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 209 2 gold 吃惊-v 吃惊.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 209 11 gold 听-v 听.01 ----- 11:0-rel 4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-LOC 9:1-ARGM-ADV 10:1-ARGM-ADV 12:1-ARG1 13:2-ARG1 17:1-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 209 13 gold 提-v 提.04 ----- 13:0-rel 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 209 29 gold 一致-v 一致.01 ----- 29:0-rel 18:1-ARG0 19:1-ARG0 28:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 210 8 gold 记-v 记.01 ----- 8:0-rel 11:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 210 18 gold 在-v 在.01 ----- 18:0-rel 16:1-ARGM-DIS 17:1-ARG0 19:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 210 30 gold 有-v 有.01 ----- 30:0-rel 29:1-ARG0 32:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 211 1 gold 记-v 记.02 ----- 1:0-rel 0:1-ARG0 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 211 11 gold 是-v 是.01 ----- 11:0-rel 8:1-ARGM-DIS 9:1-ARG0 12:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 211 20 gold 有-v 有.07 ----- 20:0-rel 19:1-ARGM-DIS 21:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 211 31 gold 值得-v 值得.01 ----- 31:0-rel 35:4,41:1,43:1-ARG0 26:1-ARGM-LOC 30:1-ARGM-ADV 32:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 211 36 gold 称为-v 称为.01 ----- 36:0-rel 43:1-ARG1 35:1-ARG0 38:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 211 48 gold 倾向于-v 倾向于.01 ----- 48:0-rel 46:1-ARG0 49:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 212 3 gold 是-v 是.01 ----- 3:0-rel 0:3-ARG0 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 212 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 213 7 gold 让-v 让.02 ----- 7:0-rel 0:2-ARG0 5:1-ARGM-ADV 8:2-ARG1 13:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 213 13 gold 读到-v 读到.01 ----- 13:0-rel 14:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 213 15 gold 遭-v 遭.01 ----- 15:0-rel 14:1-ARG0 18:1-ARGM-PRP 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 213 24 gold 忘-v 忘.01 ----- 24:0-rel 21:1-ARGM-DIS 23:1-ARG0 26:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 213 27 gold 是-v 是.04 ----- 27:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 213 29 gold 对付-v 对付.01 ----- 29:0-rel 26:1-ARG0 28:1-ARGM-ADV 30:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 214 2 gold 会-v 会.02 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 214 3 gold 失望-v 失望.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 214 10 gold 禁止-v 禁止.01 ----- 10:0-rel 7:1-ARGM-DIS 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 215 1 gold 死-v 死.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 215 8 gold 死-v 死.01 ----- 8:0-rel 5:1-ARGM-DIS 6:1-ARG0 7:1-ARGM-ADV 9:1-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 218 0 gold 增加-v 增加.01 ----- 0:0-rel 1:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 219 0 gold 看-v 看.02 ----- 0:0-rel 1:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 219 5 gold 打气-v 打气.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 220 5 gold 会-v 会.02 ----- 5:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 220 6 gold 让-v 让.02 ----- 6:0-rel 0:2-ARG0 4:1-ARGM-ADV 7:1-ARG1 8:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 221 0 gold 跳-v 跳.02 ----- 0:0-rel 1:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 222 1 gold 要-v 要.03 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 222 2 gold 让-v 让.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 223 0 gold 失去-v 失去.01 ----- 0:0-rel 1:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 224 1 gold 要-v 要.03 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 225 1 gold 知道-v 知道.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 225 3 gold 想要-v 想要.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 225 4 gold 看-v 看.02 ----- 4:0-rel 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 226 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 226 2 gold 专业-v 专业.01 ----- 2:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 226 7 gold 会-v 会.02 ----- 7:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 226 8 gold 失望-v 失望.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 227 1 gold 会-v 会.02 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 227 2 gold 让-v 让.02 ----- 2:0-rel 0:1-ARGM-ADV 3:1-ARG1 4:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 227 4 gold 讨-v 讨.01 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 227 7 gold 要-v 要.01 ----- 7:0-rel 6:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 228 1 gold 会-v 会.02 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 228 2 gold 让-v 让.01 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 229 0 gold 失去-v 失去.01 ----- 0:0-rel 1:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 230 1 gold 高兴-v 高兴.01 ----- 1:0-rel 0:1-ARGM-ADV 2:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 230 3 gold 有-v 有.05 ----- 3:0-rel 2:1-ARGM-ADV 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 230 5 gold 提到-v 提到.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 231 1 gold 觉得-v 觉得.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 231 2 gold 施行-v 施行.01 ----- 2:0-rel 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 231 4 gold 是-v 是.01 ----- 4:0-rel 2:2-ARG0 5:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 232 4 gold 要-v 要.03 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 232 5 gold 忘记-v 忘记.01 ----- 5:0-rel 0:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 6:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 4 gold 试图-v 试图.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 7 gold 说成-v 说成.01 ----- 7:0-rel 6:1-ARG1 12:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 16 gold 认为-v 认为.01 ----- 16:0-rel 0:2-ARGM-ADV 14:1-ARG0 15:1-ARGM-ADV 17:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 17 gold 必须-v 必须.02 ----- 17:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 20 gold 看成-v 看成.01 ----- 20:0-rel 19:1-ARG1 22:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 24 gold 计划-v 计划.01 ----- 24:0-rel 39:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 35 gold 施行-v 施行.01 ----- 35:0-rel 28:2-ARGM-ADV 30:1-ARGM-LOC 33:1-ARGM-ADV 39:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 233 46 gold 具有-v 具有.01 ----- 46:0-rel 41:1-ARGM-DIS 42:1-ARG0 45:1-ARGM-ADV 47:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 234 3 gold 超出-v 超出.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 234 10 gold 是-v 是.03 ----- 10:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 4 gold 指出-v 指出.01 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-ADV 6:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 20 gold 录制-v 录制.01 ----- 20:0-rel 19:1-ARG0 22:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 27 gold 穿-v 穿.01 ----- 27:0-rel 6:1-ARGM-TMP 18:1-ARGM-LOC 25:1-ARG0 26:1-ARGM-ADV 28:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 33 gold 使用-v 使用.01 ----- 33:0-rel 6:1-ARGM-TMP 18:1-ARGM-LOC 25:1-ARG0 26:1-ARGM-ADV 34:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 42 gold 是-v 是.01 ----- 42:0-rel 40:1-ARG0 41:1-ARGM-DIS 43:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 47 gold 意在-v 意在.01 ----- 47:0-rel 40:1-ARG0 48:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 48 gold 传达-v 传达.01 ----- 48:0-rel 49:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 56 gold 达到-v 达到.01 ----- 56:0-rel 57:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 235 58 gold 想要-v 想要.01 ----- 58:0-rel 60:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 236 3 gold 有-v 有.01 ----- 3:0-rel 0:2-ARG0 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 236 8 gold 使用-v 使用.01 ----- 8:0-rel 0:2-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 7:1-ARGM-ADV 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 237 2 gold 想-v 想.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 237 3 gold 听听-v 听听.01 ----- 3:0-rel 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 238 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 238 17 gold 来-v 来.04 ----- 17:0-rel 6:1-ARGM-TPC 16:1-ARGM-ADV 18:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 240 4 gold 说-v 说.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-LOC 6:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 240 8 gold 逗留-v 逗留.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV 12:1,14:1-ARGM-LOC 10:1-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 240 16 gold 是-v 是.01 ----- 16:0-rel 6:5-ARG0 17:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 241 2 gold 寻找-v 寻找.01 ----- 2:0-rel 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 241 6 gold 解释-v 解释.01 ----- 6:0-rel 7:8-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 241 21 gold 遇上-v 遇上.01 ----- 21:0-rel 0:1-ARG0 1:1-ARGM-TMP 19:1-ARGM-ADV 20:1-ARGM-DIS 23:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 242 3 gold 来自-v 来自.01 ----- 3:0-rel 0:3-ARG0 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 242 10 gold 一样-v 一样.01 ----- 10:0-rel 6:1-ARGM-DIS 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 242 13 gold 能-v 能.01 ----- 13:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 242 14 gold 视-v 视.02 ----- 14:0-rel 12:1-ARGM-ADV 15:1-ARG1 16:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 242 16 gold 为-v 为.01 ----- 16:0-rel 17:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 242 19 gold 可靠-v 可靠.01 ----- 19:0-rel 17:2-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 243 17 gold 想-v 想.02 ----- 17:0-rel 15:1-ARG0 16:1-ARGM-ADV 18:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 243 18 gold 相信-v 相信.01 ----- 18:0-rel 19:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 244 6 gold 成-v 成.01 ----- 6:0-rel 0:3-ARG0 5:1-ARGM-DIS 8:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 245 3 gold 是-v 是.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 246 10 gold 闯入-v 闯入.01 ----- 10:0-rel 0:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 8:2-ARGM-ADV 11:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 246 14 gold 是-v 是.01 ----- 14:0-rel 13:1-ARG0 15:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 246 17 gold 不可救药-v 不可救药.01 ----- 17:0-rel 19:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 246 23 gold 崩溃-v 崩溃.01 ----- 23:0-rel 21:1-ARG0 22:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 247 7 gold 接近-v 接近.01 ----- 7:0-rel 0:3-ARG0 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 247 12 gold 指-v 指.02 ----- 12:0-rel 0:3-ARG0 10:1-ARGM-BNF 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 247 16 gold 拯救-v 拯救.01 ----- 16:0-rel 18:1-ARGM-MNR
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 248 6 gold 看-v 看.02 ----- 6:0-rel 0:1-ARGM-MNR 3:1-ARG0 4:1-ARGM-BNF 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 248 12 gold 使-v 使.01 ----- 12:0-rel 13:1-ARG1 14:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 248 14 gold 痛哭流涕-v 痛哭流涕.01 ----- 14:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 249 3 gold 改变-v 改变.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 249 12 gold 交给-v 交给.01 ----- 12:0-rel 0:1-ARGM-DIS 1:1-ARG0 9:3-ARG1 14:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 250 9 gold 变成-v 变成.01 ----- 9:0-rel 0:1-ARGM-DIS 2:1-ARGM-MNR 8:1-ARG1 11:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 250 21 gold 信奉-v 信奉.01 ----- 21:0-rel 24:1-ARG0 20:1-ARGM-ADV 22:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 251 1 gold 代表-v 代表.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 251 10 gold 称为-v 称为.01 ----- 10:0-rel 17:1-ARG1 11:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 251 14 gold 掠夺-v 掠夺.01 ----- 14:0-rel 17:1-ARG0 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 252 2 gold 干-v 干.01 ----- 2:0-rel 1:1-ARG0 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 252 10 gold 保密-v 保密.01 ----- 10:0-rel 0:1-ARGM-DIS 1:5-ARG1 5:1-ARGM-ADV 6:1-ARGM-ADV 9:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 252 15 gold 有-v 有.01 ----- 15:0-rel 0:2-ARGM-ADV 12:1-ARGM-DIS 13:1-ARG0 14:1-ARGM-ADV 16:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 253 1 gold 主持-v 主持.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 253 23 gold 管理-v 管理.01 ----- 23:0-rel 0:1-ARG0 12:1-ARGM-DIS 13:2-ARGM-LOC 24:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 254 4 gold 称为-v 称为.01 ----- 4:0-rel 3:1-ARGM-ADV 5:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 254 21 gold 亲-v 亲.01 ----- 21:0-rel 24:1-ARG0 22:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 254 27 gold 创办-v 创办.01 ----- 27:0-rel 14:1-ARGM-TMP 20:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 255 7 gold 是-v 是.01 ----- 7:0-rel 0:3-ARG0 8:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 255 16 gold 呼吁-v 呼吁.01 ----- 16:0-rel 12:1-ARG0 13:1-ARGM-TMP 15:1-ARGM-ADV 17:1-ARG1 23:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 255 28 gold 让-v 让.02 ----- 28:0-rel 27:1-ARG0 29:1-ARG1 30:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 255 32 gold 得到-v 得到.01 ----- 32:0-rel 30:1-ARGM-LOC 34:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 256 18 gold 赞助-v 赞助.01 ----- 18:0-rel 0:1-ARGM-TMP 6:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 257 12 gold 住-v 住.01 ----- 12:0-rel 11:1-ARG1 14:5-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 257 14 gold 具有-v 具有.01 ----- 14:0-rel 18:1-ARG0 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 259 11 gold 付-v 付.01 ----- 11:0-rel 0:4-ARG0 12:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 260 2 gold 接管-v 接管.01 ----- 2:0-rel 3:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 260 5 gold 潦倒-v 潦倒.01 ----- 5:0-rel 12:1-ARG0 4:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 260 7 gold 有-v 有.01 ----- 7:0-rel 12:1-ARG0 6:1-ARGM-DIS 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 260 9 gold 变成-v 变成.01 ----- 9:0-rel 12:1-ARG1 6:1-ARGM-DIS 10:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 260 18 gold 许诺-v 许诺.01 ----- 18:0-rel 0:1-ARG0 16:1-ARG2 20:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 260 22 gold 合作-v 合作.01 ----- 22:0-rel 20:1-ARGM-DIS 21:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 260 24 gold 可以-v 可以.01 ----- 24:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 261 9 gold 失去-v 失去.01 ----- 9:0-rel 8:1-ARGM-ADV 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 261 12 gold 进-v 进.01 ----- 12:0-rel 11:1-ARGM-ADV 13:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 261 15 gold 受到-v 受到.01 ----- 15:0-rel 0:3-ARGM-LOC 3:4-ARG0 7:1-ARGM-TMP 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 261 23 gold 交给-v 交给.01 ----- 23:0-rel 0:3-ARGM-LOC 3:4-ARG0 18:1-ARGM-TMP 20:3-ARG1 25:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 262 4 gold 是-v 是.01 ----- 4:0-rel 0:3-ARG0 5:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 263 1 gold 倒台-v 倒台.01 ----- 1:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 263 5 gold 成-v 成.01 ----- 5:0-rel 0:3-ARGM-TMP 4:1-ARG0 7:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 3 gold 主张-v 主张.01 ----- 3:0-rel 0:1-ARG0 1:2-ARGM-ADV 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 6 gold 进行-v 进行.01 ----- 6:0-rel 4:1-ARGM-DIR 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 9 gold 结束-v 结束.01 ----- 9:0-rel 11:1,12:1-ARGM-TPC 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 15 gold 使-v 使.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1 17:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 17 gold 成-v 成.01 ----- 17:0-rel 19:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 27 gold 管理-v 管理.01 ----- 27:0-rel 25:1-ARG0 26:1-ARGM-ADV 28:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 32 gold 带领-v 带领.01 ----- 32:0-rel 25:1-ARG0 31:1-ARGM-ADV 33:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 34 gold 去-v 去.01 ----- 34:0-rel 25:1-ARG0 31:1-ARGM-ADV 35:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 36 gold 号召-v 号召.01 ----- 36:0-rel 25:1-ARG0 31:1-ARGM-ADV 37:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 264 40 gold 开战-v 开战.02 ----- 40:0-rel 37:1-ARG1 39:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 265 7 gold 是-v 是.01 ----- 7:0-rel 0:4-ARG0 6:1-ARGM-DIS 8:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 266 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 266 16 gold 是-v 是.01 ----- 16:0-rel 0:1-ARG0 17:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 266 18 gold 没有-v 没有.01 ----- 18:0-rel 21:1-ARG0 19:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 267 7 gold 开始-v 开始.01 ----- 7:0-rel 0:1-ARGM-MNR 6:1-ARG0 8:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 267 8 gold 说-v 说.03 ----- 8:0-rel 0:1-ARGM-MNR 6:1-ARG0 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 267 11 gold 讲出-v 讲出.01 ----- 11:0-rel 0:1-ARGM-MNR 6:1-ARG0 10:1-ARGM-DIS 12:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 267 15 gold 是-v 是.01 ----- 15:0-rel 14:1-ARG0 16:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 267 29 gold 证明-v 证明.01 ----- 29:0-rel 22:1-ARG0 23:1-ARGM-ADV 24:1-ARG2 30:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 268 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 268 16 gold 筹措-v 筹措.01 ----- 16:0-rel 8:4-ARG0 18:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 268 24 gold 位于-v 位于.01 ----- 24:0-rel 27:1-ARG0 25:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 268 31 gold 视-v 视.01 ----- 31:0-rel 32:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 268 34 gold 扩大-v 扩大.01 ----- 34:0-rel 21:4-ARG1 36:3-ARG4
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 269 4 gold 表示-v 表示.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-MNR 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 269 10 gold 有趣-v 有趣.01 ----- 10:0-rel 0:5-ARG0 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 270 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARGM-ADV 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 270 2 gold 有-v 有.03 ----- 2:0-rel 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 270 10 gold 有-v 有.03 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 270 13 gold 想象-v 想象.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 270 15 gold 成-v 成.01 ----- 15:0-rel 14:1-ARG0 17:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 271 5 gold 致-v 致.01 ----- 5:0-rel 0:1-ARGM-ADV 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 272 2 gold 能-v 能.01 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 272 3 gold 产生-v 产生.01 ----- 3:0-rel 1:1-ARGM-ADV 4:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 272 8 gold 是-v 是.01 ----- 8:0-rel 0:1-ARG0 9:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 272 12 gold 有-v 有.01 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-ADV 14:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 272 24 gold 利用-v 利用.01 ----- 24:0-rel 21:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 273 2 gold 称为-v 称为.01 ----- 2:0-rel 0:2-ARG1 3:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 273 10 gold 造成-v 造成.01 ----- 10:0-rel 5:3-ARG0 12:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 274 3 gold 看-v 看.02 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 274 13 gold 有-v 有.08 ----- 13:0-rel 10:1-ARG0 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 274 20 gold 可以-v 可以.01 ----- 20:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 275 0 gold 使用-v 使用.01 ----- 0:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 275 2 gold 是-v 是.01 ----- 2:0-rel 0:5-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 275 11 gold 强调-v 强调.01 ----- 11:0-rel 8:1-ARGM-ADV 9:2-ARGM-ADV 13:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 275 13 gold 没有-v 没有.01 ----- 13:0-rel 14:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 275 20 gold 遵循-v 遵循.01 ----- 20:0-rel 19:1-ARGM-ADV 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 275 26 gold 能-v 能.01 ----- 26:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 275 30 gold 遵守-v 遵守.01 ----- 30:0-rel 29:1-ARGM-ADV 31:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 277 2 gold 监督-v 监督.01 ----- 2:0-rel 0:2-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 279 5 gold 记得-v 记得.01 ----- 5:0-rel 0:2-ARGM-TPC 4:1-ARG0 6:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 279 8 gold 读到-v 读到.01 ----- 8:0-rel 6:1-ARGM-LOC 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 279 10 gold 是-v 是.01 ----- 10:0-rel 9:1-ARG0 11:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 1 gold 会-v 会.02 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 2 gold 注意-v 注意.01 ----- 2:0-rel 0:1-ARG0 4:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 8 gold 始于-v 始于.01 ----- 8:0-rel 4:3-ARG0 9:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 11 gold 状告-v 状告.01 ----- 11:0-rel 9:1-ARG0 12:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 16 gold 有-v 有.03 ----- 16:0-rel 17:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 18 gold 听见-v 听见.01 ----- 18:0-rel 17:1-ARG0 19:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 20 gold 说-v 说.02 ----- 20:0-rel 19:1-ARG0 22:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 24 gold 有-v 有.01 ----- 24:0-rel 22:1-ARG0 23:1-ARGM-ADV 25:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 280 25 gold 后悔-v 后悔.01 ----- 25:0-rel 30:1-ARGM-TMP 26:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 281 4 gold 要-v 要.03 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 281 5 gold 想-v 想.02 ----- 5:0-rel 0:1-ARGM-TMP 1:1-ARGM-ADV 2:1-ARGM-ADV 3:1-ARGM-ADV 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 281 6 gold 去-v 去.02 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 281 8 gold 惹-v 惹.01 ----- 8:0-rel 9:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 282 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 282 4 gold 想-v 想.01 ----- 4:0-rel 3:1-ARG0 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 283 17 gold 要-v 要.03 ----- 17:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 283 18 gold 发行-v 发行.01 ----- 18:0-rel 1:4-ARG1 16:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 283 24 gold 有-v 有.01 ----- 24:0-rel 0:1-ARGM-TMP 21:1-ARG0 22:1-ARGM-DIR 26:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 283 33 gold 高于-v 高于.01 ----- 33:0-rel 36:1-ARG0 32:1-ARGM-ADV 34:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 284 5 gold 包括-v 包括.01 ----- 5:0-rel 0:3-ARG0 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 284 10 gold 长-v 长.02 ----- 10:0-rel 12:1-ARG0 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 285 6 gold 是-v 是.01 ----- 6:0-rel 0:2-ARG0 5:1-ARGM-ADV 7:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 285 12 gold 身着-v 身着.01 ----- 12:0-rel 7:3-ARG0 13:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 285 18 gold 挥舞-v 挥舞.01 ----- 18:0-rel 7:3-ARG0 20:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 285 22 gold 炫耀-v 炫耀.01 ----- 22:0-rel 7:3-ARG0 24:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 285 27 gold 迈-v 迈.01 ----- 27:0-rel 7:3-ARG0 29:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 285 30 gold 穿过-v 穿过.01 ----- 30:0-rel 7:3-ARG0 31:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 286 1 gold 震耳欲聋-v 震耳欲聋.01 ----- 1:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 287 3 gold 壮大-v 壮大.01 ----- 3:0-rel 0:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 287 6 gold 叫-v 叫.03 ----- 6:0-rel 0:3-ARG0 5:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 287 9 gold 喊-v 喊.01 ----- 9:0-rel 0:3-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 288 3 gold 是-v 是.01 ----- 3:0-rel 0:2-ARG0 2:1-ARGM-ADV 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 288 6 gold 代表-v 代表.01 ----- 6:0-rel 4:2-ARG0 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 289 6 gold 出现-v 出现.01 ----- 6:0-rel 0:1-ARGM-DIS 1:1-ARGM-DIS 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 289 10 gold 是-v 是.01 ----- 10:0-rel 9:1-ARG0 11:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 289 18 gold 走-v 走.01 ----- 18:0-rel 13:1-ARGM-ADV 14:1-ARGM-LOC 16:2-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 290 2 gold 挣脱-v 挣脱.01 ----- 2:0-rel 1:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 290 5 gold 触摸-v 触摸.01 ----- 5:0-rel 1:1-ARG0 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 290 14 gold 吞没-v 吞没.01 ----- 14:0-rel 0:1-ARGM-TMP 10:1-ARGM-ADV 11:1-ARGM-ADV 13:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 291 3 gold 来临-v 来临.01 ----- 3:0-rel 0:1-ARGM-ADV 2:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 291 7 gold 盖-v 盖.02 ----- 7:0-rel 16:1-ARG1 9:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 291 19 gold 俯视-v 俯视.01 ----- 19:0-rel 5:2-ARG0 17:2-ARGM-ADV 21:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 291 28 gold 闪-v 闪.01 ----- 28:0-rel 25:1-ARG0 26:1-ARGM-LOC 30:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 292 6 gold 叫-v 叫.03 ----- 6:0-rel 0:6-ARG0 5:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 292 14 gold 致意-v 致意.01 ----- 14:0-rel 0:6-ARG0 9:1-ARGM-MNR
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 292 21 gold 点燃-v 点燃.01 ----- 21:0-rel 0:6-ARG0 16:1-ARGM-DIS 17:1-ARGM-MNR 22:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 293 2 gold 是-v 是.02 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARGM-ADV 3:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 293 3 gold 标示-v 标示.01 ----- 3:0-rel 11:1-ARG0 6:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 293 13 gold 强调-v 强调.01 ----- 13:0-rel 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 293 31 gold 否认-v 否认.01 ----- 31:0-rel 20:1-ARGM-DIS 21:3-ARGM-TMP 26:1-ARG0 27:1-ARGM-ADV 28:1-ARGM-ADV 29:1-ARGM-DIR 32:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 294 3 gold 落-v 落.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 294 11 gold 是-v 是.01 ----- 11:0-rel 7:1-ARGM-ADV 10:1-ARG0 12:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 294 23 gold 紧握-v 紧握.01 ----- 23:0-rel 19:2-ARG1 21:2-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 294 32 gold 明显-v 明显.01 ----- 32:0-rel 25:2-ARG0 31:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 294 42 gold 一般-v 一般.01 ----- 42:0-rel 34:1-ARGM-DIS 35:3-ARG0 38:1-ARGM-ADV 39:1-ARGM-ADV 40:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 294 45 gold 无-v 无.01 ----- 45:0-rel 34:1-ARGM-DIS 35:3-ARG0 38:1-ARGM-ADV 39:1-ARGM-ADV 44:1-ARGM-ADV 46:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 295 3 gold 是-v 是.01 ----- 3:0-rel 0:2-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 295 7 gold 令-v 令.01 ----- 7:0-rel 11:1-ARG0 6:1-ARGM-ADV 8:1-ARG1 9:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 295 9 gold 不安-v 不安.01 ----- 9:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 296 1 gold 膨胀-v 膨胀.01 ----- 1:0-rel 3:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 296 5 gold 让-v 让.02 ----- 5:0-rel 0:2-ARG0 4:1-ARGM-DIS 6:1-ARG1 7:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 296 7 gold 感到-v 感到.01 ----- 7:0-rel 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 296 14 gold 咄咄逼人-v 咄咄逼人.01 ----- 14:0-rel 0:2-ARG0 12:1-ARGM-DIS 13:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 297 17 gold 比较-v 比较.01 ----- 17:0-rel 0:1-ARGM-ADV 2:1-ARG0 3:1-ARGM-ADV 5:4-ARG1 12:1-ARG1 16:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 297 21 gold 取代-v 取代.01 ----- 21:0-rel 19:1-ARGM-LOC 20:1-ARG2 23:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 299 4 gold 有-v 有.03 ----- 4:0-rel 0:1-ARGM-LOC 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 299 7 gold 带-v 带.01 ----- 7:0-rel 10:1-ARG0 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 299 13 gold 有-v 有.05 ----- 13:0-rel 12:1-ARGM-DIS 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 299 19 gold 看-v 看.02 ----- 19:0-rel 17:1-ARGM-ADV 18:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 301 1 gold 扯-v 扯.01 ----- 1:0-rel 0:1-ARGM-ADV 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 302 0 gold 查看-v 查看.01 ----- 0:0-rel 1:1-ARGM-ADV 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 303 3 gold 认为-v 认为.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 303 8 gold 能-v 能.01 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 303 11 gold 做-v 做.01 ----- 11:0-rel 4:2-ARG0 6:1-ARGM-ADV 7:1-ARGM-ADV 9:1-ARGM-ADV 13:2-ARGM-EXT
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 303 14 gold 好-v 好.01 ----- 14:0-rel 13:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 305 1 gold 记得-v 记得.01 ----- 1:0-rel 0:1-ARGM-ADV 2:7-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 305 9 gold 是-v 是.01 ----- 9:0-rel 2:6-ARG0 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 306 3 gold 记-v 记.01 ----- 3:0-rel 0:1-ARGM-ADV 2:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 308 2 gold 复杂-v 复杂.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 309 2 gold 虐待-v 虐待.01 ----- 2:0-rel 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 311 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARGM-ADV 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 311 9 gold 注意-v 注意.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-TMP 11:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 311 20 gold 发-v 发.01 ----- 20:0-rel 7:1-ARG0 8:1-ARGM-TMP 16:1-ARGM-DIS 17:1-ARGM-LOC 22:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 312 5 gold 联系-v 联系.02 ----- 5:0-rel 0:2-ARG1 2:1-ARGM-ADV 3:1-ARGM-ADV 4:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 312 8 gold 引人入胜-v 引人入胜.01 ----- 8:0-rel 0:2-ARG0 7:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 314 5 gold 作-v 作.01 ----- 5:0-rel 3:1-ARGM-MNR 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 314 9 gold 是-v 是.01 ----- 9:0-rel 0:1-ARGM-TMP 3:5-ARG0 10:7-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 314 14 gold 放-v 放.01 ----- 14:0-rel 10:1-ARG0 11:1-ARGM-PRP 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 315 13 gold 开始-v 开始.01 ----- 13:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 3:2-ARG0 12:1-ARGM-DIS 14:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 316 4 gold 清楚-v 清楚.01 ----- 4:0-rel 3:1*6:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 316 8 gold 会-v 会.02 ----- 8:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 316 13 gold 做-v 做.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 316 16 gold 会-v 会.02 ----- 16:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 316 17 gold 有-v 有.01 ----- 17:0-rel 1:1-ARGM-ADV 2:2-ARG0 7:1-ARGM-ADV 9:1-ARGM-ADV 10:1-ARG1 18:1-ARG1 19:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 317 0 gold 会-v 会.02 ----- 0:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 317 3 gold 是-v 是.01 ----- 3:0-rel 4:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 317 6 gold 发生-v 发生.01 ----- 6:0-rel 4:1-ARG1 5:1-ARGM-ADV 7:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 318 7 gold 怎样-v 怎样.01 ----- 7:0-rel 0:1-ARGM-DIS 1:2-ARG0 6:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 319 1 gold 有-v 有.05 ----- 1:0-rel 0:1-ARGM-DIS 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 319 15 gold 有所-v 有所.01 ----- 15:0-rel 2:1-ARG0 3:1-ARGM-DIR 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 319 25 gold 是-v 是.01 ----- 25:0-rel 23:1-ARGM-DIS 24:1-ARG0 27:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 320 1 gold 提到-v 提到.01 ----- 1:0-rel 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 321 1 gold 认为-v 认为.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 321 10 gold 看到-v 看到.01 ----- 10:0-rel 2:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-LOC 9:1-ARGM-ADV 11:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 322 1 gold 自认-v 自认.01 ----- 1:0-rel 0:1-ARG0 3:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 324 4 gold 会-v 会.02 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 324 5 gold 有-v 有.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 324 7 gold 跑去-v 跑去.01 ----- 7:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 324 10 gold 报告-v 报告.01 ----- 10:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-ADV 8:1-ARG2 11:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 325 3 gold 是-v 是.04 ----- 3:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 325 4 gold 如此-v 如此.01 ----- 4:0-rel 0:2-ARG0 2:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 326 5 gold 有-v 有.05 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-LOC 6:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 326 12 gold 是-v 是.01 ----- 12:0-rel 11:1-ARGM-ADV 13:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 326 15 gold 要求-v 要求.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1 17:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 326 24 gold 会-v 会.02 ----- 24:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 326 25 gold 吸引-v 吸引.01 ----- 25:0-rel 14:4-ARG0 22:1-ARGM-ADV 23:0-ARGM-ADV 26:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 327 1 gold 认为-v 认为.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 327 15 gold 会-v 会.02 ----- 15:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 327 16 gold 有-v 有.03 ----- 16:0-rel 2:1-ARGM-LOC 9:4-ARG0 14:1-ARGM-ADV 17:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 328 4 gold 看-v 看.02 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 7:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 328 18 gold 隐藏-v 隐藏.01 ----- 18:0-rel 20:1-ARG1 7:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 329 3 gold 是-v 是.01 ----- 3:0-rel 0:2-ARG0 2:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 330 2 gold 必须-v 必须.02 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 330 3 gold 要-v 要.03 ----- 3:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 330 4 gold 知道-v 知道.01 ----- 4:0-rel 1:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 331 3 gold 能-v 能.01 ----- 3:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 331 4 gold 管理-v 管理.01 ----- 4:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-DIS 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 332 1 gold 瞧-v 瞧.01 ----- 1:0-rel 0:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 332 4 gold 起-v 起.01 ----- 4:0-rel 3:1-ARGM-LOC 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 332 7 gold 是-v 是.01 ----- 7:0-rel 3:6-ARG0 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 333 6 gold 需要-v 需要.03 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 333 10 gold 注意-v 注意.01 ----- 10:0-rel 1:2-ARG0 5:1-ARGM-ADV 7:3-ARGM-ADV 12:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 334 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 334 10 gold 会-v 会.02 ----- 10:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 335 4 gold 想要-v 想要.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 335 10 gold 骚扰-v 骚扰.01 ----- 10:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 335 20 gold 穿-v 穿.01 ----- 20:0-rel 23:1-ARG0 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 335 29 gold 知道-v 知道.01 ----- 29:0-rel 26:1-ARG0 27:1-ARGM-ADV 28:1-ARGM-ADV 30:7-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 335 34 gold 想-v 想.01 ----- 34:0-rel 30:2-ARG0 31:2-ARGM-LOC 33:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 335 36 gold 是-v 是.01 ----- 36:0-rel 30:6-ARG0 37:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 336 1 gold 会-v 会.02 ----- 1:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 336 10 gold 知道-v 知道.01 ----- 10:0-rel 8:1-ARGM-DIS 9:1-ARG0 11:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 336 13 gold 讨论-v 讨论.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 336 15 gold 是-v 是.01 ----- 15:0-rel 11:5-ARG0 16:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 336 20 gold 能-v 能.01 ----- 20:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 336 23 gold 区分-v 区分.01 ----- 23:0-rel 8:1-ARGM-DIS 9:1-ARG0 19:1-ARGM-DIS 21:2-ARGM-ADV 24:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 337 1 gold 看到-v 看到.01 ----- 1:0-rel 0:1-ARG0 4:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 337 26 gold 支持-v 支持.01 ----- 26:0-rel 0:6-ARGM-TPC 21:1-ARGM-ADV 22:1-ARGM-ADV 23:1-ARG0 24:2-ARGM-ADV 27:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 337 42 gold 没有-v 没有.01 ----- 42:0-rel 31:1-ARGM-DIS 32:1-ARGM-ADV 33:1-ARGM-ADV 38:1-ARG0 41:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 338 3 gold 证实-v 证实.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 338 7 gold 要-v 要.03 ----- 7:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 338 11 gold 绑架-v 绑架.01 ----- 11:0-rel 10:0-ARG0 12:0-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 339 4 gold 是-v 是.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-DIR 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 0 gold 要-v 要.03 ----- 0:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 1 gold 了解-v 了解.01 ----- 1:0-rel 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 6 gold 意味-v 意味.01 ----- 6:0-rel 2:1-ARG0 3:1-ARGM-DIR 5:1-ARGM-ADV 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 12 gold 可以-v 可以.01 ----- 12:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 13 gold 推测-v 推测.01 ----- 13:0-rel 11:1-ARG0 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 16 gold 扮演-v 扮演.01 ----- 16:0-rel 14:1-ARG0 15:1-ARGM-ADV 17:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 21 gold 必须-v 必须.02 ----- 21:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 22 gold 要-v 要.03 ----- 22:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 340 32 gold 是-v 是.01 ----- 32:0-rel 29:1-ARGM-ADV 31:1-ARGM-ADV 33:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 345 8 gold 逃-v 逃.01 ----- 8:0-rel 0:1-ARG0 1:1-ARGM-TMP 6:1-ARG1 12:1-ARGM-PRP
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 345 14 gold 记得-v 记得.01 ----- 14:0-rel 13:1-ARG0 15:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 345 17 gold 变成-v 变成.01 ----- 17:0-rel 16:1-ARG1 18:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 345 21 gold 是-v 是.01 ----- 21:0-rel 15:1-ARGM-TMP 20:1-ARGM-ADV 22:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 345 25 gold 会-v 会.02 ----- 25:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 345 26 gold 飞-v 飞.01 ----- 26:0-rel 15:4-ARGM-TMP 24:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 346 3 gold 有-v 有.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-LOC 2:1-ARGM-DIS 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 346 14 gold 一样-v 一样.02 ----- 14:0-rel 0:1-ARG0 9:1-ARGM-ADV 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 347 9 gold 扮演-v 扮演.01 ----- 9:0-rel 12:1,13:1-ARG0 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 347 19 gold 是-v 是.01 ----- 19:0-rel 0:3-ARGM-LOC 5:2-ARG0 21:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 347 22 gold 必须-v 必须.02 ----- 22:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 347 23 gold 记住-v 记住.01 ----- 23:0-rel 21:1-ARG0 24:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 347 25 gold 是-v 是.01 ----- 25:0-rel 24:1-ARG0 26:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 348 5 gold 当心-v 当心.01 ----- 5:0-rel 0:1-ARGM-LOC 4:1-ARG0 7:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 348 8 gold 没-v 没.01 ----- 8:0-rel 9:2-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 348 10 gold 注意-v 注意.01 ----- 10:0-rel 9:1-ARG0 19:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 348 16 gold 掉-v 掉.01 ----- 16:0-rel 19:1-ARG1 13:1-ARGM-LOC
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 349 6 gold 发现-v 发现.01 ----- 6:0-rel 0:1-ARGM-DIS 1:2-ARG0 8:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 349 14 gold 冻死-v 冻死.01 ----- 14:0-rel 11:1-ARG1 12:1-ARGM-TMP 15:1-ARGM-LOC
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 350 13 gold 是-v 是.01 ----- 13:0-rel 0:1-ARGM-LOC 9:5-ARG0 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 350 18 gold 注意-v 注意.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 350 23 gold 掉-v 掉.01 ----- 23:0-rel 26:1-ARG1 15:1-ARGM-TMP 20:1-ARGM-LOC
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 351 5 gold 无-v 无.02 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 352 2 gold 偷-v 偷.01 ----- 2:0-rel 3:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 352 4 gold 是-v 是.01 ----- 4:0-rel 0:1-ARG0 1:1-ARG0 5:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 352 5 gold 风马牛不相及-v 风马牛不相及.01 ----- 5:0-rel 7:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 353 5 gold 渴望-v 渴望.01 ----- 5:0-rel 0:2-ARG0 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 353 6 gold 有-v 有.01 ----- 6:0-rel 7:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 353 13 gold 讲-v 讲.01 ----- 13:0-rel 7:2-ARG0 11:1-ARGM-BNF 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 354 1 gold 有-v 有.01 ----- 1:0-rel 0:1-ARGM-ADV 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 354 5 gold 是-v 是.01 ----- 5:0-rel 0:6-ARG0 7:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 354 14 gold 讲-v 讲.02 ----- 14:0-rel 13:1-ARG0 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 354 17 gold 要-v 要.03 ----- 17:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 354 23 gold 要-v 要.01 ----- 23:0-rel 22:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 354 26 gold 是-v 是.01 ----- 26:0-rel 7:2-ARGM-ADV 21:1-ARGM-DIS 22:5-ARG0 25:1-ARGM-DIS 27:6-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 354 30 gold 讲述-v 讲述.01 ----- 30:0-rel 27:2-ARG0 33:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 355 11 gold 说-v 说.01 ----- 11:0-rel 0:1-ARG0 1:1-ARGM-LOC 8:3-ARGM-ADV 13:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 355 13 gold 是-v 是.01 ----- 13:0-rel 14:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 355 15 gold 引诱-v 引诱.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1 17:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 355 17 gold 让-v 让.02 ----- 17:0-rel 18:1-ARG1 19:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 355 21 gold 在一起-v 在一起.01 ----- 21:0-rel 19:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 355 25 gold 是-v 是.01 ----- 25:0-rel 23:1-ARGM-DIS 24:1-ARGM-ADV 26:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 356 0 gold 是-v 是.01 ----- 0:0-rel 1:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 356 2 gold 请求-v 请求.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 356 4 gold 可以-v 可以.01 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 356 5 gold 让-v 让.02 ----- 5:0-rel 3:1-ARGM-ADV 6:2-ARG1 9:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 356 10 gold 来-v 来.01 ----- 10:0-rel 9:1-ARGM-DIS
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 357 4 gold 持-v 持.01 ----- 4:0-rel 8:1-ARG0 5:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 357 9 gold 愿意-v 愿意.01 ----- 9:0-rel 0:1-ARGM-DIS 1:2-ARG0 10:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 357 10 gold 给出-v 给出.01 ----- 10:0-rel 11:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 357 19 gold 可以-v 可以.01 ----- 19:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 357 20 gold 看出-v 看出.01 ----- 20:0-rel 16:1-ARGM-LOC 21:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 357 22 gold 绑架-v 绑架.01 ----- 22:0-rel 21:1-ARG0 24:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 357 30 gold 请-v 请.03 ----- 30:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 358 2 gold 认为-v 认为.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 358 11 gold 存在-v 存在.01 ----- 11:0-rel 13:1-ARG1 8:2-ARG0 10:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 358 17 gold 是-v 是.01 ----- 17:0-rel 18:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 358 23 gold 联系-v 联系.01 ----- 23:0-rel 20:1-ARGM-ADV 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 359 1 gold 歪曲-v 歪曲.01 ----- 1:0-rel 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 359 4 gold 用来-v 用来.01 ----- 4:0-rel 9:1-ARG1 3:1-ARGM-ADV 5:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 359 5 gold 建立-v 建立.01 ----- 5:0-rel 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 359 12 gold 是-v 是.01 ----- 12:0-rel 0:1-ARGM-MNR 11:1-ARG0 13:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 359 17 gold 理解-v 理解.01 ----- 17:0-rel 13:1-ARGM-ADV 14:3-ARGM-ADV 18:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 360 4 gold 想-v 想.02 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 360 5 gold 说-v 说.01 ----- 5:0-rel 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 360 7 gold 喜欢-v 喜欢.01 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 361 6 gold 听-v 听.01 ----- 6:0-rel 0:1-ARG0 1:2-ARGM-TMP 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 361 10 gold 买-v 买.01 ----- 10:0-rel 0:1-ARG0 9:1-ARGM-ADV 12:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 362 10 gold 处理-v 处理.02 ----- 10:0-rel 0:3-ARGM-TPC 7:1-ARG1 9:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 363 3 gold 能-v 能.01 ----- 3:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 363 4 gold 推荐-v 推荐.01 ----- 4:0-rel 2:1-ARG0 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 365 18 gold 是-v 是.04 ----- 18:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 365 20 gold 是-v 是.04 ----- 20:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 365 21 gold 受-v 受.01 ----- 21:0-rel 17:1-ARG0 23:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 366 1 gold 有-v 有.05 ----- 1:0-rel 0:1-ARGM-DIS 2:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 366 3 gold 看见-v 看见.01 ----- 3:0-rel 2:1-ARG0 5:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 367 17 gold 使-v 使.01 ----- 17:0-rel 0:1-ARGM-TMP 2:4-ARG0 16:1-ARGM-DIS 18:1-ARG1 19:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 367 20 gold 受-v 受.01 ----- 20:0-rel 19:1-ARGM-ADV 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 368 0 gold 请-v 请.03 ----- 0:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 368 1 gold 看-v 看.02 ----- 1:0-rel 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 369 10 gold 有-v 有.08 ----- 10:0-rel 0:1-ARGM-TPC 5:1-ARG0 6:1-ARG0 11:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 369 17 gold 说-v 说.01 ----- 17:0-rel 16:1-ARGM-ADV 18:1-ARGM-ADV 20:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 369 21 gold 是-v 是.01 ----- 21:0-rel 20:1-ARG0 22:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 369 23 gold 认识-v 认识.01 ----- 23:0-rel 22:1-ARG0 25:1,26:5,30:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 369 27 gold 值得-v 值得.01 ----- 27:0-rel 30:1-ARG0 26:1-ARGM-ADV 28:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 370 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 370 5 gold 决定-v 决定.01 ----- 5:0-rel 3:1-ARGM-ADV 4:1-ARG0 6:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 370 6 gold 问-v 问.01 ----- 6:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 371 9 gold 虐待-v 虐待.01 ----- 9:0-rel 7:1-ARG0 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 371 17 gold 知道-v 知道.01 ----- 17:0-rel 14:1-ARGM-DIS 15:1-ARGM-DIS 16:1-ARG0 18:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 372 5 gold 是-v 是.01 ----- 5:0-rel 0:2-ARG0 7:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 372 10 gold 说-v 说.01 ----- 10:0-rel 7:1-ARGM-DIS 8:1-ARG0 9:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 372 16 gold 是-v 是.01 ----- 16:0-rel 7:2-ARGM-ADV 12:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 17:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 373 5 gold 抓-v 抓.01 ----- 5:0-rel 4:1-ARGM-ADV 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 373 8 gold 符合-v 符合.01 ----- 8:0-rel 0:4-ARG0 7:1-ARGM-ADV 9:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 373 11 gold 定义-v 定义.01 ----- 11:0-rel 9:1-ARG0 14:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 374 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 374 5 gold 知道-v 知道.01 ----- 5:0-rel 4:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 374 8 gold 是-v 是.01 ----- 8:0-rel 3:2-ARG0 7:1-ARGM-ADV 9:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 374 16 gold 是-v 是.01 ----- 16:0-rel 13:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 17:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 374 23 gold 带-v 带.03 ----- 23:0-rel 9:4-ARG0 19:1-ARGM-TMP 22:1-ARGM-ADV 24:1-ARG1 25:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 374 25 gold 去-v 去.01 ----- 25:0-rel 26:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 375 8 gold 介入-v 介入.01 ----- 8:0-rel 0:2-ARG0 2:1-ARGM-ADV 3:3-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 376 1 gold 虐待-v 虐待.01 ----- 1:0-rel 2:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 376 6 gold 同意-v 同意.01 ----- 6:0-rel 0:1-ARGM-TPC 4:1-ARG0 5:1-ARGM-ADV 7:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 376 12 gold 可以-v 可以.01 ----- 12:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 376 17 gold 找到-v 找到.01 ----- 17:0-rel 11:1-ARG0 13:1-ARGM-LOC 18:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 376 18 gold 虐待-v 虐待.01 ----- 18:0-rel 24:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 377 2 gold 必须-v 必须.02 ----- 2:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 377 4 gold 要-v 要.03 ----- 4:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 377 5 gold 看到-v 看到.01 ----- 5:0-rel 0:1-ARGM-DIS 1:1-ARG0 6:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 378 6 gold 是-v 是.01 ----- 6:0-rel 0:5-ARG0 7:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 378 14 gold 像-v 像.01 ----- 14:0-rel 13:1-ARGM-ADV 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 379 3 gold 说-v 说.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-DIS 5:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 379 8 gold 是-v 是.01 ----- 8:0-rel 5:3-ARG0 9:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 379 11 gold 听到-v 听到.01 ----- 11:0-rel 9:1-ARGM-DIS 10:1-ARG0 12:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 379 18 gold 必须-v 必须.02 ----- 18:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 379 26 gold 要求-v 要求.02 ----- 26:0-rel 23:2-ARG0 25:1-ARGM-ADV 27:1-ARG1 28:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 379 29 gold 报告-v 报告.01 ----- 29:0-rel 28:1-ARGM-ADV 31:1-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 380 4 gold 严重-v 严重.01 ----- 4:0-rel 2:1-ARGM-DIS 3:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 380 9 gold 要-v 要.03 ----- 9:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 381 3 gold 赞同-v 赞同.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 381 15 gold 熟-v 熟.01 ----- 15:0-rel 0:2-ARGM-ADV 9:1-ARGM-DIS 10:2-ARG0 14:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 381 17 gold 足以-v 足以.01 ----- 17:0-rel 18:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 381 18 gold 称-v 称.01 ----- 18:0-rel 19:1-ARG1 20:2-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 381 20 gold 为-v 为.01 ----- 20:0-rel 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 382 6 gold 看-v 看.02 ----- 6:0-rel 1:1-ARGM-MNR
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 382 8 gold 读-v 读.01 ----- 8:0-rel 10:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 382 17 gold 决定-v 决定.01 ----- 17:0-rel 0:1-ARGM-DIS 1:3-ARGM-MNR 8:3-ARGM-TMP 16:1-ARG0 18:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 382 19 gold 作出-v 作出.01 ----- 19:0-rel 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 382 24 gold 听听-v 听听.01 ----- 24:0-rel 18:1-ARGM-TMP 23:1-ARGM-DIS 25:4-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 383 4 gold 小心-v 小心.01 ----- 4:0-rel 0:1-ARG0 2:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 383 7 gold 要-v 要.03 ----- 7:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 383 19 gold 作出-v 作出.01 ----- 19:0-rel 0:1-ARG0 2:1-ARGM-ADV 6:1-ARGM-ADV 8:1-ARGM-MNR 15:1-ARGM-DIS 16:1-ARG1 21:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 384 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 384 3 gold 试图-v 试图.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 384 4 gold 做-v 做.01 ----- 4:0-rel 6:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 385 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARGM-DIS 2:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 385 25 gold 会-v 会.02 ----- 25:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 386 4 gold 是-v 是.01 ----- 4:0-rel 0:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 387 3 gold 去-v 去.02 ----- 3:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 387 4 gold 做-v 做.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-ADV 5:5-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 387 5 gold 力所能及-v 力所能及.01 ----- 5:0-rel 7:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 387 11 gold 要-v 要.03 ----- 11:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 387 15 gold 攻击-v 攻击.01 ----- 15:0-rel 0:1-ARG0 9:1-ARGM-DIS 10:1-ARGM-ADV 12:2-ARGM-ADV 16:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 388 0 gold 记住-v 记住.01 ----- 0:0-rel 2:2-ARG1 11:2-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 388 5 gold 会-v 会.02 ----- 5:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 388 6 gold 帮-v 帮.01 ----- 6:0-rel 2:1-ARG0 4:1-ARGM-ADV 7:3-ARG2
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 388 12 gold 是-v 是.01 ----- 12:0-rel 11:1-ARGM-DIS 13:2-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 389 3 gold 有-v 有.01 ----- 3:0-rel 2:1-ARG0 10:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 389 11 gold 是-v 是.01 ----- 11:0-rel 2:5-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 390 8 gold 著-v 著.01 ----- 8:0-rel 7:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 390 15 gold 出版-v 出版.01 ----- 15:0-rel 10:1-ARGM-TMP 11:1-ARGM-LOC 13:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 391 2 gold 有-v 有.03 ----- 2:0-rel 0:1-ARGM-TMP 1:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 391 9 gold 可以-v 可以.01 ----- 9:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 391 14 gold 找到-v 找到.01 ----- 14:0-rel 5:1-ARGM-DIS 7:1-ARG0 8:1-ARGM-ADV 10:1-ARGM-MNR 15:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 391 18 gold 读-v 读.01 ----- 18:0-rel 5:1-ARGM-DIS 7:1-ARG0 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 391 20 gold 读-v 读.01 ----- 20:0-rel 5:1-ARGM-DIS 7:1-ARG0 8:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 392 14 gold 出版-v 出版.01 ----- 14:0-rel 8:1-ARGM-TMP 9:1-ARGM-LOC 11:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 393 9 gold 研究-v 研究.01 ----- 9:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV 3:1-ARGM-MNR 7:2-ARGM-ADV 11:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 393 18 gold 感-v 感.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV 19:1-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 393 21 gold 是-v 是.01 ----- 21:0-rel 16:5-ARG0 22:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 393 28 gold 不同凡响-v 不同凡响.01 ----- 28:0-rel 30:1-ARG0
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 394 3 gold 收听-v 收听.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 394 13 gold 听-v 听.01 ----- 13:0-rel 1:1-ARGM-DIS 2:1-ARG0 12:1-ARGM-ADV
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 394 17 gold 会-v 会.02 ----- 17:0-rel
+wb/e2c/00/e2c_0009@0009@e2c@wb@ch@on 396 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1

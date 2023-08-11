@@ -1,0 +1,17 @@
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 0 2 gold have-v have.01 ----- 2:0-rel
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 0 3 gold determine-v determine.01 ----- 3:0-rel 0:1-ARG0 4:1-ARG1
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 0 7 gold be-v be.01 ----- 7:0-rel 5:1-ARG1 8:1-ARG2
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 1 8 gold be-v be.01 ----- 8:0-rel 0:1-ARG1 3:1-ARGM-ADV 9:1-ARGM-TMP 10:1-ARG2
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 4 gold say-v say.01 ----- 4:0-rel 0:1-ARG0 2:0-ARGM-MOD 3:0-ARGM-NEG 5:1-ARG1
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 10 gold be-v be.03 ----- 10:0-rel
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 11 gold go-v go.04 ----- 11:0-rel
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 13 gold limit-v limit.01 ----- 13:0-rel 14:2-ARG1
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 19 gold know-v know.01 ----- 19:0-rel 18:1-ARG0 20:3-ARG1
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 21 gold be-v be.02 ----- 21:0-rel 22:3-ARG1
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 31 gold be-v be.01 ----- 31:0-rel 30:0-ARGM-MOD 32:1-ARG2 26:1-LINK-SLC
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 2 33 gold use-n use.01 ----- 33:0-rel
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 3 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:3-ARG1
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 3 7 gold have-v have.01 ----- 7:0-rel
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 3 8 gold surrender-v surrender.01 ----- 8:0-rel 3:1-ARG0 9:1-ARG2 12:1-ARGM-LOC
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 4 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bn/cnn/02/cnn_0269@0269@cnn@bn@en@on 4 8 gold be-v be.01 ----- 8:0-rel 3:1-ARG1 9:1-ARGM-TMP 11:1-ARG2

@@ -1,0 +1,167 @@
+pt/nt/46/nt_4609@4609@nt@pt@en@on 0 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 1 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 2 2 gold see-v see.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 3 2 gold be-v be.01 ----- 2:0-rel 0:2-ARG1 3:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 4 3 gold accept-v accept.01 ----- 3:0-rel 0:1-ARG0 1:0-ARGM-MOD 2:0-ARGM-NEG 4:1-ARG1 5:1-ARG3
+pt/nt/46/nt_4609@4609@nt@pt@en@on 4 12 gold do-v do.01 ----- 12:0-rel
+pt/nt/46/nt_4609@4609@nt@pt@en@on 5 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 5 5 gold be-v be.01 ----- 5:0-rel 4:1-ARG1 6:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 6 2 gold want-v want.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 6 4 gold judge-v judge.01 ----- 4:0-rel 5:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 7 2 gold be-v be.01 ----- 2:0-rel 0:1-ARGM-ADV 1:2-ARG1 3:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 7 6 gold give-v give.01 ----- 6:0-rel 5:1-ARG0
+pt/nt/46/nt_4609@4609@nt@pt@en@on 7 10 gold have-v have.03 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 7 14 gold eat-v eat.01 ----- 14:0-rel 9:1-LINK-PCR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 7 16 gold drink-v drink.01 ----- 16:0-rel 9:1-LINK-PCR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 7 18 gold do-v do.01 ----- 18:0-rel
+pt/nt/46/nt_4609@4609@nt@pt@en@on 8 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 8 5 gold bring-v bring.01 ----- 5:0-rel 6:1-ARG1 9:1-ARGM-COM 11:2-ARGM-TMP 0:1-LINK-PCR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 8 7 gold believe-v believe.01 ----- 7:0-rel 8:0-ARG0
+pt/nt/46/nt_4609@4609@nt@pt@en@on 8 13 gold travel-v travel.01 ----- 13:0-rel 12:1-ARG0
+pt/nt/46/nt_4609@4609@nt@pt@en@on 8 15 gold do-v do.01 ----- 15:0-rel
+pt/nt/46/nt_4609@4609@nt@pt@en@on 9 11 gold do-v do.02 ----- 11:0-rel 0:3-ARG0 12:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 10 1 gold be-v be.01 ----- 1:0-rel 0:0-ARGM-DIS 2:1-ARG1 5:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 10 10 gold work-v work.01 ----- 10:0-rel 9:0-ARGM-MOD 11:2-ARGM-PRP 5:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 10 12 gold earn-v earn.01 ----- 12:0-rel 13:1-ARG1 5:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 11 3 gold serve-v serve.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 4:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 11 8 gold pay-v pay.01 ----- 8:0-rel 0:1-ARG0 2:1-ARGM-TMP 9:1-ARG3
+pt/nt/46/nt_4609@4609@nt@pt@en@on 12 3 gold plant-v plant.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 4:1-ARG1 6:1-ARGM-MNR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 12 7 gold eat-v eat.01 ----- 7:0-rel 8:2-ARG1 12:1-ARGM-REC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 13 3 gold care-n care.01 ----- 3:0-rel 0:1-ARG0 2:0-ARGM-LVB 4:1-ARG1 9:1-ARGM-MNR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 13 10 gold drink-v drink.01 ----- 10:0-rel 11:2-ARG1 15:1-ARGM-REC 0:1-LINK-PCR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 14 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 15 3 gold say-v say.01 ----- 3:0-rel 0:2-ARG0 4:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 16 4 gold write-v write.01 ----- 4:0-rel 0:1-ARGM-DIS 5:1-ARGM-LOC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 17 6 gold use-v use.01 ----- 6:0-rel 7:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 17 8 gold separate-v separate.01 ----- 8:0-rel 9:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 17 13 gold keep-v keep.04 ----- 13:0-rel 0:2-ARGM-TMP 12:0-ARGM-NEG 14:1-ARG1 15:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 17 16 gold eat-v eat.01 ----- 16:0-rel 17:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 18 2 gold say-v say.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 18 5 gold be-v be.03 ----- 5:0-rel
+pt/nt/46/nt_4609@4609@nt@pt@en@on 18 7 gold think-v think.01 ----- 7:0-rel 0:2-ARGM-TMP 6:1-ARG0 8:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 20 3 gold talk-v talk.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 21 4 gold write-v write.01 ----- 4:0-rel 0:1-ARGM-DIS 5:1-ARGM-GOL
+pt/nt/46/nt_4609@4609@nt@pt@en@on 22 3 gold plow-v plow.01 ----- 3:0-rel 0:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 22 8 gold separate-v separate.01 ----- 8:0-rel 9:1-ARG1 5:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 22 13 gold expect-v expect.01 ----- 13:0-rel 0:3-ARG0 11:0-ARGM-MOD 14:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 22 15 gold get-v get.01 ----- 15:0-rel 16:2-ARG1 20:1-ARG3
+pt/nt/46/nt_4609@4609@nt@pt@en@on 23 1 gold plant-v plant.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 4:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 23 10 gold be-v be.01 ----- 10:0-rel 7:1-ARGM-ADV 8:1-ARG1 9:0-ARGM-MOD 11:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 23 13 gold harvest-v harvest.01 ----- 13:0-rel 14:1-ARGM-DIR 16:2-ARG1 8:1-LINK-PCR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 24 4 gold ask-v ask.02 ----- 4:0-rel 0:1-ARGM-ADV 1:1-ARG1 3:0-ARGM-NEG 5:2-ARGM-EXT
+pt/nt/46/nt_4609@4609@nt@pt@en@on 25 1 gold have-v have.03 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 25 5 gold get-v get.01 ----- 5:0-rel 6:1-ARG1 7:1-ARG2 0:1-LINK-PCR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 26 3 gold have-v have.03 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARGM-ADV 2:1-ARG0 4:1-ARG1 6:1-ARGM-DIS
+pt/nt/46/nt_4609@4609@nt@pt@en@on 27 4 gold use-v use.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 28 3 gold endure-v endure.01 ----- 3:0-rel 0:1-ARGM-DIS 2:1-ARG1 4:1-ARG2 5:1-ARGM-REC 6:1-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 28 11 gold stop-v stop.03 ----- 11:0-rel 8:1-ARG0 9:0-ARGM-MOD 10:0-ARGM-NEG 12:1-ARG1 13:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 28 14 gold obey-v obey.01 ----- 14:0-rel 15:2-ARG1 12:1-LINK-PCR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 29 2 gold know-v know.01 ----- 2:0-rel 0:1-ARGM-ADV 1:1-ARG0 3:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 29 6 gold work-v work.01 ----- 6:0-rel 7:1-ARGM-LOC 4:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 29 10 gold get-v get.01 ----- 10:0-rel 4:2-ARG0 11:1-ARG1 13:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 30 3 gold serve-v serve.01 ----- 3:0-rel 4:1-ARG1 1:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 30 7 gold get-v get.01 ----- 7:0-rel 0:0-ARGM-DIS 1:2-ARG0 8:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 30 12 gold offer-v offer.01 ----- 12:0-rel 13:1-ARGM-LOC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 31 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2 4:1-ARGM-ADV
+pt/nt/46/nt_4609@4609@nt@pt@en@on 31 7 gold have-v have.03 ----- 7:0-rel 8:2-ARG1 5:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 31 11 gold tell-v tell.01 ----- 11:0-rel 12:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 32 3 gold command-v command.02 ----- 3:0-rel 0:1-ARG0 4:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 32 7 gold tell-v tell.01 ----- 7:0-rel 8:1-ARG1 5:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 32 12 gold get-v get.01 ----- 12:0-rel 5:2-ARG0 11:0-ARGM-MOD 13:1-ARG1 15:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 33 4 gold use-v use.01 ----- 4:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:0-ARGM-NEG 5:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 33 14 gold try-v try.01 ----- 14:0-rel 11:1-ARG0 13:0-ARGM-NEG 15:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 33 16 gold get-v get.01 ----- 16:0-rel 17:1-ARG1 18:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 34 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:0-ARGM-NEG 3:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 34 6 gold write-v write.01 ----- 6:0-rel 7:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 35 3 gold die-v die.01 ----- 3:0-rel 0:1-ARG1 1:0-ARGM-MOD 2:2,4:1-ARGM-ADV
+pt/nt/46/nt_4609@4609@nt@pt@en@on 35 6 gold have-v have.03 ----- 6:0-rel 7:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 35 8 gold take-v take.05 ----- 8:0,9:1-rel 7:1-ARG0 10:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 35 13 gold be-v be.01 ----- 13:0-rel 11:1-ARGM-GOL 14:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 36 1 gold be-v be.01 ----- 1:0-rel 2:0-ARGM-NEG 3:2-ARG2 10:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 36 6 gold tell-v tell.01 ----- 6:0-rel 7:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 36 11 gold give-v give.01 ----- 11:0-rel 12:1-ARG2 13:2-ARG1 3:2-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 36 16 gold boast-v boast.01 ----- 16:0-rel 13:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 37 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 37 8 gold do-v do.02 ----- 8:0-rel 6:1-ARG0 7:0-ARGM-MOD 5:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 38 4 gold tell-v tell.01 ----- 4:0-rel 1:1-ARG0 3:0-ARGM-NEG 5:1-ARG2 6:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 38 11 gold be-v be.01 ----- 11:0-rel 0:1-ARGM-ADV 10:1-ARG1 12:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 39 2 gold do-v do.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:1-ARGM-CAU
+pt/nt/46/nt_4609@4609@nt@pt@en@on 39 6 gold be-v be.01 ----- 6:0-rel 5:1-ARG1 7:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 39 13 gold deserve-v deserve.01 ----- 13:0-rel 0:1-ARGM-ADV 11:1-ARG0 12:0-ARGM-MOD 14:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 39 16 gold pay-v pay.01 ----- 16:0-rel
+pt/nt/46/nt_4609@4609@nt@pt@en@on 40 2 gold have-v have.03 ----- 2:0-rel 0:0-ARGM-DIS 1:1-ARG0 3:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 41 2 gold tell-v tell.01 ----- 2:0-rel 0:1-ARG0 1:0-ARGM-MOD 3:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 42 4 gold do-v do.02 ----- 4:0-rel 1:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 42 9 gold give-v give.01 ----- 9:0-rel 10:1-ARG2 5:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 43 2 gold do-v do.01 ----- 2:0-rel
+pt/nt/46/nt_4609@4609@nt@pt@en@on 43 4 gold get-v get.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG3
+pt/nt/46/nt_4609@4609@nt@pt@en@on 43 6 gold do-v do.02 ----- 6:0-rel 7:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 44 2 gold be-v be.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 44 6 gold tell-v tell.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG2 8:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 44 13 gold offer-v offer.01 ----- 13:0-rel 4:2-ARGM-TMP 11:1-ARG0 12:0-ARGM-MOD 14:1-ARG1 15:1-ARG3 17:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 44 21 gold use-v use.01 ----- 21:0-rel 4:2-ARGM-TMP 11:1-ARG0 12:0-ARGM-MOD 20:0-ARGM-NEG 22:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 44 25 gold come-v come.01 ----- 25:0-rel 26:1-ARGM-COM 22:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 44 27 gold do-v do.02 ----- 27:0-rel 28:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 45 1 gold be-v be.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 46 1 gold belong-v belong.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 46 9 gold make-v make.02 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 47 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:2-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 47 4 gold help-v help.01 ----- 4:0-rel 5:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 47 5 gold save-v save.02 ----- 5:0-rel 6:3-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 48 4 gold become-v become.01 ----- 4:0-rel 0:1-ARGM-GOL 3:1-ARG1 5:1-ARG2 8:1-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 48 12 gold help-v help.01 ----- 12:0-rel 10:1-ARG0 11:0-ARGM-MOD 13:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 48 13 gold save-v save.02 ----- 13:0-rel 14:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 49 4 gold rule-v rule.03 ----- 4:0-rel 3:0-ARGM-NEG 5:1-ARG0
+pt/nt/46/nt_4609@4609@nt@pt@en@on 49 14 gold rule-v rule.03 ----- 14:0-rel 15:1-ARG0 11:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 49 19 gold become-v become.01 ----- 19:0-rel 10:1-ARGM-GOL 18:1-ARG1 20:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 49 24 gold rule-v rule.03 ----- 24:0-rel 25:1-ARG0 21:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 50 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:2-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 50 4 gold help-v help.01 ----- 4:0-rel 5:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 50 5 gold save-v save.02 ----- 5:0-rel 6:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 50 9 gold rule-v rule.03 ----- 9:0-rel 10:1-ARG0 6:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 51 3 gold be-v be.01 ----- 3:0-rel 4:1-ARG2 1:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 51 8 gold become-v become.01 ----- 8:0-rel 0:1-ARGM-GOL 7:1-ARG1 9:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 51 12 gold be-v be.01 ----- 12:0-rel 13:1-ARG2 10:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 52 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:2-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 52 4 gold help-v help.01 ----- 4:0-rel 5:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 52 5 gold save-v save.02 ----- 5:0-rel 6:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 52 8 gold be-v be.01 ----- 8:0-rel 9:1-ARG2 6:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 53 5 gold be-v be.01 ----- 5:0-rel 1:0-ARGM-DIS 2:1-ARGM-ADV 4:1-ARG1 6:0-ARGM-NEG 7:1-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 53 14 gold rule-v rule.03 ----- 14:0-rel 15:1-ARG0
+pt/nt/46/nt_4609@4609@nt@pt@en@on 54 3 gold be-v be.01 ----- 3:0-rel 4:1-ARG2 1:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 54 7 gold become-v become.01 ----- 7:0-rel 0:1-ARGM-GOL 6:1-ARG1 8:1-ARG2 9:1-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 54 13 gold help-v help.01 ----- 13:0-rel 11:1-ARG0 12:0-ARGM-MOD 14:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 54 14 gold save-v save.02 ----- 14:0-rel 15:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 55 2 gold become-v become.01 ----- 2:0-rel 0:1-ARG1 3:1-ARG2 5:1-ARGM-GOL
+pt/nt/46/nt_4609@4609@nt@pt@en@on 56 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 56 7 gold save-v save.02 ----- 7:0-rel 5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1 9:1-ARGM-MNR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 57 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 4:2-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 57 5 gold make-v make.02 ----- 5:0-rel 6:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 58 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 58 7 gold share-v share.01 ----- 7:0-rel 5:1-ARG0 6:0-ARGM-MOD 8:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 59 1 gold know-v know.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 59 9 gold run-v run.02 ----- 9:0-rel 3:1-ARG1 6:1-ARG0
+pt/nt/46/nt_4609@4609@nt@pt@en@on 59 15 gold get-v get.01 ----- 15:0-rel 12:2-ARG0 16:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 60 1 gold run-v run.02 ----- 1:0-rel 0:1-ARGM-DIS 2:1-ARGM-MNR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 61 0 gold run-v run.02 ----- 0:0-rel 1:2-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 61 2 gold win-v win.01 ----- 2:0-rel
+pt/nt/46/nt_4609@4609@nt@pt@en@on 62 2 gold compete-v compete.01 ----- 2:0-rel 3:1-ARGM-LOC 0:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 62 6 gold use-v use.01 ----- 6:0-rel 0:2-ARG0 7:1-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 63 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 63 7 gold win-v win.01 ----- 7:0-rel 5:1-ARG0 6:0-ARGM-MOD 8:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 63 15 gold last-v last.01 ----- 15:0-rel 14:0-ARGM-NEG 11:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 64 3 gold be-v be.01 ----- 3:0-rel 0:0-ARGM-DIS 1:1-ARG1 4:2-ARG2
+pt/nt/46/nt_4609@4609@nt@pt@en@on 64 7 gold last-v last.01 ----- 7:0-rel 6:0-ARGM-MOD 8:1-ARG2 4:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 65 2 gold run-v run.02 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-MNR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 65 6 gold have-v have.03 ----- 6:0-rel 7:1-ARG1 4:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 66 1 gold fight-v fight.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-MNR
+pt/nt/46/nt_4609@4609@nt@pt@en@on 66 7 gold hit-v hit.01 ----- 7:0-rel 8:2-ARG1 3:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 67 1 gold be-v be.01 ----- 1:0-rel 2:1-ARG2 5:3-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 67 6 gold fight-v fight.01 ----- 6:0-rel 5:1-ARG0 7:2-ARGM-PRP 2:1-LINK-SLC
+pt/nt/46/nt_4609@4609@nt@pt@en@on 67 8 gold make-v make.02 ----- 8:0-rel 9:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 67 10 gold do-v do.02 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 67 13 gold want-v want.01 ----- 13:0-rel 12:1-ARG0
+pt/nt/46/nt_4609@4609@nt@pt@en@on 68 1 gold do-v do.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:1-ARGM-PRP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 68 8 gold miss-v miss.01 ----- 8:0-rel 5:1-ARG0 6:0-ARGM-MOD 7:0-ARGM-NEG 9:2-ARG1
+pt/nt/46/nt_4609@4609@nt@pt@en@on 68 9 gold get-v get.01 ----- 9:0-rel 10:1-ARG1 12:1-ARGM-REC 13:1-ARGM-TMP
+pt/nt/46/nt_4609@4609@nt@pt@en@on 68 14 gold tell-v tell.01 ----- 14:0-rel 15:1-ARG2 16:1-ARG1
