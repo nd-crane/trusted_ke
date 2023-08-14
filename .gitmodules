@@ -1,3 +1,6 @@
 [submodule "coref/asp/ASP"]
 	path = coref/asp/ASP
 	url = https://github.com/lyutyuh/ASP.git
+[submodule "nel/blink/blink"]
+	path = nel/blink/blink
+	url = https://github.com/facebookresearch/BLINK.git
