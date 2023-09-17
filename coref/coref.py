@@ -6,7 +6,7 @@ from pathlib import Path
 
 def resolve():
     coref = spacy.load('en_core_web_trf')
-    df = pd.read_csv('MaintNet_data/Aircraft_Annotation_DataFile.csv')
+    df = pd.read_csv('data/MaintNet_data/Aircraft_Annotation_DataFile.csv')
 
     # Note using first 100 col temporary so it doesn't run long
     new_df = pd.DataFrame(df['IDENT'][:100], columns=['IDENT'])
