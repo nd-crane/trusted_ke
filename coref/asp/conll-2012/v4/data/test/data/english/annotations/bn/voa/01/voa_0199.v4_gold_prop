@@ -1,8 +1,0 @@
-bn/voa/01/voa_0199@0199@voa@bn@en@on 0 2 gold say-v say.01 ----- 2:0-rel 0:1-ARG0 3:4-ARG1
-bn/voa/01/voa_0199@0199@voa@bn@en@on 0 10 gold have-v have.01 ----- 10:0-rel
-bn/voa/01/voa_0199@0199@voa@bn@en@on 0 11 gold shoot-v shoot.02 ----- 11:0-rel 3:2-ARG0 14:2-ARG1 21:1-ARGM-LOC
-bn/voa/01/voa_0199@0199@voa@bn@en@on 0 13 gold kill-v kill.01 ----- 13:0-rel 3:2-ARG0 14:2-ARG1 21:1-ARGM-LOC
-bn/voa/01/voa_0199@0199@voa@bn@en@on 0 15 gold lead-v lead.02 ----- 15:0-rel 17:0-ARG0
-bn/voa/01/voa_0199@0199@voa@bn@en@on 0 28 gold hold-v hold.01 ----- 28:0-rel 27:0-ARG0 29:0-ARG1
-bn/voa/01/voa_0199@0199@voa@bn@en@on 1 1 gold say-v say.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
-bn/voa/01/voa_0199@0199@voa@bn@en@on 1 4 gold attack-v attack.01 ----- 4:0-rel 2:1-ARG0 5:2-ARG1 11:1-ARGM-TMP

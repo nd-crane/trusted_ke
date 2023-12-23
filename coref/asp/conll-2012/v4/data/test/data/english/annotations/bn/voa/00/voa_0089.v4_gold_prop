@@ -1,8 +1,0 @@
-bn/voa/00/voa_0089@0089@voa@bn@en@on 0 4 gold search-v search.01 ----- 4:0-rel 0:2-ARG0 5:2-ARGM-LOC 14:1-ARGM-TMP
-bn/voa/00/voa_0089@0089@voa@bn@en@on 0 10 gold wreck-v wreck.01 ----- 10:0-rel 11:0-ARG1
-bn/voa/00/voa_0089@0089@voa@bn@en@on 0 18 gold find-v find.01 ----- 18:0-rel 17:1-ARG0 19:3-ARG1
-bn/voa/00/voa_0089@0089@voa@bn@en@on 0 23 gold proceed-v proceed.01 ----- 23:0-rel 24:1-ARG1
-bn/voa/00/voa_0089@0089@voa@bn@en@on 0 28 gold recover-v recover.02 ----- 28:0-rel 29:1-ARG1
-bn/voa/00/voa_0089@0089@voa@bn@en@on 1 7 gold say-v say.01 ----- 7:0-rel 0:2-ARG0 8:3-ARG1
-bn/voa/00/voa_0089@0089@voa@bn@en@on 1 10 gold be-v be.01 ----- 10:0-rel 8:1-ARG1 11:1-ARG2
-bn/voa/00/voa_0089@0089@voa@bn@en@on 1 14 gold venture-v venture.01 ----- 14:0-rel 15:2-ARGM-EXT 18:1-ARGM-DIR 21:1-ARGM-CAU

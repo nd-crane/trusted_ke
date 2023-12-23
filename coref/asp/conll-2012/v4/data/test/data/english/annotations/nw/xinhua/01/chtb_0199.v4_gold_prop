@@ -1,5 +1,0 @@
-nw/xinhua/01/chtb_0199@0199@xinhua@nw@en@on 0 13 gold arrive-v arrive.01 ----- 13:0-rel 0:1-ARGM-CAU 14:1-ARG4 16:1-ARGM-TMP 24:2-ARGM-PRP
-nw/xinhua/01/chtb_0199@0199@xinhua@nw@en@on 0 25 gold carry-v carry.03 ----- 25:0,26:1-rel 27:1-ARG1
-nw/xinhua/01/chtb_0199@0199@xinhua@nw@en@on 1 2 gold show-v show.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
-nw/xinhua/01/chtb_0199@0199@xinhua@nw@en@on 1 6 gold visit-v visit.01 ----- 6:0-rel 3:1-ARG0 7:1-ARG1
-nw/xinhua/01/chtb_0199@0199@xinhua@nw@en@on 2 1 gold take-v take.01 ----- 1:0-rel 2:1-ARG0 0:1-LINK-PCR

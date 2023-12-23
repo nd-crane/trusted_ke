@@ -97,3 +97,14 @@ no module named transformers, mamba install transformers
   
   
 got too many open files
+
+tried again, was fine
+
+got "no module named conll"
+
+mamba install pyconll -c pyconll
+
+oops that doesn't help
+
+Turns out it's this repo: https://github.com/YerevaNN/SciERC/tree/master
+I'm just going to create custom directives and functions that do the same thing
