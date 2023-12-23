@@ -1,0 +1,5 @@
+created python venv rebel2_venv
+did pip install torch torchaudio torchvision
+got requirements.txt from https://github.com/Babelscape/rebel and did pip install -r requirements.txt
+got an error that datasets and transformers need different versions of huggingface-hub. Changed the version on datasets to <= instead of ==
+
