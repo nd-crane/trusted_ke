@@ -32,11 +32,11 @@ Paper: https://arxiv.org/pdf/2109.06067.pdf
 
     6. Note the commands in the Quick Start section. Optional - if you downloaded the scierc dataset, you can paste these commands to evaluate the model on that dataset and confirm their results.
 
-4. Create JSONL formatted data for the input. See data_processing/pl-marker_faa.ipynb. That notebook creates two different sets of JSONL data - one which treats the entire FAA dataset as a single document with 2478 sentences, and one which treats it as 2478 documents each with one sentence. Both are saved in PL-Marker/scierc. Alternatively, use the .json files already created, now in pl-marker, and move to pl-marker/PL-Marker/scierc
+4. Create JSONL formatted data for the input. See create_jsonl_data.ipynb. That notebook transforms the FAA data to JSONL format and saves it in PL-Marker/scierc. Alternatively, use the .json file already created, now in pl-marker, and move to pl-marker/PL-Marker/scierc
 
-5. Copy sciner_models/sciner-scibert to sciner_models/sciner-scibert_one_doc, and to sciner_models/sciner-scibert_doc_per_sentence
+5. Copy sciner_models/sciner-scibert to sciner_models/sciner-scibert_faa
 
-6. Copy scire_models/scire-scibert to scire_models/scire-scibert_one_doc, and to scire_models/scire-scibert_doc_per_sentence
+6. Copy scire_models/scire-scibert to scire_models/scire-scibert_faa
 
 Your directory tree from pl-marker should look like this:
 .\
@@ -61,21 +61,11 @@ Your directory tree from pl-marker should look like this:
     ├── run_re_unidirect.py\
     ├── scierc\
     │   ├── dev.json\
-    │   ├── faa_eval_doc_per_sentence.json\
-    │   ├── faa_eval_one_doc.json\
+    │   ├── faa_eval_faa.json\
     │   ├── test.json\
     │   └── train.json\
     ├── sciner_models\
-    │   ├── sciner-scibert-faa_doc_per_sentence\
-    │   │   ├── config.json\
-    │   │   ├── ent_pred_test.json\
-    │   │   ├── pytorch_model.bin\
-    │   │   ├── results.json\
-    │   │   ├── special_tokens_map.json\
-    │   │   ├── tokenizer_config.json\
-    │   │   ├── training_args.bin\
-    │   │   └── vocab.txt\
-    │   └── sciner-scibert-faa_one_doc\
+    │   └── sciner-scibert-faa\
     │       ├── config.json\
     │       ├── ent_pred_test.json\
     │       ├── pytorch_model.bin\
@@ -85,16 +75,7 @@ Your directory tree from pl-marker should look like this:
     │       ├── training_args.bin\
     │       └── vocab.txt\
     ├── scire_models\
-    │   ├── scire-scibert-faa_doc_per_sentence\
-    │   │   ├── config.json\
-    │   │   ├── pred_results.json\
-    │   │   ├── pytorch_model.bin\
-    │   │   ├── results.json\
-    │   │   ├── special_tokens_map.json\
-    │   │   ├── tokenizer_config.json\
-    │   │   ├── training_args.bin\
-    │   │   └── vocab.txt\
-    │   └── scire-scibert-faa_one_doc\
+    │   └── scire-scibert-faa\
     │       ├── config.json\
     │       ├── pred_results.json\
     │       ├── pytorch_model.bin\
@@ -109,7 +90,7 @@ Your directory tree from pl-marker should look like this:
     └── transformers\
         ├── ...
 
-7. Change the following lines in run_acener.py. Because we do not have correct 'ner' labels in the faa_eval_**.json files, when it tries to calculate an f1 score, it runs into a divide by zero error. Changing these lines will avoid that:
+7. Change the following lines in run_acener.py. Because we do not have correct 'ner' labels in the faa_eval_faa.json files, when it tries to calculate an f1 score, it runs into a divide by zero error. Changing these lines will avoid that:
     1. Comment out 751-763 (from "precision_score ..." to "logger.info...")
     2. Replace results with None on line 783
     3. Comment out 1070-1076 (from "result =..." to "logger.info...")
@@ -119,34 +100,9 @@ Your directory tree from pl-marker should look like this:
     2. Replace results with None on line 1016
     3. Comment out 1316-1329 (from "result =..." to "json.dump")
 
-9. Run these commands for each task. Note that NER has to complete before you can do RE. Note that the NER tasks can take about an hour and a half, while RE takes about 20 minutes.
+9. Run these commands for each task. Note that NER has to complete before you can do RE. Note that the NER task can take about an hour and a half, while RE takes about 20 minutes.
 
-NER for one_doc format:
-
-CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
-    --model_name_or_path  ../bert_models/scibert-uncased  --do_lower_case  \
-    --data_dir scierc  \
-    --learning_rate 2e-5  --num_train_epochs 50  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
-    --max_seq_length 512  --save_steps 2000  --max_pair_length 256  --max_mention_ori_length 8    \
-    --do_eval  --evaluate_during_training   --eval_all_checkpoints  \
-    --fp16  --seed 42  --onedropout  --lminit  \
-    --train_file train.json --dev_file dev.json --test_file faa_eval_one_doc.json  \
-    --output_dir sciner_models/sciner-scibert-faa_one_doc  --overwrite_output_dir  --output_results
-
-RE for one_doc format:
-
-CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
-    --model_name_or_path  ../bert_models/scibert-uncased  --do_lower_case  \
-    --data_dir scierc  \
-    --learning_rate 2e-5  --num_train_epochs 10  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
-    --max_seq_length 256  --max_pair_length 16  --save_steps 2500  \
-    --do_eval  --evaluate_during_training   --eval_all_checkpoints  --eval_logsoftmax  \
-    --fp16   \
-    --test_file sciner_models/sciner-scibert-faa_one_doc/ent_pred_test.json  \
-    --use_ner_results \
-    --output_dir scire_models/scire-scibert-faa_one_doc
-
-NER for doc_per_sentence format:
+NER:
 
 CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
     --model_name_or_path  ../bert_models/scibert-uncased  --do_lower_case  \
@@ -155,10 +111,10 @@ CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
     --max_seq_length 512  --save_steps 2000  --max_pair_length 256  --max_mention_ori_length 8    \
     --do_eval  --evaluate_during_training   --eval_all_checkpoints  \
     --fp16  --seed 42  --onedropout  --lminit  \
-    --train_file train.json --dev_file dev.json --test_file faa_eval_doc_per_sentence.json  \
-    --output_dir sciner_models/sciner-scibert-faa_doc_per_sentence  --overwrite_output_dir  --output_results
+    --train_file train.json --dev_file dev.json --test_file faa_eval_faa.json  \
+    --output_dir sciner_models/sciner-scibert-faa  --overwrite_output_dir  --output_results
 
-RE for doc_per_sentence format:
+RE:
 
 CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
     --model_name_or_path  ../bert_models/scibert-uncased  --do_lower_case  \
@@ -167,8 +123,8 @@ CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
     --max_seq_length 256  --max_pair_length 16  --save_steps 2500  \
     --do_eval  --evaluate_during_training   --eval_all_checkpoints  --eval_logsoftmax  \
     --fp16   \
-    --test_file sciner_models/sciner-scibert-faa_doc_per_sentence/ent_pred_test.json  \
+    --test_file sciner_models/sciner-scibert-faa/ent_pred_test.json  \
     --use_ner_results \
-    --output_dir scire_models/scire-scibert-faa_doc_per_sentence
+    --output_dir scire_models/scire-scibert-faa
 
 10. Run code in pred_results_parse.ipynb to put final triple predictions into a csv in data/results
