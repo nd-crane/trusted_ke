@@ -102,4 +102,4 @@ for i in range(len(dataset)):
     sys.stdout.write(f'\r{prefix} |{bar}| {percent}% {suffix}', )
     sys.stdout.flush()
             
-pd.DataFrame(results_dict).to_csv("../../data/FAA_data/rebel_results.csv")
+pd.DataFrame(results_dict).to_csv("../../data/FAA_data/rebel/rebel_results_main.csv")
