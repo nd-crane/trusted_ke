@@ -8,6 +8,7 @@ Paper: https://arxiv.org/pdf/2210.14698.pdf
 
 2. Clone nvidia-apex: git clone https://github.com/NVIDIA/apex
 
+Current steps taken with asp environment:\
 6. Create a conda virtual environment from the environment.yml file
 7. Install pandas
 9. conda install -c nvidia cuda-nvcc
@@ -16,6 +17,8 @@ Paper: https://arxiv.org/pdf/2210.14698.pdf
 12. mamba install conda-forge::nvidia-apex
 13. mamba install torch
 
+
+----------------
 14. If you want to use the pre-made jsonlines documents, skip to step ___. Otherwise, create a folder in ASP/data called faa_conll
 
 15. Edit ASP/configs/coref.conf lines 3-8 to look like this:
