@@ -12,7 +12,6 @@ import numpy as np
 from transformers import T5Tokenizer
 tokenizer_mt5 =  T5Tokenizer.from_pretrained('google/mt5-xxl')
 
-
 # NEEDS IMPLEMENTATION depending on the infrastructure
 def predictor_fn(docs):
   """The method takes a batch of documnets and processes each.

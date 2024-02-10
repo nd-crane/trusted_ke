@@ -26,3 +26,7 @@ JK
 3. Create a python virtual environment venv and activate it. Do: pip install numpy tensorflow\[and-cuda\] nltk sentencepiece ./transformers
 
 4. Run coreference_decoder.py
+
+
+Can't download because the checkpoint is not suitable for porting to other architectures. https://cloud.google.com/blog/products/ai-machine-learning/train-fast-on-tpu-serve-flexibly-on-gpu-switch-your-ml-infrastructure-to-suit-your-needs
+
