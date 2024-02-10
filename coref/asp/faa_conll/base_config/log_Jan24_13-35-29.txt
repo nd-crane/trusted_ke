@@ -1,0 +1,1 @@
+Log file path: ./data/faa_conll/base_config/log_Jan24_13-35-29.txt

@@ -1,0 +1,2 @@
+Log file path: ./data/faa_conll/flant5_base/log_Jan24_13-43-47.txt
+Step 0: evaluating on 2748 samples with batch_size 8

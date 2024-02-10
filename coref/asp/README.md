@@ -39,6 +39,8 @@ Current steps taken with asp environment:\
 
 14. Change "ontonotes_coref" to "faa_conll" on line 38 and 80 in util/tensorize_coref.py
 
+16. python evaluate_coref.py flant5_base tliu/asp-coref-flan-t5-base <GPU_ID>
+
 
 
  Package            Version  Build               Channel                    Size

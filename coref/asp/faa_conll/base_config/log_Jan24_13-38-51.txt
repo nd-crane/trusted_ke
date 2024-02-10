@@ -1,0 +1,42 @@
+Log file path: ./data/faa_conll/base_config/log_Jan24_13-38-51.txt
+Config:
+task: coref
+dataset: faa_conll
+data_dir: ./data/faa_conll/
+model_dir: ./data/faa_conll/
+log_root: ./data/faa_conll/
+max_segment_len: 2048
+use_amp: True
+optimizer: adamw
+plm_learning_rate: 3e-05
+task_learning_rate: 0.0003
+plm_scheduler: linear_with_warmup
+task_scheduler: linear_with_warmup
+warmup_ratio: 0.1
+adam_eps: 1e-08
+adam_weight_decay: 0.1
+max_grad_norm: 1
+batch_size: 1
+gradient_accumulation_steps: 1
+num_epochs: 40
+activation: relu
+init_std: 0.02
+dropout_rate: 0.3
+feature_emb_size: 20
+hidden_size: 2048
+beam_size: 1
+plm_pretrained_name_or_path: t5-base
+plm_tokenizer_name: t5-small
+eval_frequency: 2000
+report_frequency: 100
+log_dir: ./data/faa_conll/base_config
+tb_dir: ./data/faa_conll/tensorboard
+Model parameters:
+<class 'torch.optim.adamw.AdamW'>
+*******************Training*******************
+Num samples: 2748
+Num epochs: 40
+Gradient accumulation steps: 1
+Total update steps: 109920
+Starting step: 1
+*******************EPOCH 0*******************
