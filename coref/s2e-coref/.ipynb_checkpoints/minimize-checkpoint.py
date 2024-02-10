@@ -157,8 +157,12 @@ def handle_line(line, document_state, language, labels, stats):
             document_state.speakers.append(tuple(document_state.text_speakers))
             del document_state.text_speakers[:]
             return None
-        assert len(row) >= 12
-
+        try: ### ADDED
+            assert len(row) >= 12
+        except: ### ADDED
+            print(row) ###
+            return  ####
+            
         doc_key = get_doc_key(row[0], row[1])
         word = normalize_word(row[3], language)
         parse = row[5]
