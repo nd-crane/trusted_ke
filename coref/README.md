@@ -1,0 +1,42 @@
+# Coreference Resolution Input and Output Overview
+
+### ASP:
+
+**Input:** CoNLL-12 formatted data. See process for putting the FAA data into CoNLL-12 format in coref/asp/format_conll.py\
+The CoNLL-12 formatted data is then processed into jsonlines by ASP/data/t5minimize_coref.py (ASP submodule in coref/asp). See coref/asp/faa_conll for both CoNLL-12 formatted data and jsonlines data.\
+
+ASP sees entries like this: \
+['▁core', 'ference', '▁resolution', ':', '<speaker>', '▁', '-', '</speaker>', '▁to', 'w', '▁plane', '▁became', '▁air', 'borne', '▁then', '▁settled', '▁', '\\', '.', '▁student', '▁thought', '▁to', 'w', '▁in', '▁trouble', '▁', '&', '▁released', '▁', '\\', '.', '▁hit', '▁tree', '▁', '\\', '.', '</s>']\
+Each record in the FAA data, which is treated as its own doc in the CoNLL-12 format, is seen separate from the other records. However, sentences are not divided up. The '\\' character denotes a break between sentences.\
+
+**Output:** evaluate_coref.py prints log statements, which are saved in coref/asp/faa_nohup.out. These logs include 3 print statements for each entry, coref/asp/analyze_output.ipynb scans the output for predicted coreferences. Since currently ASP is finding no coreferences, there is no code to save them in data/results\
+
+---
+
+### coref_mt5:
+
+**Input:** Raw text from FAA data. coref_mt5 takes in a list of titles and a list of inputs, where the titles correspond to each input. The titles for the FAA data follow the pattern: faa_1688 for the 1688th record, etc.\
+The input may contain multiple sentences, which should be seperated by newline characters.\
+
+coref_mt5 sees each record separately and may create coreferences across multiple sentences in record.\
+
+**Output:** outputs predicted clusters by word index (start index of reference, end index of reference) like so:\
+predicted clusters with word indexes [[(0, 8), (26, 26), (40, 41), (58, 58), (90, 90), (93, 93), (114, 116), (136, 136), (140, 140)], [(24, 24), (82, 84), (102, 102)], [(111, 112), (127, 128)], [(22, 24), (160, 160)]]\
+Also outputs coreference-resolved sentence like so:\
+[1 The Eiffel Tower ( French : tour Eiffel ) ] is a wrought - iron lattice tower on the Champ de Mars in [4 Paris , [2 France ]] . [1 It ] is named after the engineer Gustave Eiffel , whose company designed and built [1 the tower ] . Locally nicknamed " La dame de fer " ( French for " Iron Lady "), [1 it ] was constructed from 1887 to 1889 as the centerpiece of the 1889 World ' s Fair . Although initially criticised by some of [2 France ' s ] leading artists and intellectuals for [1 its ] design , [1 it ] has since become a global cultural icon of [2 France ] and one of the most recognisable structures in [3 the world ] . [1 The Eiffel Tower ] is the most visited monument with an entrance fee in [3 the world ] : 6 . 91 million people ascended [1 it ] in 2015 . [1 It ] was designated a monument historique in 1964 , and was named part of a UNESCO World Heritage Site (" [4 Paris ] , Banks of the Seine ") in 1991 .\
+Note that the number attached to each coreference in the resolved sentence corresponds to the index in the list of word indexes above (minus one).\
+
+---
+
+### s2e-coref:
+
+**Input:** CoNLL-12 formatted data. See coref/s2e-coref/format_conll.py to see how it is transformed to CoNLL-12 format. This is currently different from the format_conll.py in ASP, but may get moved later to consolidate.\
+Like ASP, s2e-coref also has a minimize.py script which transforms the CoNLL-12 formatted data to jsonlines. See coref/s2e-coref/data for both formats of data. Currently there are errors in the CoNLL formatting process.\
+
+s2e-coref is still in progress.\
+
+---
+
+### neuralcoref:
+
+*** not sure, Jonathan can do this ****\
