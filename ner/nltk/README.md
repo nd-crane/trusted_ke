@@ -1,0 +1,2 @@
+This script tests nltk's ne_chunk method. Notably, the results change dramatically when the input is left uppercased or when it is lowercased.
+The lowercased returns no results, whereas the uppercased returns many supposed "entities" labeled as organizations.
