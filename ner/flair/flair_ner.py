@@ -17,9 +17,7 @@ for index in range(len(sample)):
         print("err on ", sent_dict)
         continue
     ents = sent_dict['entities']
-    
-    if len(ents) == 0:
-        ents = [{"text":"", "labels":""}]     # still want to create an entry in the final sheet, but leave entity column empty
+
     for ent in ents:
         out_dict['index'].append(sample['Unnamed: 0'][index])
         out_dict['c5_unique_id'].append(sample['c5'][index])
