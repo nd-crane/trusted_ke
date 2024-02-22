@@ -31,4 +31,6 @@ for index in range(len(sample)):
         out_dict["POS tags"].append(', '.join([pair[1] for pair in tree.leaves()]))
         out_dict["labels"].append(tree.label())
 
+print(pd.DataFrame(out_dict))
+
 pd.DataFrame(out_dict).to_excel("nltk_ner_lowercased.xlsx", index=False)
