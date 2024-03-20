@@ -1,21 +1,27 @@
 # Survey of Knowledge Extraction Tools for Maintenance Data
 
 University of Notre Dame | Center for Research Computing | Trusted AI\
-Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Moriera, Eli Phillips, Paul Brenner, Charles Vardeman
+Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Moreira, Eli Phillips, Paul Brenner, Charles Vardeman
 
 ---
 Released code from our paper: ____\
 Please open an issue if there are any questions.
 
 ---
+
+
+The following is a survey of knowledge extraction tools for maintenance data. The survey includes tools for Named Entity Recognition (NER), Coreference Resolution (CR), Named Entity Linking (NEL), and Relation Extraction (RE). The survey provides an overview of each tool's methodology, base model, and relation set, where applicable. 
+
+The survey also includes a comparison of the tools' outputs with the [gold standard data](gold_standard/README.md), which is a subset of the Complete Set of FAA data created to evaluate the correctness of the tools regarding NER, NEL, and RE tasks.
+
 KE tools at a glance:
 
-| Coreference Resolution | Named Entity Linking (NEL) | Relation Extraction (RE) |
-|----------|----------|----------|
-| ASP | BLINK | REBEL |
-| coref_mt5 | spaCy EntityLinker | UniRel |
-| s2e-coref | GENRE | DeepStruct |
-| neuralcoref | ReFinED | PL-Marker |
+| Coreference Resolution         | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
+|-------------------------------|---------------------------------|---------------------------|
+| [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
+| [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
+| [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
+| [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker             |
 
 ---
 
