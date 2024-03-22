@@ -38,9 +38,8 @@ We can use two **OT metrics**, **Jiang Conrath (JC) metric** and **Class similar
 
 - **Class similarity**: an ontology-based measure based on Jaccard Similarity of the respective super class sets of two nodes inversely weighted by the instance counts of the classes. For this measure classes high up in the ontology with very high transitive instance counts are weighted lower than more specific classes with lower counts.
 
-- **Jiang Conrath (JC) metric**: an ontology-based measure using our interpretation of the Jiang
-  Conrath ontological distance (see https://arxiv.org/abs/cmp-lg/9709008).  
-  They use instance counts (same as used for `class`) to compute probabilities and normalize to the distance through the `entity` node (`Q351201`) to get a similarity. If a node pair has multiple most-specific subsumers, the maximum similarity based on those will be used.
+- **Jiang Conrath (JC) metric**: an ontology-based measure using the interpretation at [KGTK Semantic Similarity](https://github.com/usc-isi-i2/kgtk-similarity) of the Jiang Conrath ontological distance (see https://arxiv.org/abs/cmp-lg/9709008).  
+They use instance counts (same as used for `class`) to compute probabilities and normalize to the distance through the `entity` node (`Q351201`) to get a similarity. If a node pair has multiple most-specific subsumers, the maximum similarity based on those will be used.
 
 Those metrics are implemented in the [KGTK Semantic Similarity](https://github.com/usc-isi-i2/kgtk-similarity).
 
