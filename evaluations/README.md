@@ -43,6 +43,17 @@ They use instance counts (same as used for `class`) to compute probabilities and
 
 Those metrics are implemented in the [KGTK Semantic Similarity](https://github.com/usc-isi-i2/kgtk-similarity).
 
+See below an example of the output of the KGTK Semantic Similarity tool:
+
+|    | q1        | q2        | q2_description                                        | q2_label          | class    | jc       |
+|----|-----------|-----------|-------------------------------------------------------|-------------------|----------|----------|
+| 0  | Q1875633 | Q1875633 | propellents used to power aircraft or aviation...    | aviation fuel     | 1.000000 | 1.000000 |
+| 1  | Q1875633 | Q42501    | any material that stores energy that can later...    | combustible matter| 0.684539 | 0.885428 |
+| 2  | Q1875633 | Q15766923 | scientific journal                                    | Fuel              | 0.029833 | 0.062413 |
+| 3  | Q1875633 | Q5507117  | short-lived Bay Area post-hardcore musical act       | Fuel              | 0.000000 | 0.000000 |
+
+
+
 ### Correctness evaluation for RE
 We need to define a process to make that comparison. We can use the following steps:
 1. Extract the relations from the gold standard data.
