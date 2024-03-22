@@ -21,7 +21,7 @@ KE tools at a glance:
 | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
 | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
 | [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
-| [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker             |
+| [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
 
 ---
 
