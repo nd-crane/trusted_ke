@@ -30,9 +30,19 @@ Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluati
 
 ### Correctness evaluation for NEL
 For each named entity in the NEL gold standard, compare the tool's linking decision against it.\
+If the linking decision is correct, then the tool's QId is the same as the gold standard QId.\
 This comparison will allow us to calculate the metrics such as precision, recall, and F1 score.
 
-Another way to evaluate the correctness of the NEL task is to calculate the distance of the tool's QIds with the gold standard QIds. This will give a semantic similarity score between the tool's output and the gold standard data. (Chris' idea)
+Another approach to consider is the adoption of **Ontology-based Topological (OT) metrics** which use features derived from the structure (topology) of the underlying base ontology.\
+We can use two **OT metrics**, **Jiang Conrath (JC) metric** and **Class similarity**.
+
+- **Class similarity**: an ontology-based measure based on Jaccard Similarity of the respective super class sets of two nodes inversely weighted by the instance counts of the classes. For this measure classes high up in the ontology with very high transitive instance counts are weighted lower than more specific classes with lower counts.
+
+- **Jiang Conrath (JC) metric**: an ontology-based measure using our interpretation of the Jiang
+  Conrath ontological distance (see https://arxiv.org/abs/cmp-lg/9709008).  
+  They use instance counts (same as used for `class`) to compute probabilities and normalize to the distance through the `entity` node (`Q351201`) to get a similarity. If a node pair has multiple most-specific subsumers, the maximum similarity based on those will be used.
+
+Those metrics are implemented in the [KGTK Semantic Similarity](https://github.com/usc-isi-i2/kgtk-similarity).
 
 ### Correctness evaluation for RE
 We need to define a process to make that comparison. We can use the following steps:
