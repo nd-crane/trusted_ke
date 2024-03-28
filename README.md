@@ -16,12 +16,12 @@ The survey also includes a comparison of the tools' outputs with the [Gold Stand
 
 KE tools at a glance:
 
-| Coreference Resolution         | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
-|-------------------------------|---------------------------------|---------------------------|
-| [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
-| [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
-| [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
-| [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
+| Named Entity Recognition      | Coreference Resolution         | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
+|-------------------------------|-------------------------------|---------------------------------|---------------------------|
+| [x] spacy                     | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
+| [x] flair                     | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
+| [x] stanza                    | [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
+| [x] nltk                      | [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
 
 ---
 
