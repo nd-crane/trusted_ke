@@ -1,0 +1,24 @@
+[project]
+name = "2k-paper"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Priscila Moreira", email = "pmoreira@nd.edu"},
+]
+dependencies = [
+    "SPARQLWrapper>=2.0.0",
+    "requests>=2.31.0",
+    "pip>=24.0",
+    "ipykernel>=6.29.4",
+    "fastai>=2.7.14",
+    "jupyterlab>=4.1.5",
+    "nbdev>=2.3.13",
+    "jupyterlab-quarto>=0.3.3",
+]
+requires-python = "==3.10.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
