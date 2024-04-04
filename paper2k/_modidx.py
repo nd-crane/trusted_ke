@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://nd-crane.github.io',
                 'git_url': 'https://github.com/nd-crane/paper2k',
                 'lib_path': 'paper2k'},
-  'syms': {'paper2k.core': {'paper2k.core.foo': ('core.html#foo', 'paper2k/core.py')}}}
+  'syms': { 'paper2k.core': { 'paper2k.core.search_wikidata_properties_by_name_and_aliases': ( 'core.html#search_wikidata_properties_by_name_and_aliases',
+                                                                                               'paper2k/core.py')}}}
