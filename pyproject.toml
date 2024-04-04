@@ -15,6 +15,9 @@ dependencies = [
     "nbdev>=2.3.13",
     "jupyterlab-quarto>=0.3.3",
     "python-dotenv>=1.0.1",
+    "aiohttp>=3.9.3",
+    "pandas>=2.2.1",
+    "nest-asyncio>=1.6.0",
 ]
 requires-python = "==3.10.*"
 readme = "README.md"
