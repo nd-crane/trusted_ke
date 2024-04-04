@@ -4,3 +4,6 @@
 [submodule "nel/blink/blink"]
 	path = nel/blink/blink
 	url = https://github.com/facebookresearch/BLINK.git
+[submodule "coref/s2e-coref/s2e-coref"]
+	path = coref/s2e-coref/s2e-coref
+	url = git@github.com:yuvalkirstain/s2e-coref.git
