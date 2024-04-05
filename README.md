@@ -20,7 +20,7 @@ KE tools at a glance:
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
 | [x] spacy                     | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
 | [x] flair                     | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
-| [x] stanza                    | [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
+| [x] stanza                    | [x] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
 | [x] nltk                      | [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
 
 ---
