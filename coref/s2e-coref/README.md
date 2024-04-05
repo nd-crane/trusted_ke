@@ -4,19 +4,22 @@ Github: https://github.com/yuvalkirstain/s2e-coref
 
 Paper: https://aclanthology.org/2021.acl-short.3.pdf
 
-Notes:\
-conll_data is publically available trial data obtained from https://conll.cemantix.org/2012/data.html\
-data is the folder used for FAA experiments\
-test_data is the folder used to confirm the results of format_conll.py in recreating conll-formatted data.\
-create_conll_raw_data.ipynb generates conll_raw.json from the data in conll_data. It reconstructs the original sentences in a normal, readable format.\
-check_format_conll_acc.ipynb compares the results from running format_conll.py on conll_raw.json and the gold data in conll_data.
+1. git submodule add git@github.com:yuvalkirstain/s2e-coref.git
 
-Setup:
+2. Create a python virtual enviornment and activate it, and run pip install -r s2e-coref/requirements.txt. You will also need to run pip install gitpython
 
-1. Download requirements.txt from the github, create a python virtual enviornment and activate it, and run pip install -r requirements.txt
+3. Run setup.sh to grab faa.conll from data/FAA_data and copy it three times in the data folder, saved as <dev, train, test>.english.v4_gold_conll. We do not need train/test/dev splits because we are only using one set to evaluate, but minimze.py expects the folder to be laid out in this way
 
-2. Process FAA dataset into conll format (May skip this step and use data in data folder if no interest in recreating results). Run format_conll.py ____ **** NOTE! EDIT format_conll.py SO THAT IT TAKES ARGUMENTS
+4. Run export DATA_DIR=data and export MODEL_DIR=model
 
-3. Then minimize the conll data into jsonlines format using minimize.py from the github: python minimize.py data (May also skip this step and use the data in data folder)
+5. Run python s23-coref/minimze.py (transforms .conll data into jsonlines accepted by run_coref.py)
 
-4. 
+6. Change line 4 of modeling.py to from transformers.models.bert.modeling_bert import ACT2FN
+
+7. In run_coref.py, add LongformerTokenizer to line 9, and replace line 90 with: tokenizer = LongformerTokenizer.from_pretrained(args.tokenizer_name, cache_dir=args.cache_dir) Otherwise it will load LongformerTokenizerFast, which causes an error in eval.py when it instantiates a BucketBatchSampler
+
+8. Follow directions on github for evaluation
+
+9. It'll error on eval.py line 139 but it doesn't matter since it will have completed creating output/preds.jsonl
+
+10. Use interpret_predictions.ipynb to transform the raw results to a human readable csv, saved in data/results/s2e-coref
