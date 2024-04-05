@@ -16,7 +16,7 @@ The survey also includes a comparison of the tools' outputs with the [Gold Stand
 
 KE tools at a glance:
 
-| Named Entity Recognition      | Coreference Resolution         | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
+| Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
 | [x] spacy                     | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
 | [x] flair                     | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
