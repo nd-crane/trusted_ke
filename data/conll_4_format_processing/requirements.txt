@@ -1,0 +1,4 @@
+pandas
+nltk
+bllipparser
+spacy
