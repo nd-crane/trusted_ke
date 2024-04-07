@@ -91,3 +91,29 @@ Current steps taken with asp environment:\
   + pytorch            2.0.1  cpu_py38hdc00b08_0  pkgs/main/linux-64         69MB
 
 
+
+Just now after pip install requirements.txt
+
+Collecting truecase (from -r requirements.txt (line 1))
+  Obtaining dependency information for truecase from https://files.pythonhosted.org/packages/6a/ec/ca9dc9ab492aebc57af351709355d74d90e2b71c2b75befd2a1bf2c5db78/truecase-0.0.14-py3-none-any.whl.metadata
+  Downloading truecase-0.0.14-py3-none-any.whl.metadata (2.3 kB)
+Collecting tqdm (from -r requirements.txt (line 2))
+  Obtaining dependency information for tqdm from https://files.pythonhosted.org/packages/2a/14/e75e52d521442e2fcc9f1df3c5e456aead034203d4797867980de558ab34/tqdm-4.66.2-py3-none-any.whl.metadata
+  Using cached tqdm-4.66.2-py3-none-any.whl.metadata (57 kB)
+Collecting pyhocon (from -r requirements.txt (line 3))
+  Using cached pyhocon-0.3.60.tar.gz (158 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting scipy (from -r requirements.txt (line 4))
+  Obtaining dependency information for scipy from https://files.pythonhosted.org/packages/e8/fb/e5955e2ddbdf2baee461eb53ec8d0adedd20a6dfc5510ef8d5e7e44ba461/scipy-1.13.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Downloading scipy-1.13.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.6/60.6 kB 3.5 MB/s eta 0:00:00
+Collecting numpy (from -r requirements.txt (line 5))
+  Obtaining dependency information for numpy from https://files.pythonhosted.org/packages/3a/d0/edc009c27b406c4f9cbc79274d6e46d634d139075492ad055e3d68445925/numpy-1.26.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Using cached numpy-1.26.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (61 kB)
+ERROR: Ignored the following versions that require a different python version: 1.21.2 Requires-Python >=3.7,<3.11; 1.21.3 Requires-Python >=3.7,<3.11; 1.21.4 Requires-Python >=3.7,<3.11; 1.21.5 Requires-Python >=3.7,<3.11; 1.21.6 Requires-Python >=3.7,<3.11; 1.6.2 Requires-Python >=3.7,<3.10; 1.6.3 Requires-Python >=3.7,<3.10; 1.7.0 Requires-Python >=3.7,<3.10; 1.7.1 Requires-Python >=3.7,<3.10; 1.7.2 Requires-Python >=3.7,<3.11; 1.7.3 Requires-Python >=3.7,<3.11; 1.8.0 Requires-Python >=3.8,<3.11; 1.8.0rc1 Requires-Python >=3.8,<3.11; 1.8.0rc2 Requires-Python >=3.8,<3.11; 1.8.0rc3 Requires-Python >=3.8,<3.11; 1.8.0rc4 Requires-Python >=3.8,<3.11; 1.8.1 Requires-Python >=3.8,<3.11
+ERROR: Could not find a version that satisfies the requirement python==3.8 (from versions: none)
+ERROR: No matching distribution found for python==3.8
+
+pip install numpy pyhocon torch transformers
