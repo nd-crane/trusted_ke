@@ -12,7 +12,7 @@ Paper: https://aclanthology.org/2021.acl-short.3.pdf
 
 4. Run export DATA_DIR=data and export MODEL_DIR=model
 
-5. Run python s23-coref/minimze.py (transforms .conll data into jsonlines accepted by run_coref.py)
+5. Run python s2e-coref/minimze.py $DATA_DIR (transforms .conll data into jsonlines accepted by run_coref.py)
 
 6. Change line 4 of modeling.py to from transformers.models.bert.modeling_bert import ACT2FN
 
