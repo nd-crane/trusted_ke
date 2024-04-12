@@ -18,8 +18,8 @@ KE tools at a glance:
 
 | Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
-| [x] spacy                     | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
-| [x] flair                     | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
+| [x] spaCy EntityRecognizer    | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
+| [x] flair NER                 | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
 | [x] stanza                    | [x] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
 | [x] nltk                      | [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
 
@@ -27,7 +27,26 @@ KE tools at a glance:
 
 ## Named Entity Recognition
 
-[To-Do]
+### spaCy EntityRecognizer
+
+Documentation: https://spacy.io/api/entityrecognizer
+
+Created by spaCy
+
+EntityRecognizer identifies non-overlapping labeled spans of tokens using a transition-based algorithm. spaCy notes that: "the loss function optimizes for whole entity accuracy, so if your inter-annotator agreement on boundary tokens is low, the component will likely perform poorly on your problem. The transition-based algorithm also assumes that the most decisive information about your entities will be close to their initial tokens. If your entities are long and characterized by tokens in their middle, the component will likely not be a good fit for your task."
+
+Not LLM-based.
+
+_Used by:_ [TO-DO]
+
+### flair NER
+
+Github: https://github.com/flairNLP/flair \
+Documentation: https://flairnlp.github.io/docs/intro
+
+Research Institution: Humboldt University of Berlin
+
+Flair ships several models which can be used for NER (or "tagging"), including their standard model, which recognizes 4 entity types and was trained for the CoNLL-03 task. They use transformer models, which they create [CHECK THIS]. 
 
 ---
 
