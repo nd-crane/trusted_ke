@@ -16,9 +16,9 @@ Each record in the FAA data, which is treated as its own doc in the CoNLL-12 for
 ### coref_mt5:
 
 **Input:** Raw text from FAA data. coref_mt5 takes in a list of titles and a list of inputs, where the titles correspond to each input. The titles for the FAA data follow the pattern: faa_1688 for the 1688th record, etc.\
-The input may contain multiple sentences, which should be seperated by newline characters.\
+The input may contain multiple sentences, which should be seperated by newline characters.
 
-coref_mt5 sees each record separately and may create coreferences across multiple sentences in record.\
+coref_mt5 sees each record separately and may create coreferences across multiple sentences in record.
 
 **Output:** outputs predicted clusters by word index (start index of reference, end index of reference) like so:\
 predicted clusters with word indexes [[(0, 8), (26, 26), (40, 41), (58, 58), (90, 90), (93, 93), (114, 116), (136, 136), (140, 140)], [(24, 24), (82, 84), (102, 102)], [(111, 112), (127, 128)], [(22, 24), (160, 160)]]\
@@ -31,9 +31,14 @@ Note that the number attached to each coreference in the resolved sentence corre
 ### s2e-coref:
 
 **Input:** CoNLL-12 formatted data. See coref/s2e-coref/format_conll.py to see how it is transformed to CoNLL-12 format. This is currently different from the format_conll.py in ASP, but may get moved later to consolidate.\
-Like ASP, s2e-coref also has a minimize.py script which transforms the CoNLL-12 formatted data to jsonlines. See coref/s2e-coref/data for both formats of data. Currently there are errors in the CoNLL formatting process.\
+Like ASP, s2e-coref also has a minimize.py script which transforms the CoNLL-12 formatted data to jsonlines. See coref/s2e-coref/data for both formats of data. 
 
-s2e-coref is still in progress.\
+s2e-coref sees each record separately and may create coreferences across multiple sentences in a record.
+
+**Output:** A jsonl document with 2 dictionaries:
+- A list of predictions for each doc: ({"faa/401_19800721061969I_0": [], "faa/2498_20030328006589I_0": [], "faa/295_19790808027309A_0": [], "faa/2575_20041108029389I_0": [[[16, 17], [25, 25]]], ...)
+- A list of subtoken_maps for each doc: {"faa/401_19800721061969I_0": [0, 0, 0, 0, 0, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "faa/2498_20030328006589I_0": [0, 0, 0, 0, 0, 0, 1, 1, 2, 3, 4, 5, 5, 6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 21, 22, 23], ...\
+The subtoken maps can be used to map the numbers in the lists of predictions to the corresponding spans in the sentence. See s2e-coref/interpret_predictions.ipynb for how.
 
 ---
 
