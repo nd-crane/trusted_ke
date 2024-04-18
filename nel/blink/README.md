@@ -19,3 +19,11 @@ Paper: https://arxiv.org/pdf/1911.03814.pdf
 6. If you want to recreate faa_samples.jsonl, run annotate_faa.py. It converts the faa data into the jsonl format which blink expects. The NER tool which blink uses, flair, treats all sentences independently. Because of this, annotate_faa.py seperates each sentence in the FAA data and compiles one long consecutive list (losing the "doc" structure of seperating each entry). To keep track of which sentence belongs to which FAA data entry/row, see the "doc_idx" field in faa_samples.jsonl
 
 7. Then, run run_blink.py. This script creates a blink_results.csv in data/results
+
+----
+
+#### Reproducibility Rating:
+
+<img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+
+*** Need to check why I used main_dense code directly instead of calling it!
