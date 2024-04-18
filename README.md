@@ -18,10 +18,10 @@ KE tools at a glance:
 
 | Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
-| [x] spaCy EntityRecognizer    | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
+| [x] spaCy EntityRecognizer    | [x] ASP                       | [x] BLINK                       | [x] REBEL                 |
 | [x] flair NER                 | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
-| [x] stanza                    | [x] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
-| [x] nltk                      | [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
+| [x] stanza NERProcessor       | [x] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
+| [x] nltk ne_chunk             | [x] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
 
 ---
 
@@ -46,7 +46,33 @@ Documentation: https://flairnlp.github.io/docs/intro
 
 Research Institution: Humboldt University of Berlin
 
-Flair ships several models which can be used for NER (or "tagging"), including their standard model, which recognizes 4 entity types and was trained for the CoNLL-03 task. They use transformer models, which they create [CHECK THIS]. 
+Flair ships several models which can be used for NER (or "tagging"), including their standard model, which recognizes 4 entity types and was trained for the CoNLL-03 task. They use transformer models, which they develop, and publish on Huggingface.
+
+Model: flair/ner-english
+
+_Used by:_ BLINK
+
+### stanza NERProcessor
+
+Documentation: https://stanfordnlp.github.io/stanza/ner.html \
+Stanza Github: https://github.com/stanfordnlp/stanza/tree/main
+
+Created by StanfordNLP
+
+Stanza NERProcessor recognizes spans of mentions belonging to the 18 entity types found in the OntoNotes NER task.
+
+_Used by:_ [TO-DO]
+
+### NLTK ne_chunk
+
+Documentation: https://www.nltk.org/api/nltk.chunk.ne_chunk.html \
+Github: https://github.com/nltk/nltk/tree/develop/nltk/chunk
+
+Created by NLTK
+
+ne_chunk creates a parse tree where named entities and their labels are stored as subtrees.
+
+Not used by any other tools in the pipeline.
 
 ---
 
