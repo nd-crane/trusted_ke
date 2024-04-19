@@ -25,6 +25,17 @@ KE tools at a glance:
 
 ---
 
+README's polished:
+
+| Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
+|-------------------------------|-------------------------------|---------------------------------|---------------------------|
+| [x] spaCy EntityRecognizer    | [ ] ASP                       | [ ] BLINK                       | [ ] REBEL                 |
+| [x] flair NER                 | [ ] coref_mt5                 | [ ] spaCy EntityLinker          | [ ] UniRel                |
+| [x] stanza NERProcessor       | [x] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
+| [x] nltk ne_chunk             | [ ] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
+
+-----
+
 ## Named Entity Recognition
 
 ### spaCy EntityRecognizer
