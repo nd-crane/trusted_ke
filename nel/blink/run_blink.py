@@ -64,10 +64,7 @@ with open("./faa_samples.jsonl") as f:
 
 samples = []
 for json_str in jsonl_data.split('\n'):
-    try:
-        samples.append(json.loads(json_str))
-    except:
-        pass
+    samples.append(json.loads(json_str))
 
 ## Crossencoder predictions
 result = run(args, logger, *models, test_data=samples)
@@ -82,13 +79,14 @@ biencoder_predictions = result[5]
 ## Store results
 og_data = pd.read_csv("../../data/FAA_data/Maintenance_Text_data_nona.csv")
 
-results_dict = {"doc_idx":[], "sent_idx":[], "original_sentence":[], "input":[], "mention":[], "bi_pred_entity":[], "bi_qid":[], "bi_desc":[], "cross_pred_entity":[], "cross_qid":[],"cross_desc":[]}
+results_dict = {"doc_idx":[], "c5_id":[], "sent_idx":[], "original_sentence":[], "input":[], "mention":[], "bi_pred_entity":[], "bi_qid":[], "bi_desc":[], "cross_pred_entity":[], "cross_qid":[],"cross_desc":[]}
 
 url2qid = {} # stores each looked-up qid for faster referencing later
 
 for isample, sample in enumerate(samples):
     
     results_dict["doc_idx"].append(sample["doc_idx"])
+    results_dict["c5_id"].append(sample["c5_id"])
     results_dict["sent_idx"].append(sample["sent_idx"])
     results_dict["original_sentence"].append(og_data["c119"].iat[sample["doc_idx"]])
     results_dict["input"].append(''.join([sample["context_left"], sample["mention"], sample["context_right"]]))
@@ -124,4 +122,4 @@ for isample, sample in enumerate(samples):
     results_dict["cross_qid"].append(qid)
     results_dict["cross_desc"].append(desc)
     
-pd.DataFrame(results_dict).to_csv("../../data/results/blink_results.csv", index=False)
+pd.DataFrame(results_dict).to_csv("../../data/results/blink/blink_results.csv", index=False)

@@ -3,9 +3,10 @@ sys.path.append('./BLINK')
 from blink import ner as NER
 import json
 import pandas as pd
+import nltk
 
 ## Copied from main_dense.py, added idoc to arguments and line 26
-def _annotate(ner_model, input_sentences, idoc):
+def _annotate(ner_model, input_sentences, idoc, c5):
     ner_output_data = ner_model.predict(input_sentences)
     sentences = ner_output_data["sentences"]
     mentions = ner_output_data["mentions"]
@@ -26,6 +27,7 @@ def _annotate(ner_model, input_sentences, idoc):
         record["end_pos"] = int(mention["end_pos"])
         record["sent_idx"] = mention["sent_idx"]
         record["doc_idx"] = idoc
+        record["c5_id"] = c5
         samples.append(record)
     return samples
 
@@ -43,13 +45,10 @@ if __name__=="__main__":
     for idoc, doc in enumerate(text):
         
         # Split into seperate sentences if necessary
-        if '.' in doc:
-            sentences = [sentence + '.' for sentence in doc.split('.')]
-        else:
-            sentences = [doc]
+        sentences = nltk.sent_tokenize(doc)
             
         # annotate
-        samples = _annotate(ner_model, sentences, idoc)
+        samples = _annotate(ner_model, sentences, idoc, data['c5'].iat[idoc])
         
         jsonl_output.extend(samples)
     
