@@ -107,7 +107,7 @@ Paper: https://arxiv.org/pdf/2211.12142v1.pdf
 
 Research Institution: Google Research
 
-coref_mt5's methodology for coreference resolution involves a text-to-text (seq2seq) approach, where a single sentence, along with prior context, is encoded as a string and fed into a model to predict coreference links. The system utilizes a transition-based approach, particularly the Link-Append system, which encodes prior coreference decisions in the input to the seq2seq model and predicts new coreference links as its output.
+coref_mt5's methodology for coreference resolution uses a seq2seq approach, where a single sentence, along with prior context, is encoded as a string and fed into a model to predict coreference links. The system utilizes a transition-based approach, particularly the Link-Append system, which encodes prior coreference decisions in the input to the seq2seq model and predicts new coreference links as its output.
 
 Base Model: mT5
 
@@ -116,9 +116,9 @@ Base Model: mT5
 Github: https://github.com/yuvalkirstain/s2e-coref \
 Paper: https://aclanthology.org/2021.acl-short.3.pdf
 
-Research Institution: University of Tel Aviv
+Research Institution: Tel Aviv University
 
-The s2e coreference resolution model introduces a lightweight approach that eliminates the need for constructing span representations, handcrafted features, and pruning heuristics. Instead, it propagates information to the boundaries of spans and computes mention and antecedent scores through a series of bilinear functions over their contextualized representations, resulting in a significantly lighter memory footprint and the ability to process multiple documents in a single batch without truncation or sliding windows. This approach stands out for its simplicity, efficiency, and reliance on lightweight bilinear functions between pairs of endpoint token representations, distinguishing it from the more complex and memory-intensive standard models.
+The s2e coreference resolution model introduces a lightweight approach that avoids constructing span representations. Instead, it uses the boundaries of spans to computes mention and antecedent scores, through a series of bilinear functions over their contextualized representations.
 
 Base Model: longformer-large
 
@@ -129,9 +129,9 @@ Blog Post: https://medium.com/huggingface/state-of-the-art-neural-coreference-re
 
 Created by spaCy
 
-Neuralcoref's methodology for coreference resolution involves training a neural model on a non-probabilistic slack-rescaled max-margin objective, which computes scores for pairs of mentions and individual mentions. This scoring system is an adaptation of previous work by Kevin Clark and Christopher Manning, utilizing deep-learning python tools, spaCy for high-speed parsing, and recent word embedding techniques to compute embeddings for unknown words on the fly. The system also incorporates speaker information in the conversation and is implemented on top of spaCy and Numpy, making it unique in its approach to handling informal language and speaker context in coreference resolution.
+Neuralcoref's methodology for coreference resolution uses the spaCy parser for mention-detection, and ranks possible mention-coreference pairs using a feedforward neural network developed by Clark and Manning, Stanford University (https://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf).
 
-Not LLM-based
+Base Model: spaCy english model (we used en_core_web_sm) **** Jonathan can you verify??*****
 
 ---
 
