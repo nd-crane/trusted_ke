@@ -96,7 +96,7 @@ Paper: https://arxiv.org/pdf/2210.14698.pdf
 
 Research Institution: Google Research
 
-The Autoregressive Structured Prediction (ASP) framework represents structures as sequences of actions to build pieces of the target structure step by step. It focuses on tasks such as named entity recognition, end-to-end relation extraction, and coreference resolution, achieving state-of-the-art results without relying on data augmentation or task-specific feature engineering. The ASP framework utilizes a conditional language model to predict structure-building actions, allowing the model to capture intra-structure dependencies more effectively while leveraging pre-trained language models.
+The Autoregressive Structured Prediction (ASP) framework represents structures as sequences of actions to build pieces of the target structure step by step. It focuses on tasks such as named entity recognition, end-to-end relation extraction, and coreference resolution. The ASP framework utilizes a conditional language model to predict structure-building actions, allowing the model to capture intra-structure dependencies more effectively while leveraging pre-trained language models.
 
 Base Model: T5
 
