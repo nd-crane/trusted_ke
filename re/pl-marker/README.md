@@ -128,3 +128,22 @@ CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
     --output_dir scire_models/scire-scibert-faa
 
 10. Run code in pred_results_parse.ipynb to put final triple predictions into a csv in data/results
+
+----------
+
+#### Reproducibility Rating:
+
+<img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+
+*PL-Marker is deterministic*
+
+Pros:
+- The requirements.txt file is accurate
+- The commands provided in the Quick Start were helpful for running the SciERC trained model.
+- We confirmed their results on the SciERC dataset using their pretrained model.
+
+Cons:
+- The documentation on github does not make it clear how to "quick start" other models besides the SciERC-trained model. This led to us having to use the hyperparameters for the SciERC model when running ace05-bert.
+- The ace05-albert models did not include a vocab.txt file, so we could not load the tokenizer for them.
+- It was not clear how to interpret the output in ent_pred_test.json, which caused us to develop our own notebook (pred_results_parse.ipynb) to extract the results in a human-readable way
+- There were no suggestions on how to use the model on a custom dataset. Although the instructions above on downloading and copying data may mostly be inferred from the instructions given in the quickstart for SciERC, we had to comb through the code in each script to verify that we were applying them in a valid way.
