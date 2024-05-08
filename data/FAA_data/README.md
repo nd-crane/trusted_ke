@@ -2,7 +2,7 @@
 
 The data in the downloads folder is taken from the FAA Accidenct/Incident Data (AID), originally accessed at https://av-info.faa.gov/dd_sublevel.asp?Folder=%5CAID in June 2022. AID contains accident reports detailing airplane type, an accident-type code, a description of the incident, and more.
 
-The records from 1975-2019 were downloaded and concatenated, resulting in over 210K records.
+The records from 1975-2022 were downloaded and concatenated, resulting in over 210K records.
 
 We then selected a subset of these records with accident-types relating to maintenance, found in column c78, specifically:
 
