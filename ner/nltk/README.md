@@ -15,6 +15,8 @@ Documentation for chunk package: https://www.nltk.org/api/nltk.chunk.html
 
 <img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
 
+*ne_chunk is deterministic*
+
 The NLTK documentation for ne_chunk does not include any code samples or demos. However, it is easy to implement simply by installing nltk and calling the ne_chunk method, which returns a nltk tree object like so:\
         (S\
           F./NNP\
