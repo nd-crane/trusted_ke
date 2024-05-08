@@ -81,7 +81,7 @@ Github: https://github.com/nltk/nltk/tree/develop/nltk/chunk
 
 Created by NLTK
 
-ne_chunk creates a parse tree where named entities and their labels are stored as subtrees.
+NLTK ne_chunk takes in a list of POS-tagged tokens as input and creates a parse tree where named entities and their labels are stored as subtrees. It recognizes the seven entity types in ACE 2005.
 
 Not used by any other tools in the pipeline.
 
@@ -155,8 +155,7 @@ Documentation: https://spacy.io/api/entitylinker
 
 Created by spaCy
 
-From https://spacy.io/api/entitylinker :\
-"An EntityLinker component disambiguates textual mentions (tagged as named entities) to unique identifiers, grounding the named entities into the “real world”. It requires a KnowledgeBase, as well as a function to generate plausible candidates from that KnowledgeBase given a certain textual mention, and a machine learning model to pick the right candidate, given the local context of the mention. EntityLinker defaults to using the InMemoryLookupKB implementation."
+spaCy EntityLinker is spaCy's NEL pipeline component. It uses the InMemoryLookupKB knowledge base to match mentions with external entities. InMemoryLookupKB contains Candidate components which store basic information about their entities, like frequency in text and possible aliases.
 
 Not LLM-based
 
@@ -167,7 +166,7 @@ Paper: https://arxiv.org/pdf/2010.00904.pdf
 
 Research Institution: Facebook AI Research
 
-GENRE's methodology for named entity linking involves utilizing a sequence-to-sequence model to generate textual entity identifiers, or entity names, in an autoregressive manner. This approach allows GENRE to directly capture the relations between context and entity names, effectively cross-encoding both, and to efficiently compute the exact softmax for each output token without the need for negative data downsampling. Additionally, GENRE employs a constrained decoding strategy that forces each generated name to be in a predefined candidate set, ensuring that the generated output is a valid entity name.
+GENRE utilizes a sequence-to-sequence model to autoregressively generate textual entity identifiers. This approach allows GENRE to directly capture the relations between context and entity names, effectively cross-encoding both, and to efficiently compute the exact softmax for each output token without the need for negative data downsampling. Additionally, GENRE employs a constrained decoding strategy that forces each generated name to be in a predefined candidate set, ensuring that the generated output is a valid entity name.
 
 Base Model: BART
 
@@ -178,7 +177,7 @@ Papers: https://arxiv.org/pdf/2207.04108.pdf, https://arxiv.org/pdf/2207.04106.p
 
 Research Institution: Amazon Alexa AI
 
-ReFinED is an efficient end-to-end entity linking model that utilizes fine-grained entity types and entity descriptions to perform mention detection, fine-grained entity typing, and entity disambiguation in a single forward pass. It targets a large catalog of entities, including zero-shot entities, and is capable of generalizing to large-scale knowledge bases such as Wikidata. ReFinED's unique approach involves combining information from entity types and descriptions in a simple transformer-based encoder, which yields strong performance and scalability for web-scale information extraction.
+ReFinED is an efficient end-to-end entity linking model that utilizes fine-grained entity types and entity descriptions to perform mention detection, fine-grained entity typing, and entity disambiguation in a single forward pass. It targets a large catalog of entities, including zero-shot entities, and is capable of generalizing to large-scale knowledge bases such as Wikidata.
 
 Base Model: RoBERTa
 
