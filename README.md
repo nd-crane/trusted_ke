@@ -48,7 +48,7 @@ EntityRecognizer identifies non-overlapping labeled spans of tokens using a tran
 
 Not LLM-based.
 
-_Used by:_ [TO-DO]
+_Used by:_ Our implementation of CoNLL-2012 format processing
 
 ### flair NER
 
@@ -72,7 +72,7 @@ Created by StanfordNLP
 
 Stanza NERProcessor recognizes spans of mentions belonging to the 18 entity types found in the OntoNotes NER task.
 
-_Used by:_ [TO-DO]
+Not used by any other tools in the pipeline.
 
 ### NLTK ne_chunk
 
