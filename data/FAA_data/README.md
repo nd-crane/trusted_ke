@@ -1,6 +1,6 @@
 ### FAA Accident/Incident Data (AID)
 
-The data in the downloads folder is taken from the FAA Accidenct/Incident Data (AID), originally accessed at https://av-info.faa.gov/dd_sublevel.asp?Folder=%5CAID in June 2022. AID contains accident reports detailing airplane type, an accident-type code, a description of the incident, and more.
+The data in the downloads folder is taken from the FAA Accidenct/Incident Data (AID), originally accessed at https://av-info.faa.gov/dd_sublevel.asp?Folder=%5CAID in June 2022. AID contains accident reports detailing airplane type, an accident-type code, a description of the incident, and more. See downloads/afilelayout.csv for a description of each column.
 
 The records from 1975-2022 were downloaded and concatenated, resulting in over 210K records.
 
