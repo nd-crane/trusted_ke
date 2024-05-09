@@ -23,7 +23,7 @@ Paper: https://arxiv.org/pdf/2109.06067.pdf
 
     6. If you downloaded the scierc dataset, you can paste the commands in the Quick Start section of the PL-Marker github to evaluate the model on that dataset and confirm their results.
 
-4. Create JSONL formatted data for the input. See create_jsonl_data.ipynb. That notebook transforms the FAA data to JSONL format and saves it in PL-Marker/scierc. Alternatively, use the .json file already created, now in pl-marker, and copy to pl-marker/PL-Marker/scierc and pl-marker/PL-Marker/ace05 (mkdir these folders). Note that the data directories have to at least contain the strings scierc and ace, respectively, since the ner and re scripts use the data directory name to determine which set of relations to use.
+4. Create JSONL formatted data for the input. See create_jsonl_data.ipynb. That notebook transforms the FAA data to JSONL format and saves it in this folder as faa_plmarker.jsonl. Alternatively, use the faa_plmarker.jsonl file already created and copy to pl-marker/PL-Marker/scierc and pl-marker/PL-Marker/ace05 (mkdir these folders). Note that the data directories have to at least contain the strings scierc and ace, respectively, since the ner and re scripts use the data directory name to determine which set of relations to use.
 
 5. Copy sciner_models/sciner-scibert to sciner_models/sciner-scibert_faa. Do the same to all other models (i.e. make a duplicate folder with the _faa suffix)
 
@@ -46,7 +46,7 @@ Your directory tree from pl-marker should look like this:\
     ├── run_re_unidirect.py\
     ├── scierc\
     │   ├── dev.json\
-    │   ├── faa_eval_faa.json\
+    │   ├── faa_plmarker.jsonl\
     │   ├── test.json\
     │   └── train.json\
     ├── sciner_models\
@@ -100,7 +100,7 @@ CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
     --max_seq_length 512  --save_steps 2000  --max_pair_length 256  --max_mention_ori_length 8    \
     --do_eval  --evaluate_during_training   --eval_all_checkpoints  \
     --fp16  --seed 42  --onedropout  --lminit  \
-    --test_file faa_eval_faa.json  \
+    --test_file faa_plmarker.jsonl \
     --output_dir sciner_models/sciner-scibert-faa  --overwrite_output_dir  --output_results
 
 RE:
@@ -127,7 +127,7 @@ CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
     --max_seq_length 512  --save_steps 2000  --max_pair_length 256  --max_mention_ori_length 8    \
     --do_eval  --evaluate_during_training   --eval_all_checkpoints  \
     --fp16  --seed 42  --onedropout  --lminit  \
-    --test_file faa_eval_faa.json  \
+    --test_file faa_plmarker.jsonl  \
     --output_dir ace05ner_models/ace05ner-bert-faa  --overwrite_output_dir  --output_results
 
 RE:
@@ -162,6 +162,6 @@ Pros:
 Cons:
 - The documentation on github does not make it clear how to "quick start" other models besides the SciERC-trained model. This led to us having to use the hyperparameters for the SciERC model when running ace05-bert.
 - The documentation pointed to pretrained LLMs from Huggingface which could be finetuned using their scripts, and it also linked the PL-Marker finetuned models, presumably the result of those training scripts. However, we used evaluated with both the base pretrained models and the PL-Marker finetuned models, and found that they delivered the same output. We are open to suggestions on why this is.
-- The ace05-albert models did not include a vocab.txt file, so we could not load the tokenizer for them.
+- The ace05-albert models did not include a vocab.txt file, so we could not load the tokenizer for them. ** CHECK THIS PLEASE **
 - It was not clear how to interpret the output in ent_pred_test.json, which caused us to develop our own notebook (pred_results_parse.ipynb) to extract the results in a human-readable way
 - There were no suggestions on how to use the model on a custom dataset. Although the instructions above on downloading and copying data may mostly be inferred from the instructions given in the quickstart for SciERC, we had to comb through the code in each script to verify that we were applying them in a valid way. For example, be mindful that if the data_dir does not have 'ace' or 'scierc' in it, the script will fail.
