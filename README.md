@@ -25,6 +25,17 @@ KE tools at a glance:
 
 ---
 
+README's polished:
+
+| Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
+|-------------------------------|-------------------------------|---------------------------------|---------------------------|
+| [x] spaCy EntityRecognizer    | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
+| [x] flair NER                 | [ ] coref_mt5                 | [ ] spaCy EntityLinker          | [ ] UniRel                |
+| [x] stanza NERProcessor       | [x] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
+| [x] nltk ne_chunk             | [ ] neuralcoref               | [ ] ReFinED                     | [x] PL-Marker (SciERC)    |
+
+-----
+
 ## Named Entity Recognition
 
 ### spaCy EntityRecognizer
@@ -70,7 +81,7 @@ Github: https://github.com/nltk/nltk/tree/develop/nltk/chunk
 
 Created by NLTK
 
-ne_chunk creates a parse tree where named entities and their labels are stored as subtrees.
+NLTK ne_chunk takes in a list of POS-tagged tokens as input and creates a parse tree where named entities and their labels are stored as subtrees. It recognizes the seven entity types in ACE 2005.
 
 Not used by any other tools in the pipeline.
 
@@ -85,7 +96,7 @@ Paper: https://arxiv.org/pdf/2210.14698.pdf
 
 Research Institution: Google Research
 
-The Autoregressive Structured Prediction (ASP) framework represents structures as sequences of actions to build pieces of the target structure step by step. It focuses on tasks such as named entity recognition, end-to-end relation extraction, and coreference resolution, achieving state-of-the-art results without relying on data augmentation or task-specific feature engineering. The ASP framework utilizes a conditional language model to predict structure-building actions, allowing the model to capture intra-structure dependencies more effectively while leveraging pre-trained language models.
+The Autoregressive Structured Prediction (ASP) framework utilizes a conditional language model trained over structure-building actions, as opposed to strings, allowing the model to capture intra-structure dependencies more effectively and build pieces of the target structure step by step. It focuses on tasks such as named entity recognition, end-to-end relation extraction, and coreference resolution.
 
 Base Model: T5
 
@@ -96,7 +107,7 @@ Paper: https://arxiv.org/pdf/2211.12142v1.pdf
 
 Research Institution: Google Research
 
-coref_mt5's methodology for coreference resolution involves a text-to-text (seq2seq) approach, where a single sentence, along with prior context, is encoded as a string and fed into a model to predict coreference links. The system utilizes a transition-based approach, particularly the Link-Append system, which encodes prior coreference decisions in the input to the seq2seq model and predicts new coreference links as its output.
+coref_mt5's methodology for coreference resolution uses a seq2seq approach, where a single sentence, along with prior context, is encoded as a string and fed into a model to predict coreference links. The system utilizes a transition-based approach, particularly the Link-Append system, which encodes prior coreference decisions in the input to the seq2seq model and predicts new coreference links as its output.
 
 Base Model: mT5
 
@@ -105,9 +116,9 @@ Base Model: mT5
 Github: https://github.com/yuvalkirstain/s2e-coref \
 Paper: https://aclanthology.org/2021.acl-short.3.pdf
 
-Research Institution: University of Tel Aviv
+Research Institution: Tel Aviv University
 
-The s2e coreference resolution model introduces a lightweight approach that eliminates the need for constructing span representations, handcrafted features, and pruning heuristics. Instead, it propagates information to the boundaries of spans and computes mention and antecedent scores through a series of bilinear functions over their contextualized representations, resulting in a significantly lighter memory footprint and the ability to process multiple documents in a single batch without truncation or sliding windows. This approach stands out for its simplicity, efficiency, and reliance on lightweight bilinear functions between pairs of endpoint token representations, distinguishing it from the more complex and memory-intensive standard models.
+The s2e coreference resolution model introduces a lightweight approach that avoids constructing span representations. Instead, it uses the boundaries of spans to computes mention and antecedent scores, through a series of bilinear functions over their contextualized representations.
 
 Base Model: longformer-large
 
@@ -118,9 +129,9 @@ Blog Post: https://medium.com/huggingface/state-of-the-art-neural-coreference-re
 
 Created by spaCy
 
-Neuralcoref's methodology for coreference resolution involves training a neural model on a non-probabilistic slack-rescaled max-margin objective, which computes scores for pairs of mentions and individual mentions. This scoring system is an adaptation of previous work by Kevin Clark and Christopher Manning, utilizing deep-learning python tools, spaCy for high-speed parsing, and recent word embedding techniques to compute embeddings for unknown words on the fly. The system also incorporates speaker information in the conversation and is implemented on top of spaCy and Numpy, making it unique in its approach to handling informal language and speaker context in coreference resolution.
+Neuralcoref's methodology for coreference resolution uses the spaCy parser for mention-detection, and ranks possible mention-coreference pairs using a feedforward neural network developed by Clark and Manning, Stanford University (https://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf).
 
-Not LLM-based
+Base Model: spaCy english model (we used en_core_web_sm) **** Jonathan can you verify??*****
 
 ---
 
@@ -144,8 +155,7 @@ Documentation: https://spacy.io/api/entitylinker
 
 Created by spaCy
 
-From https://spacy.io/api/entitylinker :\
-"An EntityLinker component disambiguates textual mentions (tagged as named entities) to unique identifiers, grounding the named entities into the “real world”. It requires a KnowledgeBase, as well as a function to generate plausible candidates from that KnowledgeBase given a certain textual mention, and a machine learning model to pick the right candidate, given the local context of the mention. EntityLinker defaults to using the InMemoryLookupKB implementation."
+spaCy EntityLinker is spaCy's NEL pipeline component. It uses the InMemoryLookupKB knowledge base to match mentions with external entities. InMemoryLookupKB contains Candidate components which store basic information about their entities, like frequency in text and possible aliases.
 
 Not LLM-based
 
@@ -156,7 +166,7 @@ Paper: https://arxiv.org/pdf/2010.00904.pdf
 
 Research Institution: Facebook AI Research
 
-GENRE's methodology for named entity linking involves utilizing a sequence-to-sequence model to generate textual entity identifiers, or entity names, in an autoregressive manner. This approach allows GENRE to directly capture the relations between context and entity names, effectively cross-encoding both, and to efficiently compute the exact softmax for each output token without the need for negative data downsampling. Additionally, GENRE employs a constrained decoding strategy that forces each generated name to be in a predefined candidate set, ensuring that the generated output is a valid entity name.
+GENRE utilizes a sequence-to-sequence model to autoregressively generate textual entity identifiers. This approach allows GENRE to directly capture the relations between context and entity names, effectively cross-encoding both, and to efficiently compute the exact softmax for each output token without the need for negative data downsampling. Additionally, GENRE employs a constrained decoding strategy that forces each generated name to be in a predefined candidate set, ensuring that the generated output is a valid entity name.
 
 Base Model: BART
 
@@ -167,7 +177,7 @@ Papers: https://arxiv.org/pdf/2207.04108.pdf, https://arxiv.org/pdf/2207.04106.p
 
 Research Institution: Amazon Alexa AI
 
-ReFinED is an efficient end-to-end entity linking model that utilizes fine-grained entity types and entity descriptions to perform mention detection, fine-grained entity typing, and entity disambiguation in a single forward pass. It targets a large catalog of entities, including zero-shot entities, and is capable of generalizing to large-scale knowledge bases such as Wikidata. ReFinED's unique approach involves combining information from entity types and descriptions in a simple transformer-based encoder, which yields strong performance and scalability for web-scale information extraction.
+ReFinED is an efficient end-to-end entity linking model that utilizes fine-grained entity types and entity descriptions to perform mention detection, fine-grained entity typing, and entity disambiguation in a single forward pass. It targets a large catalog of entities, including zero-shot entities, and is capable of generalizing to large-scale knowledge bases such as Wikidata.
 
 Base Model: RoBERTa
 
