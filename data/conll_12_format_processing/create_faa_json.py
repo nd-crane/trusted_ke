@@ -13,7 +13,7 @@ docs = [[entry] for entry in faa_data["c119"]]
 for idoc, doc in enumerate(docs):
     for ipart, part in enumerate(doc):
         part = part.lower()
-        part = re.sub(r'([^0-9])\.[^0-9]', r'\1. ', part) # often no space between sentences, add space after period
+        part = re.sub(r'([^0-9])\.([^0-9])', r'\1. \2', part) # often no space between sentences, add space after period
         part = re.sub(r'\.([^0-9])', r'. \1', part) # often no space between sentences, add space after period
         
         docs[idoc][ipart] = part
