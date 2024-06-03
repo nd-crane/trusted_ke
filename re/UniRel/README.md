@@ -18,6 +18,12 @@ Setup:
 
 6. Run the script `python3.8 pretrain_setup.py` from the bert-base-cased directory  to download the bert model from HuggingFace 
 
-7. TBD - reguarding running on NYT Dataset
+7. Run the script `python3.8 unirel_faa.py` to run the UniRel NYT model on the FAA data
 ----------------------------
 #### Reproducibility Rating:
+<img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+
+The UniRel GitHub README is easy to follow and is accuarate.
+The requirements.txt is mostly accurate except for the changes required in step 3.
+UniRel allows the user to pass in raw text as seen in their  predict.py
+Only one additional argument (model) had to be passed into the UniRel class in order for unirel_faa.py to work.
