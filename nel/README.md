@@ -12,6 +12,7 @@ BLINK contains a biencoder module which pulls a list of the most likely ID candi
 ### spaCy EntityLinker:
 
 **Input:** spaCy Entity Linker allows you to pass the records in directly. Each record is treated independantly.
+
 **Output**  Run sel_faa.py to to get the output. The output is stored as a CSV file in the data/results directory. 
 The output is a list of extracted triplets [{"Identifier":QID,"label":name,"description":description},...]
 Example: [{'indentifier': 8015236, 'label': 'William Matthew Prior', 'description': 'American painter'}]

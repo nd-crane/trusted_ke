@@ -1,5 +1,5 @@
 ### spaCy Entity Linker Setup
-SpaCy Python Package: https://pypi.org/project/spacy-entity-linker/
+spaCy Python Package: https://pypi.org/project/spacy-entity-linker/
 
 1. Create Conda environment: `conda create --name spacy_entity_linker`
 2. Activate Conda Environment `conda activate spacy_entity_linker`
