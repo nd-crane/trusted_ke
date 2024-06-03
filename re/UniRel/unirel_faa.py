@@ -14,6 +14,7 @@ def unirel_setup():
     else:
         # Load model directly
         #Changed predict.py to accept the UniRel pretrained model
+        #Hugging Face Link: https://huggingface.co/vramesh/UniRel-nyt-checkpoint
         model = UniRelModel.from_pretrained("vramesh/UniRel-nyt-checkpoint")
         unirel = UniRel(model_path=None, model=model)
 
