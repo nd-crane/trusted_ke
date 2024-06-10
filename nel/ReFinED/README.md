@@ -1,0 +1,28 @@
+### ReFinED Setup
+Github: https://github.com/amazon-science/ReFinED
+Papers: https://arxiv.org/pdf/2207.04108.pdf, https://arxiv.org/pdf/2207.04106.pdf
+
+1. Get ReFinED
+    1. `git clone git@github.com:amazon-science/ReFinED.git`
+    2. `cd ReFined`
+2. Setup Virtual Environment
+    1. `virtualenv ReFined_venv`
+    2. `source ReFined_venv/bin/activate`
+    3. `pip install -r requirements.txt`
+3. Add the src folder to your Python Path
+    1. `export PYTHONPATH=$PYTHONPATH:src` (This temporarily puts it in your path)
+4. Run the script to get ReFinED results
+   1. `pip install pandas`
+   2. `python3  refined_faa.py`
+
+
+Results are in the data/results/refined folder
+----------------------------
+
+#### Reproducibility Rating:
+
+<img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+
+ReFinED is deterministic.
+It is an easy and quick set up. It was accomplished by just following the Github README for ReFinED.
+ReFinED also provided a sample script where the text could be directly passed into the model.
