@@ -30,6 +30,14 @@ The model outputs a list of possible outputs and scores them using their mechani
 
 Example Output: [[{'text': 'In 1921, { Einstein } [ Albert Einstein ] received a { Nobel Prize } [ Nobel Prize in Physiology or Medicine ].', 'score': tensor(-0.9068)}, {'text': 'In 1921, { Einstein } [ Albert Einstein ] received a { Nobel Prize } [ Nobel Prize in Physiology or Medicine ] {. } [ Nobel Prize in Physiology or Medicine ]', 'score': tensor(-0.9301)}, {'text': 'In 1921, { Einstein } [ Albert Einstein ] received a { Nobel Prize } [ Nobel Prize in Physiology or Medicine ] {. } [ Albert Einstein ]', 'score': tensor(-0.9942)}, {'text': 'In 1921, { Einstein } [ Albert Einstein ] received a { Nobel Prize } [ Nobel Prize in Physiology or Physiology ].', 'score': tensor(-1.0778)}, {'text': 'In 1921, { Einstein } [ Albert Einstein ] received a { Nobel Prize } [ Nobel Prize in Physiology or Medicine ] {. } [ Ernest Einstein ]', 'score': tensor(-1.1164)}]]
 
+---
+
 ### ReFinED:
 
-*** Jonathan do this ***
+**Input:** With ReFinED you can pass each of the strings as a list into refined.process_text. Each record is treated independently.
+
+Example Input: refined.process_text("England won the FIFA World Cup in 1966.")
+
+**Output:**  Run refined_faa.py to get the output. The output is stored as a CSV file in the data/results directory. 
+
+Example Output: [['England', Entity(wikidata_entity_id=Q47762, wikipedia_entity_title=England national football team), 'ORG'], ['FIFA World Cup', Entity(wikidata_entity_id=Q19317, wikipedia_entity_title=FIFA World Cup), 'EVENT'], ['1966', Entity(...), 'DATE']]
