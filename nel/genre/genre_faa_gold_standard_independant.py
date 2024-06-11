@@ -63,11 +63,9 @@ def output_results(row_limit=None, batch_size=100):  # Run all in one batch
             results.extend(batch_results)
             
             # Manually delete the model and clear GPU cache
-            independant = True
-            if independant:
-                del batch_results
-                torch.cuda.empty_cache()
-                gc.collect()
+            del batch_results
+            torch.cuda.empty_cache()
+            gc.collect()
             
             pbar.update(len(batch))
     pbar.close()
