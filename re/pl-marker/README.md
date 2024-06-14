@@ -17,13 +17,13 @@ Paper: https://arxiv.org/pdf/2109.06067.pdf
 
     3. Download the SciERC dataset from https://cloud.tsinghua.edu.cn/d/7dafc9a3d84d4151a755/ (optional -- only necessary if you want to run the model on that dataset to confirm their results). The ACE-2005 dataset is available for download with purchase.
 
-    4. Download trained models sciner-scibert and scire-scibert, as well as ace05ner-bert and ace05re-bert, from https://cloud.tsinghua.edu.cn/d/5e4a117bc0e5407b9cee/
+    4. Download trained models sciner-scibert and scire-scibert, as well as ace05ner-bert and ace05re-bert, and ace05ner-albert and ace05re-albert from https://cloud.tsinghua.edu.cn/d/5e4a117bc0e5407b9cee/
 
     5. Create a directory in PL-Marker called sciner_models, and copy or move sciner-scibert there. Create a directory in PL-Marker called scire_models, and copy or move scire-scibert there. Do the same with the ace05 models.
 
     6. If you downloaded the scierc dataset, you can paste the commands in the Quick Start section of the PL-Marker github to evaluate the model on that dataset and confirm their results.
 
-4. Create JSONL formatted data for the input. See create_jsonl_data.ipynb. That notebook transforms the FAA data to JSONL format and saves it in this folder as faa_plmarker.jsonl. Alternatively, use the faa_plmarker.jsonl file already created and copy to pl-marker/PL-Marker/scierc and pl-marker/PL-Marker/ace05 (mkdir these folders). Note that the data directories have to at least contain the strings scierc and ace, respectively, since the ner and re scripts use the data directory name to determine which set of relations to use.
+4. Create JSONL formatted data for the input. See create_jsonl_data.ipynb. That notebook transforms the FAA data to JSONL format and saves it in PL-Marker/scierc. Alternatively, use the .json file already created, now in pl-marker, and copy to pl-marker/PL-Marker/scierc and pl-marker/PL-Marker/ace05 (mkdir these folders). Note that the data directories have to at least contain the strings scierc and ace, respectively, since the ner and re scripts use the data directory name to determine which set of relations to use.
 
 5. Copy sciner_models/sciner-scibert to sciner_models/sciner-scibert_faa. Do the same to all other models (i.e. make a duplicate folder with the _faa suffix)
 
@@ -46,7 +46,7 @@ Your directory tree from pl-marker should look like this:\
     ├── run_re_unidirect.py\
     ├── scierc\
     │   ├── dev.json\
-    │   ├── faa_plmarker.jsonl\
+    │   ├── faa_eval_faa.json\
     │   ├── test.json\
     │   └── train.json\
     ├── sciner_models\
@@ -85,7 +85,25 @@ Your directory tree from pl-marker should look like this:\
     2. Replace results with None on line 1016
     3. Comment out 1316-1329 (from "result =..." to "json.dump")
 
-9. Run these commands for each task. Note that NER has to complete before you can do RE. Note that the NER task can take about an hour and a half, while RE takes about 20 minutes.
+9. Create a directory called bert_models in pl-marker (adjacent to PL-Marker). Run the following commands to download the base models, also found in the PL-Marker github documentation:
+
+mkdir -p bert_models/bert-base-uncased \
+wget -P bert_models/bert-base-uncased https://huggingface.co/bert-base-uncased/resolve/main/pytorch_model.bin \
+wget -P bert_models/bert-base-uncased https://huggingface.co/bert-base-uncased/resolve/main/vocab.txt \
+wget -P bert_models/bert-base-uncased https://huggingface.co/bert-base-uncased/resolve/main/config.json
+
+mkdir -p bert_models/albert-xxlarge-v1 \
+wget -P bert_models/albert-xxlarge-v1 https://huggingface.co/albert-xxlarge-v1/resolve/main/pytorch_model.bin \
+wget -P bert_models/albert-xxlarge-v1 https://huggingface.co/albert-xxlarge-v1/resolve/main/spiece.model \
+wget -P bert_models/albert-xxlarge-v1 https://huggingface.co/albert-xxlarge-v1/resolve/main/config.json \
+wget -P bert_models/albert-xxlarge-v1 https://huggingface.co/albert-xxlarge-v1/resolve/main/tokenizer.json
+
+mkdir -p bert_models/scibert-uncased \
+wget -P bert_models/scibert-uncased https://huggingface.co/allenai/scibert_scivocab_uncased/resolve/main/pytorch_model.bin \
+wget -P bert_models/scibert-uncased https://huggingface.co/allenai/scibert_scivocab_uncased/resolve/main/vocab.txt \
+wget -P bert_models/scibert-uncased https://huggingface.co/allenai/scibert_scivocab_uncased/resolve/main/config.json
+
+10. Run these commands for each task. Note that NER has to complete before you can do RE. Note that the NER task can take about an hour and a half, while RE takes about 20 minutes.
 
 Note: We changed the model_name_or_path variable to use sciner-scibert etc. instead of the "../bert_models/scibert-uncased" listed in the documentation. We downloaded scibert-uncased as well as bert-base-uncased and used them in the model_name_or_path argument, and determined that they gave the same outputs as sciner-scibert and ace05ner-bert, respectively. The same goes for using them in the relation extraction stage as well.
 
@@ -94,19 +112,19 @@ Note: We changed the model_name_or_path variable to use sciner-scibert etc. inst
 NER:
 
 CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
-    --model_name_or_path  sciner_models/sciner-scibert  --do_lower_case  \
+    --model_name_or_path  ../bert_models/scibert-uncased  --do_lower_case  \
     --data_dir scierc  \
     --learning_rate 2e-5  --num_train_epochs 50  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
     --max_seq_length 512  --save_steps 2000  --max_pair_length 256  --max_mention_ori_length 8    \
     --do_eval  --evaluate_during_training   --eval_all_checkpoints  \
     --fp16  --seed 42  --onedropout  --lminit  \
-    --test_file faa_plmarker.jsonl \
+    --test_file faa_plmarker.jsonl  \
     --output_dir sciner_models/sciner-scibert-faa  --overwrite_output_dir  --output_results
 
 RE:
 
 CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
-    --model_name_or_path  scire_models/scire-scibert  --do_lower_case  \
+    --model_name_or_path  ../bert_models/scibert-uncased  --do_lower_case  \
     --data_dir scierc  \
     --learning_rate 2e-5  --num_train_epochs 10  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
     --max_seq_length 256  --max_pair_length 16  --save_steps 2500  \
@@ -121,7 +139,7 @@ CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
 NER:
 
 CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
-    --model_name_or_path  ace05ner_models/ace05ner-bert  --do_lower_case  \
+    --model_name_or_path  ../bert_models/bert-base-uncased  --do_lower_case  \
     --data_dir ace05  \
     --learning_rate 2e-5  --num_train_epochs 50  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
     --max_seq_length 512  --save_steps 2000  --max_pair_length 256  --max_mention_ori_length 8    \
@@ -130,10 +148,20 @@ CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type bertspanmarker  \
     --test_file faa_plmarker.jsonl  \
     --output_dir ace05ner_models/ace05ner-bert-faa  --overwrite_output_dir  --output_results
 
+CUDA_VISIBLE_DEVICES=0  python3  run_acener.py  --model_type albertspanmarker  \
+    --model_name_or_path  ../bert_models/albert-xxlarge-v1  --do_lower_case  \
+    --data_dir ace05  \
+    --learning_rate 2e-5  --num_train_epochs 50  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
+    --max_seq_length 512  --save_steps 2000  --max_pair_length 256  --max_mention_ori_length 8    \
+    --do_eval  --evaluate_during_training   --eval_all_checkpoints  \
+    --fp16  --seed 42  --onedropout  --lminit  \
+    --test_file faa_plmarker.jsonl  \
+    --output_dir ace05ner_models/ace05ner-albert-faa  --overwrite_output_dir  --output_results
+
 RE:
 
 CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
-    --model_name_or_path  ace05re_models/ace05re-bert  --do_lower_case  \
+    --model_name_or_path  ../bert_models/bert-base-uncased  --do_lower_case  \
     --data_dir ace05  \
     --learning_rate 2e-5  --num_train_epochs 10  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
     --max_seq_length 256  --max_pair_length 16  --save_steps 2500  \
@@ -162,6 +190,6 @@ Pros:
 Cons:
 - The documentation on github does not make it clear how to "quick start" other models besides the SciERC-trained model. This led to us having to use the hyperparameters for the SciERC model when running ace05-bert.
 - The documentation pointed to pretrained LLMs from Huggingface which could be finetuned using their scripts, and it also linked the PL-Marker finetuned models, presumably the result of those training scripts. However, we used evaluated with both the base pretrained models and the PL-Marker finetuned models, and found that they delivered the same output. We are open to suggestions on why this is.
-- The ace05-albert models did not include a vocab.txt file, so we could not load the tokenizer for them. ** CHECK THIS PLEASE **
+- The ace05-albert models did not include a vocab.txt file, so we could not load the tokenizer for them.
 - It was not clear how to interpret the output in ent_pred_test.json, which caused us to develop our own notebook (pred_results_parse.ipynb) to extract the results in a human-readable way
 - There were no suggestions on how to use the model on a custom dataset. Although the instructions above on downloading and copying data may mostly be inferred from the instructions given in the quickstart for SciERC, we had to comb through the code in each script to verify that we were applying them in a valid way. For example, be mindful that if the data_dir does not have 'ace' or 'scierc' in it, the script will fail.
