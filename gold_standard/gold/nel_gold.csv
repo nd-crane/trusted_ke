@@ -172,10 +172,10 @@ index,c5_unique_id,c119_text,human_gold_ents,qids,links,Notes
 ,,,PILOT,Q2095549,https://www.wikidata.org/wiki/Q2095549,
 ,,,DITCH,Q2048319,https://www.wikidata.org/wiki/Q2048319,
 ,,,TAXIWAY,Q910386,https://www.wikidata.org/wiki/Q910386,
-,19781113027039I,PILOT TAXIED INTO UNMARKED DITCH AT END OF TAXIWAY.,POILOT,Q2095549,https://www.wikidata.org/wiki/Q2095549
-,,,TAXIED,,
-,,,DITCH,Q2048319,https://www.wikidata.org/wiki/Q2048319
-,,,TAXIWAY,Q910386,https://www.wikidata.org/wiki/Q910386
+,19781113027039I,PILOT TAXIED INTO UNMARKED DITCH AT END OF TAXIWAY.,PILOT,Q2095549,https://www.wikidata.org/wiki/Q2095549,
+,,,TAXIED,,,
+,,,DITCH,Q2048319,https://www.wikidata.org/wiki/Q2048319,
+,,,TAXIWAY,Q910386,https://www.wikidata.org/wiki/Q910386,
 1211,19870606018859A,UNABLE TO STAY AIRBORNE ON TAKEOFF. ABORTED AND GROUND LOOPED INTO A TREE TO AVOID OVERRUN. MAG SWITCH ON ONE MAG. ,TAKEOFF,Q854248,https://www.wikidata.org/wiki/Q854248,
 ,,,TREE,Q10884,https://www.wikidata.org/wiki/Q10884,
 ,,,MAG SWITCH,Q19599480,https://www.wikidata.org/wiki/Q19599480,
