@@ -19,4 +19,4 @@ for index in range(len(sample)):
 
 print(pd.DataFrame(out_dict))
 
-pd.DataFrame(out_dict).to_excel("stanza_ner.xlsx", index=False)
+pd.DataFrame(out_dict).to_csv("../../data/results/stanza/stanza_ner.csv", index=False)

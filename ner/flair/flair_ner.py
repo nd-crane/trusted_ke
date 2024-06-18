@@ -27,4 +27,4 @@ for index in range(len(sample)):
 
 print(pd.DataFrame(out_dict))
 
-pd.DataFrame(out_dict).to_excel("flair_ner.xlsx", index=False)
+pd.DataFrame(out_dict).to_csv("../../data/results/flair/flair_ner.csv", index=False)

@@ -33,7 +33,7 @@ for index in range(len(sample)):
 
 print(pd.DataFrame(out_dict))
 
-pd.DataFrame(out_dict).to_excel("nltk_ner_uppercased.xlsx", index=False)
+pd.DataFrame(out_dict).to_csv("../../data/results/nltk/nltk_ner_uppercased.csv", index=False)
 
 ###
 
@@ -59,4 +59,4 @@ for index in range(len(sample)):
 
 print(pd.DataFrame(out_dict))
 
-pd.DataFrame(out_dict).to_excel("nltk_ner_lowercased.xlsx", index=False)
+pd.DataFrame(out_dict).to_csv("../../data/results/nltk/nltk_ner_lowercased.csv", index=False)
