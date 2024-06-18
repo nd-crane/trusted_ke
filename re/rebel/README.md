@@ -26,4 +26,8 @@ Setup:
 
 *The spaCy pipeline implementation of REBEL is deterministic, however, the direct implementation is not*
 
-REBEL's documentation is informative and to-the-point, and the requirements.txt file is accurate. Making it available as a spacy component makes it versatile and easy to use. Using the model directly allows the user to specify number of beams and length penalty as well as the number of sentences to return. After a number of trials (output available in data/results/rebel), we determined that the spaCy pipeline implementation of REBEL is deterministic, however, the direct implementation is not, even when num_beams is set to 1. Because of this, we only use the spacy pipeline results when evaluating.
+REBEL's documentation is informative and to-the-point, and the requirements.txt file is accurate. Making it available as a spacy component makes it versatile and easy to use. Using the model directly allows the user to specify number of beams and length penalty as well as the number of sentences to return.
+
+After a number of trials (output available in data/results/rebel), we determined that the spaCy pipeline implementation of REBEL is deterministic, however, the direct implementation is not, regardless of hyperparameter settings. Because of this, we only use the spacy pipeline results when evaluating. To see how REBEL's results vary with hyperparameter settings and repeated runs, see data/results/rebel.
+
+Moreover, we also found that REBEL is extremely sensitive to noise. An added space between a word and a period, or even a space after a period, will change the results that even the spacy pipeline implementation produces. This can lead to completely different triples, even if the entities in the triples themselves are not adjacent to the added space in the sentence. 
