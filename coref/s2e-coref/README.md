@@ -16,11 +16,9 @@ Paper: https://aclanthology.org/2021.acl-short.3.pdf
 
 6. Change line 4 of modeling.py to from transformers.models.bert.modeling_bert import ACT2FN
 
-7. In run_coref.py, add LongformerTokenizer to line 9, and replace line 90 with: tokenizer = LongformerTokenizer.from_pretrained(args.tokenizer_name, cache_dir=args.cache_dir) Otherwise it will load LongformerTokenizerFast, which causes an error in eval.py when it instantiates a BucketBatchSampler
+7. In run_coref.py, add LongformerTokenizer to line 9, and replace line 90 with: tokenizer = LongformerTokenizer.from_pretrained(args.tokenizer_name, cache_dir=args.cache_dir) Otherwise it will load LongformerTokenizerFast, which causes an error in eval.py when it instantiates a BucketBatchSampler. Also comment out lines 148-151
 
-8. Follow directions on github for evaluation
-
-9. It'll error on eval.py line 139 but it doesn't matter since it will have completed creating output/preds.jsonl
+9. Follow directions on github for evaluation. Note that you'll likely want to run run_coref.py within the s2e-coref folder, so you should make your environment variables point to the parent directory
 
 10. Use interpret_predictions.ipynb to transform the raw results to a human readable csv, saved in data/results/s2e-coref
 
