@@ -28,6 +28,10 @@ Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluati
 
 ## Methodology for Comparing Tool Outputs with the Gold Standard
 
+### Correctness evaluation for coreference resolution
+
+We follow the CoNLL-2012 Shared Task in only counting a coreferenced phrase as correct if it exactly matches the phrase in the gold standard.
+
 ### Correctness evaluation for NEL
 For each named entity in the NEL gold standard, compare the tool's linking decision against it.\
 If the linking decision is correct, then the tool's QId is the same as the gold standard QId.\
@@ -53,6 +57,56 @@ See below an example of the output of the KGTK Semantic Similarity tool:
 | 3  | Q1875633 | Q5507117  | short-lived Bay Area post-hardcore musical act       | Fuel              | 0.000000 | 0.000000 |
 
 
+We take our gold standard entities from the NER gold standard, and found their correct QIDs by manual lookup.
+
+However, we note that many NER methods may create different output than our gold standard entities, and we do not want to penalize NEL tools for NER discrepancies. For example, in the sentence "WHILE TAXIING LOST NOSEWHEEL STEERING AND BRAKES",  we have "nosewheel steering" as an entity in our NER gold standard, since we prefer to include identity-changing modifiers for NER. In case an NEL tool only recognizes "steering" as the entity and links it to the QID for steering correctly (Q18891017), we perform a separate NER evaluation, and obtain a semantic similarity score of 1.000000 for the link between steering and Q18891017.
+
+To accomplish this, in our NEL gold standard, we included primary, secondary, and up to tertiary entity-QID pairs for entities like "nosewheel steering," where subspans of the primary entity perform the same function in the sentence as the primary entity. This also accomodates those entities which do not have a QID themselves, but have a subspan which does (see Case 1).
+
+<table>
+ <row>
+  <td>
+
+   **Example**: FORWARD CARGO DOOR OPENED AS AIRCRAFT TOOK OFF. OBJECTS DROPPED OUT. RETURNED. FAILED TO SEE WARNING LIGHT.
+
+Our gold standard holds that “FORWARD CARGO DOOR” is the correct entity to recognize, but also lists secondary and tertiary entities, “CARGO DOOR” and “DOOR” with their correct QIDs.
+
+*Case 1*: Tool recognizes FORWARD CARGO DOOR as the entity and returns QIDx
+FORWARD CARGO DOOR does not have a QID, so we move to the secondary entity/QID pair - we get the semantic distance between QIDx and the QID for CARGO DOOR.
+
+*Case 2*: Tool recognizes CARGO DOOR as the entity and returns QIDx. We get the semantic distance between QIDx and the QID for CARGO DOOR
+
+*Case 3*: Tool recognizes DOOR as the entity and returns QIDx. We get the semantic distance between QIDx and the QID for DOOR as in Case 2. However, since the QID for the more specific entity, CARGO DOOR, would still be valid in this case, based on the context in the sentence, we also get the semantic distance between QIDx and the QID for CARGO DOOR (and would keep getting more specific QIDs if available), and report the best score.
+</td>
+</row>
+</table>
+
+*Other Notes*
+
+1. We toss out links for any phrases which are not primary, secondary, or tertiary entities for the entry. For example, in the entry "CRASH OCCURRED DURING FORCED LANDING AFTER ENGINE FAILURE DURING TAKEOFF. AIRCRAFT HAD NOT HAD ANNUAL INSPECTION.", with correct entities and QIDs listed below:
+
+|    | Primary Entity | Primary QID | Secondary Entity | Secondary QID | Tertiary Entity | Tertiary QID |
+|----|-----------|-----------|-------------------------------------------------------|-------------------|----------|----------|
+| 0  | CRASH | Q238053 |  | | | |
+| 1  | LANDING | Q844947 |  | |  |  |
+| 2  | ENGINE FAILURE | Q46375738 | FAILURE | Q1121708 |  |  |
+| 3  | TAKEOFF | Q854248  |  |  |  |  |
+| 4  | AIRCRAFT | Q11436  |  |  |  |  |
+| 5  | INSPECTION | Q1137655  |  |  |  |  |
+
+If the NEL tool returns ANNUAL and its QID, or ENGINE and its QID, or any other words which are not listed, those results are ignored but not penalized.
+
+2. In the case that an entity refers to another entity in the same entry, those entities are given the same set of primary and secondary QIDs. For example, in the sentence "BAGGAGE CART WAS BLOWN INTO PARKED AIRCRAFT BY JET BLAST. BRAKES WERE INOPERATIVE ON CART.", the set of entities and QIDs is as follows:
+
+|    | Primary Entity | Primary QID | Secondary Entity | Secondary QID | Tertiary Entity | Tertiary QID |
+|----|-----------|-----------|-------------------------------------------------------|-------------------|----------|----------|
+| 0  | BAGGAGE CART | Q14277552 | CART | Q234668 | | |
+| 1  | AIRCRAFT | Q11436 |  | |  |  |
+| 2  | JET BLAST | Q1996324 | BLAST | Q179057 |  |  |
+| 3  | BRAKES | Q1534839  |  |  |  |  |
+| 4  | CART | Q14277552 | CART | Q234668 | | |
+
+Note that CART is given the primary QID corresponding to "baggage cart", and the secondary QID corresponding to "cart." If only the QID for "cart" were listed, we would be penalizing an NEL tool which infered from context that the cart was a baggage cart.
 
 ### Correctness evaluation for RE
 We need to define a process to make that comparison. We can use the following steps:
