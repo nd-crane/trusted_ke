@@ -38,10 +38,14 @@ The Coreference Resolution gold standard was created manually following CoNLL-20
 
 * Generic mentions, such as plurals like "lights", cannot be coreferenced which each other but can be coreferenced with a specific mention to which they refer.
 
-* Time expressions may be linked, like "1535 MST" and "that time"
-
 * Appositive phrases, such as “a Beech 1900D, N81SK”, or "Tim, the pilot", serve to ascribe some attribute to a head noun. In this case, the "N81SK" is described as "a Beech 1900D", and "Tim" is described as "the pilot." These make up appositive corerefences, which differ from identity coreferences, the kind we usually seek. In identity corferences, "it" referes to "N81SK" and it is understood that they are identical; however "a Beech 1900D" simply adds information. This difference in the nature of the coreferences led CoNLL-2012 to exclude appositive coreferences from evaluation. We follow them in doing so.
 
 ### NEL
+
+The NEL gold standard was based on our NER gold standard entities. We then found Wikidata Q-identifiers by manual lookup of each entity and listed the most specific and correct Q-identifier if there was one. 
+
+We note that many NER methods may create different output than our gold standard entities, and we do not want to penalize NEL tools for NER discrepancies. For example, in the sentence "While taxiing lost nosewheel steering and brakes",  we have "nosewheel steering" as an entity in our NER gold standard. In case an NEL tool only recognizes "steering" as the entity and links it to the QID for steering correctly (Q18891017), we perform a separate NER evaluation, and count the link between steering and Q18891017 as correct.
+
+To accomplish this, in our NEL gold standard, we included primary, secondary, and up to tertiary entity-QID pairs for entities like "nosewheel steering," where subspans of the primary entity perform the same function in the sentence as the primary entity.
 
 ### RE
