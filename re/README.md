@@ -2,7 +2,7 @@
 
 ### REBEL:
 
-**Input:** Raw text from each FAA record. Records are treated separately but sentences are not explicitly divided up. ** Need to check if spacy nlp does this internally **\
+**Input:** Raw text from each FAA record. Records are treated separately but sentences are not explicitly divided up.
 May either implement REBEL using transformers or in a Huggingface pipeline, as described here: https://huggingface.co/Babelscape/rebel-large\
 Current work with evaluating REBEL done on the results from the Huggingface pipeline usage (we created the script re/rebel/rebel_pipe.py to implement this, and rebel_main.py to implement the method using transformers)
 
