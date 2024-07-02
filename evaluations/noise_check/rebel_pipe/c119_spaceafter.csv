@@ -1,0 +1,22 @@
+index,c5_id,c119_spaceafter_input,head,relation,tail
+0,19990213001379A,"acft was taxiing for take off when it lost control, ran into a ditch, and struck a tree. other circumstances ae unk    ",crashed,has cause,taxiing
+1,19800217031649I,"after takeoff, engine quit. wing fuel tank sumps were not drained during preflight because they were frozen.           ",preflight,followed by,takeoff
+2,19790720021329A,helicopter took off with sling load attached. crashed when load wedged in trees. improper preflight.                   ,crashed,has cause,preflight
+3,19841214074599I,while taxiing lost nosewheel steering and brakes. struck 2 aircraft and fence. circuit breaker hydraulic pump open.    ,nosewheel,subclass of,steering
+4,19860128014289I,forward cargo door opened as aircraft took off. objects dropped out. returned. failed to see warning light.            ,forward cargo door,part of,aircraft
+5,20000215010329A,"(-23) mr. timothy allen wells was acting as pilot in command of a bell helicopter model bht-47-g5, n4754r, engaged     ",bht-47-g5,subclass of,bell helicopter
+6,19801116083749I,forced landing after one engine quit;found ice in auxiliary fuel system.                                               ,one engine,subclass of,auxiliary fuel
+7,19850315007389A,pilot was descending to lower altitude due to icing. lost control. altimeter not ifr certified. icing forecast.        ,icing,subclass of,descending
+8,20070630826079I,(-23) aircraft departed ray airport and after takeoff into the climb aircraft engine started to have problems. pilo    ,climb,subclass of,takeoff
+9,19900425011659A,ran out of fuel on ferry flight. left pontoon separated landing in a pond. fuel cap not secured. fuel siphoned.        ,ferry,has part,pontoon
+10,19991230042089A,"(.4)the pilot said that shortly after takeoff, the engine 'started cutting out and was not developing enough power     ",Cessna 208,based on,Cessna 208W
+11,19820725041999I,"loose cowling on takeoff. cowling came off on returning to land. cracked windshield, dented stabilizer.                ",cowling,part of,windshield
+12,19940412011509I,aircraft popped open on descent. flight manual flew out and struck truck windshield on ground. landed safely.          ,crashed,location,Hartsfield-Jackson International Airport
+13,19971226042729I,nr2 engine fire while loading passengers at gate. evacuated. fuel lever was in flight idle. cut off. smoke cleared.    ,fuel lever,part of,engine
+14,19950619021589I,after departing high oil temp. landed off airpor. sheared main gear. found low on oil.                                 ,high oil temp.,facet of,oil
+15,19940815046149I,battery compartment door came open. antenna cracked windshield.                                                        ,battery,part of,door
+16,19860228038269I,returned when nose gear failed to retract. found that pin had not been removed after previous maintenance.             ,1972,point in time,1972
+17,19790718019229I,ground stand baggage cart with inoperative brakes rolled into side of parked aircraft. 9 inch tear in fuselage.        ,9 inch tear in fuselage,has cause,brakes
+18,20000625032189I,(-23)northwest airlines dc-10 boeing pushed back for repositioning off of gate b-52 struck a continental airlines d    ,(23)northwest airlines,item operated,dc-10 boeing
+19,19860530030499A,engine overheat. hot oil smell.knew he had failed to remove air intake plugs. nosed over in furrows plowed failed      ,engine overheat,has cause,oil smell
+19,19860530030499A,engine overheat. hot oil smell.knew he had failed to remove air intake plugs. nosed over in furrows plowed failed      ,oil smell,has effect,engine overheat
