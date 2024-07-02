@@ -53,7 +53,7 @@ def main(dataset_path, id_col, text_col):
     # Initialize results dict
     id_col_name = f"{id_col}_id"
     text_col_name = f"{text_col}_input"
-    results_dict = {"index":[], id_col_name:[], text_col_name:[], "head":[], "relation":[], "tail":[]}
+    results_dict = {id_col_name:[], text_col_name:[], "head":[], "relation":[], "tail":[]}
     
     for i in tqdm(range(len(dataset))):
         
@@ -66,7 +66,6 @@ def main(dataset_path, id_col, text_col):
         extracted_triplets = extract_triplets(extracted_text[0])
         
         for triplet in extracted_triplets:
-            results_dict["index"].append(i)
             results_dict[id_col_name].append(id)
             results_dict[text_col_name].append(text)
             results_dict["head"].append(triplet["head"])
@@ -81,19 +80,22 @@ if __name__=='__main__':
     parser.add_argument(
         '-d', '--dataset_path',
         type=str,
-        required=True,
+        required=False,
+        default = "../../data/FAA_data/Maintenance_Text_Data_nona.csv",
         help='path/to/input/dataset.csv'
     )
     parser.add_argument(
         '-t', '--text_col',
         type=str,
-        required=True,
+        required=False,
+        default="c119",
         help='Name of column in input dataset which contains text'
     )
     parser.add_argument(
         '-i', '--id_col',
         type=str,
-        required=True,
+        required=False,
+        default="c5",
         help='Name of column in input dataset which contains unique identifier'
     )
     parser.add_argument(
