@@ -3,10 +3,10 @@
 ### REBEL:
 
 **Input:** Raw text from each FAA record. Records are treated separately but sentences are not explicitly divided up. ** Need to check if spacy nlp does this internally **\
-May either implement REBEL using transformers or in a spacy pipeline, as described here: https://huggingface.co/Babelscape/rebel-large\
-Current work with evaluating REBEL done on the results from the spacy pipeline usage (we created the script re/rebel/faa_pipe.py to implement this, and faa_rebel.py to implement the method using transformers)
+May either implement REBEL using transformers or in a Huggingface pipeline, as described here: https://huggingface.co/Babelscape/rebel-large\
+Current work with evaluating REBEL done on the results from the Huggingface pipeline usage (we created the script re/rebel/rebel_pipe.py to implement this, and rebel_main.py to implement the method using transformers)
 
-**Output:** List of extracted triplets {"head":head entity, "relation": relation, "tail": tail entity} for each record put into the spacy nlp pipeline. faa_pipe.py and faa_rebel.py save results in a csv in data/results.
+**Output:** List of extracted triplets {"head":head entity, "relation": relation, "tail": tail entity} for each record put into the Huggingface nlp pipeline. rebel_pipe.py and rebel_main.py save results in a csv in data/results.
 
 ---
 
