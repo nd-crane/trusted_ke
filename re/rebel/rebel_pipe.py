@@ -3,6 +3,7 @@ import pandas as pd
 import sys
 from tqdm import tqdm
 import argparse
+import torch
 import os
 
 # Function to parse the generated text and extract the triplets
@@ -40,7 +41,11 @@ def extract_triplets(text):
 def main(dataset_path, id_col, text_col):
 
     # Load rebel-large model via Huggingface pipeline
-    triplet_extractor = pipeline('text2text-generation', model='Babelscape/rebel-large', tokenizer='Babelscape/rebel-large')
+    if torch.cuda.is_available():
+        device = 0
+    else:
+        device = -1
+    triplet_extractor = pipeline('text2text-generation', model='Babelscape/rebel-large', tokenizer='Babelscape/rebel-large', device=device)
 
     # Load dataset
     dataset = pd.read_csv(dataset_path)
