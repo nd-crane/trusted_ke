@@ -16,7 +16,23 @@ Setup:
 
 6. pip install -r requirements.txt
 
-7. Run python scripts to obtain results. The script code was taken from the [documentation on Huggingface](https://huggingface.co/Babelscape/rebel-large) The pipe script uses Rebel as a component in a spacy pipeline, and takes longer
+7. Run python scripts to obtain results. The script code was taken from the [documentation on Huggingface](https://huggingface.co/Babelscape/rebel-large) The pipe script uses Rebel as a component in a Huggingface pipeline, and takes longer
+
+Example:
+
+python rebel_pipe.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../data/results/rebel/rebel_pipe.csv
+
+python rebel_main.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../data/results/rebel/rebel_main.csv
+
+You may also specify hyperparameters in the rebel_main.py script:\
+python rebel_main.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../data/results/rebel/rebel_main.csv --max_length 128 --length_penalty -1 --num_beams 5 --num_return_sentences 3
+
+The defaults for these hyperparameters is as follows:
+* max_length 256
+* length_penalty 0
+* num_beams 1
+* num_return_sentences 1
+
 
 ----------------------------
 
