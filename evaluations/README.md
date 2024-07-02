@@ -4,13 +4,13 @@
 We evaluate the correctness of the tools in two ways: **automatic** and **manual**.
 
 ## Automatic Evaluation (AE)
-The automatic evaluation is done by comparing the tool's output with the gold standard data, regarding Named Entity Recognition (NER) and Named Entity Linking (NEL) tasks, .
+The automatic evaluation is done by comparing the tool's output with the gold standard data, regarding Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL) tasks.
 Evaluations. 
 
 Evaluations are saved in the [automatic_evaluations folder](../data/automatic_evaluations/).
 
 ## Manual Evaluation (ME)
-The manual evaluation is done by a domain expert who will evaluate the tool's output and the gold standard dat, regarding Coreference Resolution (CR) and Relation Extraction (RE) tasks. 
+The manual evaluation is done by a domain expert who will evaluate the tool's output and the gold standard data, regarding Relation Extraction (RE) tasks. 
 
 Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluations/).
 
