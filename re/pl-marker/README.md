@@ -171,6 +171,17 @@ CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type bertsub  \
     --use_ner_results \
     --output_dir ace05re_models/ace05re-bert-faa
 
+CUDA_VISIBLE_DEVICES=0  python3  run_re.py  --model_type albertsub  \
+    --model_name_or_path  ../bert_models/albert-xxlarge-v1  --do_lower_case  \
+    --data_dir ace05  \
+    --learning_rate 2e-5  --num_train_epochs 10  --per_gpu_train_batch_size  8  --per_gpu_eval_batch_size 16  --gradient_accumulation_steps 1  \
+    --max_seq_length 256  --max_pair_length 16  --save_steps 2500  \
+    --do_eval  --evaluate_during_training   --eval_all_checkpoints  --eval_logsoftmax  \
+    --fp16   \
+    --test_file ace05ner_models/ace05ner-albert-faa/ent_pred_test.json  \
+    --use_ner_results \
+    --output_dir ace05re_models/ace05re-albert-faa
+
 10. Run code in pred_results_parse.ipynb to put final triple predictions into a csv in data/results
 
 
