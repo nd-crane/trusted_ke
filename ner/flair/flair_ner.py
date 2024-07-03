@@ -8,7 +8,7 @@ import os
 def main(dataset_path, id_col, text_col):
     dataset = pd.read_csv(dataset_path)
     
-    out_dict = {f'{id_col}_id':[], f'{text_col}_input':[], 'entities':[], 'labels':[]}
+    out_dict = {f'{id_col}_id':[], f'{text_col}_input':[], 'entities':[], 'labels_raw':[], 'labels':[],'confidence':[]}
     
     tagger = Classifier.load('ner')
     
@@ -26,7 +26,9 @@ def main(dataset_path, id_col, text_col):
             out_dict[f'{id_col}_id'].append(dataset['c5'][index])
             out_dict[f'{text_col}_input'].append(dataset['c119'][index])
             out_dict['entities'].append(ent['text'])
-            out_dict['labels'].append(ent['labels'])
+            out_dict['labels_raw'].append(ent['labels'])
+            out_dict['labels'].append(ent['labels'][0]['value'])
+            out_dict['confidence'].append(ent['labels'][0]['confidence'])
     
     return out_dict
 
@@ -38,7 +40,7 @@ if __name__=='__main__':
         '-d', '--dataset_path',
         type=str,
         required=False,
-        default="../../data/sampling/FAA_sample_100.csv",
+        default="../../data/FAA_data/Maintenance_Text_data_nona.csv",
         help='path/to/input/dataset.csv'
     )
     parser.add_argument(

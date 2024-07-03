@@ -15,13 +15,15 @@ The manual evaluation is done by a domain expert who will evaluate the tool's ou
 Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluations/).
 
 
-## Evaluations 
-| Coreference Resolution         | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
-|-------------------------------|---------------------------------|---------------------------|
-| [ ] ASP                       | [ ] BLINK                       | [x] REBEL (ME)            |
-| [ ] coref_mt5                 | [x] spaCy EntityLinker (AE)     | [ ] UniRel                |
-| [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
-| [ ] neuralcoref               | [ ] ReFinED                     | [ ] PL-Marker             |
+| Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
+|-------------------------------|-------------------------------|---------------------------------|---------------------------|
+| [x] spaCy EntityRecognizer    | [ ] ASP                       | [ ] BLINK                       | [x] REBEL                 |
+| [x] flair NER                 | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
+| [x] stanza NERProcessor       | [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
+| [x] nltk ne_chunk             | [ ] neuralcoref               | [ ] ReFinED                     | [ ] PL-Marker (SciERC)    |
+| [ ] PL-Marker (SciERC) NER    |                               |                                 | [ ] PL-Marker (ACE05 bert) |
+| [ ] PL-Marker (ACE05 bert) NER |                              |                                 | [ ] PL-Marker (ACE05 albert-xxl) |
+| [ ] PL-Marker (ACE05 albert-xxl) NER |                        |                                 |                           |
 
 
  x Evaluated 
