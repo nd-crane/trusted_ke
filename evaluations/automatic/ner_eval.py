@@ -30,7 +30,7 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, strict):
     
     # Check for True Positives and False Negatives by iterating over gs
     for index, gs_row in gs.iterrows():
-        gs_id, gs_entity = gs_row['id'], gs_row[ent_col]
+        gs_id, gs_entity = gs_row['id'], gs_row['entities']
         tool_entities = [entity.upper() for entity in df_tool.loc[df_tool[id_col] == gs_id, ent_col].tolist()] # get all the entities the tool generated for the gs_id entry
 
         # In strict matching, we only count a tool-generated entity as correct if it exactly matches the gold standard entity
@@ -49,7 +49,7 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, strict):
     # Check for False Positives by iterating over df_tool
     for index, tool_row in df_tool.iterrows():
         tool_id, tool_entity = tool_row[id_col], tool_row[ent_col]
-        gs_entities = gs.loc[gs['id'] == tool_id, ent_col].tolist()
+        gs_entities = gs.loc[gs['id'] == tool_id, 'entities'].tolist()
 
         #  Strict matching
         if strict:

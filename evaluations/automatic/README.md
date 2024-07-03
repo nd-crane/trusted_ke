@@ -2,6 +2,7 @@
 
 ### NER
 
+<<<<<<< HEAD
 |                                  | Precision | Recall  | F1      | Precision Strict | Recall Strict | F1 Strict |
 |----------------------------------|-----------|---------|---------|------------------|---------------|-----------|
 | nltk ne_chunk (uppercased) *     | 0.51893   | 0.46047 | 0.48796 | 0.31659          | 0.28656       | 0.30082   |
@@ -13,5 +14,21 @@
 | PL-Marker (ACE05 albert-xxl) NER | 0.03577   | 0.17194 | 0.05922 | 0.03139          | 0.15020       | 0.05193   |
 | spaCy (en_core_web_lg)           | 0.03099   | 0.24506 | 0.05503 | 0.01430          | 0.11265       | 0.02537   |
 | nltk ne_chunk (lowercased)       | 0         | 0.0     | 0       | 0                | 0.0           | 0         |
+=======
+|                                         | Precision | Recall  | F1      | Precision Strict | Recall Strict | F1 Strict |
+|-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
+| nltk ne_chunk (uppercased) *            | 0.51893   | 0.46047 | 0.48796 | 0.31659          | 0.28656       | 0.30082   |
+| spaCy EntityRecognizer (en_core_web_sm) | 0.74638   | 0.20356 | 0.31988 | 0.28571          | 0.06719       | 0.10880   |
+| stanza                                  | 0.84091   | 0.07312 | 0.13455 | 0.36111          | 0.02569       | 0.04797   |
+| PL-Marker (ACE05 bert) NER              | 0.03886   | 0.33399 | 0.06962 | 0.03286          | 0.28063       | 0.05882   |
+| PL-Marker (SciERC) NER                  | 0.03846   | 0.13241 | 0.05961 | 0.01471          | 0.04941       | 0.02267   |
+| flair                                   | 0.04745   | 0.07905 | 0.05930 | 0.03325          | 0.05534       | 0.04154   |
+| PL-Marker (ACE05 albert-xxl) NER        | 0.03577   | 0.17194 | 0.05922 | 0.03139          | 0.15020       | 0.05193   |
+| spaCy EntityRecognizer (en_core_web_lg) | 0.03099   | 0.24506 | 0.05503 | 0.01430          | 0.11265       | 0.02537   |
+| BLINK (crossencoder)                    | 0.03403   | 0.07708 | 0.04722 | 0.01773          | 0.03953       | 0.02448   |
+| BLINK (biencoder)                       | 0.02890   | 0.06522 | 0.04005 | 0.01597          | 0.03557       | 0.02205   |
+| spaCy EntityLinker (en_core_web_lg)     | 0.01602   | 0.54150 | 0.03111 | 0.01051          | 0.35375       | 0.02041   |
+| nltk ne_chunk (lowercased)              | 0         | 0.0     | 0       | 0                | 0.0           | 0         |
+>>>>>>> 216d8551 (added NER eval for Blink and SEL, fixed bug in ner_eval.py)
 
 \* note that the difference between nltk's output when given upper vs lowercased input is cause to doubt its overall effectiveness
