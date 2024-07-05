@@ -30,7 +30,13 @@ Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluati
 
 ## Methodology for Comparing Tool Outputs with the Gold Standard
 
-### Correctness evaluation for coreference resolution
+### Correctness evaluation for NER
+
+We provide two F1 metrics for NER evaluation: a strict and a non-strict. The strict evaluation counts a predicted entity as correct only if it exactly matches a gold standard entity. In the non-strict evaluation, a predicted entity is counted correct if it contains any substring of the gold standard entity, or if the gold standard entity contains any substring of the predicted entity.
+
+We do not evaluate correctness of entity labels.
+
+### Correctness evaluation for CR
 
 We report 4 metrics for CR evaluation, because they each capture a different aspect of a tool's performance:
 * MUC (Vilain et al., 1995)
@@ -40,6 +46,9 @@ We report 4 metrics for CR evaluation, because they each capture a different asp
 We also follow CoNLL-2012 in reporting the unweighted average of MUC, B-CUBED, and CEAF
 
 ### Correctness evaluation for NEL
+
+Our NEL evaluation approach is the following.
+
 For each named entity in the NEL gold standard, compare the tool's linking decision against it.\
 If the linking decision is correct, then the tool's QId is the same as the gold standard QId.\
 This comparison will allow us to calculate the metrics such as precision, recall, and F1 score.
@@ -122,9 +131,3 @@ We need to define a process to make that comparison. We can use the following st
 3. Compare the relations from the tool's output against the gold standard relations.
    1. That comparisson can't be done directly because the tool's output and the gold standard data are in different formats. We need to find a way to make that comparisson.
 4. Calculate the metrics such as precision, recall, and F1 score.
-
-### Correctness evaluation for CR
-[TODO]
-
-### Correctness evaluation for NER
-[TODO]
