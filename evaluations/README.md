@@ -36,6 +36,8 @@ We provide two F1 metrics for NER evaluation: a strict and a non-strict. The str
 
 We do not evaluate correctness of entity labels.
 
+*Note:* Some tools, like PL-Marker, run an NER subtask as well as their primary function. We provide an NER evaluation for those tools as well, and they are listed with the label "NER" in the automatic README. On top of that, we also do an NER evaluation of each NEL tool, using the entities found for entity linking. This is not intended as a primary metric for NEL evaluation. 
+
 ### Correctness evaluation for CR
 
 We report 4 metrics for CR evaluation, because they each capture a different aspect of a tool's performance:
