@@ -17,13 +17,13 @@ Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluati
 
 | Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
-| [x] spaCy EntityRecognizer    | [ ] ASP                       | [ ] BLINK                       | [x] REBEL                 |
+| [x] spaCy EntityRecognizer    | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
 | [x] flair NER                 | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
-| [x] stanza NERProcessor       | [ ] s2e-coref                 | [ ] GENRE                       | [ ] DeepStruct            |
-| [x] nltk ne_chunk             | [ ] neuralcoref               | [ ] ReFinED                     | [ ] PL-Marker (SciERC)    |
-| [ ] PL-Marker (SciERC) NER    |                               |                                 | [ ] PL-Marker (ACE05 bert) |
-| [ ] PL-Marker (ACE05 bert) NER |                              |                                 | [ ] PL-Marker (ACE05 albert-xxl) |
-| [ ] PL-Marker (ACE05 albert-xxl) NER |                        |                                 |                           |
+| [x] stanza NERProcessor       | [x] s2e-coref                 | [x] GENRE                       | [ ] DeepStruct            |
+| [x] nltk ne_chunk             | [x] neuralcoref               | [x] ReFinED                     | [ ] PL-Marker (SciERC)    |
+| [x] PL-Marker (SciERC) NER    |                               |                                 | [ ] PL-Marker (ACE05 bert) |
+| [x] PL-Marker (ACE05 bert) NER |                              |                                 | [ ] PL-Marker (ACE05 albert-xxl) |
+| [x] PL-Marker (ACE05 albert-xxl) NER |                        |                                 |                           |
 
 
  x Evaluated 
@@ -32,7 +32,12 @@ Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluati
 
 ### Correctness evaluation for coreference resolution
 
-We follow the CoNLL-2012 Shared Task in only counting a coreferenced phrase as correct if it exactly matches the phrase in the gold standard.
+We report 4 metrics for CR evaluation, because they each capture a different aspect of a tool's performance:
+* MUC (Vilain et al., 1995)
+* B-CUBED (Bagga and Baldwin, 1998)
+* CEAF (Luo, 2005)
+* LEA (Moosavi and Strube, 2016)
+We also follow CoNLL-2012 in reporting the unweighted average of MUC, B-CUBED, and CEAF
 
 ### Correctness evaluation for NEL
 For each named entity in the NEL gold standard, compare the tool's linking decision against it.\
