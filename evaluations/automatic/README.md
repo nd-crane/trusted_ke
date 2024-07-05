@@ -18,3 +18,11 @@
 | nltk ne_chunk (lowercased)              | 0         | 0.0     | 0       | 0                | 0.0           | 0         |
 
 \* note that the difference between nltk's output when given upper vs lowercased input is cause to doubt its overall effectiveness
+
+### CR
+
+Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is an average of the F1 scores from MUC, B-CUBED (here represented as B3 for brevity), and CEAF.
+
+|           | MUC Prec | MUC Rec | MUC F1 | B3 Prec | B3 Rec | B3 F1 | CEAF Prec | CEAF Rec | CEAF F1 | Con12 F1 | LEA Prec | LEA Rec | LEA F1 |
+|-----------|----------|---------|--------|---------|--------|-------|-----------|----------|---------|----------|----------|---------|--------|
+| s2e-coref | 0.875    | 0.73684 |0.80000 | 0.87097 |0.72973 |0.79412| 0.86667   | 0.72222  | 0.78788 | 0.79400  | 0.87097  | 0.72973 | 0.79412|
