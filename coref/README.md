@@ -2,12 +2,12 @@
 
 ### ASP:
 
-**Input:** CoNLL-12 formatted data. See process for putting the FAA data into CoNLL-12 format in coref/asp/format_conll.py\
-The CoNLL-12 formatted data is then processed into jsonlines by ASP/data/t5minimize_coref.py (ASP submodule in coref/asp). See coref/asp/faa_conll for both CoNLL-12 formatted data and jsonlines data.\
+**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../data/conll_12_format_processing), and the final faa.conll file [here](../data/FAA_data/faa.conll)\
+The CoNLL-12 formatted data is then processed into jsonlines by a script provided in the ASP remote repo, ASP/data/t5minimize_coref.py. The result of this script is available at [asp/minimized_data](asp/minimized_data).
 
-ASP sees entries like this: \
+Sample of minimized jsonl data: \
 ['▁core', 'ference', '▁resolution', ':', '<speaker>', '▁', '-', '</speaker>', '▁to', 'w', '▁plane', '▁became', '▁air', 'borne', '▁then', '▁settled', '▁', '\\', '.', '▁student', '▁thought', '▁to', 'w', '▁in', '▁trouble', '▁', '&', '▁released', '▁', '\\', '.', '▁hit', '▁tree', '▁', '\\', '.', '</s>']\
-Each record in the FAA data, which is treated as its own doc in the CoNLL-12 format, is seen separate from the other records. However, sentences are not divided up. The '\\' character denotes a break between sentences.\
+Each record in the FAA data, which is treated as its own doc in the CoNLL-12 format, is seen separate from the other records. The '\\' character denotes a break between sentences.\
 
 **Output:** evaluate_coref.py prints log statements, which are saved in coref/asp/faa_nohup.out. These logs include 3 print statements for each entry, coref/asp/analyze_output.ipynb scans the output for predicted coreferences. Since currently ASP is finding no coreferences, there is no code to save them in data/results\
 
@@ -30,8 +30,8 @@ Note that the number attached to each coreference in the resolved sentence corre
 
 ### s2e-coref:
 
-**Input:** CoNLL-12 formatted data. See coref/s2e-coref/format_conll.py to see how it is transformed to CoNLL-12 format. This is currently different from the format_conll.py in ASP, but may get moved later to consolidate.\
-Like ASP, s2e-coref also has a minimize.py script which transforms the CoNLL-12 formatted data to jsonlines. See coref/s2e-coref/data for both formats of data. 
+**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../data/conll_12_format_processing), and the final faa.conll file [here](../data/FAA_data/faa.conll)\
+Like ASP, s2e-coref also has a minimize.py script which transforms the CoNLL-12 formatted data to jsonlines. See [s2e-coref/data](s2e-coref/data) for both formats of data. 
 
 s2e-coref sees each record separately and may create coreferences across multiple sentences in a record.
 
