@@ -36,7 +36,7 @@ For the remaining columns, we use:
 * POS-tagging is done with NLTK
 * The parse bit is derived from a parse tree. We follow the developers of CoNLL-2012 in using a Charniak parser, specifically the RerankingParser from BLLIP.
 * The speaker is always "speaker1"
-* The CoNLL-2012 developers used the Identifinder\textsuperscript{TM} tool from BBN for NER; however, we used spaCy since it was much easier to implement and more up-to-date
+* The CoNLL-2012 developers used the Identifinder<sup>TM</sup> tool from BBN for NER; however, we used spaCy since it was much easier to implement and more up-to-date
 * The coreference column we leave empty (as hyphens) since we are only interested in what coreferences the tested tools can generate without outside influence.
 
 
