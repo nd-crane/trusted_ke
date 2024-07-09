@@ -7,3 +7,6 @@
 [submodule "coref/s2e-coref/s2e-coref"]
 	path = coref/s2e-coref/s2e-coref
 	url = git@github.com:yuvalkirstain/s2e-coref.git
+[submodule "coref/coref_mt5/coref_mt5"]
+	path = coref/coref_mt5/coref_mt5
+	url = git@github.com:psaboia/coref_mt5.git
