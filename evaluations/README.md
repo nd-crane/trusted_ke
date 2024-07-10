@@ -146,6 +146,10 @@ Syntactic accuracy is the degree to which the output of the tool follows the gra
 *Semantic Accuracy*\
 Semantic accuracy is the degree to which the output of the tool adheres to the real world. A triple is either completely semantically accurate (1) or semantically inaccurate (0). We follow the guidelines below:
 * The evaluator is encouraged to use their domain expertise as well as all outside knowledge available.
+* If a head or tail entity is an incomplete phrase or includes extraneous words, but a subspan of that entity can be used to create a sensible triple, that triple may be semantically correct. For example, in the sentence, "ENGINE RAN ROUGH. PILOT LANDED IN FIELD", if the triple ("ENGINE","used by","PILOT LANDED"), that would be semantically accurate since ("ENGINE","used by","PILOT") is semantically accurate. It receives a penalty for the incorrect tail entity span in the syntactic accuracy evaluation, which would be 50%.
+
+*Consistency*\
+
 * If a head or tail entity is an incomplete phrase, or includes extraneous words, the triple will still be counted as semantically accurate if using subspans of those entities enables a sensible triple. For example, in the record, "ENGINE RAN ROUGH. PILOT LANDED IN FIELD," if the triple were ("engine", "used by", "pilot landed") were given, it would be counted as semantically accurate and syntactically 50% accurate.
 
 *Consistency*\
