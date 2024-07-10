@@ -18,7 +18,7 @@ Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluati
 | Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
 | [x] spaCy EntityRecognizer    | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
-| [x] flair NER                 | [ ] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
+| [x] flair NER                 | [x] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
 | [x] stanza NERProcessor       | [x] s2e-coref                 | [x] GENRE                       | [ ] DeepStruct            |
 | [x] nltk ne_chunk             | [x] neuralcoref               | [x] ReFinED                     | [ ] PL-Marker (SciERC)    |
 | [x] PL-Marker (SciERC) NER    |                               |                                 | [ ] PL-Marker (ACE05 bert) |
@@ -133,3 +133,20 @@ We need to define a process to make that comparison. We can use the following st
 3. Compare the relations from the tool's output against the gold standard relations.
    1. That comparisson can't be done directly because the tool's output and the gold standard data are in different formats. We need to find a way to make that comparisson.
 4. Calculate the metrics such as precision, recall, and F1 score.
+
+### Accuracy evaluation for RE
+
+Since we do not have a gold standard for RE, we cannot report an F1 score. Instead, we report 4 metrics for RE, which we evaluate manually: syntactic accuracy, semantic accuracy, consistency, and number of hallucinations. These are described below:
+
+*Syntactic Accuracy*\
+Syntactic accuracy is the degree to which the output of the tool follows the grammatical rules in our model. A triple is either completely syntactically accurate (1), half syntactically accurate (0.5), or syntactically inaccurate (0), depending on whether both, one of, or neither of the head and tail entities are correct, respectively. The grammatical rules are as follows:
+* Head and tail entities must consist of complete noun phrases without extraneous words. "Complete noun phrase" signifies a word or phrase which can be treated as a noun; even if a word or phrase is used as a modifier in a sentence (and is thus not a complete noun phrase in that particular sentence), it may still be counted as a complete phrase if it can function as a noun or noun phrase in another context. For example, in the sentence "WING FUEL TANK SUMPS WERE NOT DRAINED DURING PREFLIGHT", ("sumps","part of","wing fuel tank") and ("fuel tank sumps", "part of", "wing") would both be syntactically accurate.
+* Head and tail entities must be the entity type expected by the relation. For example, the relation "place of birth" must have a location as the head and a person as the tail. These expected entity types are not well-defined here, but are judged by the world-knowledge of the evaluator.
+
+*Semantic Accuracy*\
+Semantic accuracy is the degree to which the output of the tool adheres to the real world. A triple is either completely semantically accurate (1) or semantically inaccurate (0). We follow the guidelines below:
+* The evaluator is encouraged to use their domain expertise as well as all outside knowledge available.
+* If a head or tail entity is an incomplete phrase, or includes extraneous words, the triple will still be counted as semantically accurate if using subspans of those entities enables a sensible triple. For example, in the record, "ENGINE RAN ROUGH. PILOT LANDED IN FIELD," if the triple were ("engine", "used by", "pilot landed") were given, it would be counted as semantically accurate and syntactically 50% accurate.
+
+*Consistency*\
+For all 
