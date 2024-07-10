@@ -140,17 +140,21 @@ Since we do not have a gold standard for RE, we cannot report an F1 score. Inste
 
 *Syntactic Accuracy*\
 Syntactic accuracy is the degree to which the output of the tool follows the grammatical rules in our model. A triple is either completely syntactically accurate (1), half syntactically accurate (0.5), or syntactically inaccurate (0), depending on whether both, one of, or neither of the head and tail entities are correct, respectively. The grammatical rules are as follows:
-* Head and tail entities must consist of complete noun phrases without extraneous words. "Complete noun phrase" signifies a word or phrase which can be treated as a noun; even if a word or phrase is used as a modifier in a sentence (and is thus not a complete noun phrase in that particular sentence), it may still be counted as a complete phrase if it can function as a noun or noun phrase in another context. For example, in the sentence "WING FUEL TANK SUMPS WERE NOT DRAINED DURING PREFLIGHT", ("sumps","part of","wing fuel tank") and ("fuel tank sumps", "part of", "wing") would both be syntactically accurate.
+* Head and tail entities must consist of complete phrases without extraneous words. "Complete phrase" signifies a word or phrase which can be treated as a noun or a verb; even if a word or phrase is used as a modifier in a sentence (and is thus not a complete phrase in that particular sentence), it may still be counted as a complete phrase if it can function as a noun, verb, noun phrase, or verb phrase in another context. For example, in the sentence "WING FUEL TANK SUMPS WERE NOT DRAINED DURING PREFLIGHT", ("sumps","part of","wing fuel tank") and ("fuel tank sumps", "part of", "wing") would both be syntactically accurate.
 * Head and tail entities must be the entity type expected by the relation. For example, the relation "place of birth" must have a location as the head and a person as the tail. These expected entity types are not well-defined here, but are judged by the world-knowledge of the evaluator.
+* Verbs and verb phrases may only be used as entities if the relation can accept an event-type entity. Verb phrases also do not need to have a subject. For example: ("IMPROPER PREFLIGHT", "has effect", "CRASHED") is syntactically accurate.
 
 *Semantic Accuracy*\
 Semantic accuracy is the degree to which the output of the tool adheres to the real world. A triple is either completely semantically accurate (1) or semantically inaccurate (0). We follow the guidelines below:
 * The evaluator is encouraged to use their domain expertise as well as all outside knowledge available.
-* If a head or tail entity is an incomplete phrase or includes extraneous words, but a subspan of that entity can be used to create a sensible triple, that triple may be semantically correct. For example, in the sentence, "ENGINE RAN ROUGH. PILOT LANDED IN FIELD", if the triple ("ENGINE","used by","PILOT LANDED"), that would be semantically accurate since ("ENGINE","used by","PILOT") is semantically accurate. It receives a penalty for the incorrect tail entity span in the syntactic accuracy evaluation, which would be 50%.
-
-*Consistency*\
-
 * If a head or tail entity is an incomplete phrase, or includes extraneous words, the triple will still be counted as semantically accurate if using subspans of those entities enables a sensible triple. For example, in the record, "ENGINE RAN ROUGH. PILOT LANDED IN FIELD," if the triple were ("engine", "used by", "pilot landed") were given, it would be counted as semantically accurate and syntactically 50% accurate.
 
 *Consistency*\
-For all 
+Consistency is the degree to which the set of output triples for each record/document are free of contridictions. Percent consistency is calculated via the expression: (Num_Triples - Num_Inconsistencies)/(Num_Triples), where Num_Inconsistencies is the number of triples such that if they were removed from the set of output triples, the remaining set would be consistent. For example, if there are 3 triples generated for a document, and 2 of them contradict each other, there is 1 inconsistency, since if one of the contradicting triples were removed, the remaining 2 would be consistent. In this case, it would receive a consistency score of 0.6667.
+* An example of contradicting triples would be ("Brookline, MA","place of birth","John F. Kennedy") and ("John F. Kennedy","has place of birth","Boston, MA")
+* Most relations do not necessitate a one-to-one relation, however. In the record, "CRASHED WHEN LOAD WEDGED IN TREES. IMPROPER PREFLIGHT," if the triples ("IMPROPER PREFLIGHT", "has effect", "CRASHED") and ("CRASHED","has cause","LOAD WEDGED") were generated, this would still be consistent, since an event may have multiple causes.
+
+*Number of Hallucinations*\
+Some tools do not constrain their output such that entities must be mentions which appear in the input text. This leads to occurances of hallucinated entities, such as in the case of "ACFT DISPATCHER HARRASSMENT OF PILOT. PILOT FORGOT TO REMOVE TIEDROPE." and ("TRAIL","different from","PILOT"). Since TRAIL does not occur in the document, it is counted as a hallucination. We report the number of hallucinated entities in the output data.
+
+**Note that the syntactic and semantic accuracy metrics are an unweighted average of the scores of all triples generated, while consistency is an average of the scores for each document which has any generated triples. Number of hallucinations is a simple count for all output.**
