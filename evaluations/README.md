@@ -136,7 +136,7 @@ We need to define a process to make that comparison. We can use the following st
 
 ### Accuracy evaluation for RE
 
-Since we do not have a gold standard for RE, we cannot report an F1 score. Instead, we report 4 metrics for RE, which we evaluate manually: syntactic accuracy, semantic accuracy, consistency, and number of hallucinations. These are described below:
+Since we do not have a gold standard for RE, we cannot report an F1 score. Instead, we report 3 metrics for RE, which we evaluate manually: syntactic accuracy, semantic accuracy, and consistency. We also report the number of hallucinations found in the set of sampled evaluation data. Lastly, we report the total number of triples generated, and the percent of documents with any triples generated, for the entire FAA dataset. These are described below:
 
 *Syntactic Accuracy*\
 Syntactic accuracy is the degree to which the output of the tool follows the grammatical rules in our set of guidelines. A triple is either completely syntactically accurate (1), half syntactically accurate (0.5), or syntactically inaccurate (0), depending on whether both, one of, or neither of the head and tail entities are correct, respectively. The grammatical rules are as follows:
@@ -163,3 +163,6 @@ Consistency is the degree to which the set of output triples for each record/doc
 Some tools do not constrain their output such that entities must be mentions which appear in the input text. This leads to occurances of hallucinated entities, such as in the case of "ACFT DISPATCHER HARRASSMENT OF PILOT. PILOT FORGOT TO REMOVE TIEDROPE." and ("TRAIL","different from","PILOT"). Since TRAIL does not occur in the document, it is counted as a hallucination. We report the number of hallucinated entities in the output data.
 
 **Note that the syntactic and semantic accuracy metrics are an unweighted average of the scores of all triples generated, while consistency is an average of the scores for each document which has any generated triples. Number of hallucinations is a simple count for all output.**
+
+*Triples Counts*\
+Lastly, we report two figures based on the output for the entire FAA dataset: the total number of triples found, as well as the percent of documents/records which have some predicted triples. This is done automatically via the count_triples.py script, but is placed in the manual folder to keep it with the other RE eval files.
