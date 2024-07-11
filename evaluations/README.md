@@ -165,4 +165,4 @@ Some tools do not constrain their output such that entities must be mentions whi
 **Note that the syntactic and semantic accuracy metrics are an unweighted average of the scores of all triples generated, while consistency is an average of the scores for each document which has any generated triples. Number of hallucinations is a simple count for all output.**
 
 *Triples Counts*\
-Lastly, we report two figures based on the output for the entire FAA dataset: the total number of triples found, as well as the percent of documents/records which have some predicted triples. This is done automatically via the count_triples.py script, but is placed in the manual folder to keep it with the other RE eval files.
+Lastly, we report two figures based on the output for the entire FAA dataset: the total number of triples found, as well as the percent of documents/records which have some predicted triples. This is done in the second sheet in each evaluation excel sheet.
