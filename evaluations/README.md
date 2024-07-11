@@ -17,7 +17,7 @@ Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluati
 
 | Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
-| [x] spaCy EntityRecognizer    | [ ] ASP                       | [x] BLINK                       | [x] REBEL                 |
+| [x] spaCy EntityRecognizer    | [x] ASP                       | [x] BLINK                       | [x] REBEL                 |
 | [x] flair NER                 | [x] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
 | [x] stanza NERProcessor       | [x] s2e-coref                 | [x] GENRE                       | [ ] DeepStruct            |
 | [x] nltk ne_chunk             | [x] neuralcoref               | [x] ReFinED                     | [ ] PL-Marker (SciERC)    |
