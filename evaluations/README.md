@@ -10,7 +10,7 @@ Evaluations.
 Automatic Evaluations may be easily recreated with the scripts available in the [automatic evaluations folder](automatic), and are transcribed in [automatic/README.md](automatic/README.md)
 
 ## Manual Evaluation (ME)
-The manual evaluation is done by a domain expert who will evaluate the tool's output and the gold standard data, regarding Relation Extraction (RE) tasks. 
+The manual evaluation is done by a domain expert who evaluates the tool's output, regarding Relation Extraction (RE) tasks. 
 
 Manual evaluations are saved in the [manual_evaluations folder](manual), and are summarized in [manual/README.md](manual/README.md).
 
@@ -126,7 +126,7 @@ If the NEL tool returns ANNUAL and its QID, or ENGINE and its QID, or any other 
 
 Note that CART is given the primary QID corresponding to "baggage cart", and the secondary QID corresponding to "cart." If only the QID for "cart" were listed, we would be penalizing an NEL tool which infered from context that the cart was a baggage cart.
 
-### Accuracy evaluation for RE
+## Methodology for RE Manual Evalution
 
 Since we do not have a gold standard for RE, we cannot report an F1 score. Instead, we report 3 metrics for RE, which we evaluate manually: syntactic accuracy, semantic accuracy, and consistency. We also report the number of hallucinations found in the set of sampled evaluation data. Lastly, we report the total number of triples generated, and the percent of documents with any triples generated, for the entire FAA dataset. These are described below:
 
