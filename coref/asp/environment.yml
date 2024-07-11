@@ -1,0 +1,13 @@
+name: asp
+channels:
+  - pytorch
+  - huggingface
+  - defaults
+  - nvidia
+dependencies:
+  - pip
+  - scipy
+  - pip:
+    - truecase
+    - pyhocon
+    - sentencepiece
