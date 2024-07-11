@@ -151,7 +151,7 @@ Consistency is the degree to which the set of output triples for each record/doc
 * An example of contradicting triples would be ("Brookline, MA","place of birth","John F. Kennedy") and ("John F. Kennedy","has place of birth","Boston, MA")
 * Most relations do not necessitate a one-to-one relation, however. In the record, "CRASHED WHEN LOAD WEDGED IN TREES. IMPROPER PREFLIGHT," if the triples ("IMPROPER PREFLIGHT", "has effect", "CRASHED") and ("CRASHED","has cause","LOAD WEDGED") were generated, this would still be consistent, since an event may have multiple causes.
 
-**Note that for Syntactic Accuracy, Semantic Accuracy, and Consistency, the proper number of significant figures to report would be 1. However, this does not give us much information, so we report up to 3**
+**Note that for syntactic accuracy, semantic accuracy, and consistency, the proper number of significant figures to report would be 1. However, this does not give us much information, so we report up to 3**
 
 *Number of Hallucinations*\
 Some tools do not constrain their output such that entities must be mentions which appear in the input text. This leads to occurances of hallucinated entities, such as in the case of "ACFT DISPATCHER HARRASSMENT OF PILOT. PILOT FORGOT TO REMOVE TIEDROPE." and ("TRAIL","different from","PILOT"). Since TRAIL does not occur in the document, it is counted as a hallucination. We report the number of hallucinated entities in the output data.
