@@ -224,6 +224,8 @@ DEEPSTRUCT's methodology for relation extraction involves a sequence-to-sequence
 
 Base Model: GLM
 
+[TO-DO: This list of relations may be incorrect, since ACE-O5 is specifically pl-marker's adaptation of ACE0-05 relations]
+
 | Dataset | Relation Set |
 |----------|----------|
 | CoNLL 04 | ['Work-For', 'Kill', 'Organization-Based-In', 'Live-In', 'Located-In'] |
