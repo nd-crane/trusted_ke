@@ -5,24 +5,24 @@ We evaluate the correctness of the tools in two ways: **automatic** and **manual
 
 ## Automatic Evaluation (AE)
 The automatic evaluation is done by comparing the tool's output with the gold standard data, regarding Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL) tasks.
-Evaluations. 
+Evaluations.
 
-Evaluations are saved in the [automatic_evaluations folder](../data/automatic_evaluations/).
+Automatic Evaluations may be easily recreated with the scripts available in the [automatic evaluations folder](automatic), and are transcribed in [automatic/README.md](automatic/README.md)
 
 ## Manual Evaluation (ME)
 The manual evaluation is done by a domain expert who will evaluate the tool's output and the gold standard data, regarding Relation Extraction (RE) tasks. 
 
-Evaluations are saved in the [manual_evaluations folder](../data/manual_evaluations/).
+Manual evaluations are saved in the [manual_evaluations folder](manual), and are summarized in [manual/README.md](manual/README.md).
 
 
 | Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
 |-------------------------------|-------------------------------|---------------------------------|---------------------------|
 | [x] spaCy EntityRecognizer    | [x] ASP                       | [x] BLINK                       | [x] REBEL                 |
-| [x] flair NER                 | [x] coref_mt5                 | [x] spaCy EntityLinker          | [ ] UniRel                |
+| [x] flair NER                 | [x] coref_mt5                 | [x] spaCy EntityLinker          | [x] UniRel                |
 | [x] stanza NERProcessor       | [x] s2e-coref                 | [x] GENRE                       | [ ] DeepStruct            |
-| [x] nltk ne_chunk             | [x] neuralcoref               | [x] ReFinED                     | [ ] PL-Marker (SciERC)    |
-| [x] PL-Marker (SciERC) NER    |                               |                                 | [ ] PL-Marker (ACE05 bert) |
-| [x] PL-Marker (ACE05 bert) NER |                              |                                 | [ ] PL-Marker (ACE05 albert-xxl) |
+| [x] nltk ne_chunk             | [x] neuralcoref               | [x] ReFinED                     | [x] PL-Marker (SciERC)    |
+| [x] PL-Marker (SciERC) NER    |                               |                                 | [x] PL-Marker (ACE05 bert) |
+| [x] PL-Marker (ACE05 bert) NER |                              |                                 | [x] PL-Marker (ACE05 albert-xxl) |
 | [x] PL-Marker (ACE05 albert-xxl) NER |                        |                                 |                           |
 
 
