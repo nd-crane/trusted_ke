@@ -6,8 +6,8 @@ The metrics in the table below are also available in the excel sheets for their 
 
 |                          | Syntactic Acc | Semantic Acc | Consistency | # Hallucinations | # Triples | % Docs w/ Any Predicted Triples |
 |--------------------------|---------------|--------------|-------------|------------------|-----------|---------------------------------|
+| PL-Marker (bert) RE      | 1.0           | 0.944        | 1.0         | 0                | 289       | 1.01                            |
+| PL-Marker (albert) RE    | 1.0           | 1.0          | 1.0         | 0                | 147       | 4.37                            |
+| PL-Marker (scierc) RE    | 1.0           | 0.556        | 1.0         | 0                | 127       | 4.00                            |
 | REBEL (pipeline)         | 0.863         | 0.298        | 0.987       | 3                | 4766      | 99.4                            |
 | Unirel                   | 0.25          | 0.0          | 1.0         | 0                | 87        | 1.96                            |
-| PL-Marker (scierc) RE    | 1.0           | 0.556        | 1.0         | 0                | 127       | 4.00                            |
-| PL-Marker (albert) RE    | 1.0           | 1.0          | 1.0         | 0                | 147       | 4.37                            |
-| PL-Marker (bert) RE      | 1.0           | 0.944        | 1.0         | 0                | 289       | 1.01                            |
