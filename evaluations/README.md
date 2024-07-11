@@ -143,11 +143,11 @@ Syntactic accuracy is the degree to which the output of the tool follows the gra
 * Head and tail entities must consist of complete phrases. "Complete phrase" signifies a word or phrase which can be treated as a noun or a verb. For example, the triple ("COWLING","part of","ENGINE IN") is inaccurate, since "engine in" is not a complete phrase.
 * If a word or phrase is used as a modifier in a sentence (and is thus not its own phrase in that particular sentence), it may still be counted as a complete phrase if it can function as a noun, verb, noun phrase, or verb phrase in another context. For example, in the sentence "WING FUEL TANK SUMPS WERE NOT DRAINED DURING PREFLIGHT", ("sumps","part of","wing fuel tank") and ("fuel tank sumps", "part of", "wing") would both be syntactically accurate.
 * If a head or tail entity includes words or phrases which modify a part of the sentence outside of that included in the entity, it is inaccurate. For example, in the sentence "ENGINE COWLING SEPARATED FROM ENGINE IN FLIGHT," the subject is "engine cowling", and the verb is "separated", modified by "in flight" and "from engine." Because "in flight" modifies "separated," the predicted entity "engine in flight" would be syntactically inaccurate.
-
-* Head and tail entities must be the entity type expected by the relation. For example, the relation "place of birth" must have a location as the head and a person as the tail. These expected entity types are not well-defined here, but are judged by the world-knowledge of the evaluator.
 * Verbs and verb phrases may only be used as entities if the relation can accept an event-type entity. Verb phrases also do not need to have a subject. For example: ("IMPROPER PREFLIGHT", "has effect", "CRASHED") is syntactically accurate.
 * Complete clauses (subject-verb) may only be used as entities if the relation can accept an event-type entity.
 * An head entity may be a subspan of its tail entity, and vice versa.
+* Head and tail entities must be the entity type expected by the relation. For example, the relation "place of birth" must have a location as the head and a person as the tail. These expected entity types are not well-defined here, but are judged by the world-knowledge of the evaluator.
+* If a relation necessitates that both the head and the tail entity be of the same type, such as "subclass of", and the head and tail entities are of different types (broadly defined types such as "event" and "object"), then it is given a syntactic accuracy score of 0.5
 
 *Semantic Accuracy*\
 Semantic accuracy is the degree to which the output of the tool adheres to the real world. A triple is either completely semantically accurate (1) or semantically inaccurate (0). We follow the guidelines below:
