@@ -126,14 +126,6 @@ If the NEL tool returns ANNUAL and its QID, or ENGINE and its QID, or any other 
 
 Note that CART is given the primary QID corresponding to "baggage cart", and the secondary QID corresponding to "cart." If only the QID for "cart" were listed, we would be penalizing an NEL tool which infered from context that the cart was a baggage cart.
 
-### Correctness evaluation for RE
-We need to define a process to make that comparison. We can use the following steps:
-1. Extract the relations from the gold standard data.
-2. Extract the relations from the tool's output.
-3. Compare the relations from the tool's output against the gold standard relations.
-   1. That comparisson can't be done directly because the tool's output and the gold standard data are in different formats. We need to find a way to make that comparisson.
-4. Calculate the metrics such as precision, recall, and F1 score.
-
 ### Accuracy evaluation for RE
 
 Since we do not have a gold standard for RE, we cannot report an F1 score. Instead, we report 3 metrics for RE, which we evaluate manually: syntactic accuracy, semantic accuracy, and consistency. We also report the number of hallucinations found in the set of sampled evaluation data. Lastly, we report the total number of triples generated, and the percent of documents with any triples generated, for the entire FAA dataset. These are described below:
