@@ -44,7 +44,7 @@ Documentation: https://spacy.io/api/entityrecognizer
 
 Created by spaCy
 
-EntityRecognizer identifies non-overlapping labeled spans of tokens using a transition-based algorithm. spaCy notes that: "the loss function optimizes for whole entity accuracy, so if your inter-annotator agreement on boundary tokens is low, the component will likely perform poorly on your problem. The transition-based algorithm also assumes that the most decisive information about your entities will be close to their initial tokens. If your entities are long and characterized by tokens in their middle, the component will likely not be a good fit for your task."
+EntityRecognizer identifies non-overlapping labeled spans of tokens using a transition-based algorithm. spaCy notes that: "the loss function optimizes for whole entity accuracy, so if your inter-annotator agreement on boundary tokens is low, the component will likely perform poorly on your problem. The transition-based algorithm also assumes that the most decisive information about your entities will be close to their initial tokens. If your entities are long and characterized by tokens in their middle, the component will likely not be a good fit for your task." EntityRecognizer recognizes the 18 entity types in OntoNotes.
 
 Not LLM-based.
 
