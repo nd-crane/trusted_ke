@@ -10,3 +10,6 @@
 [submodule "coref/coref_mt5/coref_mt5"]
 	path = coref/coref_mt5/coref_mt5
 	url = git@github.com:psaboia/coref_mt5.git
+[submodule "nel/genre/GENRE"]
+	path = nel/genre/GENRE
+	url = git@github.com:facebookresearch/GENRE.git
