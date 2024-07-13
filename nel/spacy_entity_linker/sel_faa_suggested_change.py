@@ -19,7 +19,7 @@ def entity_linking(nlp, text):
     for sent in doc.sents:
         for linked_entity in sent._.linkedEntities:
             # Concatenate the entity information in one line
-            entity_info = {"identifier":linked_entity.identifier, "label":linked_entity.label, "description":linked_entity.description}
+            entity_info = {"mention": linked_entity.get_span(),"identifier":f"Q{linked_entity.identifier}", "label":linked_entity.label, "description":linked_entity.description}
             entities_list.append(entity_info)
     return entities_list
 
@@ -33,7 +33,7 @@ def resolve_entity_linker(dataset_path, id_col, text_col, row_limit=None):
     if row_limit is not None:
         df = df.head(row_limit)
 
-    results_dict = {'c5_id':[], 'c119_input':[], 'raw_results':[], 'entities':[], 'qids':[], 'descriptions':[]}
+    results_dict = {'c5_id':[], 'c119_input':[], 'raw_results':[], 'mentions':[], 'entities':[], 'qids':[], 'descriptions':[]}
 
     # Set up spaCy Entity Linker once
     nlp = entity_linker_setup()
@@ -46,6 +46,7 @@ def resolve_entity_linker(dataset_path, id_col, text_col, row_limit=None):
             results_dict['c5_id'].append(id)
             results_dict['c119_input'].append(text)
             results_dict['raw_results'].append(results)
+            results_dict['mentions'].append(result['mention'])
             results_dict['entities'].append(result['label'])
             results_dict['qids'].append(result['identifier'])
             results_dict['descriptions'].append(result['description'])
