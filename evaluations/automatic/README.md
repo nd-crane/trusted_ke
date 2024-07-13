@@ -31,7 +31,15 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 
 #### NEL Semantic-Distance Eval
 
-[TO-DO]
+|                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
+|-----------------------------------------|-----------|---------|---------|---------------|------------------|
+| BLINK (crossencoder)                    | 0.76190   | 0.03239 | 0.06214 | --       | --          |
+| BLINK (biencoder)                       | 0.84211   | 0.03226 | 0.06214 | --       | --          |
+| ReFinED                                 | 0.4375    | 0.02911 | 0.05458 | --       | --          |
+| spaCy EntityLinker (en_core_web_lg)     | 0.0       | 0.0     | 0       | --       | --          |
+| GENRE                                   | 0.0       | 0.0     | 0       | --       | --          |
+
+
 
 #### NEL NER Eval
 |                                         | Precision | Recall  | F1      | Precision Strict | Recall Strict | F1 Strict |
@@ -41,4 +49,5 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | BLINK (crossencoder)                    | 0.03403   | 0.07708 | 0.04722 | 0.01773          | 0.03953       | 0.02448   |
 | BLINK (biencoder)                       | 0.02890   | 0.06522 | 0.04005 | 0.01597          | 0.03557       | 0.02205   |
 | spaCy EntityLinker (en_core_web_lg)     | 0.01602   | 0.54150 | 0.03111 | 0.01051          | 0.35375       | 0.02041   |
+
 
