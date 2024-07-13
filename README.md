@@ -38,6 +38,13 @@ README's polished:
 
 ## Named Entity Recognition
 
+The set of labels for our NER tools are listed below:
+|           | Labels | Tools w/ this Label Set |
+|-----------|--------|-------------------------|
+| OntoNotes | Cardinal, Date, Event, Facility (FAC), Geo-Political Entity (GPE), Language, Law, Location (LOC), Money, Nationalities, religious, or political groups (NORP), Ordinal, Organization (ORG), Percent, Person, Product, Quantity, Time, Work_Of_Art | spaCy, stanza |
+| CoNLL-03  | Person, Organization, Location, Misc Names | flair |
+| ACE-2005  | Person, Organization, Location, Facility, Weapon, Vehicle, Geo-Political Entity (GPE) | NLTK |
+
 ### spaCy EntityRecognizer
 
 Documentation: https://spacy.io/api/entityrecognizer
