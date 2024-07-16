@@ -6,6 +6,7 @@ def print_results(tool_name, precision, recall, f1_score):
 
     print(f'\n### Automatic NER Evaluation of {tool_name.capitalize()} ###')
     print('------------------------------------------------------------')
+    print('*** F1
     print(f'{"Precision":15}{precision}')
     print(f'{"Recall":15}{recall}')
     print(f'{"F1":15}{f1_score}')
