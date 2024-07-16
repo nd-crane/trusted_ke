@@ -2,7 +2,7 @@
 
 ### NER
 
-|                                         | Precision | Recall  | F1      | Precision Strict | Recall Strict | F1 Strict |
+|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
 |-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
 | nltk ne_chunk (uppercased) *            | 0.51893   | 0.46047 | 0.48796 | 0.31659          | 0.28656       | 0.30082   |
 | spaCy EntityRecognizer (en_core_web_sm) | 0.74638   | 0.20356 | 0.31988 | 0.28571          | 0.06719       | 0.10880   |
@@ -29,20 +29,35 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 
 ### NEL
 
-#### NEL Semantic-Distance Eval
-
+#### NEL Eval (Strong Matching and Primary Gold Standard)
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
-| BLINK (crossencoder)                    | 0.76190   | 0.03239 | 0.06214 | --       | --          |
-| BLINK (biencoder)                       | 0.84211   | 0.03226 | 0.06214 | --       | --          |
-| ReFinED                                 | 0.4375    | 0.02911 | 0.05458 | --       | --          |
-| spaCy EntityLinker (en_core_web_lg)     | 0.0       | 0.0     | 0       | --       | --          |
-| GENRE                                   | 0.0       | 0.0     | 0       | --       | --          |
+| ReFinED                                 | 0.58333   | 0.03590 | 0.06763 | 0.84375  | 0.88153     |
+| BLINK (biencoder)                       | 0.63636   | 0.03571 | 0.06763 | 0.69958  | 0.74749     |
+| BLINK (crossencoder)                    | 0.63636   | 0.03571 | 0.06763 | 0.65093  | 0.71347     |
+| spaCy EntityLinker (en_core_web_lg)     | 0.13426   | 0.13615 | 0.13520 | 0.06686  | 0.12793     |
+| GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
 
+#### NEL Eval (Weak Matching and Primary Gold Standard)
+|                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
+|-----------------------------------------|-----------|---------|---------|---------------|------------------|
+| spaCy EntityLinker (en_core_web_lg)     | 0.11871   | 0.21290 | 0.15242 | 0.05244  | 0.10101     |
+| BLINK (crossencoder)                    | 0.60606   | 0.05168 | 0.09524 | 0.64975  | 0.68388     |
+| BLINK (biencoder)                       | 0.60606   | 0.05168 | 0.09524 | 0.64523  | 0.68311     |
+| ReFinED                                 | 0.46666   | 0.03646 | 0.06763 | 0.64642  | 0.67262     |
+| GENRE                                   | 0.0625    | 0.00260 | 0.00499 | 0.21851  | 0.24305     |
 
+#### NEL Eval (Strong Matching and Extended GS, Specific Entities w/o QIDs Given General QID
+|                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
+|-----------------------------------------|-----------|---------|---------|---------------|------------------|
+| spaCy EntityLinker (en_core_web_lg)     | 0.11905   | 0.13216 | 0.12526 | 0.06507  | 0.11494     |
+| ReFinED                                 | 0.58333   | 0.03189 | 0.06048 | 0.84137  | 0.86975     |
+| BLINK (biencoder)                       | 0.63636   | 0.03175 | 0.06048 | 0.69958  | 0.74749     |
+| BLINK (crossencoder)                    | 0.63636   | 0.03175 | 0.06048 | 0.65093  | 0.71347     |
+| GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
 
 #### NEL NER Eval
-|                                         | Precision | Recall  | F1      | Precision Strict | Recall Strict | F1 Strict |
+|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
 |-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
 | GENRE                                   | 0.96      | 0.04743 | 0.09040 | 0.30435          | 0.01383       | 0.02647   |
 | ReFinED                                 | 0.03266   | 0.09881 | 0.04909 | 0.02090          | 0.06324       | 0.03142   |
