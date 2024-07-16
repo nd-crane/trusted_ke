@@ -157,8 +157,9 @@ def match_gold_pred(gs, df_tool, id_col, ent_col, qid_col, matching, gold_set, f
         if len(gs_entities) == 0:
             continue
         
-        tool_entities = [entity.upper() for entity in df_tool.loc[df_tool[id_col] == gs_id, ent_col].tolist()] # get all the entities the tool generated for the gs_id entry
-        tool_qids = [qid for qid in df_tool.loc[df_tool[id_col] == gs_id, qid_col].tolist()] # get all the entities the tool generated for the gs_id entry
+        selected_rows = df_tool[df_tool[id_col] == gs_id][qid_col].dropna().index # select rows in df_tool which have same docid as gsid, and there is a QID for the entity in the row
+        tool_entities = [entity.upper() for entity in df_tool.loc[selected_rows][ent_col]] # get all the entities the tool generated for the gs_id entry
+        tool_qids = [qid for qid in df_tool.loc[selected_rows][qid_col]] # get all the entities the tool generated for the gs_id entry
     
         # Find matching gold standard and output entity-link pair if present
         gs_match_idx, tool_match_idx = find_match(gs_entities, tool_entities, matching, gold_set)

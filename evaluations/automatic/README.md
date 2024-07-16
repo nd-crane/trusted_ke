@@ -32,7 +32,7 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 #### NEL Eval (Strong Matching and Primary Gold Standard)
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
-| ReFinED                                 | 0.58333   | 0.03590 | 0.06763 | 0.84375  | 0.88153     |
+| ReFinED                                 | 0.58333   | 0.03590 | 0.06763 | 0.80268  | 0.83960     |
 | BLINK (biencoder)                       | 0.63636   | 0.03571 | 0.06763 | 0.69958  | 0.74749     |
 | BLINK (crossencoder)                    | 0.63636   | 0.03571 | 0.06763 | 0.65093  | 0.71347     |
 | spaCy EntityLinker (en_core_web_lg)     | 0.13426   | 0.13615 | 0.13520 | 0.06686  | 0.12793     |
@@ -44,14 +44,14 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | spaCy EntityLinker (en_core_web_lg)     | 0.11871   | 0.21290 | 0.15242 | 0.05244  | 0.10101     |
 | BLINK (crossencoder)                    | 0.60606   | 0.05168 | 0.09524 | 0.64975  | 0.68388     |
 | BLINK (biencoder)                       | 0.60606   | 0.05168 | 0.09524 | 0.64523  | 0.68311     |
-| ReFinED                                 | 0.46666   | 0.03646 | 0.06763 | 0.64642  | 0.67262     |
+| ReFinED                                 | 0.46666   | 0.03646 | 0.06763 | 0.67026  | 0.70516     |
 | GENRE                                   | 0.0625    | 0.00260 | 0.00499 | 0.21851  | 0.24305     |
 
 #### NEL Eval (Strong Matching and Extended GS, Specific Entities w/o QIDs Given General QID
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
 | spaCy EntityLinker (en_core_web_lg)     | 0.11905   | 0.13216 | 0.12526 | 0.06507  | 0.11494     |
-| ReFinED                                 | 0.58333   | 0.03189 | 0.06048 | 0.84137  | 0.86975     |
+| ReFinED                                 | 0.58333   | 0.03189 | 0.06048 | 0.80268  | 0.83960     |
 | BLINK (biencoder)                       | 0.63636   | 0.03175 | 0.06048 | 0.69958  | 0.74749     |
 | BLINK (crossencoder)                    | 0.63636   | 0.03175 | 0.06048 | 0.65093  | 0.71347     |
 | GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
