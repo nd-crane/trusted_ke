@@ -38,10 +38,15 @@ def is_match(ent1, ent2, matching):
         return None
 
 def find_match(gs_entities, tool_entities, matching, gold_set):
-    ''' Returns (-1,-1) if no version of the gs_entity at hand is present in tool_entities.
-    If a version of the gs_entity is present in tool entities, it returns the index of the
-    gs_entity that matched it and the index in tool_entities of the matching entity in a tuple.
-    Also uses weak matching if specified'''
+    ''' Finds the indices of a match between an entity in gs_entities and an entity in tool_entities.
+    Parameters:
+    - gs_entities: list of primary, secondary, and tertiary spans for an entity. This is taken from a single cell in the gold standard csv
+    - tool_entities: list of all entities found by a tool for a certain document.
+    - matching: either "STRONG" or "WEAK". Strong match: ent1 == ent2. Weak match: ent1 in ent2 or ent2 in ent1
+    - gold_set: either "PRIMARY" or "EXTENDED". Primary gold set: gs_entities is restricted to gs_entities[0]. Extended gold set: use full gs_entities.
+
+    Returns:
+    If an entity in gs_entities matches an entity in tool_entities, returns the respective indices of the first match, else returns (-1, -1)'''
 
     tool_entities = pd.Series(tool_entities)
     stop_idx = len(gs_entities) if gold_set == "EXTENDED" else 1
@@ -56,6 +61,25 @@ def find_match(gs_entities, tool_entities, matching, gold_set):
     return (-1,-1)
 
 def prune_gold_set(gs_entities, gs_qids, gold_set, fill_in_qids):
+    ''' Removes gold entity-qid links with either a None entity or a None QID.
+
+    Parameters:
+    - gs_entities: list of primary, secondary, and tertiary spans for an entity. This is taken from a single cell in the gold standard csv
+    - gs_qids: list of QIDs for the primary, secondary, and tertiary spans for an entity, respectively. This is taken from a single cell in the gold standard csv
+    - gold_set: either "PRIMARY" or "EXTENDED". Primary gold set: gs_entities is restricted to gs_entities[0]. Extended gold set: use full gs_entities.
+    - fill_in_qids determines whether specific entities with no valid QID (eg, "left wing") are assigned the
+    QIDs for a subspan (eg, "Q161358" for "wing") and kept in the gold set, or whether they are removed.
+
+    Returns: tuple containing the pruned lists of entities and qids.
+    
+    The gold standard includes entitiy-qid links with None's, so that the user of this function may specify how they are removed:
+    1. fill_in_qids = False : All links with no QID are removed. For example, if gs_entities = ["left wing","wing",None] and gs_qids = [None, "Q161358", None],
+    ["wing"], ["Q161358"] would be returned.
+    2. fill_in_qids = True : If a primary or secondary link has no QID, but a later link does, that later QID is used to fill in
+    the missing QID of the more primary link. For example, if gs_entities = ["left wing","wing",None] and gs_qids = [None, "Q161358", None],
+    this function would edit gs_qids to ["Q161358","Q161358",None] so that "left wing" and the QID for wing is a valid gold standard link.
+    ["left wing","wing"], ["Q161358","Q161358"] would be returned. Note that this almost always results in the same affect as setting matching="WEAK".
+    '''
 
     if fill_in_qids and None in gs_qids:
         none_idx = gs_qids.index(None)
@@ -76,11 +100,11 @@ def prune_gold_set(gs_entities, gs_qids, gold_set, fill_in_qids):
 
 def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, qid_col, matching='WEAK', gold_set='PRIMARY', fill_in_qids=False):
     """
-    Calculate precision and recall based on entities comparison between gs (ground truth) and df_tool (answers).
+    Calculate precision, recall, and F1 based on entity-qid links comparison between gs (ground truth) and df_tool (answers).
     
     Parameters:
     - gs: DataFrame with columns ['id', 'sample', 'entities','qids'] representing the ground truth.
-    - df_tool: DataFrame with columns ['id', 'sample', 'entities', 'qids'] representing the tool's answers.
+    - df_tool: DataFrame with columns [id_col, ent_col, qid_col] representing the tool's answers.
     - id_col, ent_col, and qid_col are the column names used in df_tool for the docid, entities (the mentions
     from the text, not Wikidata entity titles), and the QIDs, respectively.
     - matching may be "WEAK" or "STRONG". Strong matching counts an entity-link pair as correct if the entity
@@ -90,9 +114,11 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, qid_col, matchin
     the columns beginning with "primary" in the gold standard. The extended gold standard includes secondary
     and tertiary entity-link pairs, which attempt to account for variability in entity-tagging by providing correct
     links for other possible spans for each entity where applicable.
+    - fill_in_qids determines whether specific entities with no valid QID (eg, "left wing") are assigned the
+    QIDs for a subspan (eg, "Q161358" for "wing") and kept in the gold set, or whether they are removed.
     
     Returns:
-    - A tuple containing precision and recall.
+    - A tuple containing precision, recall, and F1.
     """
     TP = 0  # True Positives
     FP = 0  # False Positives
@@ -142,6 +168,35 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, qid_col, matchin
 ## SEMANTIC SIMILARITY SCORE UTILS #####################################################################
 
 def match_gold_pred(gs, df_tool, id_col, ent_col, qid_col, matching, gold_set, fill_in_qids):
+
+    '''
+    Returns 5 equal-length lists representing intersection between gold standard entity-qid links and tool-predicted entity-qid links where entities match and qids are present.
+    Unlike calculate_precision_recall_f1(), wherein a tool-predicted entity which matches a gold entity but does not have a QID is counted as a FN, this function ignores any
+    entities without QID links.
+
+    Parameters:
+    - gs: DataFrame with columns ['id', 'sample', 'entities','qids'] representing the ground truth.
+    - df_tool: DataFrame with columns [id_col, ent_col, qid_col] representing the tool's answers.
+    - id_col, ent_col, and qid_col are the column names used in df_tool for the docid, entities (the mentions
+    from the text, not Wikidata entity titles), and the QIDs, respectively.
+    - matching may be "WEAK" or "STRONG". Strong matching counts an entity-link pair as correct if the entity
+    exactly matches the entity in the gold standard, and the links are the same. Weak matching counts it as
+    correct if the entity overlaps with the entity in the gold standard, and the links are the same.
+    - gold_set may be "PRIMARY" or "EXTENDED". The primary set of gold standard entity-link pairs are those in
+    the columns beginning with "primary" in the gold standard. The extended gold standard includes secondary
+    and tertiary entity-link pairs, which attempt to account for variability in entity-tagging by providing correct
+    links for other possible spans for each entity where applicable.
+    - fill_in_qids determines whether specific entities with no valid QID (eg, "left wing") are assigned the
+    QIDs for a subspan (eg, "Q161358" for "wing") and kept in the gold set, or whether they are removed.
+
+    Returns: 5 equal-length lists (columns), where the entries across the same indices in each column make up a single match between
+    a gold and a predicted entity-qid link.
+    - id: doc ids (c5 ids)
+    - gold_ent: gold entities
+    - tool_ent: tool-predicted entities
+    - q1_gold: gold QIDs
+    - q2_pred: tool-predicted QIDs
+    '''
     
     id = []
     tool_ent = []
@@ -176,10 +231,18 @@ def match_gold_pred(gs, df_tool, id_col, ent_col, qid_col, matching, gold_set, f
     return id, tool_ent, gold_ent, q1_gold, q2_pred
 
 def make_temp(q1_gold, q2_pred):
+    ''' 
+    Creates temporary csv to send to https://kgtk.isi.edu/similarity_api similarity API
+    '''
     temp = pd.DataFrame({'q1\tq2':[f"{q1_gold[i]}\t{q2_pred[i]}" for i in range(len(q1_gold))]})
     temp.to_csv('temp.csv',index=False) # create file to feed to call_semantic_similarity()
 
 def call_semantic_similarity(input_file, url):
+    '''
+    Call to similarity API (if url is set to https://kgtk.isi.edu/similarity_api)
+    input file should be path to temp.csv created in make_temp()
+    Returns a dataframe of score information with columns ['q1', 'q2', 'q1_label', 'q2_label', 'class',  'jc']
+    '''
     file_name = os.path.basename(input_file)
     files = {
         'file': (file_name, open(input_file, mode='rb'), 'application/octet-stream')
@@ -189,6 +252,11 @@ def call_semantic_similarity(input_file, url):
     return pd.DataFrame(s)
 
 def retrieve_score_vals(i, col, score_df, eval_df):
+    '''
+    Score_df contains information about a subset of entries in eval_df.
+    This function returns the information in score_df for the column col for the pair of gold and pred qids found in row i in eval_df.
+    It returns None if the pair of gold and pred qids is not present in score_df.
+    '''
     rows = score_df[(score_df['q1'] == eval_df['gold_qid'].iat[i]) & (score_df['q2'] == eval_df['pred_qid'].iat[i])]
     output = list(rows[col])
     if len(output) > 0:
@@ -197,6 +265,16 @@ def retrieve_score_vals(i, col, score_df, eval_df):
         return None
 
 def get_class_score(score_df, id, tool_ent, gold_ent, q1_gold, q2_pred):
+    ''' This function gets the unweighted average (micro) Class similarity score for all evaluated entity-qid links in the predicted set.
+    It ignores all links where a class score could not be calculated.
+
+    Parameters:
+    - score_df: dataframe outputted by call_semantic_similarity()
+    - id, tool_ent, gold_ent, q1_gold, q2_pred: Equal length lists outputted by match_gold_pred() representing the intersection between gold
+    standard entity-qid links and tool-predicted entity-qid links where entities match and qids are present.
+
+    Returns: class similarity score
+    '''
 
     # organize results
     eval_df = pd.DataFrame({'id':id, 'pred_ent':tool_ent, 'gold_ent':gold_ent,'gold_qid':q1_gold,'pred_qid':q2_pred, 'gold_label':range(len(id)), 'pred_label':range(len(id)),'class':range(len(id)), 'jc':range(len(id))})
@@ -222,6 +300,16 @@ def get_class_score(score_df, id, tool_ent, gold_ent, q1_gold, q2_pred):
     return class_score
 
 def get_jc_score(score_df, id, tool_ent, gold_ent, q1_gold, q2_pred):
+    ''' This function gets the unweighted average Jiang Conrath (JC) metric for all evaluated entity-qid links in the predicted set.
+    It ignores all links where a class score could not be calculated.
+
+    Parameters:
+    - score_df: dataframe outputted by call_semantic_similarity()
+    - id, tool_ent, gold_ent, q1_gold, q2_pred: Equal length lists outputted by match_gold_pred() representing the intersection between gold
+    standard entity-qid links and tool-predicted entity-qid links where entities match and qids are present.
+
+    Returns: JC score
+    '''
 
     # organize results
     eval_df = pd.DataFrame({'id':id, 'pred_ent':tool_ent, 'gold_ent':gold_ent,'gold_qid':q1_gold,'pred_qid':q2_pred, 'gold_label':range(len(id)), 'pred_label':range(len(id)),'class':range(len(id)), 'jc':range(len(id))})
@@ -247,6 +335,28 @@ def get_jc_score(score_df, id, tool_ent, gold_ent, q1_gold, q2_pred):
     return jc_score
 
 def calculate_class_jc(gold_df, result_df, id_col, ent_col, qid_col, matching='STRONG', gold_set='PRIMARY', fill_in_qids=False, url='https://kgtk.isi.edu/similarity_api'):
+    '''
+    Calculate class similarity score and JC metric based on entity-qid link comparison between gs (ground truth) and df_tool (answers).
+    
+    Parameters:
+    - gs: DataFrame with columns ['id', 'sample', 'entities','qids'] representing the ground truth.
+    - df_tool: DataFrame with columns [id_col, ent_col, qid_col] representing the tool's answers.
+    - id_col, ent_col, and qid_col are the column names used in df_tool for the docid, entities (the mentions
+    from the text, not Wikidata entity titles), and the QIDs, respectively.
+    - matching may be "WEAK" or "STRONG". Strong matching counts an entity-link pair as correct if the entity
+    exactly matches the entity in the gold standard, and the links are the same. Weak matching counts it as
+    correct if the entity overlaps with the entity in the gold standard, and the links are the same.
+    - gold_set may be "PRIMARY" or "EXTENDED". The primary set of gold standard entity-link pairs are those in
+    the columns beginning with "primary" in the gold standard. The extended gold standard includes secondary
+    and tertiary entity-link pairs, which attempt to account for variability in entity-tagging by providing correct
+    links for other possible spans for each entity where applicable.
+    - fill_in_qids determines whether specific entities with no valid QID (eg, "left wing") are assigned the
+    QIDs for a subspan (eg, "Q161358" for "wing") and kept in the gold set, or whether they are removed.
+    - url: url to API to calculate semantic similarity metrics.
+    
+    Returns:
+    - A tuple containing the class and jc scores.
+    '''
     
     # Get all entity-link pair candidates for evaluation
     id, tool_ent, gold_ent, q1_gold, q2_pred = match_gold_pred(gold_df, result_df, id_col,ent_col,qid_col, matching, gold_set, fill_in_qids)
