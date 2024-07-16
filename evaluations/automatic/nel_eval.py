@@ -171,8 +171,6 @@ def match_gold_pred(gs, df_tool, id_col, ent_col, qid_col, matching, gold_set, f
 
     '''
     Returns 5 equal-length lists representing intersection between gold standard entity-qid links and tool-predicted entity-qid links where entities match and qids are present.
-    Unlike calculate_precision_recall_f1(), wherein a tool-predicted entity which matches a gold entity but does not have a QID is counted as a FN, this function ignores any
-    entities without QID links.
 
     Parameters:
     - gs: DataFrame with columns ['id', 'sample', 'entities','qids'] representing the ground truth.
