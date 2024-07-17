@@ -10,5 +10,5 @@ sample_c5s = np.random.choice(data_df["c5"], size=1000, replace=False)
 
 sample_df = result_df[result_df['c5_id'].isin(sample_c5s)]
     
-with pd.ExcelWriter("pl-marker_ace05_bert_RE_jun17_eval.xlsx") as writer:
+with pd.ExcelWriter("pl-marker_ace05_bert_RE_jun17_eval.xlsx", "a") as writer:
     sample_df.to_excel(writer, sheet_name='1000_docs_eval', index=False)
