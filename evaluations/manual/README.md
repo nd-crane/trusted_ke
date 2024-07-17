@@ -20,4 +20,6 @@ Since UniRel and PL-Marker scierc and albert return so few triples, we also perf
 | UniRel                   | 87               | 0.379         | 0.149        | 0.981       | 0                |
 
 Lastly, we perform a supplementary evaluation of PL-Marker (bert), randomly selecting 1000 records.
-[TO-DO]
+|                          | # Triples Eval'd | Syntactic Acc | Semantic Acc | Consistency | # Hallucinations |
+|--------------------------|------------------|---------------|--------------|-------------|------------------|
+| PL-Marker (albert) RE    | 126              | 0.996         | 0.992        | 1.0         | 0                |
