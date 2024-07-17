@@ -8,4 +8,5 @@ d = { 'settings': { 'branch': 'main',
   'syms': { 'paper2k.core': { 'paper2k.core._fetch_query': ('core.html#_fetch_query', 'paper2k/core.py'),
                               'paper2k.core._search_wikidata_properties_async': ( 'core.html#_search_wikidata_properties_async',
                                                                                   'paper2k/core.py'),
+                              'paper2k.core.excel_to_csv_to_df': ('core.html#excel_to_csv_to_df', 'paper2k/core.py'),
                               'paper2k.core.search_wikidata_properties': ('core.html#search_wikidata_properties', 'paper2k/core.py')}}}
