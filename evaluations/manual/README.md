@@ -15,9 +15,9 @@ The metrics in the table below are also available in the excel sheets for their 
 Since UniRel and PL-Marker scierc and albert return so few triples, we also perform a supplementary evaluation of all the triples predicted.
 |                          | # Triples Eval'd | Syntactic Acc | Semantic Acc | Consistency | # Hallucinations |
 |--------------------------|------------------|---------------|--------------|-------------|------------------|
+| PL-Marker (albert) RE    | 158              | 0.994         | 0.981        | 1.0         | 0                |
 | PL-Marker (scierc) RE    | 127              | 1.0           | 0.778        | 1.0         | 0                |
 | UniRel                   | 87               | 0.379         | 0.149        | 0.981       | 0                |
-| PL-Marker (albert) RE    | 158              | 0.994         | 0.981        | 1.0         | 0                |
 
 Lastly, we perform a supplementary evaluation of PL-Marker (bert), randomly selecting 1000 records.
 [TO-DO]
