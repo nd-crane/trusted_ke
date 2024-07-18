@@ -43,7 +43,7 @@ The set of labels for our NER tools are listed below:
 |-----------|--------|-------------------------|
 | OntoNotes | Cardinal, Date, Event, Facility (FAC), Geo-Political Entity (GPE), Language, Law, Location (LOC), Money, Nationalities, religious, or political groups (NORP), Ordinal, Organization (ORG), Percent, Person, Product, Quantity, Time, Work_Of_Art | spaCy, stanza |
 | CoNLL-03  | Person, Organization, Location, Misc Names | flair |
-| ACE-2005  | Person, Organization, Location, Facility, Weapon, Vehicle, Geo-Political Entity (GPE) | NLTK |
+| n\a       | Person, Organization, Location, Facility, Geo-Political Entity (GPE), Geographical-Social-Political Entity (GSP) | NLTK |
 
 ### spaCy EntityRecognizer
 
@@ -88,7 +88,7 @@ Github: https://github.com/nltk/nltk/tree/develop/nltk/chunk
 
 Created by NLTK
 
-NLTK ne_chunk takes in a list of POS-tagged tokens as input and creates a parse tree where named entities and their labels are stored as subtrees. It recognizes the seven entity types in ACE 2005.
+NLTK ne_chunk takes in a list of POS-tagged tokens as input and creates a parse tree where named entities and their labels are stored as subtrees. It recognizes the 6 entity types found in the ACE project.
 
 Not used by any other tools in the pipeline.
 
