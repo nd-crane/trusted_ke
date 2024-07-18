@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "2K-paper"
-  site-url: "https://nd-crane.github.io/2K-paper"
-  description: "2k-paper"
+  title: "trusted-ke"
+  site-url: "https://nd-crane.github.io/trusted-ke"
+  description: "trusted-ke"
   repo-branch: main
-  repo-url: "https://github.com/nd-crane/2K-paper"
+  repo-url: "https://github.com/nd-crane/trusted-ke"
