@@ -2,19 +2,15 @@ import argparse
 import os
 import pandas as pd
 
-def print_results(tool_name, precision, recall, f1_score):
+def print_results(tool_name, score_dict):
 
-    print(f'\n### Automatic NER Evaluation of {tool_name.capitalize()} ###')
-    print('------------------------------------------------------------')
-    print('*** F1
-    print(f'{"Precision":15}{precision}')
-    print(f'{"Recall":15}{recall}')
-    print(f'{"F1":15}{f1_score}')
-    print('------------------------------------------------------------')
+    score_dict = {key:f"{score_dict[key]:.5}" for key in score_dict}
 
-    return
+    print('|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak) | Precision (Strong) | Recall (Strong) | F1 (Strong) |')
+    print('|-----------------------------------------|------------------|---------------|-----------|--------------------|-----------------|-------------|')
+    print(f"| {tool_name:40}| {score_dict['prec_w']:17}| {score_dict['rec_w']:14}| {score_dict['f1_w']:10}| {score_dict['prec_s']:19}| {score_dict['rec_s']:16}| {score_dict['f1_s']:12}|")
 
-def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, strict):
+def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, matching="STRONG"):
     """
     Calculate precision and recall based on entities comparison between gs (ground truth) and df_tool (answers).
     
@@ -34,26 +30,29 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, strict):
         gs_id, gs_entity = gs_row['id'], gs_row['entities']
         tool_entities = [entity.upper() for entity in df_tool.loc[df_tool[id_col] == gs_id, ent_col].tolist()] # get all the entities the tool generated for the gs_id entry
 
-        # In strict matching, we only count a tool-generated entity as correct if it exactly matches the gold standard entity
-        if strict:
+        # In strong matching, we only count a tool-generated entity as correct if it exactly matches the gold standard entity
+        if matching=="STRONG":
             if gs_entity in tool_entities:
                 TP += 1
             else:
                 FN += 1
-        # In non-strict matching, we count a tool-generated entity as correct if it is a subspan of the gold standard entity, or if the gold standard entity is a subspan of it
-        else:
+        # In weak matching, we count a tool-generated entity as correct if it is a subspan of the gold standard entity, or if the gold standard entity is a subspan of it
+        elif matching=="WEAK":
             if any(gs_entity in tool_entity or tool_entity in gs_entity for tool_entity in tool_entities):
                 TP += 1
             else:
                 FN += 1
+        else:
+            print("Error: Matching must = STRONG or WEAK")
+            return None
     
     # Check for False Positives by iterating over df_tool
     for index, tool_row in df_tool.iterrows():
         tool_id, tool_entity = tool_row[id_col], tool_row[ent_col]
         gs_entities = gs.loc[gs['id'] == tool_id, 'entities'].tolist()
 
-        #  Strict matching
-        if strict:
+        #  strong matching
+        if matching=="STRONG":
             if tool_entity not in gs_entities:
                 FP += 1
         else:
@@ -69,17 +68,17 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, strict):
     
     return precision, recall, f1_score
 
-def eval(dataset_path, gs_path, id_col, ent_col, strict):
+def eval(dataset_path, gs_path, id_col, ent_col):
 
     gs = pd.read_csv(gs_path)
     df_tool = pd.read_csv(dataset_path)
 
     tool_name = dataset_path.split('/')[-2]
 
-    precision, recall, f1_score = calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, strict)
+    prec_w, rec_w, f1_w = calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, matching="WEAK")
+    prec_s, rec_s, f1_s = calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, matching="STRONG")
 
-    print_results(tool_name, precision, recall, f1_score)
-
+    print_results(tool_name, {"prec_w":prec_w,"rec_w":rec_w,"f1_w":f1_w,"prec_s":prec_s,"rec_s":rec_s,"f1_s":f1_s})
 
 if __name__=='__main__':
 
@@ -112,15 +111,8 @@ if __name__=='__main__':
         default="../../gold_standard/processed/ner.csv",
         help='Path to NER gold standard'
     )
-    parser.add_argument(
-        '-s', '--strict',
-        required=False,
-        action='store_true',
-        default=False,
-        help='Whether or not to perform strict-match evaluation'
-    )
 
     args = parser.parse_args()
 
     # call eval
-    eval(args.dataset_path, args.gs_path, args.id_col, args.ent_col, args.strict)
+    eval(args.dataset_path, args.gs_path, args.id_col, args.ent_col)

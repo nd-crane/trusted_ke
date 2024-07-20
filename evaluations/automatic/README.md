@@ -16,6 +16,13 @@
 
 \* note that the difference between nltk's output when given upper vs lowercased input is cause to doubt its overall effectiveness
 
+|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak) | Precision (Strong) | Recall (Strong) | F1 (Strong) |
+|-----------------------------------------|------------------|---------------|-----------|--------------------|-----------------|-------------|
+| spacy_entityrecognizer (en_core_web_sm) | 0.74638          | 0.20356       | 0.31988   | 0.28571            | 0.067194        | 0.1088      |
+| stanza                                  | 0.84091          | 0.073123      | 0.13455   | 0.36111            | 0.025692        | 0.04797     |
+| flair                                   | 0.04745          | 0.079051      | 0.059303  | 0.033254           | 0.055336        | 0.041543    |
+| spacy_entityrecognizer (en_core_web_lg) | 0.030992         | 0.24506       | 0.055026  | 0.014296           | 0.11265         | 0.025373    |
+
 ### CR
 
 Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is an average of the F1 scores from MUC, B-CUBED (here represented as B3 for brevity), and CEAF.
