@@ -16,3 +16,22 @@ We have a gold standard for the each of following tasks:
 - [Named Entity Linking (NEL)]()
 - [Relation Extraction (RE)](processed/re.csv)
   
+
+
+## NER Gold Standards
+
+1. processed/ner.csv - The unlabeled set of entities developed by our team, considering important information for maintenance
+2. processed/ner_conll.csv - Set of entities with labels found following CoNLL-2003 annotation guidelines
+3. processed/ner_ace.csv - Set of entities with labels found following ACE-2005 annotation guidelines
+4. processed/ner_ace_nltk.csv - processed/ner_ace.csv without VEHICLE (or WEAPON) entities - based on the set of entity types used in ACE-Phase-1, which is what NLTK recognizes
+5. processed/ner_on.csv - Set of entities with labels found following OntoNotes annotation guidelines
+
+**Overlap between NER Gold Standards:**
+
+|             | 'COR' | 'PAR' | 'POS' | 'ACT' |
+|-------------|-------|-------|-------|-------|
+| OntoNotes   |    38 |    18 |   506 |    60 |
+| CoNLL-03    |    26 |    18 |   506 |    44 |
+| ACE Phase1  |    63 |    50 |   505 |   120 |
+
+*** NOTE: the numbers don't seem right
