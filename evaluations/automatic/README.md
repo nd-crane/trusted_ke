@@ -1,6 +1,8 @@
 # Automatic Evaluations
 
-### NER
+## NER
+
+### Maintenance Un-Labeled Entities
 
 |                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
 |-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
@@ -16,14 +18,48 @@
 
 \* note that the difference between nltk's output when given upper vs lowercased input is cause to doubt its overall effectiveness
 
+**Rerun NER script**
 |                                         | Precision (Weak) | Recall (Weak) | F1 (Weak) | Precision (Strong) | Recall (Strong) | F1 (Strong) |
 |-----------------------------------------|------------------|---------------|-----------|--------------------|-----------------|-------------|
-| spacy_entityrecognizer (en_core_web_sm) | 0.74638          | 0.20356       | 0.31988   | 0.28571            | 0.067194        | 0.1088      |
-| stanza                                  | 0.84091          | 0.073123      | 0.13455   | 0.36111            | 0.025692        | 0.04797     |
-| flair                                   | 0.04745          | 0.079051      | 0.059303  | 0.033254           | 0.055336        | 0.041543    |
-| spacy_entityrecognizer (en_core_web_lg) | 0.030992         | 0.24506       | 0.055026  | 0.014296           | 0.11265         | 0.025373    |
+| nltk (uppercased)                       | 0.52009          | 0.46881       | 0.49312   | 0.30349            | 0.27968         | 0.2911      |
+| PL-Marker (ACE05 bert) NER              | 0.47941          | 0.32797       | 0.38949   | 0.42532            | 0.26358         | 0.32547     |
+| spaCy EntityRecognizer (en_core_web_lg) | 0.77333          | 0.2334        | 0.35858   | 0.37063            | 0.10664         | 0.16562     |
+| spaCy EntityRecognizer (en_core_web_sm) | 0.71429          | 0.19115       | 0.30159   | 0.2521             | 0.060362        | 0.097403    |
+| PL-Marker (ACE05 albert-xxl) NER        | 0.48555          | 0.16901       | 0.25075   | 0.43312            | 0.13682         | 0.20795     |
+| PL-Marker (SciERC) NER                  | 0.55372          | 0.13481       | 0.21683   | 0.31646            | 0.050302        | 0.086806    |
+| flair                                   | 0.92105          | 0.070423      | 0.13084   | 0.4186             | 0.036217        | 0.066667    |
+| stanza                                  | 0.75676          | 0.056338      | 0.10487   | 0.13889            | 0.01006         | 0.018762    |
 
-### CR
+
+**New results using SemEval script**
+|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
+|-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
+| nltk (uppercased)                       | 0.3996  | 0.3533 | 0.375   | 0.286  | 0.2529  | 0.2684  |
+| spaCy EntityRecognizer (en_core_web_lg) | 0.5683  | 0.1571 | 0.2461   | 0.3525  | 0.09742  | 0.1526   |
+| spaCy EntityRecognizer (en_core_web_sm) | 0.5042  | 0.1188 | 0.1922   | 0.2712  | 0.06387  | 0.1034   |
+| flair                                   | 0.6667  | 0.05567| 0.1028   | 0.4048  | 0.0338   | 0.06239  |
+| stanza                                  | 0.4861  | 0.035  | 0.0653   | 0.1667  | 0.012    | 0.02239  |
+
+
+
+### CoNLL-2003 Labeled Entities
+|                                         | Strict  | Exact  | Partial  | Type    |
+|-----------------------------------------|---------|--------|----------|---------|
+| flair                                   | 0.4186  | 0.4419 | 0.5233   | 0.5116  |
+
+### OntoNotes Labeled Entities
+|                                         | Strict  | Exact  | Partial  | Type    |
+|-----------------------------------------|---------|--------|----------|---------|
+| stanza                                  | 0.2292  | 0.2917 | 0.4375   | 0.4167  |
+| spaCy EntityRecognizer (en_core_web_sm) | 0.1341  | 0.2458 | 0.3073   | 0.2123  |
+| spaCy EntityRecognizer (en_core_web_lg) | 0.0995  | 0.199  | 0.2587   | 0.1294  |
+
+### ACE-2005 (Restricted Set) Entities
+|                                         | Strict  | Exact  | Partial  | Type    |
+|-----------------------------------------|---------|--------|----------|---------|
+| nltk (uppercased)                       | 0.01015 | 0.1218 | 0.1929   | 0.03723 |
+
+## CR
 
 Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is an average of the F1 scores from MUC, B-CUBED (here represented as B3 for brevity), and CEAF.
 
@@ -34,9 +70,9 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | neuralcoref | 0.57143  | 0.42105 |0.48485 | 0.58929 |0.42793 |0.49581| 0.59286   | 0.46111  | 0.51875 | 0.49980  | 0.57143  | 0.40541 | 0.47431|
 | coref_mt5   | 0.80000  | 0.21053 |0.33333 | 0.85000 |0.19820 |0.32144| 0.76000   | 0.21111  | 0.33043 | 0.32840  | 0.80000  | 0.18919 | 0.30601|
 
-### NEL
+## NEL
 
-#### NEL Eval (Strong Matching and Primary Gold Standard)
+### NEL Eval (Strong Matching and Primary Gold Standard)
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
 | ReFinED                                 | 0.58333   | 0.03590 | 0.06763 | 0.80268  | 0.83960     |
@@ -45,7 +81,7 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | spaCy EntityLinker (en_core_web_lg)     | 0.13426   | 0.13615 | 0.13520 | 0.06686  | 0.12793     |
 | GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
 
-#### NEL Eval (Weak Matching and Primary Gold Standard)
+### NEL Eval (Weak Matching and Primary Gold Standard)
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
 | spaCy EntityLinker (en_core_web_lg)     | 0.11871   | 0.21290 | 0.15242 | 0.05244  | 0.10101     |
@@ -54,7 +90,7 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | ReFinED                                 | 0.46666   | 0.03646 | 0.06763 | 0.67026  | 0.70516     |
 | GENRE                                   | 0.0625    | 0.00260 | 0.00499 | 0.21851  | 0.24305     |
 
-#### NEL Eval (Strong Matching and Extended GS, Specific Entities w/o QIDs Given General QID
+### NEL Eval (Strong Matching and Extended GS, Specific Entities w/o QIDs Given General QID
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
 | spaCy EntityLinker (en_core_web_lg)     | 0.11905   | 0.13216 | 0.12526 | 0.06507  | 0.11494     |
@@ -63,7 +99,7 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | BLINK (crossencoder)                    | 0.63636   | 0.03175 | 0.06048 | 0.65093  | 0.71347     |
 | GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
 
-#### NEL NER Eval
+### NEL NER Eval
 |                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
 |-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
 | GENRE                                   | 0.96      | 0.04743 | 0.09040 | 0.30435          | 0.01383       | 0.02647   |

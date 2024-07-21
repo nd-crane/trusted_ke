@@ -16,7 +16,7 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, matching="STRONG
     
     Parameters:
     - gs: DataFrame with columns ['id', 'sample', 'entities'] representing the ground truth.
-    - df_tool: DataFrame with columns ['id', 'sample', 'entities', 'POS tags', 'labels'] representing the tool's answers.
+    - df_tool: DataFrame with columns ['id', 'sample', 'entities', 'labels'] representing the tool's answers.
     
     Returns:
     - A tuple containing precision and recall.
@@ -26,10 +26,10 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, matching="STRONG
     FN = 0  # False Negatives
     
     # Check for True Positives and False Negatives by iterating over gs
-    for index, gs_row in gs.iterrows():
+    for index, gs_row in gs.dropna().iterrows():
         gs_id, gs_entity = gs_row['id'], gs_row['entities']
         tool_entities = [entity.upper() for entity in df_tool.loc[df_tool[id_col] == gs_id, ent_col].tolist()] # get all the entities the tool generated for the gs_id entry
-
+        
         # In strong matching, we only count a tool-generated entity as correct if it exactly matches the gold standard entity
         if matching=="STRONG":
             if gs_entity in tool_entities:
@@ -47,9 +47,9 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, matching="STRONG
             return None
     
     # Check for False Positives by iterating over df_tool
-    for index, tool_row in df_tool.iterrows():
+    for index, tool_row in df_tool[df_tool[id_col].isin(gs['id'].unique())].iterrows():
         tool_id, tool_entity = tool_row[id_col], tool_row[ent_col]
-        gs_entities = gs.loc[gs['id'] == tool_id, 'entities'].tolist()
+        gs_entities = gs.dropna().loc[gs.dropna()['id'] == tool_id, 'entities'].tolist()
 
         #  strong matching
         if matching=="STRONG":
@@ -62,6 +62,7 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, matching="STRONG
     # Calculate precision and recall
     precision = TP / (TP + FP) if (TP + FP) > 0 else 0
     recall = TP / (TP + FN) if (TP + FN) > 0 else 0
+    print(f"TP={TP}, FP={FP}, FN={FN}, prec={precision}, rec={recall}")
     
     # Calculating the F1 score
     f1_score = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
