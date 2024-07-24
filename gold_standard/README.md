@@ -30,8 +30,9 @@ We have a gold standard for the each of following tasks:
 
 |             | 'COR' | 'PAR' | 'POS' | 'ACT' |
 |-------------|-------|-------|-------|-------|
-| OntoNotes   |    38 |    18 |   506 |    60 |
-| CoNLL-03    |    26 |    18 |   506 |    44 |
-| ACE Phase1  |    63 |    50 |   505 |   120 |
+| OntoNotes   |    38 |    18 |   498 |    60 |
+| CoNLL-03    |    26 |    18 |   498 |    44 |
+| ACE Phase1  |    63 |    50 |   498 |   120 |
+| ACE-2005    |    65 |    48 |   498 |   120 |
 
 *** NOTE: the numbers don't seem right
