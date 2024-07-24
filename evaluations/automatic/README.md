@@ -2,11 +2,23 @@
 
 ## NER
 
-For NER, use the command:\
+Usage:\
 python ner_semeval.py -d path/to/results/to/evaluate.csv -g gold/standard/to/use.csv\
-Add the option "--untyped" to perform label-agnostic eval with UTFAA
+Add the option "--untyped" to perform label-agnostic eval with UTFAA. The weak scores are equivalent to Partial and strong are equivalent to Exact\
+Note that the environment requirements are specified in a comment at the top of the script.
 
-### Maintenance Un-Labeled Entities
+To evaluate NER tools:
+* python ner_semeval.py -d ../../data/results/flair/flair_ner.csv -g ../../gold_standard/processed/ner_conll.csv
+* python ner_semeval.py -d ../../data/results/stanza/stanza_ner.csv -g ../../gold_standard/processed/ner_on.csv
+* python ner_semeval.py -d ../../data/results/spacy_entityrecognizer/spacy_ner_lg.csv -g ../../gold_standard/processed/ner_on.csv
+* python ner_semeval.py -d ../../data/results/spacy_entityrecognizer/spacy_ner_sm.csv -g ../../gold_standard/processed/ner_on.csv
+* python ner_semeval.py -d ../../data/results/nltk/nltk_ner_uppercased.csv -g ../../gold_standard/processed/ner_ace_nltk.csv
+* python ner_semeval.py -d ../../data/results/pl-marker/pl-marker_ace05_bert_NER_jun17.csv -g ../../gold_standard/processed/ner_ace.csv
+* python ner_semeval.py -d ../../data/results/pl-marker/pl-marker_ace05_albert_NER_jun17.csv -g ../../gold_standard/processed/ner_ace.csv
+
+Note that we can't eval pl-marker's SciERC NER unless we make a SciERC GS, which is likely not worthwhile.
+
+### Maintenance Un-Typed Entities
 
 |                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
 |-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
@@ -25,7 +37,7 @@ Add the option "--untyped" to perform label-agnostic eval with UTFAA
 **New results using SemEval script**
 [TO-DO]
 
-
+The results below are the ones included in the paper, but need to be updated:
 
 ### CoNLL-2003 Labeled Entities
 |                                         | Strict  | Exact  | Partial  | Type    |
@@ -39,12 +51,29 @@ Add the option "--untyped" to perform label-agnostic eval with UTFAA
 | spaCy EntityRecognizer (en_core_web_sm) | 0.1341  | 0.2458 | 0.3073   | 0.2123  |
 | spaCy EntityRecognizer (en_core_web_lg) | 0.0995  | 0.199  | 0.2587   | 0.1294  |
 
-### ACE-2005 (Restricted Set) Entities
+### ACE Phase-1 (Restricted Set) Entities
 |                                         | Strict  | Exact  | Partial  | Type    |
 |-----------------------------------------|---------|--------|----------|---------|
 | nltk (uppercased)                       | 0.01015 | 0.1218 | 0.1929   | 0.03723 |
 
+### ACE-2005 Entities
+|                                         | Strict  | Exact  | Partial  | Type    |
+|-----------------------------------------|---------|--------|----------|---------|
+| PL-Marker (ACE05 bert) NER              | 0.5093  | 0.5252 | 0.6525   | 0.7533  |
+| PL-Marker (ACE05 albert-xxl) NER        | 0.3958  | 0.3958 | 0.4982   | 0.5866  |
+
 ## CR
+
+Usage:\
+python cr_eval.py -d path/to/results/to/evaluate.csv -i id_col -c corefs_col -g gold/standard/to/use.csv\
+The last three options are optional, and default to c5_id, corefs, and ../../gold_standard/gold/coref_gold.csv. Make sure to specify the id_col if it is something other than c5_id, like c5_unique_id\
+Note that the environment requirements are listed on the top of the script in a comment.
+
+To evaluate CR tools:
+* python cr_eval.py -d ../../data/results/s2e-coref/s2e-coref_updated_format.csv
+* python cr_eval.py -d ../../data/results/asp/asp.csv
+* python cr_eval.py -d ../../data/results/ncoref/crosslingual_coref_with_errors.csv -i c5
+* python cr_eval.py -d ../../data/results/coref_mt5/coref_mt5.csv
 
 Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is an average of the F1 scores from MUC, B-CUBED (here represented as B3 for brevity), and CEAF.
 
@@ -57,7 +86,21 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 
 ## NEL
 
-### NEL Eval (Strong Matching and Primary Gold Standard)
+Usage:\
+python nel_eval.py -d path/to/results/to/evaluate.csv -i id_col -e ent_col -q qid_col -g gold/standard/to/use.csv\
+The last four options are optional, and default to c5_id, entities, qids, and ../../gold_standard/processed/nel.csv. Make sure to specify the column names if you want to use something different.\
+**Important Note:** Blink and SpacyEntity Linker list entities as their Wikidata titles, and have seperate mentions columns that contain the literal mention from the text that was recognized as an entity. Therefore, when processing these, ent_col should be set to mentions, since the gold standard NEL entities use text mentions. ReFinED and GENRE list the actual mention from the text as the entity and have a title column with the Wikidata title, so their ent_col is the default, entities.
+
+To evaluate NEL tools:
+* python nel_eval.py -d ../../data/results/refined/refined.csv -q ids
+* python nel_eval.py -d ../../data/results/blink/blink_results_new.csv -e mention -q bi_qid
+* python nel_eval.py -d ../../data/results/blink/blink_results_new.csv -e mention -q cross_qid
+* python nel_eval.py -d ../../data/results/spacy_entity_linker/spacy_entitylinker.csv -e mentions
+* python nel_eval.py -d ../../data/results/genre/genre_independent.csv -i c5_unique_id
+
+Note that genre_independent.csv and genre_grouped.csv always get the same scores, so we evaluate them as one
+
+### NEL Eval (Strong Matching - Strong Matching and Primary GS)
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
 | ReFinED                                 | 0.58333   | 0.03590 | 0.06763 | 0.80268  | 0.83960     |
@@ -66,7 +109,7 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | spaCy EntityLinker (en_core_web_lg)     | 0.13426   | 0.13615 | 0.13520 | 0.06686  | 0.12793     |
 | GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
 
-### NEL Eval (Weak Matching and Primary Gold Standard)
+### NEL Eval (Weak Matching - Weak Matching and Primary GS)
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
 | spaCy EntityLinker (en_core_web_lg)     | 0.11871   | 0.21290 | 0.15242 | 0.05244  | 0.10101     |
@@ -75,7 +118,7 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | ReFinED                                 | 0.46666   | 0.03646 | 0.06763 | 0.67026  | 0.70516     |
 | GENRE                                   | 0.0625    | 0.00260 | 0.00499 | 0.21851  | 0.24305     |
 
-### NEL Eval (Strong Matching and Extended GS, Specific Entities w/o QIDs Given General QID
+### NEL Eval (Flexible - Strong Matching and Extended GS (Specific Entities w/o QIDs Given General QID))
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
 |-----------------------------------------|-----------|---------|---------|---------------|------------------|
 | spaCy EntityLinker (en_core_web_lg)     | 0.11905   | 0.13216 | 0.12526 | 0.06507  | 0.11494     |
@@ -83,14 +126,3 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | BLINK (biencoder)                       | 0.63636   | 0.03175 | 0.06048 | 0.69958  | 0.74749     |
 | BLINK (crossencoder)                    | 0.63636   | 0.03175 | 0.06048 | 0.65093  | 0.71347     |
 | GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
-
-### NEL NER Eval
-|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
-|-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
-| GENRE                                   | 0.96      | 0.04743 | 0.09040 | 0.30435          | 0.01383       | 0.02647   |
-| ReFinED                                 | 0.03266   | 0.09881 | 0.04909 | 0.02090          | 0.06324       | 0.03142   |
-| BLINK (crossencoder)                    | 0.03403   | 0.07708 | 0.04722 | 0.01773          | 0.03953       | 0.02448   |
-| BLINK (biencoder)                       | 0.02890   | 0.06522 | 0.04005 | 0.01597          | 0.03557       | 0.02205   |
-| spaCy EntityLinker (en_core_web_lg)     | 0.01602   | 0.54150 | 0.03111 | 0.01051          | 0.35375       | 0.02041   |
-
-
