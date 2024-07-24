@@ -2,6 +2,10 @@
 
 ## NER
 
+For NER, use the command:\
+python ner_semeval.py -d path/to/results/to/evaluate.csv -g gold/standard/to/use.csv\
+Add the option "--untyped" to perform label-agnostic eval with UTFAA
+
 ### Maintenance Un-Labeled Entities
 
 |                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
@@ -18,27 +22,8 @@
 
 \* note that the difference between nltk's output when given upper vs lowercased input is cause to doubt its overall effectiveness
 
-**Rerun NER script**
-|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak) | Precision (Strong) | Recall (Strong) | F1 (Strong) |
-|-----------------------------------------|------------------|---------------|-----------|--------------------|-----------------|-------------|
-| nltk (uppercased)                       | 0.52009          | 0.46881       | 0.49312   | 0.30349            | 0.27968         | 0.2911      |
-| PL-Marker (ACE05 bert) NER              | 0.47941          | 0.32797       | 0.38949   | 0.42532            | 0.26358         | 0.32547     |
-| spaCy EntityRecognizer (en_core_web_lg) | 0.77333          | 0.2334        | 0.35858   | 0.37063            | 0.10664         | 0.16562     |
-| spaCy EntityRecognizer (en_core_web_sm) | 0.71429          | 0.19115       | 0.30159   | 0.2521             | 0.060362        | 0.097403    |
-| PL-Marker (ACE05 albert-xxl) NER        | 0.48555          | 0.16901       | 0.25075   | 0.43312            | 0.13682         | 0.20795     |
-| PL-Marker (SciERC) NER                  | 0.55372          | 0.13481       | 0.21683   | 0.31646            | 0.050302        | 0.086806    |
-| flair                                   | 0.92105          | 0.070423      | 0.13084   | 0.4186             | 0.036217        | 0.066667    |
-| stanza                                  | 0.75676          | 0.056338      | 0.10487   | 0.13889            | 0.01006         | 0.018762    |
-
-
 **New results using SemEval script**
-|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
-|-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
-| nltk (uppercased)                       | 0.3996  | 0.3533 | 0.375   | 0.286  | 0.2529  | 0.2684  |
-| spaCy EntityRecognizer (en_core_web_lg) | 0.5683  | 0.1571 | 0.2461   | 0.3525  | 0.09742  | 0.1526   |
-| spaCy EntityRecognizer (en_core_web_sm) | 0.5042  | 0.1188 | 0.1922   | 0.2712  | 0.06387  | 0.1034   |
-| flair                                   | 0.6667  | 0.05567| 0.1028   | 0.4048  | 0.0338   | 0.06239  |
-| stanza                                  | 0.4861  | 0.035  | 0.0653   | 0.1667  | 0.012    | 0.02239  |
+[TO-DO]
 
 
 
