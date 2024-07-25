@@ -161,3 +161,43 @@ Some tools do not constrain their output such that entities must be mentions whi
 
 *Triples Counts*\
 Lastly, we report two figures based on the output for the entire FAA dataset: the total number of triples found, as well as the percent of documents/records which have some predicted triples. This is done in the second sheet in each evaluation excel sheet.
+
+## The Relations Sets:
+| Training Set | Tools | Relations |
+|--------------|-------|-----------|
+| NYT | UniRel, DeepStruct | ['/business/company/advisors','/business/company/founders','/business/company/industry','/business/company/major_shareholders','/business/company/place_founded','business/company_shareholder/major_shareholder_of','/business/person/company','/location/administrative_division/country','/location/country/administrative_divisions','location/country/capital','/location/location/contains',   '/location/neighborhood/neighborhood_of','/people/deceased_person/place_of_death','/people/ethnicity/geographic_distribution','/people/ethnicity/people','/people/person/children','/people/person/ethnicity','/people/person/nationality','/people/person/place_lived','/people/person/place_of_birth','/people/person/profession','/people/person/religion','/sports/sports_team/location','/sports/sports_team_location/teams'] |
+| ACE05 | PL-Marker, DeepStruct | ['PER-SOC', 'ART', 'ORG-AFF', 'GEN-AFF', 'PHYS', 'PART-WHOLE'] |
+| SciERC | PL-Marker | ['PART-OF', 'USED-FOR', 'FEATURE-OF', 'CONJUNCTION', 'HYPONYM-OF', 'COMPARE'] |
+| (wikidata) | REBEL | ['has part', 'part of', 'different from', 'subclass of', 'instance of', 'has effect', 'has cause', 'located in the administrative territorial entity', 'product or material produced', 'facet of', 'manufacturer', 'point in time', 'connects with', 'uses', 'used by', 'operator', 'location', 'follows', 'followed by', 'opposite of', 'item operated', 'contains administrative territorial entity', 'country', 'shares border with', 'use']* |
+\* Relations shown in order of most commonly appearing in output on FAA data. These are the top 25. See all relations for REBEL at https://raw.githubusercontent.com/Babelscape/rebel/main/data/relations_count.tsv
+
+**Syntax Constraints for Each Relation**
+
+For all NYT relations, the head must correspond to the descriptor in the middle of the slashes, e.g., for the relation '/business/company/advisors', the head entity must be a company. Similarly, the tail must correspond to the rightmost descriptor, e.g., in this example, it must be a group of people.
+
+For all REBEL relations (Wikidata properties), the head and tail entities must match usage in Wikidata. This is judged by the evaluator. Some notable properties are:
+* 'different from' is only used when head and tail entities share a similar name. The 'different from' relation is used to distinguish entities named the same way or similarly enough that they need to be distinguished.
+* 'has effect' and 'has cause' may have noun phrases or verb phrases on either end
+* 'has part', 'part of', 'subclass of','instance of', and 'facet of' all imply that the head and tail entities must correspond in entity type. We say correspond in a loose sense here, referring mainly to differences between an event, a physical object, and time, quantity, or date, and an abstract concept.
+
+The remaining relations' syntactic constraints are described here:
+
+**ACE-2005:**
+| Relation | Head | Tail |
+|----------|------|------|
+| PER-SOC  | Person(s) | Person(s) |
+| ART      | Person | Physical Object |
+| ORG-AFF  | Person | Organization |
+| GEN-AFF  | Any    | Any |
+| PHYS     | Anything with a physical form | Anything with a physical form |
+| PART-WHOLE | Type must correspond to Tail (see REBEL 'part of') | vice versa |
+
+**SciERC:**
+| Relation     | Head | Tail |
+|--------------|------|------|
+| PART-OF      | Type must correspond to Tail (see REBEL 'part of') | vice versa |
+| USED-FOR     | Any | Any |
+| FEATURE-OF   | Type must correspond to Tail (see REBEL 'part of') | vice versa |
+| CONJUNCTION  | Type must correspond to Tail (see REBEL 'part of') | vice versa |
+| HYPONYM-OF   | Type must correspond to Tail (see REBEL 'part of') | vice versa |
+| COMPARE      | Type must correspond to Tail (see REBEL 'part of') | vice versa |
