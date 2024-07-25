@@ -169,6 +169,7 @@ Lastly, we report two figures based on the output for the entire FAA dataset: th
 | ACE05 | PL-Marker, DeepStruct | ['PER-SOC', 'ART', 'ORG-AFF', 'GEN-AFF', 'PHYS', 'PART-WHOLE'] |
 | SciERC | PL-Marker | ['PART-OF', 'USED-FOR', 'FEATURE-OF', 'CONJUNCTION', 'HYPONYM-OF', 'COMPARE'] |
 | (wikidata) | REBEL | ['has part', 'part of', 'different from', 'subclass of', 'instance of', 'has effect', 'has cause', 'located in the administrative territorial entity', 'product or material produced', 'facet of', 'manufacturer', 'point in time', 'connects with', 'uses', 'used by', 'operator', 'location', 'follows', 'followed by', 'opposite of', 'item operated', 'contains administrative territorial entity', 'country', 'shares border with', 'use']* |
+
 \* Relations shown in order of most commonly appearing in output on FAA data. These are the top 25. See all relations for REBEL at https://raw.githubusercontent.com/Babelscape/rebel/main/data/relations_count.tsv
 
 **Syntax Constraints for Each Relation**
