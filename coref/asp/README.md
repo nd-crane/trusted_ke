@@ -18,6 +18,12 @@ Paper: https://arxiv.org/pdf/2210.14698.pdf
 
 8. (Done) jsonlines minimized versions of the data are available in minimized_data to copy into ASP/data/faa_conll if you want to skip this step. Otherwise, from the ASP folder, run python ./data/t5minimize_coref.py ./data/faa_conll/ ./data/faa_conll/. Note that it has created jsonlines documents in the faa_conll folder.
 
-9. Run evaluate_coref via: python evaluate_coref.py flant5_base tliu/asp-coref-flan-t5-base <GPU_ID> > eval.out 2>&1
+9. To run the base model: python evaluate_coref.py flant5_base tliu/asp-coref-flan-t5-base <GPU_ID> > eval_base.out 2>&1
 
-10. Use the parse_output.ipynb notebook to extract data from eval.out and save it to a csv in results
+10. To run the large model: python evaluate_coref.py flant5_t5_large tliu/asp-coref-flan-t5-large <GPU_ID> > eval_large.out 2>&1
+
+11. To run the xl model: python evaluate_coref.py flant5_xl tliu/asp-coref-flan-t5-xl <GPU_ID> > eval_xl.out 2>&1
+
+12. To run the t0_3b model: python evaluate_coref.py t0_3b tliu/asp-coref-t0-3b <GPU_ID> > eval_t0.out 2>&1
+
+13. Use the parse_output.ipynb notebook to extract data from eval.out and save it to a csv in results

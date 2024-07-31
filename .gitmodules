@@ -16,3 +16,6 @@
 [submodule "evaluations/automatic/NER-Evaluation"]
 	path = evaluations/automatic/NER-Evaluation
 	url = git@github.com:davidsbatista/NER-Evaluation.git
+[submodule "coref/asp/--force"]
+	path = coref/asp/--force
+	url = git@github.com:lyutyuh/ASP.git

@@ -13,6 +13,15 @@ import ast
 import argparse
 from corefeval import Document, Scorer
 
+def print_results(tool_name, conll_f1, metrics):
+
+    scores = {metric:{'prec':f"{metrics[metric]['precision']:.5}", 'rec':f"{metrics[metric]['recall']:.5}", 'f1':f"{metrics[metric]['f1']:.5}"} for metric in metrics}
+    conll_f1 = f"{conll_f1:.5}"
+    
+    print("|                    | MUC Prec | MUC Rec | MUC F1 | B3 Prec | B3 Rec |  B3 F1 | CEAF Prec | CEAF Rec | CEAF F1 | Con12 F1 | LEA Prec | LEA Rec | LEA F1 |")
+    print("|--------------------|----------|---------|--------|---------|--------|--------|-----------|----------|---------|----------|----------|---------|--------|")
+    print(f"| {tool_name:19}| {scores['muc']['prec']:9}| {scores['muc']['rec']:8}| {scores['muc']['f1']:7}| {scores['b_cubed']['prec']:8}| {scores['b_cubed']['rec']:7}| {scores['b_cubed']['f1']:7}| {scores['ceafe']['prec']:10}| {scores['ceafe']['rec']:9}| {scores['ceafe']['f1']:8}| {conll_f1:9}| {scores['lea']['prec']:9}| {scores['lea']['rec']:8}| {scores['lea']['f1']:7}|")
+
 def eval(dataset_path, gs_path, id_col, cr_col):
 
     pred_df = pd.read_csv(dataset_path)
@@ -28,8 +37,9 @@ def eval(dataset_path, gs_path, id_col, cr_col):
         doc = Document(predicted=pred, truth=gold)
         scorer.update(doc)
 
-    conll_f1, metrics = scorer.detailed_score(modelname=tool_name, dataset="FAA", verbose=True)
-    print("The CoNLL-2012 F1 score is the average of F1 scores from MUC, B-CUBED, and CEAF")
+    conll_f1, metrics = scorer.detailed_score(modelname=tool_name, dataset="FAA", verbose=False)
+
+    return tool_name, conll_f1, metrics
 
 if __name__=='__main__':
 
@@ -66,4 +76,6 @@ if __name__=='__main__':
     args = parser.parse_args()
 
     # call eval
-    eval(args.dataset_path, args.gs_path, args.id_col, args.cr_col)
+    tool_name, conll_f1, metrics = eval(args.dataset_path, args.gs_path, args.id_col, args.cr_col)
+
+    print_results(tool_name, conll_f1, metrics)
