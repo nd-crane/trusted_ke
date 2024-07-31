@@ -5,12 +5,12 @@ from tqdm import tqdm
 import argparse
 import os
 
-def main(dataset_path, id_col, text_col):
+def main(dataset_path, model_name, id_col, text_col):
     dataset = pd.read_csv(dataset_path)
     
     out_dict = {f'{id_col}_id':[], f'{text_col}_input':[], 'entities':[], 'labels_raw':[], 'labels':[],'confidence':[]}
     
-    tagger = Classifier.load('ner')
+    tagger = Classifier.load(model_name)
     
     for index in tqdm(range(len(dataset))):
         text = dataset['c119'][index]
@@ -44,6 +44,13 @@ if __name__=='__main__':
         help='path/to/input/dataset.csv'
     )
     parser.add_argument(
+        '-m', '--model',
+        type=str,
+        required=False,
+        default="conll03",
+        help='Specify either "conll03" or "ontonotes" to load either the 4-type model of the 18-type model'
+    )
+    parser.add_argument(
         '-t', '--text_col',
         type=str,
         required=False,
@@ -74,10 +81,18 @@ if __name__=='__main__':
     if file_name[-4:] != '.csv' or not os.path.isdir(output_dir):
         print("Error: output_path must be a .csv file in a valid location.")
 
+    elif args.model not in ["conll03","ontonotes"]:
+        print("Error: argument --model must be either 'conll03' or 'ontonotes'")
     else:
+
+        model_name = None
+        if args.model == "conll03":
+            model_name = "ner"
+        else:
+            model_name = "ner-ontonotes-large"
     
         # call main
-        results_dict = main(args.dataset_path, args.id_col, args.text_col)
+        results_dict = main(args.dataset_path, model_name, args.id_col, args.text_col)
     
         # save to output_path
         pd.DataFrame(results_dict).to_csv(args.output_path, index=False)
