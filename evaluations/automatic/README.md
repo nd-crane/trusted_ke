@@ -34,8 +34,15 @@ Note that we can't eval pl-marker's SciERC NER unless we make a SciERC GS, which
 
 \* note that the difference between nltk's output when given upper vs lowercased input is cause to doubt its overall effectiveness
 
-**New results using SemEval script**
-[TO-DO]
+### NEW GS Un-Typed:
+|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
+|-----------------------------------------|------------------|---------------|---------------|--------------------|-----------------|-------------|
+| pl-marker (ACE05 bert)                  | 0.8              | 0.28          | 0.41          | 0.69               | 0.24            | 0.36        |
+| pl-marker (ACE05 albert-xxl)            | 0.8              | 0.14          | 0.24          | 0.7                | 0.12            | 0.21        |
+| flair (CoNLL-03)                        | 0.77             | 0.065         | 0.12          | 0.62               | 0.052           | 0.096       |
+| flair (OntoNotes)                       | 0.76             | 0.032         | 0.062         | 0.62               | 0.026           | 0.05        |
+
+
 
 The results below are the ones included in the paper, but need to be updated:
 

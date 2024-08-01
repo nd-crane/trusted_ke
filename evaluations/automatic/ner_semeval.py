@@ -33,26 +33,34 @@ on_tags = ['PER','ORG','LOC','FAC','GPE','PRODUCT','NORP','QUANTITY','EVENT','WO
 
 def print_results_typed(tool_name, results):
 
-    scores = {'exact':0.0,'strict':0.0,'partial':0.0,'ent_type':0.0}
-    for score in scores:
-        prec = results[score]['precision']
-        rec = results[score]['recall']
-        scores[score] = f"{2*prec*rec/(prec+rec):.4}" 
+    scores = {eval:{metric:f"{float(results[eval][metric]):.2}" for metric in ['precision','recall']} for eval in results}
+    for eval in results:
+        prec = results[eval]['precision']
+        rec = results[eval]['recall']
+        if prec+rec > 0:
+            scores[eval]['f1'] = f"{2*prec*rec/(prec+rec):.2}"
+        else:
+            scores[eval]['f1'] = "--"
 
-    print('|                                         | Strict  | Exact  | Partial  | Type    |')
-    print('|-----------------------------------------|---------|--------|----------|---------|')
-    print(f"| {tool_name:40}| {scores['strict']:8}| {scores['exact']:7}| {scores['partial']:9}| {scores['ent_type']:8}|")
+    print('|                                         |Prec (Strict)|Rec (Strict)|F1 (Strict)|Prec (Exact)|Rec (Exact)|F1 (Exact)|Prec (Partial)| Rec (Partial)|F1 (Partial)|Prec (Type)|Rec (Type)|F1 (Type)|')
+    print('|-----------------------------------------|-------------|------------|-----------|------------|-----------|----------|--------------|--------------|------------|-----------|----------|---------|')
+    print(f"| {tool_name:40}| {scores['strict']['precision']:12}| {scores['strict']['recall']:11}| {scores['strict']['f1']:10}| {scores['exact']['precision']:11}| {scores['exact']['recall']:10}| {scores['exact']['f1']:9}| {scores['partial']['precision']:13}| {scores['partial']['recall']:13}| {scores['partial']['f1']:11}| {scores['ent_type']['precision']:10}| {scores['ent_type']['recall']:9}| {scores['ent_type']['f1']:8}|")
 
 def print_results_untyped(tool_name, results):
     scores = {'exact':0.0,'partial':0.0}
     for score in scores:
-        prec = results[score]['precision']
-        rec = results[score]['recall']
-        scores[score] = {'prec':f"{prec:.4}", 'rec':f"{rec:.4}", 'f1':f"{(2*prec*rec/(prec+rec)):.4}"}
+        prec = float(results[score]['precision'])
+        rec = float(results[score]['recall'])
+        if prec+rec > 0:
+            scores[score] = {'prec':f"{prec:.2}", 'rec':f"{rec:.2}", 'f1':f"{(2*prec*rec/(prec+rec)):.2}"}
+        else:
+            scores[score] = {'prec':f"{prec:.2}", 'rec':f"{rec:.2}", 'f1':"--"}
 
     print('|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |')
     print('|-----------------------------------------|------------------|---------------|---------------|--------------------|-----------------|-------------|')
     print(f"| {tool_name:40}| {scores['partial']['prec']:17}| {scores['partial']['rec']:14}| {scores['partial']['f1']:14}| {scores['exact']['prec']:19}| {scores['exact']['rec']:16}| {scores['exact']['f1']:12}|")
+    print()
+    print(results)
 
 def get_faa_tokenized():
     # Get FAA data in format {c5_id:{0: word0, 1: word1, ..., n: wordn}} using word tokenization from faa.conll    
