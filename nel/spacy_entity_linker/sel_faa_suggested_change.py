@@ -7,8 +7,8 @@ from tqdm import tqdm
 import argparse
 import os
 
-def entity_linker_setup():
-    nlp = spacy.load("en_core_web_lg")
+def entity_linker_setup(model_name):
+    nlp = spacy.load(model_name)
     # Add spaCy Entity Linker pipeline
     nlp.add_pipe("entityLinker", last=True)
     return nlp
@@ -25,7 +25,7 @@ def entity_linking(nlp, text):
 
 # ... (other functions remain the same)
 
-def resolve_entity_linker(dataset_path, id_col, text_col, row_limit=None):
+def resolve_entity_linker(dataset_path, model_name, id_col, text_col, row_limit=None):
     
     df = pd.read_csv(dataset_path)
 
@@ -36,7 +36,7 @@ def resolve_entity_linker(dataset_path, id_col, text_col, row_limit=None):
     results_dict = {'c5_id':[], 'c119_input':[], 'raw_results':[], 'mentions':[], 'entities':[], 'qids':[], 'descriptions':[]}
 
     # Set up spaCy Entity Linker once
-    nlp = entity_linker_setup()
+    nlp = entity_linker_setup(model_name)
 
     for i in tqdm(range(len(df))):
         id = df['c5'].iat[i]
@@ -62,6 +62,13 @@ if __name__ == '__main__':
         required=False,
         default="../../data/FAA_data/Maintenance_Text_data_nona.csv",
         help='path/to/input/dataset.csv'
+    )
+    parser.add_argument(
+        '-m', '--model_name',
+        type=str,
+        required=False,
+        default="en_core_web_lg",
+        help='spacy model to load'
     )
     parser.add_argument(
         '-t', '--text_col',
@@ -97,6 +104,6 @@ if __name__ == '__main__':
     else:
 
         # Run with a row limit of 400 for example
-        results_dict = resolve_entity_linker(args.dataset_path, args.text_col, args.id_col, row_limit=None)
+        results_dict = resolve_entity_linker(args.dataset_path, args.model_name, args.text_col, args.id_col, row_limit=None)
 
         pd.DataFrame(results_dict).to_csv(args.output_path, index=False)  # Specify index=False to avoid saving row indices
