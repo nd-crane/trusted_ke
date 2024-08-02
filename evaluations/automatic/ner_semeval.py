@@ -29,7 +29,11 @@ Entity = namedtuple("Entity", "e_type start_offset end_offset")
 conll_tags = ['PER', 'ORG', 'MISC', 'LOC']
 ace_nltk_tags = ['PER','ORG','LOC','FAC','GPE'] # RESTRICTED SET
 ace_tags = ['PER','ORG','LOC','FAC','GPE','VEHICLE','WEAPON']
+scierc_tags = ['OtherScientificTerm', 'Method', 'Task', 'Material', 'Generic', 'Metric','ORG'] # have to add 'org' so that it works with untyped eval, where 'org' is the dummy label for the gold ents
 on_tags = ['PER','ORG','LOC','FAC','GPE','PRODUCT','NORP','QUANTITY','EVENT','WORK_OF_ART','CARDINAL','DATE','PERCENT','TIME','ORDINAL','MONEY','LAW','LANGUAGE']
+type2tags = {'conll03':conll_tags, 'ace05':ace_tags,'ace05_nltk':ace_nltk_tags, 'scierc':scierc_tags,'ontonotes':on_tags}
+path_to_gs = '../../gold_standard/processed/'
+type2gspath = {'untyped':path_to_gs+'ner.csv','conll03':path_to_gs+'ner_conll.csv', 'ace05':path_to_gs+'ner_ace.csv','ace05_nltk':path_to_gs+'ner_ace_nltk.csv','ontonotes':path_to_gs+'ner_on.csv'}
 
 def print_results_typed(tool_name, results):
 
@@ -42,9 +46,9 @@ def print_results_typed(tool_name, results):
         else:
             scores[eval]['f1'] = "--"
 
-    print('|                                         |Prec (Strict)|Rec (Strict)|F1 (Strict)|Prec (Exact)|Rec (Exact)|F1 (Exact)|Prec (Partial)| Rec (Partial)|F1 (Partial)|Prec (Type)|Rec (Type)|F1 (Type)|')
-    print('|-----------------------------------------|-------------|------------|-----------|------------|-----------|----------|--------------|--------------|------------|-----------|----------|---------|')
-    print(f"| {tool_name:40}| {scores['strict']['precision']:12}| {scores['strict']['recall']:11}| {scores['strict']['f1']:10}| {scores['exact']['precision']:11}| {scores['exact']['recall']:10}| {scores['exact']['f1']:9}| {scores['partial']['precision']:13}| {scores['partial']['recall']:13}| {scores['partial']['f1']:11}| {scores['ent_type']['precision']:10}| {scores['ent_type']['recall']:9}| {scores['ent_type']['f1']:8}|")
+    print('|                                          |Prec (Strict)|Rec (Strict)|F1 (Strict)|Prec (Exact)|Rec (Exact)|F1 (Exact)|Prec (Partial)| Rec (Partial)|F1 (Partial)|Prec (Type)|Rec (Type)|F1 (Type)|')
+    print('|------------------------------------------|-------------|------------|-----------|------------|-----------|----------|--------------|--------------|------------|-----------|----------|---------|')
+    print(f"| {tool_name:41}| {scores['strict']['precision']:12}| {scores['strict']['recall']:11}| {scores['strict']['f1']:10}| {scores['exact']['precision']:11}| {scores['exact']['recall']:10}| {scores['exact']['f1']:9}| {scores['partial']['precision']:13}| {scores['partial']['recall']:13}| {scores['partial']['f1']:11}| {scores['ent_type']['precision']:10}| {scores['ent_type']['recall']:9}| {scores['ent_type']['f1']:8}|")
 
 def print_results_untyped(tool_name, results):
     scores = {'exact':0.0,'partial':0.0}
@@ -56,11 +60,9 @@ def print_results_untyped(tool_name, results):
         else:
             scores[score] = {'prec':f"{prec:.2}", 'rec':f"{rec:.2}", 'f1':"--"}
 
-    print('|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |')
-    print('|-----------------------------------------|------------------|---------------|---------------|--------------------|-----------------|-------------|')
-    print(f"| {tool_name:40}| {scores['partial']['prec']:17}| {scores['partial']['rec']:14}| {scores['partial']['f1']:14}| {scores['exact']['prec']:19}| {scores['exact']['rec']:16}| {scores['exact']['f1']:12}|")
-    print()
-    print(results)
+    print('|                                          | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |')
+    print('|------------------------------------------|------------------|---------------|---------------|--------------------|-----------------|-------------|')
+    print(f"| {tool_name:41}| {scores['partial']['prec']:17}| {scores['partial']['rec']:14}| {scores['partial']['f1']:14}| {scores['exact']['prec']:19}| {scores['exact']['rec']:16}| {scores['exact']['f1']:12}|")
 
 def get_faa_tokenized():
     # Get FAA data in format {c5_id:{0: word0, 1: word1, ..., n: wordn}} using word tokenization from faa.conll    
@@ -92,26 +94,46 @@ def get_spans(mentions, words):
 
     mention_spans = []
 
+    repeat_mentions = {}
+
     if "'S" in words.values():
         idx = list(words.values()).index("'S")
         words[idx-1] = words[idx-1] + "'S"
         del words[idx]
     
-    for mention in mentions:
+    for imention, mention in enumerate(mentions):
 
         mention = mention.replace('(', ' ( ').replace(')',' ) ').replace('  ',' ')
         mention = mention.replace(',',' , ').replace('  ',' ')
 
-        mention_span = [-1, -1]
-        
-        if mention in ' '.join(words.values()):
-            try:
-                start_idx = list(words.values()).index(mention.split()[0])
-                end_idx = list(words.keys())[list(words.values())[start_idx:].index(mention.split()[-1]) + start_idx] + 1
-                mention_span = [start_idx, end_idx]
-            except:
-                pass
-        
+        mention_span = [-1, -1] # if conditions below aren't met, [-1,-1 is returned]
+
+        tokens = list(words.values())
+        idxs = list(words.keys())
+
+        # Check if mention has been seen before. If has, start_idx already stored in repeat_mentions
+        # Matched sequentially 
+        if mention in repeat_mentions:
+            if len(repeat_mentions[mention]) > 0:
+                start_idx = repeat_mentions[mention].pop(0) # get start_idx and pop off list
+                end_idx = start_idx + len(mention.split()) - 1
+                mention_span = [idxs[start_idx],idxs[end_idx]+1]
+
+        # Normal case, where it has not been seen before, and we search for the start of the phrase in check_words
+        else:
+            start_indices = [i for i in range(len(tokens)) if tokens[i:i+len(mention.split())] == mention.split()]
+
+            # If start_indices contains multiple idxs, get start_idx from front of list (first occurance) and save rest to repeat_mentions
+            # If start_indices contains just one idx, that is the start_idx
+            if len(start_indices) > 0:
+                
+                if len(start_indices) > 1:
+                    repeat_mentions[mention] = start_indices[1:]
+                
+                start_idx = start_indices[0]
+                end_idx = start_idx + len(mention.split()) - 1
+                mention_span = [idxs[start_idx],idxs[end_idx]+1]
+
         mention_spans.append(mention_span)
 
     return mention_spans
@@ -138,6 +160,17 @@ def collect_named_entities(entities, labels, tokens):
         named_entities.append(Entity(labels[ient], ent_span[0], ent_span[1]))
 
     return named_entities
+
+def check_named_entities(named_entities, ids, df):
+
+    probs = []
+    for idoc, doc_id in enumerate(ids):
+        rows = df[df['id']==doc_id]
+        for ient, ent in enumerate(named_entities[idoc]):
+            if ent[1] == -1:
+                mention = rows['entities'].iat[ient]
+                probs.append(mention)
+    return probs
 
 def load_gold(gold_path):
     gold_df = pd.read_csv(gold_path)
@@ -210,10 +243,15 @@ def eval(all_true_ents, all_pred_ents, tags):
     
     return results
 
-def main(dataset_path, gs_path):
+def main(dataset_path, type_set, is_untyped):
 
     faa = get_faa_tokenized()
 
+    if is_untyped:
+        gs_path = type2gspath['untyped']
+    else:
+        gs_path = type2gspath[type_set]
+    
     gold_df = load_gold(gs_path)
     result_df = load_result(dataset_path)
 
@@ -221,15 +259,16 @@ def main(dataset_path, gs_path):
 
     all_true_ents, all_pred_ents = get_true_pred_ents(gold_df, result_df, faa)
 
-    if tool_name == "flair":
-        tags = conll_tags
-    elif tool_name in ["spacy_entityrecognizer","stanza"]:
-        tags = on_tags
-    elif tool_name == "nltk":
-        tags = ace_nltk_tags
-    elif tool_name == "pl-marker":
-        tags = ace_tags
+    # Check that true and pred ents were processed without error
+    for named_entities, df in zip([all_true_ents, all_pred_ents],[gold_df, result_df]):
+        probs = check_named_entities(named_entities, gold_df['id'].unique(), df)
+        if len(probs) > 0:
+            print(f"Warning: The following mentions could not be matched to span indices in documents. Ignore if none of these are present in GS: {probs}")
+            # Note that flair-ontonotes causes a number of warnings because returns '23' as an entity, which in our tokenization, is '-23'.
+            # However, this is safe to ignore, since we do not consider '-23' an entity either, because it is metadata to the actual FAA record and not inherent to it, so none of them would match anyway
 
+    tags = type2tags[type_set]
+    
     results = eval(all_true_ents, all_pred_ents, tags)
 
     return tool_name, results
@@ -245,22 +284,29 @@ if __name__=='__main__':
         help='path/to/results/dataset.csv'
     )
     parser.add_argument(
-        '-g', '--gs_path',
-        type=str,
-        required=True,
-        help='Path to NER gold standard'
-    )
-    parser.add_argument(
         '-u', '--untyped',
         action="store_true"
+    )
+    parser.add_argument(
+        '-t', '--type_set',
+        type=str,
+        required=True,
+        help='Either "conll03","ontonotes","ace05","ace05_nltk", or "scierc". Must include even if doing untyped eval'
     )
 
     args = parser.parse_args()
 
-    # call eval
-    tool_name, results = main(args.dataset_path, args.gs_path)
+    if args.type_set not in ["conll03","ontonotes","ace05","ace05_nltk","scierc"]:
+        print('Error: --type_set must be one of "conll03","ontonotes","ace05","ace05_nltk","scierc"')
+    elif args.type_set == 'scierc' and args.untyped == False:
+        print('Error: No gold standard for SciERC available')
 
-    if args.untyped:
-        print_results_untyped(tool_name, results)
     else:
-        print_results_typed(tool_name, results)
+    
+        # call main
+        tool_name, results = main(args.dataset_path, args.type_set, args.untyped)
+    
+        if args.untyped:
+            print_results_untyped(tool_name, results)
+        else:
+            print_results_typed(tool_name, results)

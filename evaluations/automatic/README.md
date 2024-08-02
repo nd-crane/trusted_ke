@@ -3,71 +3,66 @@
 ## NER
 
 Usage:\
-python ner_semeval.py -d path/to/results/to/evaluate.csv -g gold/standard/to/use.csv\
+python ner_semeval.py -d path/to/results/to/evaluate.csv -t set_of_types_to_use\
 Add the option "--untyped" to perform label-agnostic eval with UTFAA. The weak scores are equivalent to Partial and strong are equivalent to Exact\
 Note that the environment requirements are specified in a comment at the top of the script.
 
-To evaluate NER tools:
-* python ner_semeval.py -d ../../data/results/flair/flair_ner.csv -g ../../gold_standard/processed/ner_conll.csv
-* python ner_semeval.py -d ../../data/results/stanza/stanza_ner.csv -g ../../gold_standard/processed/ner_on.csv
-* python ner_semeval.py -d ../../data/results/spacy_entityrecognizer/spacy_ner_lg.csv -g ../../gold_standard/processed/ner_on.csv
-* python ner_semeval.py -d ../../data/results/spacy_entityrecognizer/spacy_ner_sm.csv -g ../../gold_standard/processed/ner_on.csv
-* python ner_semeval.py -d ../../data/results/nltk/nltk_ner_uppercased.csv -g ../../gold_standard/processed/ner_ace_nltk.csv
-* python ner_semeval.py -d ../../data/results/pl-marker/pl-marker_ace05_bert_NER_jun17.csv -g ../../gold_standard/processed/ner_ace.csv
-* python ner_semeval.py -d ../../data/results/pl-marker/pl-marker_ace05_albert_NER_jun17.csv -g ../../gold_standard/processed/ner_ace.csv
-
-Note that we can't eval pl-marker's SciERC NER unless we make a SciERC GS, which is likely not worthwhile.
-
-### Maintenance Un-Typed Entities
-
-|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
-|-----------------------------------------|-----------|---------|---------|------------------|---------------|-----------|
-| nltk ne_chunk (uppercased) *            | 0.51893   | 0.46047 | 0.48796 | 0.31659          | 0.28656       | 0.30082   |
-| spaCy EntityRecognizer (en_core_web_sm) | 0.74638   | 0.20356 | 0.31988 | 0.28571          | 0.06719       | 0.10880   |
-| stanza                                  | 0.84091   | 0.07312 | 0.13455 | 0.36111          | 0.02569       | 0.04797   |
-| PL-Marker (ACE05 bert) NER              | 0.03886   | 0.33399 | 0.06962 | 0.03286          | 0.28063       | 0.05882   |
-| PL-Marker (SciERC) NER                  | 0.03846   | 0.13241 | 0.05961 | 0.01471          | 0.04941       | 0.02267   |
-| flair                                   | 0.04745   | 0.07905 | 0.05930 | 0.03325          | 0.05534       | 0.04154   |
-| PL-Marker (ACE05 albert-xxl) NER        | 0.03577   | 0.17194 | 0.05922 | 0.03139          | 0.15020       | 0.05193   |
-| spaCy EntityRecognizer (en_core_web_lg) | 0.03099   | 0.24506 | 0.05503 | 0.01430          | 0.11265       | 0.02537   |
-| nltk ne_chunk (lowercased)              | 0         | 0.0     | 0       | 0                | 0.0           | 0         |
+### Un-Typed Evaluation using UTFAA:
+|                                          | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
+|------------------------------------------|------------------|---------------|---------------|--------------------|-----------------|-------------|
+| PL-Marker (ACE-2005 bert)                | 0.78             | 0.27          | 0.4           | 0.68               | 0.24            | 0.35        |
+| NLTK ne_chunk (uppercased) *             | 0.43             | 0.37          | 0.4           | 0.29               | 0.25            | 0.27        |
+| spaCy EntityRecognizer (en_core_web_lg)  | 0.6              | 0.16          | 0.26          | 0.39               | 0.11            | 0.17        |
+| flair (OntoNotes)                        | 0.68             | 0.16          | 0.25          | 0.59               | 0.14            | 0.22        |
+| PL-Marker (ACE-2005 albert-xxl)          | 0.79             | 0.14          | 0.24          | 0.7                | 0.12            | 0.21        |
+| spaCy EntityRecognizer (en_core_web_sm)  | 0.56             | 0.13          | 0.21          | 0.36               | 0.084           | 0.14        |
+| stanza (ontonotes_electra-large)         | 0.73             | 0.1           | 0.18          | 0.66               | 0.094           | 0.16        |
+| stanza (ontonotes-ww-multi_electra-large)| 0.59             | 0.096         | 0.17          | 0.51               | 0.082           | 0.14        |
+| stanza (ontonotes_nocharlm)              | 0.63             | 0.075         | 0.13          | 0.44               | 0.053           | 0.094       |
+| PL-Marker (SciERC scibert-uncased)       | 0.69             | 0.074         | 0.13          | 0.46               | 0.049           | 0.089       |
+| flair (CoNLL-2003)                       | 0.77             | 0.064         | 0.12          | 0.64               | 0.053           | 0.098       |
+| stanza (ontonotes-ww-multi_nocharlm)     | 0.49             | 0.071         | 0.12          | 0.38               | 0.055           | 0.096       |
+| stanza (ontonotes_charlm)                | 0.71             | 0.066         | 0.12          | 0.51               | 0.047           | 0.086       |
+| stanza (ontonotes-ww-multi_charlm)       | 0.64             | 0.045         | 0.084         | 0.42               | 0.029           | 0.055       |
+| stanza (conll03_charlm)                  | 0.54             | 0.04          | 0.075         | 0.42               | 0.031           | 0.059       |
+| NLTK ne_chunk (lowercased)               | 0.0              | 0.0           | --            | 0.0                | 0.0             | --          |
 
 \* note that the difference between nltk's output when given upper vs lowercased input is cause to doubt its overall effectiveness
 
-### NEW GS Un-Typed:
-|                                         | Precision (Weak) | Recall (Weak) | F1 (Weak)     | Precision (Strong) | Recall (Strong) | F1 (Strong) |
-|-----------------------------------------|------------------|---------------|---------------|--------------------|-----------------|-------------|
-| pl-marker (ACE05 bert)                  | 0.8              | 0.28          | 0.41          | 0.69               | 0.24            | 0.36        |
-| pl-marker (ACE05 albert-xxl)            | 0.8              | 0.14          | 0.24          | 0.7                | 0.12            | 0.21        |
-| flair (CoNLL-03)                        | 0.77             | 0.065         | 0.12          | 0.62               | 0.052           | 0.096       |
-| flair (OntoNotes)                       | 0.76             | 0.032         | 0.062         | 0.62               | 0.026           | 0.05        |
+### Benchmark-Annotated GS Evaluation:
 
+Note that we can't eval pl-marker's SciERC NER unless we make a SciERC GS, which is likely not worthwhile.
 
+#### CoNLL-2003 Labeled Entities
+|                                          |Prec (Strict)|Rec (Strict)|F1 (Strict)|Prec (Exact)|Rec (Exact)|F1 (Exact)|Prec (Partial)| Rec (Partial)|F1 (Partial)|Prec (Type)|Rec (Type)|F1 (Type)|
+|------------------------------------------|-------------|------------|-----------|------------|-----------|----------|--------------|--------------|------------|-----------|----------|---------|
+| flair (CoNLL-03)                         | 0.43        | 0.41       | 0.42      | 0.45       | 0.43      | 0.44     | 0.54         | 0.51         | 0.52       | 0.52      | 0.5      | 0.51    |
+| stanza (conll03_charlm)                  | 0.21        | 0.18       | 0.2       | 0.24       | 0.2       | 0.22     | 0.33         | 0.28         | 0.3        | 0.34      | 0.3      | 0.32    |
 
-The results below are the ones included in the paper, but need to be updated:
+#### OntoNotes Labeled Entities
+|                                          |Prec (Strict)|Rec (Strict)|F1 (Strict)|Prec (Exact)|Rec (Exact)|F1 (Exact)|Prec (Partial)| Rec (Partial)|F1 (Partial)|Prec (Type)|Rec (Type)|F1 (Type)|
+|------------------------------------------|-------------|------------|-----------|------------|-----------|----------|--------------|--------------|------------|-----------|----------|---------|
+| stanza (ontonotes_electra-large)         | 0.59        | 0.7        | 0.64      | 0.6        | 0.72      | 0.66     | 0.65         | 0.78         | 0.71       | 0.66      | 0.79     | 0.72    |
+| stanza (ontonotes-ww-multi_electra-large)| 0.41        | 0.55       | 0.47      | 0.42       | 0.56      | 0.48     | 0.49         | 0.66         | 0.57       | 0.51      | 0.68     | 0.58    |
+| flair (OntoNotes)                        | 0.32        | 0.61       | 0.42      | 0.36       | 0.68      | 0.47     | 0.4          | 0.77         | 0.53       | 0.4       | 0.76     | 0.52    |
+| stanza (ontonotes_charlm)                | 0.32        | 0.25       | 0.28      | 0.34       | 0.26      | 0.3      | 0.44         | 0.34         | 0.38       | 0.43      | 0.33     | 0.37    |
+| stanza (ontonotes_nocharlm)              | 0.23        | 0.22       | 0.23      | 0.31       | 0.3       | 0.31     | 0.41         | 0.4          | 0.4        | 0.3       | 0.29     | 0.29    |
+| stanza (ontonotes-ww-multi_nocharlm)     | 0.22        | 0.25       | 0.23      | 0.26       | 0.3       | 0.28     | 0.36         | 0.42         | 0.39       | 0.28      | 0.33     | 0.31    |
+| stanza (ontonotes-ww-multi_charlm)       | 0.31        | 0.18       | 0.22      | 0.36       | 0.21      | 0.27     | 0.57         | 0.33         | 0.42       | 0.56      | 0.32     | 0.41    |
+| spaCy EntityRecognizer (en_core_web_sm)  | 0.1         | 0.19       | 0.13      | 0.18       | 0.35      | 0.24     | 0.24         | 0.46         | 0.31       | 0.16      | 0.31     | 0.21    |
+| spaCy EntityRecognizer (en_core_web_lg)  | 0.071       | 0.16       | 0.098     | 0.14       | 0.32      | 0.2      | 0.18         | 0.41         | 0.25       | 0.092     | 0.21     | 0.13    |
 
-### CoNLL-2003 Labeled Entities
-|                                         | Strict  | Exact  | Partial  | Type    |
-|-----------------------------------------|---------|--------|----------|---------|
-| flair                                   | 0.4186  | 0.4419 | 0.5233   | 0.5116  |
+#### ACE Phase-1 (Restricted Set) Entities
+|                                          |Prec (Strict)|Rec (Strict)|F1 (Strict)|Prec (Exact)|Rec (Exact)|F1 (Exact)|Prec (Partial)| Rec (Partial)|F1 (Partial)|Prec (Type)|Rec (Type)|F1 (Type)|
+|------------------------------------------|-------------|------------|-----------|------------|-----------|----------|--------------|--------------|------------|-----------|----------|---------|
+| nltk (uppercased)                        | 0.0066      | 0.022      | 0.01      | 0.087      | 0.3       | 0.13     | 0.13         | 0.44         | 0.2        | 0.024     | 0.081    | 0.037   |
+| nltk (lowercased)                        | 0.0         | 0.0        | --        | 0.0        | 0.0       | --       | 0.0          | 0.0          | --         | 0.0       | 0.0      | --      |
 
-### OntoNotes Labeled Entities
-|                                         | Strict  | Exact  | Partial  | Type    |
-|-----------------------------------------|---------|--------|----------|---------|
-| stanza                                  | 0.2292  | 0.2917 | 0.4375   | 0.4167  |
-| spaCy EntityRecognizer (en_core_web_sm) | 0.1341  | 0.2458 | 0.3073   | 0.2123  |
-| spaCy EntityRecognizer (en_core_web_lg) | 0.0995  | 0.199  | 0.2587   | 0.1294  |
-
-### ACE Phase-1 (Restricted Set) Entities
-|                                         | Strict  | Exact  | Partial  | Type    |
-|-----------------------------------------|---------|--------|----------|---------|
-| nltk (uppercased)                       | 0.01015 | 0.1218 | 0.1929   | 0.03723 |
-
-### ACE-2005 Entities
-|                                         | Strict  | Exact  | Partial  | Type    |
-|-----------------------------------------|---------|--------|----------|---------|
-| PL-Marker (ACE05 bert) NER              | 0.5093  | 0.5252 | 0.6525   | 0.7533  |
-| PL-Marker (ACE05 albert-xxl) NER        | 0.3958  | 0.3958 | 0.4982   | 0.5866  |
+#### ACE-2005 Entities
+|                                          |Prec (Strict)|Rec (Strict)|F1 (Strict)|Prec (Exact)|Rec (Exact)|F1 (Exact)|Prec (Partial)| Rec (Partial)|F1 (Partial)|Prec (Type)|Rec (Type)|F1 (Type)|
+|------------------------------------------|-------------|------------|-----------|------------|-----------|----------|--------------|--------------|------------|-----------|----------|---------|
+| PL-Marker (ACE-2005 bert)                | 0.53        | 0.47       | 0.5       | 0.54       | 0.49      | 0.51     | 0.67         | 0.6          | 0.64       | 0.77      | 0.69     | 0.73    |
+| PL-Marker (ACE-2005 albert-xxl)          | 0.62        | 0.28       | 0.39      | 0.62       | 0.28      | 0.39     | 0.78         | 0.35         | 0.49       | 0.92      | 0.42     | 0.58    |
 
 ## CR
 
