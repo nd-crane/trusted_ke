@@ -30,6 +30,8 @@ GitHub: https://github.com/facebookresearch/GENRE
 6. Run the script to output the GENRE Results
    1. `pip install pandas`
    2. `python3.8 genre_faa.py`
+  
+7. Use genre_reformat.ipynb to do post-processing on results
 
 Results are in the data/results/genre folder
 ----------------------------
