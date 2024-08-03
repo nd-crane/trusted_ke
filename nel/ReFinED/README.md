@@ -18,7 +18,7 @@ Papers: https://arxiv.org/pdf/2207.04108.pdf, https://arxiv.org/pdf/2207.04106.p
 5. Do post-processing on results using reformat_refined.ipynb
 
 
-Results are in the data/results/refined folder
+Results are in the tool_results/refined folder
 ----------------------------
 
 #### Reproducibility Rating:

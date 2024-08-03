@@ -9,7 +9,7 @@ Sample of minimized jsonl data: \
 ['▁core', 'ference', '▁resolution', ':', '<speaker>', '▁', '-', '</speaker>', '▁to', 'w', '▁plane', '▁became', '▁air', 'borne', '▁then', '▁settled', '▁', '\\', '.', '▁student', '▁thought', '▁to', 'w', '▁in', '▁trouble', '▁', '&', '▁released', '▁', '\\', '.', '▁hit', '▁tree', '▁', '\\', '.', '</s>']\
 Each record in the FAA data, which is treated as its own doc in the CoNLL-12 format, is seen separate from the other records. The '\\' character denotes a break between sentences.\
 
-**Output:** evaluate_coref.py prints log statements, which are saved in coref/asp/faa_nohup.out. These logs include 3 print statements for each entry, coref/asp/analyze_output.ipynb scans the output for predicted coreferences. Since currently ASP is finding no coreferences, there is no code to save them in data/results\
+**Output:** evaluate_coref.py prints log statements, which are saved in coref/asp/faa_nohup.out. These logs include 3 print statements for each entry, coref/asp/analyze_output.ipynb scans the output for predicted coreferences. Since currently ASP is finding no coreferences, there is no code to save them in tool_results\
 
 ---
 

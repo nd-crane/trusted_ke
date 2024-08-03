@@ -20,7 +20,7 @@ Paper: https://aclanthology.org/2021.acl-short.3.pdf
 
 9. Follow directions on github for evaluation. Note that you'll likely want to run run_coref.py within the s2e-coref folder, so you should make your environment variables point to the parent directory
 
-10. Use interpret_predictions.ipynb to transform the raw results to a human readable csv, saved in data/results/s2e-coref
+10. Use interpret_predictions.ipynb to transform the raw results to a human readable csv, saved in tool_results/s2e-coref
 
 -----
 

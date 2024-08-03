@@ -72,10 +72,10 @@ The last three options are optional, and default to c5_id, corefs, and ../../gol
 Note that the environment requirements are listed on the top of the script in a comment.
 
 To evaluate CR tools:
-* python cr_eval.py -d ../../data/results/s2e-coref/s2e-coref_updated_format.csv
-* python cr_eval.py -d ../../data/results/asp/asp.csv
-* python cr_eval.py -d ../../data/results/ncoref/crosslingual_coref_with_errors.csv -i c5
-* python cr_eval.py -d ../../data/results/coref_mt5/coref_mt5.csv
+* python cr_eval.py -d ../../tool_results/s2e-coref/s2e-coref_updated_format.csv
+* python cr_eval.py -d ../../tool_results/asp/asp.csv
+* python cr_eval.py -d ../../tool_results/ncoref/crosslingual_coref_with_errors.csv -i c5
+* python cr_eval.py -d ../../tool_results/coref_mt5/coref_mt5.csv
 
 Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is an average of the F1 scores from MUC, B-CUBED (here represented as B3 for brevity), and CEAF.
 

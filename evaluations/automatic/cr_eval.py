@@ -69,8 +69,8 @@ if __name__=='__main__':
         '-g', '--gs_path',
         type=str,
         required=False,
-        default="../../gold_standard/gold/coref_gold.csv",
-        help='Path to NER gold standard'
+        default="../../gold_standard/processed/cr.csv",
+        help='Path to CR gold standard'
     )
 
     args = parser.parse_args()

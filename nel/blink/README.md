@@ -42,7 +42,7 @@ In interactive mode, it uses a function called _annotate in main_dense.py to tra
 
 You can either recreate our results by running annotate_faa.py, or simply us the faa_samples.json provided.
 
-9. Then, run run_blink.py. This script creates a blink_results.csv in data/results. run_blink.py gets both the biencoder (fast) predictions as well as the crossencoder predictions. It also translates the wikipedia links which BLINK uses for NEL to wikidata QIDs, sync better with other NEL tools. Lastly, it stores the results to data/results in a csv
+9. Then, run run_blink.py. This script creates a blink_results.csv in tool_results. run_blink.py gets both the biencoder (fast) predictions as well as the crossencoder predictions. It also translates the wikipedia links which BLINK uses for NEL to wikidata QIDs, sync better with other NEL tools. Lastly, it stores the results to tool_results in a csv
 
 ----
 

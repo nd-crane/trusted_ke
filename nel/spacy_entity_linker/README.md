@@ -10,7 +10,7 @@ spaCy Python Package: https://pypi.org/project/spacy-entity-linker/
 7. `pip install pandas`
 8. `python nel/spacy_entity_linker/sel_faa_formatted.py` Specify output path with --output_path and model name (en_core_web_sm, etc) with --model_name
 
-Results are in the data/results/spacy_entity_linker folder
+Results are in the tool_results/spacy_entity_linker folder
 ----------------------------
 
 #### Reproducibility Rating:

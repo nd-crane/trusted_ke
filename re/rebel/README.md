@@ -20,12 +20,12 @@ Setup:
 
 Example:
 
-python rebel_pipe.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../data/results/rebel/rebel_pipe.csv
+python rebel_pipe.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_pipe.csv
 
-python rebel_main.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../data/results/rebel/rebel_main.csv
+python rebel_main.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_main.csv
 
 You may also specify hyperparameters in the rebel_main.py script:\
-python rebel_main.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../data/results/rebel/rebel_main.csv --max_length 128 --length_penalty -1 --num_beams 5 --num_return_sentences 3
+python rebel_main.py --dataset_path ../../data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_main.csv --max_length 128 --length_penalty -1 --num_beams 5 --num_return_sentences 3
 
 The defaults for these hyperparameters is as follows:
 * max_length 256
@@ -44,6 +44,6 @@ The defaults for these hyperparameters is as follows:
 
 REBEL's documentation is informative and to-the-point, and the requirements.txt file is accurate. Making it available as a Huggingface pipeline component makes it versatile and easy to use. Using the model directly allows the user to specify number of beams and length penalty as well as the number of sentences to return.
 
-After a number of trials (output available in data/results/rebel), we determined that the Huggingface pipeline implementation of REBEL is deterministic, however, the direct implementation is not, regardless of hyperparameter settings. Because of this, we only use the spacy pipeline results when evaluating. To see how REBEL's results vary with hyperparameter settings and repeated runs, see data/results/rebel.
+After a number of trials (output available in tool_results/rebel), we determined that the Huggingface pipeline implementation of REBEL is deterministic, however, the direct implementation is not, regardless of hyperparameter settings. Because of this, we only use the spacy pipeline results when evaluating. To see how REBEL's results vary with hyperparameter settings and repeated runs, see tool_results/rebel.
 
 Moreover, we also found that REBEL is extremely sensitive to noise. An added space between a word and a period, or even a space after a period, will change the results that even the spacy pipeline implementation produces. This can lead to completely different triples, even if the entities in the triples themselves are not adjacent to the added space in the sentence. 
