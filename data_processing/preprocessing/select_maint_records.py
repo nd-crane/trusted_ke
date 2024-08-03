@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # All original downloaded data resides here:
-path_to_downloads = '../FAA_data/downloads/'
+path_to_downloads = '../../data/FAA_data/downloads/'
 
 # Get set of columns for each dataset so that we can find the common columns on which to concatenate data
 columns = []
@@ -45,4 +45,4 @@ maintenance_codes = ['AF', 'DE', 'AI', 'AP', 'AU', 'EQ', 'II', 'ME']
 
 concat_df = concat_df[concat_df['c78'].isin(maintenance_codes)]
 
-concat_df.to_csv('../FAA_data/Maintenance_Text_data.csv')
+concat_df.to_csv('../../data/FAA_data/Maintenance_Text_data.csv')

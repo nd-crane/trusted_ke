@@ -1,6 +1,6 @@
 import pandas as pd
 
-FAA_data = pd.read_csv("../FAA_data/Maintenance_Text_data.csv")
+FAA_data = pd.read_csv("../../data/FAA_data/Maintenance_Text_data.csv")
 
 textcol = "c119"
 text_data = FAA_data[textcol]
@@ -13,4 +13,4 @@ for irow in range(len(text_data)):
         
 text_data = text_data.drop(drop_rows)
 drop_data = FAA_data.drop(drop_rows)
-drop_data.to_csv("../FAA_data/Maintenance_Text_data_nona.csv")
+drop_data.to_csv("../../data/FAA_data/Maintenance_Text_data_nona.csv")
