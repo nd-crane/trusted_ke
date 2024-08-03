@@ -24,15 +24,13 @@ We have a gold standard for the each of following tasks:
 4. processed/ner_ace_nltk.csv - processed/ner_ace.csv without VEHICLE (or WEAPON) entities - based on the set of entity types used in ACE-Phase-1, which is what NLTK recognizes
 5. processed/ner_on.csv - Set of entities with labels found following OntoNotes annotation guidelines
 
-[TO-DO]
-
 **Overlap between NER Gold Standards:**
 
-|             | 'COR' | 'PAR' | 'POS' | 'ACT' |
-|-------------|-------|-------|-------|-------|
-| OntoNotes   |    38 |    18 |   498 |    60 |
-| CoNLL-03    |    26 |    18 |   498 |    44 |
-| ACE Phase1  |    63 |    50 |   498 |   120 |
-| ACE-2005    |    65 |    48 |   498 |   120 |
+Total refers to the total number of entities generated for the set of 100 sample records by each benchmark-annotated GS. Match and Partial refer to the number of entities in each benchmark-annotated GS that match or partially match an entity in our GS, regardless of label. Overlap is the sum of the matches and partial matches divided by the total number of entities in our GS, which is 510.
 
-*** NOTE: the numbers don't seem right
+|               | Total | Match | Partial | Overlap |
+|---------------|-------|-------|---------|---------|
+| Conll-2003    | 14    | 14    | 0       | 0.12    |
+| ACE-2005      | 195   | 133   | 54      | 0.11    |
+| ACE Phase 1   | 122   | 89    | 26      | 0.12    |
+| OntoNotes 5.0 | 61    | 52    | 9       | 0.12    |
