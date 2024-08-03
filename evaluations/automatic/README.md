@@ -113,30 +113,3 @@ Note that genre_independent.csv and genre_grouped.csv always get the same scores
 | BLINK (crossencoder)                    | 0.61        | 0.065      | 0.12      | 0.82      | 0.77         | 0.52      | 0.074    | 0.13    | 0.64    | 0.6        | 0.59      | 0.05     | 0.092   | 0.76    | 0.71       |
 | ReFinED                                 | 0.67        | 0.058      | 0.11      | 0.89      | 0.87         | 0.53      | 0.056    | 0.1     | 0.84    | 0.81       | 0.7       | 0.051    | 0.096   | 0.9     | 0.89       |
 | GENRE                                   | 0.12        | 0.0032     | 0.0063    | 0.32      | 0.28         | 0.059     | 0.0033   | 0.0063  | 0.27    | 0.2        | 0.2       | 0.0045   | 0.0087  | 0.37    | 0.33       |
-
-### NEL Eval (Strong Matching - Strong Matching and Primary GS)
-|                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
-|-----------------------------------------|-----------|---------|---------|---------------|------------------|
-| ReFinED                                 | 0.58333   | 0.03590 | 0.06763 | 0.80268  | 0.83960     |
-| BLINK (biencoder)                       | 0.63636   | 0.03571 | 0.06763 | 0.69958  | 0.74749     |
-| BLINK (crossencoder)                    | 0.63636   | 0.03571 | 0.06763 | 0.65093  | 0.71347     |
-| spaCy EntityLinker (en_core_web_lg)     | 0.13426   | 0.13615 | 0.13520 | 0.06686  | 0.12793     |
-| GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
-
-### NEL Eval (Weak Matching - Weak Matching and Primary GS)
-|                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
-|-----------------------------------------|-----------|---------|---------|---------------|------------------|
-| spaCy EntityLinker (en_core_web_lg)     | 0.11871   | 0.21290 | 0.15242 | 0.05244  | 0.10101     |
-| BLINK (crossencoder)                    | 0.60606   | 0.05168 | 0.09524 | 0.64975  | 0.68388     |
-| BLINK (biencoder)                       | 0.60606   | 0.05168 | 0.09524 | 0.64523  | 0.68311     |
-| ReFinED                                 | 0.46666   | 0.03646 | 0.06763 | 0.67026  | 0.70516     |
-| GENRE                                   | 0.0625    | 0.00260 | 0.00499 | 0.21851  | 0.24305     |
-
-### NEL Eval (Flexible - Strong Matching and Extended GS (Specific Entities w/o QIDs Given General QID))
-|                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |
-|-----------------------------------------|-----------|---------|---------|---------------|------------------|
-| spaCy EntityLinker (en_core_web_lg)     | 0.11905   | 0.13216 | 0.12526 | 0.06507  | 0.11494     |
-| ReFinED                                 | 0.58333   | 0.03189 | 0.06048 | 0.80268  | 0.83960     |
-| BLINK (biencoder)                       | 0.63636   | 0.03175 | 0.06048 | 0.69958  | 0.74749     |
-| BLINK (crossencoder)                    | 0.63636   | 0.03175 | 0.06048 | 0.65093  | 0.71347     |
-| GENRE                                   | 0.0       | 0.0     | 0       | 0.11320  | 0.24401     |
