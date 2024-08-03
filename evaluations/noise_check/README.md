@@ -1,5 +1,8 @@
 # Noise Sensitivity Evaluation
 
+**This experiment is in-progress and was not finished at time of publication**
+
+
 We test not only the performance of the KE tools, but their sensitivity to extraneous noise in the data. This is an important step in our process, since maintenance data will often include added noise such as extra spaces or characters due to a lack of proofreading or peculiarities of the system the logs are saved to.
 
 We select 20 entries from our data and add the following variations:
