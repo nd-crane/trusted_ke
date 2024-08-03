@@ -15,8 +15,8 @@ from corefeval import Document, Scorer
 
 def print_results(tool_name, conll_f1, metrics):
 
-    scores = {metric:{'prec':f"{metrics[metric]['precision']:.5}", 'rec':f"{metrics[metric]['recall']:.5}", 'f1':f"{metrics[metric]['f1']:.5}"} for metric in metrics}
-    conll_f1 = f"{conll_f1:.5}"
+    scores = {metric:{'prec':f"{metrics[metric]['precision']:.2}", 'rec':f"{metrics[metric]['recall']:.2}", 'f1':f"{metrics[metric]['f1']:.2}"} for metric in metrics}
+    conll_f1 = f"{conll_f1:.2}"
     
     print("|                    | MUC Prec | MUC Rec | MUC F1 | B3 Prec | B3 Rec |  B3 F1 | CEAF Prec | CEAF Rec | CEAF F1 | Con12 F1 | LEA Prec | LEA Rec | LEA F1 |")
     print("|--------------------|----------|---------|--------|---------|--------|--------|-----------|----------|---------|----------|----------|---------|--------|")
