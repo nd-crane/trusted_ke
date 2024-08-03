@@ -8,15 +8,11 @@ import argparse
 
 def print_results(tool_name, scores_dict):
 
-    print(f'\n### Automatic NEL Evaluation of {tool_name.title()} ###')
-    for setup in scores_dict:
-        print('------------------------------------------------------------')
-        print(setup)
-        for metric in scores_dict[setup]:
-            print(f"{metric+':':20} {scores_dict[setup][metric]}")
-    print('------------------------------------------------------------')
-
-    return
+    scores = {setup:{metric:f"{scores_dict[setup][metric]:.2}" for metric in scores_dict[setup]} for setup in scores_dict}
+    
+    print('|                                         |Prec (Strong)|Rec (Strong)|F1 (Strong)|JC (Strong)|Class (Strong)|Prec (Weak)|Rec (Weak)|F1 (Weak)|JC (Weak)|Class (Weak)|Prec (Flex)|Rec (Flex)|F1 (Flex)|JC (Flex)|Class (Flex)|')
+    print('|-----------------------------------------|-------------|------------|-----------|-----------|--------------|-----------|----------|---------|---------|------------|-----------|----------|---------|---------|------------|')
+    print(f"| {tool_name:40}| {scores['strong']['Precision']:12}| {scores['strong']['Recall']:11}| {scores['strong']['F1']:10}| {scores['strong']['JC Sem. Sim.']:10}| {scores['strong']['Class Sem. Sim.']:13}| {scores['weak']['Precision']:10}| {scores['weak']['Recall']:9}| {scores['weak']['F1']:8}| {scores['weak']['JC Sem. Sim.']:8}| {scores['weak']['Class Sem. Sim.']:11}| {scores['flexible']['Precision']:10}| {scores['flexible']['Recall']:9}| {scores['flexible']['F1']:8}| {scores['flexible']['JC Sem. Sim.']:8}| {scores['flexible']['Class Sem. Sim.']:11}|")
 
 ## DATA PROCESSING FUNCS #############################################################################################
 
@@ -98,15 +94,14 @@ def prune_gold_set(gs_entities, gs_qids, gold_set, fill_in_qids):
 
 ## F1 SCORE CALCULATION (Following GERBIL, with extra options) ############################################################
 
-def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, qid_col, matching='WEAK', gold_set='PRIMARY', fill_in_qids=False):
+def calculate_precision_recall_f1(gs, df_tool, qid_col, matching='WEAK', gold_set='PRIMARY', fill_in_qids=False):
     """
     Calculate precision, recall, and F1 based on entity-qid links comparison between gs (ground truth) and df_tool (answers).
     
     Parameters:
     - gs: DataFrame with columns ['id', 'sample', 'entities','qids'] representing the ground truth.
-    - df_tool: DataFrame with columns [id_col, ent_col, qid_col] representing the tool's answers.
-    - id_col, ent_col, and qid_col are the column names used in df_tool for the docid, entities (the mentions
-    from the text, not Wikidata entity titles), and the QIDs, respectively.
+    - df_tool: DataFrame with columns ['c5_id', 'mentions', qid_col] representing the tool's answers.
+    - qid_col is the column names used in df_tool for the QIDs
     - matching may be "WEAK" or "STRONG". Strong matching counts an entity-link pair as correct if the entity
     exactly matches the entity in the gold standard, and the links are the same. Weak matching counts it as
     correct if the entity overlaps with the entity in the gold standard, and the links are the same.
@@ -132,8 +127,8 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, qid_col, matchin
         if len(gs_entities) == 0:
             continue
 
-        selected_rows = df_tool[df_tool[id_col] == gs_id][qid_col].dropna().index # select rows in df_tool which have same docid as gsid, and there is a QID for the entity in the row
-        tool_entities = [entity.upper() for entity in df_tool.loc[selected_rows][ent_col]] # get all the entities the tool generated for the gs_id entry
+        selected_rows = df_tool[df_tool['c5_id'] == gs_id][qid_col].dropna().index # select rows in df_tool which have same docid as gsid, and there is a QID for the entity in the row
+        tool_entities = [entity.upper() for entity in df_tool.loc[selected_rows]['mentions']] # get all the entities the tool generated for the gs_id entry
         tool_qids = [qid for qid in df_tool.loc[selected_rows][qid_col]] # get all the entities the tool generated for the gs_id entry
 
         # Check for False Negative (Gold Standard ent does not appear in tool output)
@@ -167,16 +162,15 @@ def calculate_precision_recall_f1(gs, df_tool, id_col, ent_col, qid_col, matchin
 
 ## SEMANTIC SIMILARITY SCORE UTILS #####################################################################
 
-def match_gold_pred(gs, df_tool, id_col, ent_col, qid_col, matching, gold_set, fill_in_qids):
+def match_gold_pred(gs, df_tool, qid_col, matching, gold_set, fill_in_qids):
 
     '''
     Returns 5 equal-length lists representing intersection between gold standard entity-qid links and tool-predicted entity-qid links where entities match and qids are present.
 
     Parameters:
     - gs: DataFrame with columns ['id', 'sample', 'entities','qids'] representing the ground truth.
-    - df_tool: DataFrame with columns [id_col, ent_col, qid_col] representing the tool's answers.
-    - id_col, ent_col, and qid_col are the column names used in df_tool for the docid, entities (the mentions
-    from the text, not Wikidata entity titles), and the QIDs, respectively.
+    - df_tool: DataFrame with columns ['c5_id', 'mentions', qid_col] representing the tool's answers.
+    - qid_col is the column names used in df_tool for the QIDs
     - matching may be "WEAK" or "STRONG". Strong matching counts an entity-link pair as correct if the entity
     exactly matches the entity in the gold standard, and the links are the same. Weak matching counts it as
     correct if the entity overlaps with the entity in the gold standard, and the links are the same.
@@ -210,8 +204,8 @@ def match_gold_pred(gs, df_tool, id_col, ent_col, qid_col, matching, gold_set, f
         if len(gs_entities) == 0:
             continue
         
-        selected_rows = df_tool[df_tool[id_col] == gs_id][qid_col].dropna().index # select rows in df_tool which have same docid as gsid, and there is a QID for the entity in the row
-        tool_entities = [entity.upper() for entity in df_tool.loc[selected_rows][ent_col]] # get all the entities the tool generated for the gs_id entry
+        selected_rows = df_tool[df_tool['c5_id'] == gs_id][qid_col].dropna().index # select rows in df_tool which have same docid as gsid, and there is a QID for the entity in the row
+        tool_entities = [entity.upper() for entity in df_tool.loc[selected_rows]['mentions']] # get all the entities the tool generated for the gs_id entry
         tool_qids = [qid for qid in df_tool.loc[selected_rows][qid_col]] # get all the entities the tool generated for the gs_id entry
     
         # Find matching gold standard and output entity-link pair if present
@@ -332,15 +326,14 @@ def get_jc_score(score_df, id, tool_ent, gold_ent, q1_gold, q2_pred):
 
     return jc_score
 
-def calculate_class_jc(gold_df, result_df, id_col, ent_col, qid_col, matching='STRONG', gold_set='PRIMARY', fill_in_qids=False, url='https://kgtk.isi.edu/similarity_api'):
+def calculate_class_jc(gold_df, result_df, qid_col, matching='STRONG', gold_set='PRIMARY', fill_in_qids=False, url='https://kgtk.isi.edu/similarity_api'):
     '''
     Calculate class similarity score and JC metric based on entity-qid link comparison between gs (ground truth) and df_tool (answers).
     
     Parameters:
     - gs: DataFrame with columns ['id', 'sample', 'entities','qids'] representing the ground truth.
-    - df_tool: DataFrame with columns [id_col, ent_col, qid_col] representing the tool's answers.
-    - id_col, ent_col, and qid_col are the column names used in df_tool for the docid, entities (the mentions
-    from the text, not Wikidata entity titles), and the QIDs, respectively.
+    - df_tool: DataFrame with columns ['c5_id', 'mentions', qid_col] representing the tool's answers.
+    - qid_col is the column names used in df_tool for the QIDs
     - matching may be "WEAK" or "STRONG". Strong matching counts an entity-link pair as correct if the entity
     exactly matches the entity in the gold standard, and the links are the same. Weak matching counts it as
     correct if the entity overlaps with the entity in the gold standard, and the links are the same.
@@ -357,7 +350,7 @@ def calculate_class_jc(gold_df, result_df, id_col, ent_col, qid_col, matching='S
     '''
     
     # Get all entity-link pair candidates for evaluation
-    id, tool_ent, gold_ent, q1_gold, q2_pred = match_gold_pred(gold_df, result_df, id_col,ent_col,qid_col, matching, gold_set, fill_in_qids)
+    id, tool_ent, gold_ent, q1_gold, q2_pred = match_gold_pred(gold_df, result_df, qid_col, matching, gold_set, fill_in_qids)
     
     # Call API
     make_temp(q1_gold, q2_pred)
@@ -370,7 +363,7 @@ def calculate_class_jc(gold_df, result_df, id_col, ent_col, qid_col, matching='S
 
     return class_score, jc_score
 
-def main(gs_path, result_path, id_col, ent_col, qid_col):
+def main(gs_path, result_path, qid_col):
 
     gold_df = pd.read_csv(gs_path)
     print("Gold Standard")
@@ -383,31 +376,31 @@ def main(gs_path, result_path, id_col, ent_col, qid_col):
     # Strong matching / primary GS setup
     print("Calculating scores for Strong Matching and Primary GS")
     print("F1...")
-    strong_prec, strong_rec, strong_f1 = calculate_precision_recall_f1(gold_df, result_df, id_col, ent_col, qid_col, matching="STRONG", gold_set="PRIMARY", fill_in_qids=False)
+    strong_prec, strong_rec, strong_f1 = calculate_precision_recall_f1(gold_df, result_df, qid_col, matching="STRONG", gold_set="PRIMARY", fill_in_qids=False)
     print("Semantic similarity...")
-    strong_class, strong_jc = calculate_class_jc(gold_df, result_df, id_col, ent_col, qid_col, matching="STRONG", gold_set="PRIMARY", fill_in_qids=False)
+    strong_class, strong_jc = calculate_class_jc(gold_df, result_df, qid_col, matching="STRONG", gold_set="PRIMARY", fill_in_qids=False)
     print("Done")
 
     # Weak matching / primary GS setup  
     print("Calculating scores for Weak Matching and Primary GS")
     print("F1...")
-    weak_prec, weak_rec, weak_f1 = calculate_precision_recall_f1(gold_df, result_df, id_col, ent_col, qid_col, matching="WEAK", gold_set="PRIMARY", fill_in_qids=False)
+    weak_prec, weak_rec, weak_f1 = calculate_precision_recall_f1(gold_df, result_df, qid_col, matching="WEAK", gold_set="PRIMARY", fill_in_qids=False)
     print("Semantic similarity...")
-    weak_class, weak_jc = calculate_class_jc(gold_df, result_df, id_col, ent_col, qid_col, matching="WEAK", gold_set="PRIMARY", fill_in_qids=False)
+    weak_class, weak_jc = calculate_class_jc(gold_df, result_df, qid_col, matching="WEAK", gold_set="PRIMARY", fill_in_qids=False)
     print("Done")
 
     # Strong matching / Extended GS setup
-    print("Calculating scores for Strong Matching and Extended GS (Specific Entities w/o QIDs Given General QID)")
+    print("Calculating scores for Flexible GS (Specific Entities w/o QIDs Given General QID, Use Strong Matching)")
     print("F1...")
-    ext_prec, ext_rec, ext_f1 = calculate_precision_recall_f1(gold_df, result_df, id_col, ent_col, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=True)
+    ext_prec, ext_rec, ext_f1 = calculate_precision_recall_f1(gold_df, result_df, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=True)
     print("Semantic similarity...")
-    ext_class, ext_jc = calculate_class_jc(gold_df, result_df, id_col, ent_col, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=True)
+    ext_class, ext_jc = calculate_class_jc(gold_df, result_df, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=True)
     print("Done\n")
 
     scores_dict = {}
-    scores_dict["Evaluation with Strong Matching and Primary GS"] = {"Precision":strong_prec, "Recall":strong_rec, "F1":strong_f1, "Class Sem. Sim.":strong_class, "JC Sem. Sim.":strong_jc}
-    scores_dict["Evaluation with Weak Matching and Primary GS"] = {"Precision":weak_prec, "Recall":weak_rec, "F1":weak_f1, "Class Sem. Sim.":weak_class, "JC Sem. Sim.":weak_jc}
-    scores_dict["Evaluation with Strong Matching and Extended GS\nSpecific Entities w/o QIDs Given General QID"] = {"Precision":ext_prec, "Recall":ext_rec, "F1":ext_f1, "Class Sem. Sim.":ext_class, "JC Sem. Sim.":ext_jc}
+    scores_dict["strong"] = {"Precision":strong_prec, "Recall":strong_rec, "F1":strong_f1, "Class Sem. Sim.":strong_class, "JC Sem. Sim.":strong_jc}
+    scores_dict["weak"] = {"Precision":weak_prec, "Recall":weak_rec, "F1":weak_f1, "Class Sem. Sim.":weak_class, "JC Sem. Sim.":weak_jc}
+    scores_dict["flexible"] = {"Precision":ext_prec, "Recall":ext_rec, "F1":ext_f1, "Class Sem. Sim.":ext_class, "JC Sem. Sim.":ext_jc}
     print_results(tool_name, scores_dict)
 
 
@@ -420,20 +413,6 @@ if __name__=='__main__':
         type=str,
         required=True,
         help='path/to/results/dataset.csv'
-    )
-    parser.add_argument(
-        '-i', '--id_col',
-        type=str,
-        required=False,
-        default="c5_id",
-        help='Name of column in input dataset which contains unique identifier'
-    )
-    parser.add_argument(
-        '-e', '--ent_col',
-        type=str,
-        required=False,
-        default="entities",
-        help='Name of column in results dataset which contains entities'
     )
     parser.add_argument(
         '-q', '--qid_col',
@@ -453,4 +432,4 @@ if __name__=='__main__':
     args = parser.parse_args()
 
     # call eval
-    main(args.gs_path, args.dataset_path, args.id_col, args.ent_col, args.qid_col)
+    main(args.gs_path, args.dataset_path, args.qid_col)

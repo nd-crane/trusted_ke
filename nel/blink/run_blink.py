@@ -79,7 +79,7 @@ biencoder_predictions = result[5]
 ## Store results
 og_data = pd.read_csv("../../data/FAA_data/Maintenance_Text_data_nona.csv")
 
-results_dict = {"doc_idx":[], "c5_id":[], "sent_idx":[], "original_sentence":[], "input":[], "mention":[], "bi_pred_entity":[], "bi_qid":[], "bi_desc":[], "cross_pred_entity":[], "cross_qid":[],"cross_desc":[]}
+results_dict = {"doc_idx":[], "c5_id":[], "sent_idx":[], "original_sentence":[], "input":[], "mentions":[], "bi_pred_entity":[], "bi_qid":[], "bi_desc":[], "cross_pred_entity":[], "cross_qid":[],"cross_desc":[]}
 
 url2qid = {} # stores each looked-up qid for faster referencing later
 
@@ -90,7 +90,7 @@ for isample, sample in enumerate(samples):
     results_dict["sent_idx"].append(sample["sent_idx"])
     results_dict["original_sentence"].append(og_data["c119"].iat[sample["doc_idx"]])
     results_dict["input"].append(''.join([sample["context_left"], sample["mention"], sample["context_right"]]))
-    results_dict["mention"].append(sample["mention"])
+    results_dict["mentions"].append(sample["mention"])
     
     # Biencoder
     entity = biencoder_predictions[isample][0] # just taking top one
@@ -122,4 +122,4 @@ for isample, sample in enumerate(samples):
     results_dict["cross_qid"].append(qid)
     results_dict["cross_desc"].append(desc)
     
-pd.DataFrame(results_dict).to_csv("../../data/results/blink/blink_results.csv", index=False)
+pd.DataFrame(results_dict).to_csv("../../tool_results/blink/blink_results.csv", index=False)

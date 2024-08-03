@@ -79,14 +79,14 @@ To evaluate CR tools:
 
 Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is an average of the F1 scores from MUC, B-CUBED (here represented as B3 for brevity), and CEAF.
 
-|                    | MUC Prec | MUC Rec | MUC F1 | B3 Prec | B3 Rec | B3 F1 | CEAF Prec | CEAF Rec | CEAF F1 | Con12 F1 | LEA Prec | LEA Rec | LEA F1 |
-|--------------------|----------|---------|--------|---------|--------|-------|-----------|----------|---------|----------|----------|---------|--------|
-| s2e-coref          | 0.87500  | 0.73684 |0.80000 | 0.87097 |0.72973 |0.79412| 0.86667   | 0.72222  | 0.78788 | 0.79400  | 0.87097  | 0.72973 | 0.79412|
-| ASP (flant5-large) | 0.7      | 0.73684 | 0.71795| 0.7265  | 0.76577| 0.74561| 0.77193   | 0.81481  | 0.79279 | 0.75212  | 0.69231  | 0.72973 | 0.71053|
-| ASP (flant5-xl)    | 0.73333  | 0.57895 | 0.64706| 0.75287 | 0.59009| 0.66162| 0.79762   | 0.62037  | 0.69792 | 0.66886  | 0.72414  | 0.56757 | 0.63636|
-| ASP (flant5-base)  | 0.66666  | 0.52632 |0.58824 | 0.68391 |0.53604 |0.60101| 0.72619   | 0.56481  | 0.63542 | 0.60822  | 0.65517  | 0.51351 | 0.57576|
-| neuralcoref        | 0.57143  | 0.42105 |0.48485 | 0.58929 |0.42793 |0.49581| 0.59286   | 0.46111  | 0.51875 | 0.49980  | 0.57143  | 0.40541 | 0.47431|
-| coref_mt5          | 0.80000  | 0.21053 |0.33333 | 0.85000 |0.19820 |0.32144| 0.76000   | 0.21111  | 0.33043 | 0.32840  | 0.80000  | 0.18919 | 0.30601|
+|                              | MUC Prec | MUC Rec | MUC F1 | B3 Prec | B3 Rec | B3 F1 | CEAF Prec | CEAF Rec | CEAF F1 | Con12 F1 | LEA Prec | LEA Rec | LEA F1 |
+|------------------------------|----------|---------|--------|---------|--------|-------|-----------|----------|---------|----------|----------|---------|--------|
+| s2e-coref                    | 0.87500  | 0.73684 |0.80000 | 0.87097 |0.72973 |0.79412| 0.86667   | 0.72222  | 0.78788 | 0.79400  | 0.87097  | 0.72973 | 0.79412|
+| ASP (flant5-large)           | 0.7      | 0.73684 | 0.71795| 0.7265  | 0.76577| 0.74561| 0.77193  | 0.81481  | 0.79279 | 0.75212  | 0.69231  | 0.72973 | 0.71053|
+| ASP (flant5-xl)              | 0.73333  | 0.57895 | 0.64706| 0.75287 | 0.59009| 0.66162| 0.79762  | 0.62037  | 0.69792 | 0.66886  | 0.72414  | 0.56757 | 0.63636|
+| ASP (flant5-base)            | 0.66666  | 0.52632 |0.58824 | 0.68391 |0.53604 |0.60101| 0.72619   | 0.56481  | 0.63542 | 0.60822  | 0.65517  | 0.51351 | 0.57576|
+| neuralcoref (en_core_web_lg) | 0.57143  | 0.42105 |0.48485 | 0.58929 |0.42793 |0.49581| 0.59286   | 0.46111  | 0.51875 | 0.49980  | 0.57143  | 0.40541 | 0.47431|
+| coref_mt5                    | 0.80000  | 0.21053 |0.33333 | 0.85000 |0.19820 |0.32144| 0.76000   | 0.21111  | 0.33043 | 0.32840  | 0.80000  | 0.18919 | 0.30601|
 
 ## NEL
 
@@ -96,13 +96,23 @@ The last four options are optional, and default to c5_id, entities, qids, and ..
 **Important Note:** Blink and SpacyEntity Linker list entities as their Wikidata titles, and have seperate mentions columns that contain the literal mention from the text that was recognized as an entity. Therefore, when processing these, ent_col should be set to mentions, since the gold standard NEL entities use text mentions. ReFinED and GENRE list the actual mention from the text as the entity and have a title column with the Wikidata title, so their ent_col is the default, entities.
 
 To evaluate NEL tools:
-* python nel_eval.py -d ../../data/results/refined/refined.csv -q ids
-* python nel_eval.py -d ../../data/results/blink/blink_results_new.csv -e mention -q bi_qid
-* python nel_eval.py -d ../../data/results/blink/blink_results_new.csv -e mention -q cross_qid
-* python nel_eval.py -d ../../data/results/spacy_entity_linker/spacy_entitylinker.csv -e mentions
-* python nel_eval.py -d ../../data/results/genre/genre_independent.csv -i c5_unique_id
+* python nel_eval.py -d ../../tool_results/refined/refined.csv
+* python nel_eval.py -d ../../tool_results/blink/blink.csv -q bi_qid
+* python nel_eval.py -d ../../tool_results/blink/blink.csv -q cross_qid
+* python nel_eval.py -d ../../tool_results/spacy_entity_linker/spacy_entitylinker_lg.csv
+* python nel_eval.py -d ../../tool_results/spacy_entity_linker/spacy_entitylinker_sm.csv
+* python nel_eval.py -d ../../tool_results/genre/genre_independent.csv
 
 Note that genre_independent.csv and genre_grouped.csv always get the same scores, so we evaluate them as one
+
+|                                         |Prec (Strong)|Rec (Strong)|F1 (Strong)|JC (Strong)|Class (Strong)|Prec (Weak)|Rec (Weak)|F1 (Weak)|JC (Weak)|Class (Weak)|Prec (Flex)|Rec (Flex)|F1 (Flex)|JC (Flex)|Class (Flex)|
+|-----------------------------------------|-------------|------------|-----------|-----------|--------------|-----------|----------|---------|---------|------------|-----------|----------|---------|---------|------------|
+| spaCy EntityLinker (en_core_web_lg)     | 0.19        | 0.2        | 0.19      | 0.15      | 0.082        | 0.15      | 0.3      | 0.2     | 0.13    | 0.069      | 0.15      | 0.18     | 0.16    | 0.14    | 0.077      |
+| spaCy EntityLinker (en_core_web_sm)     | 0.17        | 0.21       | 0.19      | 0.15      | 0.073        | 0.14      | 0.3      | 0.19    | 0.14    | 0.071      | 0.15      | 0.17     | 0.16    | 0.15    | 0.081      |
+| BLINK (biencoder)                       | 0.64        | 0.068      | 0.12      | 0.82      | 0.77         | 0.57      | 0.08     | 0.14    | 0.68    | 0.64       | 0.62      | 0.052    | 0.096   | 0.76    | 0.71       |
+| BLINK (crossencoder)                    | 0.61        | 0.065      | 0.12      | 0.82      | 0.77         | 0.52      | 0.074    | 0.13    | 0.64    | 0.6        | 0.59      | 0.05     | 0.092   | 0.76    | 0.71       |
+| ReFinED                                 | 0.67        | 0.058      | 0.11      | 0.89      | 0.87         | 0.53      | 0.056    | 0.1     | 0.84    | 0.81       | 0.7       | 0.051    | 0.096   | 0.9     | 0.89       |
+| GENRE                                   | 0.12        | 0.0032     | 0.0063    | 0.32      | 0.28         | 0.059     | 0.0033   | 0.0063  | 0.27    | 0.2        | 0.2       | 0.0045   | 0.0087  | 0.37    | 0.33       |
 
 ### NEL Eval (Strong Matching - Strong Matching and Primary GS)
 |                                         | Precision | Recall  | F1      | JC Similarity | Class Similarity |

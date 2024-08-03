@@ -1,4 +1,4 @@
-,c5_id,c119_input,c119_entity_linking,entities,labels,titles,ids
+Unnamed: 0,c5_id,c119_input,c119_entity_linking,mentions,labels,titles,qids
 0,19750315005389A,TAILWHEEL COCKED RIGHT PRIOR TO TKOF.                                                                              ,"[['TAILWHEEL COCKED', Entity not linked to a knowledge base, None], ['TKOF', Entity(wikidata_entity_id=Q7690028, wikipedia_entity_title=Taylor knock-out factor), None]]",TAILWHEEL COCKED,,,
 1,19750315005389A,TAILWHEEL COCKED RIGHT PRIOR TO TKOF.                                                                              ,"[['TAILWHEEL COCKED', Entity not linked to a knowledge base, None], ['TKOF', Entity(wikidata_entity_id=Q7690028, wikipedia_entity_title=Taylor knock-out factor), None]]",TKOF,,Taylor knock-out factor,Q7690028
 2,19750419011349A,TOW PLANE BECAME AIRBORNE THEN SETTLED.STUDENT THOUGHT TOW IN TROUBLE & RELEASED.HIT TREE.                         ,"[['PLANE BECAME', Entity not linked to a knowledge base, None], ['ORNE', Entity not linked to a knowledge base, None]]",PLANE BECAME,,,
