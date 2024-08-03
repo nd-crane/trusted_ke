@@ -27,13 +27,13 @@ def process_row(sentence, model, device):
     return result
 
 def output_results(row_limit=None, batch_size=100):  # Run all in one batch
-    df = pd.read_csv('../../gold_standard/raw/samples.csv')
+    df = pd.read_csv('../../data/FAA_data/FAA_sample_100.csv')
 
     # Apply row limit if specified
     if row_limit is not None:
         df = df.head(row_limit)
 
-    new_df = pd.DataFrame(df['c5_unique_id'], columns=['c5_unique_id'])
+    new_df = pd.DataFrame(df['c5'], columns=['c5_unique_id'])
     textcols = ['c119_text']
 
     # Load the model once
@@ -41,7 +41,7 @@ def output_results(row_limit=None, batch_size=100):  # Run all in one batch
     model, device = load_model(model_path)
 
     # Add original columns
-    new_df['c119_text'] = df['c119_text']
+    new_df['c119_text'] = df['c119']
 
     # Add columns with GENRE output information
     results = []
@@ -50,7 +50,7 @@ def output_results(row_limit=None, batch_size=100):  # Run all in one batch
     with ThreadPoolExecutor() as executor:
         futures = []
         for i in range(0, len(df), batch_size):
-            batch = df['c119_text'][i:i+batch_size]
+            batch = df['c119'][i:i+batch_size]
             futures.extend([executor.submit(process_row, row, model, device) for row in batch])
         
         for future in futures:

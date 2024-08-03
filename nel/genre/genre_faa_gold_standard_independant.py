@@ -38,27 +38,27 @@ def process_row(sentence_model_tuple):
     return result
 
 def output_results(row_limit=None, batch_size=100):  # Run all in one batch
-    df = pd.read_csv('../../gold_standard/raw/samples.csv')
+    df = pd.read_csv('../../data/FAA_data/FAA_sample_100.csv')
 
     # Apply row limit if specified
     if row_limit is not None:
         df = df.head(row_limit)
 
-    new_df = pd.DataFrame(df['c5_unique_id'], columns=['c5_unique_id'])
+    new_df = pd.DataFrame(df['c5'], columns=['c5_unique_id'])
     textcols = ['c119_text']
 
     # Load the model path
     model_path = "model/fairseq_e2e_entity_linking_aidayago"
 
     # Add original columns
-    new_df['c119_text'] = df['c119_text']
+    new_df['c119_text'] = df['c119']
 
     # Add columns with GENRE output information
     results = []
     pbar = tqdm(total=len(df))
     with Pool() as pool:
         for i in range(0, len(df), batch_size):
-            batch = [(row, model_path) for row in df['c119_text'][i:i+batch_size]]
+            batch = [(row, model_path) for row in df['c119'][i:i+batch_size]]
             batch_results = pool.map(process_row, batch)
             results.extend(batch_results)
             
