@@ -50,7 +50,7 @@ def output_results(row_limit=None):
     new_df['c119_output'] = df['c119'].apply(lambda x: unirel.predict(x) if pd.notnull(x) else x)
     # Add timestamp to the output file path
     timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-    filepath = Path(f'data/results/unirel/FAA_DataModel_{timestamp}.csv')
+    filepath = Path(f'FAA_DataModel_{timestamp}.csv')
     filepath.parent.mkdir(parents=True, exist_ok=True)
     
     new_df.to_csv(filepath, index=False)  # Specify index=False to avoid saving row indices

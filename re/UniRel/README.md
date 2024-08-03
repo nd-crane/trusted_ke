@@ -19,6 +19,8 @@ Setup:
 6. Run the script `python3.8 pretrain_setup.py` from the bert-base-cased directory  to download the bert model from HuggingFace 
 
 7. Run the script `python3.8 unirel_faa.py` to run the UniRel NYT model on the FAA data
+
+8. Do post-processing with unirel_reformat.ipynb
 ----------------------------
 #### Reproducibility Rating:
 <img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">

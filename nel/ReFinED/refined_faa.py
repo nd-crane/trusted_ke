@@ -34,7 +34,7 @@ def refined_results(row_limit=None):
     
     # Add timestamp to the output file path
     timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-    filepath = Path(f'../../data/results/refined/FAA_DataModel_{timestamp}.csv')
+    filepath = Path(f'FAA_DataModel_{timestamp}.csv')
     filepath.parent.mkdir(parents=True, exist_ok=True)
     
     new_df.to_csv(filepath, index=False)  # Specify index=False to avoid saving row indices
