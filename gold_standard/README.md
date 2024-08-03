@@ -30,7 +30,7 @@ Total refers to the total number of entities generated for the set of 100 sample
 
 |               | Total | Match | Partial | Overlap |
 |---------------|-------|-------|---------|---------|
-| Conll-2003    | 14    | 14    | 0       | 0.12    |
+| Conll-2003    | 44    | 36    | 8       | 0.12    |
 | ACE-2005      | 195   | 133   | 54      | 0.11    |
 | ACE Phase 1   | 122   | 89    | 26      | 0.12    |
 | OntoNotes 5.0 | 61    | 52    | 9       | 0.12    |
