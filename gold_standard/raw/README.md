@@ -4,9 +4,11 @@
 
 The NER gold standard was created manually abiding by the following guidelines:
 
-* Noun phrases consist of a head noun and modifying articles, adjectives, or other phrases. Entities drawn from noun phrases use the largest logical span of the noun phrase that can include modifiers which are inherent to the identitity of the head noun, and exclude modifiers and articles which are only incidental to it. For example, in the sentence, "Loose cowling on takeoff", the modifier, "loose," is excluded because it is only incidental to "cowling." However, in the sentence "Battery compartment door opened", the modifiying phrase, "battery compartment," is included because the door is inherently a battery compartment door.
+* We follow ACE-2005 to label persons, locations, organizations, geo-political entities (GPEs), facilities, weapons, and vehicles. We make a few exceptions. First, we include "ground" and "land", since they are distinct locations in aviation, where they are often used to differentiate from airspace. We also exclude articles from our entities, but keep all other modifiers. Lastly, we do not include relative clauses or relative pronouns in our GS, since they are unhelpful as a basis for NEL.
 
-* When nouns are used as modifiers as part of a named entity, they cannot also be their own named entities. For example, the "fuel" in "Pilot found water in fuel" is ignored, since it falls inside of the span of the Cause/Condition type named entity, "water in fuel".
+* We follow OntoNotes 5.0 to label dates, times, quanitities, and cardinals.
+
+* Additionally, we label entities which fall into one of the following categories: vehicle system/component, operational items (fuel, oil, load, etc.), failures, causes of failures, symptoms of failures, phases of flight (takeoff, climb, landing, etc.), types of flight (ferry flight, test flight, etc.), and procedures (maintenance, safety checks, etc.). Future work could involve formalizing these categories into well-defined entity types. We follow ACE-2005 in all syntactical rules such as inclusion of modifiying phrases (with the exception of articles), nesting entities, treating appositives, etc.
 
 ### Coreference Resolution
 
