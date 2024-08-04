@@ -41,6 +41,8 @@ The NER gold standard was created manually abiding by the following guidelines:
 
 * Additionally, we label entities which fall into one of the following categories: vehicle system/component, operational items (fuel, oil, load, etc.), failures, causes of failures, symptoms of failures, phases of flight (takeoff, climb, landing, etc.), types of flight (ferry flight, test flight, etc.), and procedures (maintenance, safety checks, etc.). Future work could involve formalizing these categories into well-defined entity types. We follow ACE-2005 in all syntactical rules such as inclusion of modifiying phrases (with the exception of articles), nesting entities, treating appositives, etc.
 
+* We ignore all typos and words that are cut off at the end of the record. However, we do include shorthand and acronyms (``ACFT" for aircraft, ``PROP" for propeller, etc.)
+
 ### Benchmark-Annotated NER GSs (CoNLLFAA, ACE1FAA, ACE05FAA, ONFAA)
 
 See annotation guidelines:
