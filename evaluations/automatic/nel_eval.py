@@ -8,7 +8,7 @@ import argparse
 
 def print_results(tool_name, scores_dict):
 
-    scores = {setup:{metric:f"{scores_dict[setup][metric]:.2}" for metric in scores_dict[setup]} for setup in scores_dict}
+    scores = {setup:{metric:f"{float(scores_dict[setup][metric]):.2}" for metric in scores_dict[setup]} for setup in scores_dict}
     
     print('|                                         |Prec (Strong)|Rec (Strong)|F1 (Strong)|JC (Strong)|Class (Strong)|Prec (Weak)|Rec (Weak)|F1 (Weak)|JC (Weak)|Class (Weak)|Prec (Flex)|Rec (Flex)|F1 (Flex)|JC (Flex)|Class (Flex)|')
     print('|-----------------------------------------|-------------|------------|-----------|-----------|--------------|-----------|----------|---------|---------|------------|-----------|----------|---------|---------|------------|')
