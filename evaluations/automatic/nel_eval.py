@@ -390,11 +390,11 @@ def main(gs_path, result_path, qid_col):
     print("Done")
 
     # Strong matching / Extended GS setup
-    print("Calculating scores for Flexible GS (Specific Entities w/o QIDs Given General QID, Use Strong Matching)")
+    print("Calculating scores for Flexible GS (strong matching)")
     print("F1...")
-    ext_prec, ext_rec, ext_f1 = calculate_precision_recall_f1(gold_df, result_df, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=True)
+    ext_prec, ext_rec, ext_f1 = calculate_precision_recall_f1(gold_df, result_df, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=False)
     print("Semantic similarity...")
-    ext_class, ext_jc = calculate_class_jc(gold_df, result_df, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=True)
+    ext_class, ext_jc = calculate_class_jc(gold_df, result_df, qid_col, matching="STRONG", gold_set="EXTENDED", fill_in_qids=False)
     print("Done\n")
 
     scores_dict = {}
