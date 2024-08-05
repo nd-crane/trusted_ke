@@ -96,7 +96,7 @@ The last four options are optional, and default to c5_id, entities, qids, and ..
 **Important Note:** Blink and SpacyEntity Linker list entities as their Wikidata titles, and have seperate mentions columns that contain the literal mention from the text that was recognized as an entity. Therefore, when processing these, ent_col should be set to mentions, since the gold standard NEL entities use text mentions. ReFinED and GENRE list the actual mention from the text as the entity and have a title column with the Wikidata title, so their ent_col is the default, entities.
 
 To evaluate NEL tools:
-* python nel_eval.py -d ../../tool_results/refined/refined.csv
+* python nel_eval.py -d ../../tool_results/refined/refined_wiki_wikidata.csv (and so on with other refined results)
 * python nel_eval.py -d ../../tool_results/blink/blink.csv -q bi_qid
 * python nel_eval.py -d ../../tool_results/blink/blink.csv -q cross_qid
 * python nel_eval.py -d ../../tool_results/spacy_entity_linker/spacy_entitylinker_lg.csv
