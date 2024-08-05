@@ -47,10 +47,10 @@ def resolve(row_limit=None):
     # Set up coref once
     nlp = coref_setup()
 
-    # Add original 'PROBLEM' and 'ACTION' columns
+    # Add original column
     new_df['c119'] = df['c119']
 
-    # Add columns with coreference clusters for 'PROBLEM' and 'ACTION'
+    # Add columns with coreference clusters
     new_df['c119_coref'] = df['c119'].apply(lambda x: coref(nlp, x) if pd.notnull(x) else x)
 
     # Add columns for Named Entity Recognition (NER) and Part-of-Speech (POS) Tagging
