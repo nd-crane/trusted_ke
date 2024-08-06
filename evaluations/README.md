@@ -14,29 +14,23 @@ The manual evaluation is done by a domain expert who evaluates the tool's output
 
 Manual evaluations are saved in the [manual_evaluations folder](manual), and are summarized in [manual/README.md](manual/README.md).
 
-
-| Named Entity Recognition (NER)| Coreference Resolution (CR)   | Named Entity Linking (NEL)       | Relation Extraction (RE)   |
-|-------------------------------|-------------------------------|---------------------------------|---------------------------|
-| [x] spaCy EntityRecognizer    | [x] ASP                       | [x] BLINK                       | [x] REBEL                 |
-| [x] flair NER                 | [x] coref_mt5                 | [x] spaCy EntityLinker          | [x] UniRel                |
-| [x] stanza NERProcessor       | [x] s2e-coref                 | [x] GENRE                       | [ ] DeepStruct            |
-| [x] nltk ne_chunk             | [x] neuralcoref               | [x] ReFinED                     | [x] PL-Marker (SciERC)    |
-| [x] PL-Marker (SciERC) NER    |                               |                                 | [x] PL-Marker (ACE05 bert) |
-| [x] PL-Marker (ACE05 bert) NER |                              |                                 | [x] PL-Marker (ACE05 albert-xxl) |
-| [x] PL-Marker (ACE05 albert-xxl) NER |                        |                                 |                           |
-
-
- x Evaluated 
-
 ## Methodology for Comparing Tool Outputs with the Gold Standard
 
 ### Correctness evaluation for NER
 
-We provide two F1 metrics for NER evaluation: a strict and a non-strict. The strict evaluation counts a predicted entity as correct only if it exactly matches a gold standard entity. In the non-strict evaluation, a predicted entity is counted correct if it contains any substring of the gold standard entity, or if the gold standard entity contains any substring of the predicted entity.
+We follow SemEval 
 
-We do not evaluate correctness of entity labels.
+We provide two F1 metrics for NER evaluation: a strong-matching and a weak-matching. The strong-matching evaluation counts a predicted entity as correct only if it exactly matches a gold standard entity. In the weak-matching evaluation, a predicted entity is counted correct if it contains any substring of the gold standard entity, or if the gold standard entity contains any substring of the predicted entity.
 
-*Note:* Some tools, like PL-Marker, run an NER subtask as well as their primary function. We provide an NER evaluation for those tools as well, and they are listed with the label "NER" in the automatic README. On top of that, we also do an NER evaluation of each NEL tool, using the entities found for entity linking. This is not intended as a primary metric for NEL evaluation. 
+We do not evaluate correctness of entity labels when evaluating against the [un-typed NER GS](../gold_standard/processed/ner.csv).
+
+We evaluate each NER tool against each GS: the [un-typed UTFAA](../gold_standard/processed/ner.csv), and the benchmark-annotated [CoNLLFAA](../gold_standard/processed/ner_conll.csv), [ACE1FAA](../gold_standard/processed/ner_ace_nltk.csv), [ACE05FAA](../gold_standard/processed/ner_ace.csv), and [ONFAA](../gold_standard/processed/ner_on.csv).
+
+For UTFAA, we evaluate just entity spans and ignore labels. We report an F1 score with strong-matching and one with weak-matching. In strong-matching, a predicted entity is correct only if it exactly matches a gold standard entity. In weak-matching, a predicted entity is counted correctly if it contains any substring of the gold standard entity, or if the gold standard entity contains any substring of the predicted entity.
+
+In the example: ``"Narrative: The cargo door was latched before takeoff by Mr. Bowen. Runway conditions at Steven's Village was extreme"``, the entities should be ``"cargo door"``, ``"takeoff"``, ``"Mr. Bowen"``, ``"runway conditions"``, and ``"Steven's Village"``. However, flair returns ``"Bowen"`` and ``"Steven's Village"`` as the entities. Therefore, ``"Bowen"`` is marked as incorrect in the strong-matching evaluation, but correct in the weak-matching evaluation since it is a substring of ``"Mr. Bowen"``.
+
+For the benchmark-annotated GSs, we follow SemEval (2013) in reporting four F1 metrics: Strict, Type, Exact, and Partial. In Strict and Type, an entity must be labeled with the correct type to be correct. In Strict and Exact, an entity must exactly (strong) match the gold standard entity to be correct, while in Type and Partial, an entity may be a partial (weak) match. Note that Exact and Partial are equivalent to the label-agnostic strong and weak matching used for UTFAA, respectively.
 
 ### Correctness evaluation for CR
 
@@ -49,14 +43,11 @@ We also follow CoNLL-2012 in reporting the unweighted average of MUC, B-CUBED, a
 
 ### Correctness evaluation for NEL
 
-Our NEL evaluation approach is the following.
+We evaluate NEL tools in two ways: F1 score and Ontology-based Topological (OT) metrics.
 
-For each named entity in the NEL gold standard, compare the tool's linking decision against it.\
-If the linking decision is correct, then the tool's QId is the same as the gold standard QId.\
-This comparison will allow us to calculate the metrics such as precision, recall, and F1 score.
+To calculate the F1 score, we follow the equations in [Shen et. al.](https://arxiv.org/pdf/2109.12520), who follow GERBIL. We define a true positive as a predicted entity which matches both the entity and the QID in a gold standard link. A false positive is a predicted entity which matches an entity but not its QID in a gold standard link. A false negative exists when there is no matching predicted entity for a gold standard entity-QID link. Predicted entities without any QID, as well as predicted entities-QID links without a matching gold entity, are not included in the evaluation.
 
-Another approach to consider is the adoption of **Ontology-based Topological (OT) metrics** which use features derived from the structure (topology) of the underlying base ontology.\
-We can use two **OT metrics**, **Jiang Conrath (JC) metric** and **Class similarity**.
+In addition to the F1 score, we provide Ontology-based Topological metrics that use features derived from the structure (topology) of the underlying base ontology. We use two OT metrics, Jiang Conrath (JC) metric and class similarity for examination as implemented in [KGTK Semantic Similarity](https://github.com/usc-isi-i2/kgtk-similarity).
 
 - **Class similarity**: an ontology-based measure based on Jaccard Similarity of the respective super class sets of two nodes inversely weighted by the instance counts of the classes. For this measure classes high up in the ontology with very high transitive instance counts are weighted lower than more specific classes with lower counts.
 
@@ -74,57 +65,23 @@ See below an example of the output of the KGTK Semantic Similarity tool:
 | 2  | Q1875633 | Q15766923 | scientific journal                                    | Fuel              | 0.029833 | 0.062413 |
 | 3  | Q1875633 | Q5507117  | short-lived Bay Area post-hardcore musical act       | Fuel              | 0.000000 | 0.000000 |
 
+For the OT metrics, we evaluate the intersection of entities in the gold and predicted sets. This intersection consists of predicted entities that have a matching entity in the gold standard, where both predicted and gold entities are linked with a QID. We then report a micro-average across all linked entities in the intersection, excluding those for which a score could not be obtained due to limitations in the KB.
 
-We take our gold standard entities from the NER gold standard, and found their correct QIDs by manual lookup.
+For each metric, we also implement three evaluation strategies: strong-matching, weak-matching, and flexible. Strong and weak matching follow the definitions described above for NER. The type of matching affects which predicted entities are included in the evaluation set.
 
-However, we note that many NER methods may create different output than our gold standard entities, and we do not want to penalize NEL tools for NER discrepancies. For example, in the sentence "WHILE TAXIING LOST NOSEWHEEL STEERING AND BRAKES",  we have "nosewheel steering" as an entity in our NER gold standard, since we prefer to include identity-changing modifiers for NER. In case an NEL tool only recognizes "steering" as the entity and links it to the QID for steering correctly (Q18891017), we perform a separate NER evaluation, and obtain a semantic similarity score of 1.000000 for the link between steering and Q18891017.
+Flexible evaluation makes use of the secondary and tertiary links in the [NEL GS](../gold_standard/processed/nel.csv). In Flexible evaluation, if a predicted linked entity exactly matches either the primary, secondary, or tertiary link, it is correct. Flexible evaluation utilizes strong-matching.
 
-To accomplish this, in our NEL gold standard, we included primary, secondary, and up to tertiary entity-QID pairs for entities like "nosewheel steering," where subspans of the primary entity perform the same function in the sentence as the primary entity. This also accomodates those entities which do not have a QID themselves, but have a subspan which does (see Case 1).
+Example: ``"Forward cargo door opened as aircraft took off. Objects dropped out. Returned. Failed to see warning light."``
 
-<table>
- <row>
-  <td>
-
-   **Example**: FORWARD CARGO DOOR OPENED AS AIRCRAFT TOOK OFF. OBJECTS DROPPED OUT. RETURNED. FAILED TO SEE WARNING LIGHT.
-
-Our gold standard holds that “FORWARD CARGO DOOR” is the correct entity to recognize, but also lists secondary and tertiary entities, “CARGO DOOR” and “DOOR” with their correct QIDs.
-
-*Case 1*: Tool recognizes FORWARD CARGO DOOR as the entity and returns QIDx
-FORWARD CARGO DOOR does not have a QID, so we move to the secondary entity/QID pair - we get the semantic distance between QIDx and the QID for CARGO DOOR.
-
-*Case 2*: Tool recognizes CARGO DOOR as the entity and returns QIDx. We get the semantic distance between QIDx and the QID for CARGO DOOR
-
-*Case 3*: Tool recognizes DOOR as the entity and returns QIDx. We get the semantic distance between QIDx and the QID for DOOR as in Case 2. However, since the QID for the more specific entity, CARGO DOOR, would still be valid in this case, based on the context in the sentence, we also get the semantic distance between QIDx and the QID for CARGO DOOR (and would keep getting more specific QIDs if available), and report the best score.
-</td>
-</row>
-</table>
-
-*Other Notes*
-
-1. We toss out links for any phrases which are not primary, secondary, or tertiary entities for the entry. For example, in the entry "CRASH OCCURRED DURING FORCED LANDING AFTER ENGINE FAILURE DURING TAKEOFF. AIRCRAFT HAD NOT HAD ANNUAL INSPECTION.", with correct entities and QIDs listed below:
+The primary, secondary, and tertiary entities are laid out below.  In strong and weak-matching evaluation, only ("aircraft",Q11436) would be included in the gold standard. In flexible evaluation, ("door", Q36794), ("aircraft",Q11436), and ("light", Q1146001) would be included.
 
 |    | Primary Entity | Primary QID | Secondary Entity | Secondary QID | Tertiary Entity | Tertiary QID |
 |----|-----------|-----------|-------------------------------------------------------|-------------------|----------|----------|
-| 0  | CRASH | Q238053 |  | | | |
-| 1  | LANDING | Q844947 |  | |  |  |
-| 2  | ENGINE FAILURE | Q46375738 | FAILURE | Q1121708 |  |  |
-| 3  | TAKEOFF | Q854248  |  |  |  |  |
-| 4  | AIRCRAFT | Q11436  |  |  |  |  |
-| 5  | INSPECTION | Q1137655  |  |  |  |  |
+| 0  | forward cargo door | | cargo door | | door| Q36794|
+| 1  | aircraft | Q11436 |  | |  |  |
+| 2  | warning light | | light | Q1146001 |  |  |
 
-If the NEL tool returns ANNUAL and its QID, or ENGINE and its QID, or any other words which are not listed, those results are ignored but not penalized.
-
-2. In the case that an entity refers to another entity in the same entry, those entities are given the same set of primary and secondary QIDs. For example, in the sentence "BAGGAGE CART WAS BLOWN INTO PARKED AIRCRAFT BY JET BLAST. BRAKES WERE INOPERATIVE ON CART.", the set of entities and QIDs is as follows:
-
-|    | Primary Entity | Primary QID | Secondary Entity | Secondary QID | Tertiary Entity | Tertiary QID |
-|----|-----------|-----------|-------------------------------------------------------|-------------------|----------|----------|
-| 0  | BAGGAGE CART | Q14277552 | CART | Q234668 | | |
-| 1  | AIRCRAFT | Q11436 |  | |  |  |
-| 2  | JET BLAST | Q1996324 | BLAST | Q179057 |  |  |
-| 3  | BRAKES | Q1534839  |  |  |  |  |
-| 4  | CART | Q14277552 | CART | Q234668 | | |
-
-Note that CART is given the primary QID corresponding to "baggage cart", and the secondary QID corresponding to "cart." If only the QID for "cart" were listed, we would be penalizing an NEL tool which infered from context that the cart was a baggage cart.
+Secondary entities are also linked to primary QIDs when available, and so too with tertiary entities to secondary and primary QIDs. This is done so that if a tool links a more "general" mention to the QID for the fitting, context-specific Wikidata entity, rather than the general QID, it is not penalized. For example, the GS for a document in the FAA data includes the primary link ("forced landing", Q1975745) and the secondary link ("landing", Q844947). If a tool predicted ("landing",Q1975745), that would be counted as correct, since it inferred from context that it was a forced landing and linked it to the corresponding QID.
 
 ## Methodology for RE Manual Evalution
 
