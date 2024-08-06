@@ -1,4 +1,4 @@
-### nueralcoref Setup
+### neuralcoref Setup
 
 Github: https://github.com/huggingface/neuralcoref
 
@@ -26,4 +26,4 @@ Github: https://github.com/huggingface/neuralcoref
 
 *neuralcoref is deterministic*
 
-Nueralcoref was easy to implement. All you need is a Conda environment and install spaCy and nueralcoref via pip. However, it doesn't work with the latest Python and SpaCy versions. In order to successfully run neuralcoref, Python version 3.6 and spaCy version 2.1 is needed.
+Neuralcoref was easy to implement. All you need is a Conda environment and install spaCy and neuralcoref via pip. However, it doesn't work with the latest Python and SpaCy versions. In order to successfully run neuralcoref, Python version 3.6 and spaCy version 2.1 is needed.
