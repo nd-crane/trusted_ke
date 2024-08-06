@@ -1,6 +1,6 @@
 # Survey of Knowledge Extraction Tools for Maintenance Data
 
-University of Notre Dame | Center for Research Computing | Trusted AI\
+University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI\
 Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Moreira, Eli Phillips, Paul Brenner, Charles Vardeman
 
 ---
@@ -196,7 +196,7 @@ Paper: https://arxiv.org/pdf/2205.10475.pdf
 
 DEEPSTRUCT's methodology for relation extraction involves a sequence-to-sequence extraction approach using augmented natural languages. It formulates the task as two unit tasks: entity prediction to generate entities and relation prediction to generate relations, with a focus on generating triples for a wide set of structure prediction tasks in an end-to-end fashion. This approach decomposes structure prediction tasks into a collection of triple generation tasks, providing a unified representation for various structure prediction tasks without the need for introducing new data augmentation.
 
-Base Model: [TO-DO -- not sure]
+Base Model: GLM
 
 | Dataset | Relation Set |
 |----------|----------|
