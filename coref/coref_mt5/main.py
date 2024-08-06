@@ -107,4 +107,4 @@ def main(input_fname, tokenizer_path, model_path, batch_size, debug):
 
 if __name__ == '__main__':
     results_dict = main()
-    pd.DataFrame(results_dict).to_csv('coref_mt5.csv', index=False)
+    pd.DataFrame(results_dict).to_csv('coref_mt5_raw.csv', index=False)
