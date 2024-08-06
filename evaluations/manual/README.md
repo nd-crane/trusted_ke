@@ -19,7 +19,7 @@ Since UniRel and PL-Marker scierc and albert return so few triples, we also perf
 | PL-Marker (scierc) RE    | 127              | 1.0           | 0.778        | 1.0         | 0                |
 | UniRel                   | 87               | 0.37          | 0.14         | 0.98        | 0                |
 
-Lastly, we perform a supplementary evaluation of PL-Marker (bert), randomly selecting 1000 records.
+Lastly, we perform a supplementary evaluation of PL-Marker (bert), randomly selecting 1000 records (using the script select_sample_1000.py)
 |                          | # Triples Eval'd | Syntactic Acc | Semantic Acc | Consistency | # Hallucinations |
 |--------------------------|------------------|---------------|--------------|-------------|------------------|
 | PL-Marker (albert) RE    | 126              | 1.0           | 0.99         | 1.0         | 0                |
