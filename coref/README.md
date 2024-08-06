@@ -2,7 +2,7 @@
 
 ### ASP:
 
-**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../data/conll_12_format_processing), and the final faa.conll file [here](../data/FAA_data/faa.conll)\
+**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../data_processing/conll_12_format_processing), and the final faa.conll file [here](../data/FAA_data/faa.conll)\
 The CoNLL-12 formatted data is then processed into jsonlines by a script provided in the ASP remote repo, ASP/data/t5minimize_coref.py. The result of this script is available at [asp/minimized_data](asp/minimized_data).
 
 Sample of minimized jsonl data: \
@@ -15,7 +15,7 @@ Each record in the FAA data, which is treated as its own doc in the CoNLL-12 for
 
 ### coref_mt5:
 
-**Input:** Raw text from FAA data. coref_mt5 takes in a list of titles and a list of inputs, where the titles correspond to each input. The titles for the FAA data follow the pattern: faa_1688 for the 1688th record, etc.\
+**Input:** Raw text from FAA data. coref_mt5 takes in a list of titles and a list of inputs, where the titles correspond to each input.\
 The input may contain multiple sentences, which should be seperated by newline characters.
 
 coref_mt5 sees each record separately and may create coreferences across multiple sentences in record.
@@ -44,5 +44,6 @@ The subtoken maps can be used to map the numbers in the lists of predictions to 
 
 ### neuralcoref:
 
-*** not sure, Jonathan can do this ****\
-[TO-DO]
+**Input:** A document, as a string
+
+**Output:** Coreferences in the form: [NOSE GEAR: [NOSE GEAR, NOSE GEAR], ...]
