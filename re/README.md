@@ -2,8 +2,8 @@
 
 ### REBEL:
 
-**Input:** Raw text from each FAA record. Records are treated separately but sentences are not explicitly divided up.
-May either implement REBEL using transformers or in a Huggingface pipeline, as described here: https://huggingface.co/Babelscape/rebel-large\
+**Input:** Raw text from each FAA record. Records are treated separately.
+May either implement REBEL by loading the model with transformers from_pretrained(), in a Huggingface pipeline, or in a spacy pipeline, as described here: https://huggingface.co/Babelscape/rebel-large\
 Current work with evaluating REBEL done on the results from the Huggingface pipeline usage (we created the script re/rebel/rebel_pipe.py to implement this, and rebel_main.py to implement the method using transformers)
 
 **Output:** List of extracted triplets {"head":head entity, "relation": relation, "tail": tail entity} for each record put into the Huggingface nlp pipeline. rebel_pipe.py and rebel_main.py save results in a csv in tool_results.
