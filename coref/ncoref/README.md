@@ -17,7 +17,8 @@ Github: https://github.com/huggingface/neuralcoref
     1. `pip install pandas`
     2. `pip install textblob`
 6. Run the script
-    1. `python coref/ncoref/coref_faa.py` 
+    1. `python coref/ncoref/coref_faa.py`
+7. Do post-processing to get the results in a form readable by evaluation scripts with coref_reformat.ipynb
 
 #### Reproducibility Rating:
 

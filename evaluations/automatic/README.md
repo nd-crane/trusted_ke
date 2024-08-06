@@ -72,9 +72,12 @@ The last three options are optional, and default to c5_id, corefs, and ../../gol
 Note that the environment requirements are listed on the top of the script in a comment.
 
 To evaluate CR tools:
-* python cr_eval.py -d ../../tool_results/s2e-coref/s2e-coref_updated_format.csv
-* python cr_eval.py -d ../../tool_results/asp/asp.csv
-* python cr_eval.py -d ../../tool_results/ncoref/crosslingual_coref_with_errors.csv -i c5
+* python cr_eval.py -d ../../tool_results/s2e-coref/s2e-coref.csv
+* python cr_eval.py -d ../../tool_results/asp/asp_base.csv
+* python cr_eval.py -d ../../tool_results/asp/asp_large.csv
+* python cr_eval.py -d ../../tool_results/asp/asp_xl.csv
+* python cr_eval.py -d ../../tool_results/neuralcoref/neuralcoref_lg.csv -i c5
+* python cr_eval.py -d ../../tool_results/neuralcoref/neuralcoref_sm.csv -i c5
 * python cr_eval.py -d ../../tool_results/coref_mt5/coref_mt5.csv
 
 Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is an average of the F1 scores from MUC, B-CUBED (here represented as B3 for brevity), and CEAF.
@@ -87,6 +90,7 @@ Con12 F1, or CoNLL-2012 F1, refers to the F1 metric used in CoNLL-2012. This is 
 | ASP (flant5-base)            | 0.67     | 0.53    |0.59    | 0.68    |0.54    |0.60   | 0.73      | 0.56     | 0.64    | 0.61     | 0.66     | 0.511   | 0.58   |
 | neuralcoref (en_core_web_lg) | 0.57     | 0.42    |0.48    | 0.59    |0.43    |0.50   | 0.59      | 0.46     | 0.52    | 0.50     | 0.57     | 0.41    | 0.47   |
 | coref_mt5                    | 0.8      | 0.21    |0.33    | 0.85    |0.20    |0.32   | 0.76      | 0.21     | 0.33    | 0.33     | 0.8      | 0.19    | 0.31   |
+| neuralcoref (en_core_web_sm) | 0.1      | 0.053   | 0.069  | 0.2     | 0.1    | 0.14   | 0.29      | 0.16     | 0.21    | 0.14     | 0.1      | 0.054   | 0.07   |
 
 ## NEL
 
