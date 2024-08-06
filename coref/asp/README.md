@@ -27,3 +27,17 @@ Paper: https://arxiv.org/pdf/2210.14698.pdf
 12. To run the t0_3b model: python evaluate_coref.py t0_3b tliu/asp-coref-t0-3b <GPU_ID> > eval_t0.out 2>&1
 
 13. Use the parse_output.ipynb notebook to extract data from eval.out and save it to a csv in results
+
+-----
+
+#### Reproducibility Rating:
+
+<img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+
+*ASP is deterministic*
+
+ASP has clear documentation, and even has a section on how to use it on new/custom datasets. Its scripts are also intuitive to use, with a small number of regularly-formatted arguments necessary for each task. However, it was not clear that we did have to change "ontonotes_coref" to our own name throughout the scripts. Secondly, ASP outputs its predictions in logging statements but does not save that information anywhere. This caused us to add an extra logging statement for document number to the script, and create a notebook to parse the logs for the appropriate predictions.
+
+[TO-DO] -- talk about T0-3B!
+
+A larger issue was the preparation of our data into CoNLL-12 format. There is no standard open source method to process custom datasets into CoNLL-12 format, so the user must create their own script. Depending on which tagger and parser is used in the script, the CoNLL-12 formatted data will turn out differently. This introduces variability in results across implementations of s2e-coref.
