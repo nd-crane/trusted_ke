@@ -22,7 +22,7 @@ Because no NER benchmark focuses on entity types relevant to data from the maint
 
 Additionally, we label the same 100 sample records following the guidelines published for CoNLL-2003, ACE-2005, and OntoNotes. We also remove the vehicle-type entities from our ACE-2005-labeled GS (there were no weapon-type entities to remove) to create our ACE-Phase-1-labeled GS, which is used to evaluate NLTK. These benchmark-annoted GSs are denoted [CoNLLFAA](processed/ner_conll.csv), [ACE05FAA](processed/ner_ace.csv), [ACE1FAA](processed/ner_ace_nltk.csv), and [ONFAA](processed/ner_on.csv).
 
-See the table below for a comparison between the benchmark-annotated GSs and UTFAA. Total refers to the total number of entities generated for the set of 100 sample records by each benchmark-annotated GS. Match and Partial refer to the number of entities in each benchmark-annotated GS that match or partially match an entity in our GS, regardless of label. Overlap is the sum of the matches and partial matches divided by the total number of entities in our GS, which is 510.
+See the table below for a comparison between the benchmark-annotated GSs and UTFAA, obtained with [ner_overlap.ipynb](ner_overlap.ipynb). Total refers to the total number of entities generated for the set of 100 sample records by each benchmark-annotated GS. Match and Partial refer to the number of entities in each benchmark-annotated GS that match or partially match an entity in our GS, regardless of label. Overlap is the sum of the matches and partial matches divided by the total number of entities in our GS, which is 510.
 
 |               | Total | Match | Partial | Overlap |
 |---------------|-------|-------|---------|---------|
