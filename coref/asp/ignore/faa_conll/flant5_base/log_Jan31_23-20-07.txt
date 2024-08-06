@@ -1,1 +1,0 @@
-Log file path: ./data/faa_conll/flant5_base/log_Jan31_23-20-07.txt
