@@ -24,7 +24,7 @@ Paper: https://arxiv.org/pdf/2210.14698.pdf
 
 11. To run the xl model: python evaluate_coref.py flant5_xl tliu/asp-coref-flan-t5-xl <GPU_ID> > eval_xl.out 2>&1
 
-12. To run the t0_3b model: python evaluate_coref.py t0_3b tliu/asp-coref-t0-3b <GPU_ID> > eval_t0.out 2>&1
+12. To run the t0_3b model, first, replace runner.py in ASP/util to the runner.py script in this folder. This changes the path to the model in loading - the [config at tliu/asp-coref-t0-3b](https://huggingface.co/tliu/asp-coref-t0-3b/blob/main/config.json) has paths in the creator's local system. It is not clear that replacing those paths with "tliu/asp-coref-t0-3b", as we did, was the correct approach, but it does work. Then run: python evaluate_coref.py t0_3b tliu/asp-coref-t0-3b <GPU_ID> > eval_t0.out 2>&1
 
 13. Use the parse_output.ipynb notebook to extract data from eval.out and save it to a csv in results
 
