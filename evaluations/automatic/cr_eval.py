@@ -15,7 +15,7 @@ from corefeval import Document, Scorer
 
 def print_results(tool_name, conll_f1, metrics):
 
-    scores = {metric:{'prec':f"{metrics[metric]['precision']:.2}", 'rec':f"{metrics[metric]['recall']:.2}", 'f1':f"{metrics[metric]['f1']:.2}"} for metric in metrics}
+    scores = {metric:{'prec':f"{float(metrics[metric]['precision']):.2}", 'rec':f"{float(metrics[metric]['recall']):.2}", 'f1':f"{float(metrics[metric]['f1']):.2}"} for metric in metrics}
     conll_f1 = f"{conll_f1:.2}"
     
     print("|                    | MUC Prec | MUC Rec | MUC F1 | B3 Prec | B3 Rec |  B3 F1 | CEAF Prec | CEAF Rec | CEAF F1 | Con12 F1 | LEA Prec | LEA Rec | LEA F1 |")
@@ -33,7 +33,7 @@ def eval(dataset_path, gs_path, id_col, cr_col):
 
     for i in range(len(gold_df)):
         gold = ast.literal_eval(gold_df['coreferences'].iat[i])
-        pred = ast.literal_eval(pred_df[pred_df[id_col]==gold_df['c5'].iat[i]][cr_col].iat[0])
+        pred = ast.literal_eval(pred_df[pred_df[id_col]==gold_df['id'].iat[i]][cr_col].iat[0])
         doc = Document(predicted=pred, truth=gold)
         scorer.update(doc)
 
