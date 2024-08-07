@@ -1,5 +1,7 @@
 ### FAA Accident/Incident Data (AID)
 
+**Credit: The data compilation and preprocessing described below was done by our colleague Lindsey Michie, alongside Dr. Paul Brenner, for Trusted AI in June of 2022.**
+
 **Origin of FAA Data**\
 The data in the downloads folder is taken from the FAA Accidenct/Incident Data (AID), originally accessed at https://av-info.faa.gov/dd_sublevel.asp?Folder=%5CAID in June 2022. The latest entry in the dataset is from May 24, 2022. AID contains accident reports detailing airplane type, an accident-type code, a description of the incident, and more. See [downloads/afilelayout.csv](downloads/afilelayout.csv) for a description of each column.
 
