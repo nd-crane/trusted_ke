@@ -1,18 +1,18 @@
 # Correctness Evaluation
 
 
-We evaluate the correctness of the tools in two ways: **automatic** and **manual**.
+We evaluate the correctness of the tools in two ways: **quantitative** and **qualitative**.
 
-## Automatic Evaluation (AE)
-The automatic evaluation is done by comparing the tool's output with the gold standard data, regarding Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL) tasks.
+## Quantitative Evaluation
+The quantitative evaluation is done by comparing the tool's output with the gold standard data, regarding Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL) tasks.
 Evaluations.
 
-Automatic Evaluations may be easily recreated with the scripts available in the [automatic evaluations folder](automatic), and are transcribed in [automatic/README.md](automatic/README.md)
+Quantitative Evaluations may be easily recreated with the scripts available in the [quantitative evaluations folder](quantitative), and are transcribed in [quantitative/README.md](quantitative/README.md)
 
-## Manual Evaluation (ME)
-The manual evaluation is done by a domain expert who evaluates the tool's output, regarding Relation Extraction (RE) tasks. 
+## Qualitative Evaluation
+The qualitative evaluation is done by a domain expert who evaluates the tool's output, regarding Relation Extraction (RE) tasks. 
 
-Manual evaluations are saved in the [manual_evaluations folder](manual), and are summarized in [manual/README.md](manual/README.md).
+Qualitative evaluations are saved in the [qualitative_evaluations folder](qualitative), and are summarized in [qualitative/README.md](qualitative/README.md).
 
 ## Methodology for Comparing Tool Outputs with the Gold Standard
 
@@ -83,9 +83,9 @@ The primary, secondary, and tertiary entities are laid out below.  In strong and
 
 Secondary entities are also linked to primary QIDs when available, and so too with tertiary entities to secondary and primary QIDs. This is done so that if a tool links a more "general" mention to the QID for the fitting, context-specific Wikidata entity, rather than the general QID, it is not penalized. For example, the GS for a document in the FAA data includes the primary link ("forced landing", Q1975745) and the secondary link ("landing", Q844947). If a tool predicted ("landing",Q1975745), that would be counted as correct, since it inferred from context that it was a forced landing and linked it to the corresponding QID.
 
-## Methodology for RE Manual Evalution
+## Methodology for RE Qualitative Evalution
 
-Since we do not have a gold standard for RE, we cannot report an F1 score. Instead, we report 3 metrics for RE, which we evaluate manually: syntactic accuracy, semantic accuracy, and consistency. We also report the number of hallucinations found in the set of sampled evaluation data. Lastly, we report the total number of triples generated, and the percent of documents with any triples generated, for the entire FAA dataset. These are described below:
+Since we do not have a gold standard for RE, we cannot report an F1 score. Instead, we report 3 metrics for RE, which we evaluate qualitatively: syntactic accuracy, semantic accuracy, and consistency. We also report the number of hallucinations found in the set of sampled evaluation data. Lastly, we report the total number of triples generated, and the percent of documents with any triples generated, for the entire FAA dataset. These are described below:
 
 *Syntactic Accuracy*\
 Syntactic accuracy is the degree to which the output of the tool follows the grammatical rules in our set of guidelines. A triple is either completely syntactically accurate (1.0), half syntactically accurate (0.5), or syntactically inaccurate (0.0), depending on whether both, one of, or neither of the head and tail entities are correct, respectively. The grammatical rules are as follows:

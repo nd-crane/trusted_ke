@@ -13,6 +13,6 @@
 [submodule "nel/genre/GENRE"]
 	path = nel/genre/GENRE
 	url = git@github.com:facebookresearch/GENRE.git
-[submodule "evaluations/automatic/NER-Evaluation"]
-	path = evaluations/automatic/NER-Evaluation
+[submodule "evaluations/quantitative/NER-Evaluation"]
+	path = evaluations/quantitative/NER-Evaluation
 	url = git@github.com:davidsbatista/NER-Evaluation.git

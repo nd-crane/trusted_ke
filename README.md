@@ -12,7 +12,7 @@ Please open an issue if there are any questions.
 
 The following is a survey of knowledge extraction tools for maintenance data. The survey includes tools for Named Entity Recognition (NER), Coreference Resolution (CR), Named Entity Linking (NEL), and Relation Extraction (RE). The survey provides an overview of each tool's methodology, base model, and relation set, where applicable. 
 
-The survey also includes a comparison of the tools' outputs with the [Gold Standard Data](gold_standard/README.md), which is a subset of the Complete Set of FAA data created to evaluate the correctness of the tools regarding NER, CR, and NEL tasks. There are two types of correctness evaluations: **automatic** and **manual**. For more details on the correctness evaluations, please refer to the [Correctness Evaluation](evaluations/README.md).
+The survey also includes a comparison of the tools' outputs with the [Gold Standard Data](gold_standard/README.md), which is a subset of the Complete Set of FAA data created to evaluate the correctness of the tools regarding NER, CR, and NEL tasks. There are two types of correctness evaluations: **quantitative** and **qualitative**. For more details on the correctness evaluations, please refer to the [Correctness Evaluation](evaluations/README.md).
 
 KE tools at a glance:
 

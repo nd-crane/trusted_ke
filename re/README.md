@@ -28,7 +28,7 @@ Sample Output:[[('FLIGHT', '/location/location/contains', 'BAGGAGE'), ('FLIGHT',
 ### PL-Marker:
 
 **Input:** PL-Marker takes in jsonl data- see re/pl-marker/create_jsonl_data.ipynb, and re/pl-marker/faa_eval_faa.jsonl.\
-*** Note to self: edit the create_jsonl_data.ipynb to just use spacy because I think it will do the same thing as what I did manually***\
+*** Note to self: edit the create_jsonl_data.ipynb to just use spacy because I think it will do the same thing as what I did qualitatively***\
 
 **Output:** PL-Marker performs both NER and RE. The NER script must be run before the RE script, since RE needs to use the named entities. The NER script (run_acener.py) saves predicted entities to a file called ent_pred_test.json:
 Sample output: {"sentences": [["elect", "syst", "went", "dead", ",", "generator", "circuit", "breaker", "switch", "not", "engaged", "."], ["not", "time", "to", "ext", "."], ["gear", "manually", "."]], "ner": [[], [], []], "relations": [[], [], []], "doc_key": "faa_13", "predicted_ner": [[[0, 1, "Method"], [5, 8, "OtherScientificTerm"]], [], []]}\

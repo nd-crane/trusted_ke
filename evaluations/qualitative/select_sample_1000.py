@@ -1,4 +1,4 @@
-# This script selects 1000 random records to do a supplementary evaluation on pl-marker (bert), and adds them to a new sheet in pl-marker_ace05_bert_RE_jun17_eval.xlsx, so that it can be downloaded and evaluated manually.
+# This script selects 1000 random records to do a supplementary evaluation on pl-marker (bert), and adds them to a new sheet in pl-marker_ace05_bert_RE_jun17_eval.xlsx, so that it can be downloaded and evaluated qualitatively.
 
 import pandas as pd
 import numpy as np

@@ -1,4 +1,4 @@
-# Automatic Evaluations
+# Quantitative Evaluations
 
 ## NER
 
