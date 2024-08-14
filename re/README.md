@@ -21,7 +21,25 @@ Sample Output:[[('FLIGHT', '/location/location/contains', 'BAGGAGE'), ('FLIGHT',
 
 ### DeepStruct:
 
-[TO-DO]
+Regarding DeepStruct, while it offers a single pretrained model, preparing it for inference on unseen datasets requires some additional steps. 
+First, the unsee dataset’s schema must be aligned with the one DeepStruct was trained on to ensure compatibility with the model’s recognized entity and relation types. 
+Additionally, configuration files might need adjustments to properly format the input data. 
+Considering the relation extraction task, DeepStruct schemas are based on datasets like NYT, CoNLL-04, ADE, and ACE-2005. 
+We chose the NYT schema for our evaluation, which produced the highest RE F1 score of 84.6. This also ensures consistency and fairness when comparing DeepStruct with UniRel.
+
+To run DeepStruct inference on our data, we utilized the `run_scripts/nyt.sh` script provided by the DeepStruct authors, which is designed for processing NYT data. This script generates a folder with files formatted according to DeepStruct’s expectations.
+
+For our dataset, we configured the generated NYT folder by retaining all the files related to the dev set, [schemas.json](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/schemas.json) and tokenizers like `cached_nyt_re_test_T5TokenizerFast_512_512.pth`. However, we modified the [test.json](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/test.json) and [test.source](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/test.source) files, using the [prep_data.py script](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/prep_data.py). To avoid errors during execution, we also included an empty `test.target` file.
+
+**Input:** 
+Files: [test.json](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/test.json) and [test.source](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/test.source) 
+
+**Output:** 
+- Sample output: ( BARTLESVILLE ; contains ; BARTLESVILLE MUNICIPAL AIRPORT )
+- Files:
+  - 100 records on GS [test_nyt_100k.jsonl.hyps](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/test_nyt_100.jsonl.hyps)
+  - Complete set [test_nyt_2k.jsonl.hyps](https://github.com/nd-crane/trusted_ke/blob/main/re/deepstruct/test_nyt_2k.jsonl.hyps) 
+
 
 ---
 
