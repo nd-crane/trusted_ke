@@ -4,14 +4,17 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
 Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Moreira, Eli Phillips, Paul Brenner, Charles Vardeman
 
 ---
+
 Please open an issue if you have any questions. 
 
 ---
 
-We present the Maintenance and Manufacturing Intelligence (MMI) Dataset, based on raw FAA Accident/Incident data. MMI is curated for KE in maintenance and manufacturing, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand. We release the gold standards prepared for NER, CR, and NEL as part of MMI.  This baseline expands the portfolio in the maintenance and manufacturing domains, since it offers records on a variety of subject matters, long enough to provide context and valuable information for extraction. MMI is the first open-source dataset curated for KE in the maintenance and manufacturing domains. It also contains structured data, such as details of the aircraft, failure codes, and dates. The structured data can be used in future work  alongside the natural language text to develop an integrated and mutually validating KE approach. While MMI is currently based on aviation maintenance incident data, this data has qualities common to many sets of records or logs in the maintenance and manufacturing domains, making it a valuable baseline. By publicizing this dataset, we offer it to the community in the maintenance and manufacturing domain and invite collaboration toward a robust, open-source KE dataset for the domain.
+We present the Operations and Maintenance Intelligence (OMIN) Dataset, based on raw FAA Accident/Incident data. OMIN is curated for KE in operations and maintenance, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand. We release the gold standards prepared for NER, CR, and NEL as part of OMIN. This baseline expands the portfolio in the operation and maintenance domains, since it offers records on a variety of subject matters, long enough to provide context and valuable information for extraction. OMIN is the first open-source dataset curated for KE in the operation and maintenance domains. It also contains structured data, such as details of the aircraft, failure codes, and dates. The structured data can be used in future work alongside the natural language text to develop an integrated and mutually validating KE approach. While OMIN is currently based on aviation maintenance incident data, this data has qualities common to many sets of records or logs in the operation and maintenance domains, making it a valuable baseline. By publicizing this dataset, we offer it to the community in the maintenance and manufacturing domain and invite collaboration toward a robust, open-source KE dataset for the domain.
 
 ---
+
 ![FAA Example](faa_example.png)
+
 ---
 
 The following is a survey of knowledge extraction tools for maintenance data. The survey includes tools for Named Entity Recognition (NER), Coreference Resolution (CR), Named Entity Linking (NEL), and Relation Extraction (RE). The survey provides an overview of each tool's methodology, base model, and relation set, where applicable. 
