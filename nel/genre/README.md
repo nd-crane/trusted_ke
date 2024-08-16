@@ -38,7 +38,7 @@ Results are in the data/results/genre folder
 
 #### Reproducibility Rating:
 
-<img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+<img src="../../figs/star_clip.jpg" alt="Star" width="50" height="50"><img src="../../figs/star_clip.jpg" alt="Star" width="50" height="50">
 
 GENRE is not deterministic. Each sentence has to be separately trained in the model. Therefore, it takes a long time just to run the results with the model.
 

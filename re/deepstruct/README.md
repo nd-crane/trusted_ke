@@ -90,7 +90,7 @@ The output file will be saved in the following location:
 
 ----------------------------
 #### Reproducibility Rating:
-<img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+<img src="../../figs/star_clip.jpg" alt="Star" width="50" height="50">
 
 The DeepStruct GitHub README is easy to follow and accurate regarding the datasets used in their benchmarks. 
 For example, We confirmed their results on the NYT dataset.

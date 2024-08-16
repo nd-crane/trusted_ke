@@ -23,7 +23,7 @@ Setup:
 8. Do post-processing with unirel_reformat.ipynb
 ----------------------------
 #### Reproducibility Rating:
-<img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50"><img src="../../star_clip.jpg" alt="Star" width="50" height="50">
+<img src="../../figs/star_clip.jpg" alt="Star" width="50" height="50"><img src="../../figs/star_clip.jpg" alt="Star" width="50" height="50"><img src="../../figs/star_clip.jpg" alt="Star" width="50" height="50"><img src="../../figs/star_clip.jpg" alt="Star" width="50" height="50">
 
 The UniRel GitHub README is easy to follow and is accuarate.
 The requirements.txt is mostly accurate except for the changes required in step 3.

@@ -8,8 +8,8 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
 1. [Operations and Maintenance Intelligence (OMIN) Dataset](#omin-dataset)
    
 2. Evaluation of the NLP tools over the OMIN Dataset
-    - [Quantitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/quantitative)
-    - [Quanlitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/qualitative)
+    - [Quantitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/quantitative/README.md)
+    - [Quanlitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/qualitative/README.md)
       
 3. [NLP Evaluated Tools](#nlp-tool-evaluation)
     - [Named Entity Recognition (NER)](#ner)
@@ -39,7 +39,7 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
 ---
 <a name="omin-dataset"></a>
 
-![FAA Example](faa_example.png)
+![FAA Example](figs/faa_example.png)
 
 ## Operations and Maintenance Intelligence (OMIN) Dataset 
 
@@ -49,7 +49,7 @@ We release the [gold standards](https://github.com/nd-crane/trusted_ke/blob/main
 
 ### Key Features:
 - **Textual Descriptions**: Contains maintenance incident reports, including mentions of aircraft systems and domain-specific jargon.
-- **[Gold Standards](https://github.com/nd-crane/trusted_ke/blob/main/gold_standard/README.md)**: Prepared for Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL).
+- **[Gold Standards](gold_standard/README.md)**: Prepared for Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL).
 - **Structured Data**: Includes details such as aircraft specifics, failure codes, and incident dates, which can be used alongside the natural language text for integrated KE approaches.
 - **Domain-Relevance**: While currently focused on aviation, the data has qualities common to other operation and maintenance records/logs, making it a valuable baseline for KE in these domains.
 
