@@ -1,8 +1,0 @@
-website:
-  sidebar:
-    contents:
-      - index.ipynb
-      - 00_core.ipynb
-      - nel_eval.ipynb
-      - ner_eval.ipynb
-      - re_eval.ipynb

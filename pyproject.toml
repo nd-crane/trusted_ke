@@ -1,9 +1,12 @@
 [project]
-name = "2k-paper"
+name = "trusted_ke"
 version = "0.1.0"
-description = ""
+description = "Python package for the Trusted knowledge Extraction paper."
 authors = [
-    {name = "Priscila Moreira", email = "pmoreira@nd.edu"},
+    {name = "Priscila Saboia Moreira", email = "pmoreira@nd.edu"},
+    {name = "Kate Mealey", email = "kmealey2@nd.edu"},
+    {name = "Jonathan Karr", email = "jkarr@nd.edu"},
+
 ]
 dependencies = [
     "SPARQLWrapper>=2.0.0",

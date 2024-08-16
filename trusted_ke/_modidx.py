@@ -4,10 +4,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/trusted_ke',
                 'doc_host': 'https://nd-crane.github.io',
                 'git_url': 'https://github.com/nd-crane/trusted_ke',
-                'lib_path': './trusted_ke'},
-  'syms': { 'trusted_ke.core': { 'trusted_ke.core._fetch_query': ('core.html#_fetch_query', 'trusted_ke/core.py'),
-                                 'trusted_ke.core._search_wikidata_properties_async': ( 'core.html#_search_wikidata_properties_async',
-                                                                                        'trusted_ke/core.py'),
-                                 'trusted_ke.core.excel_to_csv_to_df': ('core.html#excel_to_csv_to_df', 'trusted_ke/core.py'),
-                                 'trusted_ke.core.search_wikidata_properties': ( 'core.html#search_wikidata_properties',
-                                                                                 'trusted_ke/core.py')}}}
+                'lib_path': 'trusted_ke'},
+  'syms': {'trusted_ke.core': {'trusted_ke.core.foo': ('core.html#foo', 'trusted_ke/core.py')}}}
