@@ -23,6 +23,7 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
 ## Table of Contents
 1. [Operations and Maintenance Intelligence (OMIn) Dataset](#OMIn-dataset)
     - [Key Features](#key_features)
+    - [How to Access](#access_dataset)
     - [How to Cite](#cite_dataset)
 3. Evaluation of the NLP tools over the OMIn Dataset
     - [Quantitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/quantitative/README.md)
@@ -72,8 +73,10 @@ We release the [gold standards](https://github.com/nd-crane/trusted_ke/blob/main
 
 By publicizing this dataset, we aim to provide a resource for the maintenance and manufacturing community and encourage collaboration toward a robust, open-source KE dataset for this domain.
 
-### How to Cite<a name="cite_dataset"></a>
+### How to Access<a name="access_dataset"></a>
+You can download the OMIn dataset directly from this repository or access it through Zenodo, where it has been assigned a [DOI for reference in academic publications](https://zenodo.org/records/13333825).
 
+### How to Cite<a name="cite_dataset"></a>
 ```bibtex
 @misc{Mealey_Operations_and_Maintenance_2024,
 author = {Mealey, Kathleen and Karr, Jonathan and Saboia Moreira, Priscila and Finch, Danny and Riter, Alyssa and Brenner, Paul and Vardeman II, Charles},
