@@ -3294,3 +3294,95 @@ id,entity_gs,qid_gs,entity_tool,qid_tool,entity_sim,qid_sim_jc,qid_sim_class
 20000215010329A,"['MR. TIMOTHY ALLEN WELLS', None, None]","[None, None, None]",Wells,874666,False,-1,-1
 20000215010329A,"['MR. TIMOTHY ALLEN WELLS', None, None]","[None, None, None]",PILOT,2044212,False,-1,-1
 20000215010329A,"['MR. TIMOTHY ALLEN WELLS', None, None]","[None, None, None]",The Command,2371533,False,-1,-1
+19990213001379A,"['ACFT', None, None]","['Q11436', None, None]",United States Army Combat Fitness Test,67935434,False,-1,-1
+19990213001379A,"['ACFT', None, None]","['Q11436', None, None]",The Take,3989575,False,-1,-1
+19990213001379A,"['ACFT', None, None]","['Q11436', None, None]",OpenType Font,260180,False,-1,-1
+19990213001379A,"['ACFT', None, None]","['Q11436', None, None]",Control,54935655,False,-1,-1
+19990213001379A,"['ACFT', None, None]","['Q11436', None, None]",Royal Australian Navy,741691,False,-1,-1
+19990213001379A,"['ACFT', None, None]","['Q11436', None, None]",Charlotte Brontë,127332,False,-1,-1
+19990213001379A,"['ACFT', None, None]","['Q11436', None, None]",Adobe After Effects,83380,False,-1,-1
+19800217031649I,"['TAKEOFF', None, None]","['Q854248', None, None]",Takeoff,48719890,False,-1,-1
+19800217031649I,"['TAKEOFF', None, None]","['Q854248', None, None]",WING,7950776,False,-1,-1
+19800217031649I,"['TAKEOFF', None, None]","['Q854248', None, None]",Quit,7272636,False,-1,-1
+19800217031649I,"['TAKEOFF', None, None]","['Q854248', None, None]",Engine,18353587,False,-1,-1
+19800217031649I,"['ENGINE', None, None]","['Q743004', None, None]",Takeoff,48719890,False,-1,-1
+19800217031649I,"['ENGINE', None, None]","['Q743004', None, None]",WING,7950776,False,-1,-1
+19800217031649I,"['ENGINE', None, None]","['Q743004', None, None]",Quit,7272636,False,-1,-1
+19800217031649I,"['ENGINE', None, None]","['Q743004', None, None]",Engine,18353587,False,-1,-1
+19800217031649I,"['WING', None, None]","['Q161358', None, None]",Takeoff,48719890,False,-1,-1
+19800217031649I,"['WING', None, None]","['Q161358', None, None]",WING,7950776,False,-1,-1
+19800217031649I,"['WING', None, None]","['Q161358', None, None]",Quit,7272636,False,-1,-1
+19800217031649I,"['WING', None, None]","['Q161358', None, None]",Engine,18353587,False,-1,-1
+19800217031649I,"['FUEL TANK', 'TANK', None]","['Q1411232', 'Q1047832', None]",Takeoff,48719890,False,-1,-1
+19800217031649I,"['FUEL TANK', 'TANK', None]","['Q1411232', 'Q1047832', None]",WING,7950776,False,-1,-1
+19800217031649I,"['FUEL TANK', 'TANK', None]","['Q1411232', 'Q1047832', None]",Quit,7272636,False,-1,-1
+19800217031649I,"['FUEL TANK', 'TANK', None]","['Q1411232', 'Q1047832', None]",Engine,18353587,False,-1,-1
+19800217031649I,"['WING FUEL TANK SUMPS', 'FUEL TANK SUMPS', 'SUMPS']","[None, None, 'Q1592793']",Takeoff,48719890,False,-1,-1
+19800217031649I,"['WING FUEL TANK SUMPS', 'FUEL TANK SUMPS', 'SUMPS']","[None, None, 'Q1592793']",WING,7950776,False,-1,-1
+19800217031649I,"['WING FUEL TANK SUMPS', 'FUEL TANK SUMPS', 'SUMPS']","[None, None, 'Q1592793']",Quit,7272636,False,-1,-1
+19800217031649I,"['WING FUEL TANK SUMPS', 'FUEL TANK SUMPS', 'SUMPS']","[None, None, 'Q1592793']",Engine,18353587,False,-1,-1
+19800217031649I,"['PREFLIGHT', None, None]","['Q2108354', None, None]",Takeoff,48719890,False,-1,-1
+19800217031649I,"['PREFLIGHT', None, None]","['Q2108354', None, None]",WING,7950776,False,-1,-1
+19800217031649I,"['PREFLIGHT', None, None]","['Q2108354', None, None]",Quit,7272636,False,-1,-1
+19800217031649I,"['PREFLIGHT', None, None]","['Q2108354', None, None]",Engine,18353587,False,-1,-1
+19790720021329A,"['HELICOPTER', None, None]","['Q34486', None, None]",HElicopTEr,5629507,False,-1,-1
+19790720021329A,"['HELICOPTER', None, None]","['Q34486', None, None]",OpenType Font,260180,False,-1,-1
+19790720021329A,"['HELICOPTER', None, None]","['Q34486', None, None]",Took,7824022,False,-1,-1
+19790720021329A,"['HELICOPTER', None, None]","['Q34486', None, None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['HELICOPTER', None, None]","['Q34486', None, None]",Crashed,5182414,False,-1,-1
+19790720021329A,"['HELICOPTER', None, None]","['Q34486', None, None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['HELICOPTER', None, None]","['Q34486', None, None]",Trees,7837713,False,-1,-1
+19790720021329A,"['SLING LOAD', None, None]","[None, None, None]",HElicopTEr,5629507,False,-1,-1
+19790720021329A,"['SLING LOAD', None, None]","[None, None, None]",OpenType Font,260180,False,-1,-1
+19790720021329A,"['SLING LOAD', None, None]","[None, None, None]",Took,7824022,False,-1,-1
+19790720021329A,"['SLING LOAD', None, None]","[None, None, None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['SLING LOAD', None, None]","[None, None, None]",Crashed,5182414,False,-1,-1
+19790720021329A,"['SLING LOAD', None, None]","[None, None, None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['SLING LOAD', None, None]","[None, None, None]",Trees,7837713,False,-1,-1
+19790720021329A,"['LOAD', None, None]","[None, None, None]",HElicopTEr,5629507,False,-1,-1
+19790720021329A,"['LOAD', None, None]","[None, None, None]",OpenType Font,260180,False,-1,-1
+19790720021329A,"['LOAD', None, None]","[None, None, None]",Took,7824022,False,-1,-1
+19790720021329A,"['LOAD', None, None]","[None, None, None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['LOAD', None, None]","[None, None, None]",Crashed,5182414,False,-1,-1
+19790720021329A,"['LOAD', None, None]","[None, None, None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['LOAD', None, None]","[None, None, None]",Trees,7837713,False,-1,-1
+19790720021329A,"['IMPROPER PREFLIGHT', 'PREFLIGHT', None]","[None, 'Q2108354', None]",HElicopTEr,5629507,False,-1,-1
+19790720021329A,"['IMPROPER PREFLIGHT', 'PREFLIGHT', None]","[None, 'Q2108354', None]",OpenType Font,260180,False,-1,-1
+19790720021329A,"['IMPROPER PREFLIGHT', 'PREFLIGHT', None]","[None, 'Q2108354', None]",Took,7824022,False,-1,-1
+19790720021329A,"['IMPROPER PREFLIGHT', 'PREFLIGHT', None]","[None, 'Q2108354', None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['IMPROPER PREFLIGHT', 'PREFLIGHT', None]","[None, 'Q2108354', None]",Crashed,5182414,False,-1,-1
+19790720021329A,"['IMPROPER PREFLIGHT', 'PREFLIGHT', None]","[None, 'Q2108354', None]",Völtendorf Airport,1433926,False,-1,-1
+19790720021329A,"['IMPROPER PREFLIGHT', 'PREFLIGHT', None]","[None, 'Q2108354', None]",Trees,7837713,False,-1,-1
+19841214074599I,"['NOSEWHEEL STEERING', None, None]","['Q1002555', None, None]",steering,18891017,False,-1,-1
+19841214074599I,"['NOSEWHEEL STEERING', None, None]","['Q1002555', None, None]",Brakes,4956042,False,-1,-1
+19841214074599I,"['NOSEWHEEL STEERING', None, None]","['Q1002555', None, None]",Aircraft,4698564,False,-1,-1
+19841214074599I,"['NOSEWHEEL STEERING', None, None]","['Q1002555', None, None]",Fence,1404586,False,-1,-1
+19841214074599I,"['NOSEWHEEL STEERING', None, None]","['Q1002555', None, None]",Lil Pump,38002101,False,-1,-1
+19841214074599I,"['NOSEWHEEL STEERING', None, None]","['Q1002555', None, None]",Breaker,849252,False,-1,-1
+19841214074599I,"['NOSEWHEEL STEERING', None, None]","['Q1002555', None, None]",OPEN,7072818,False,-1,-1
+19841214074599I,"['BRAKES', None, None]","['Q1534839', None, None]",steering,18891017,False,-1,-1
+19841214074599I,"['BRAKES', None, None]","['Q1534839', None, None]",Brakes,4956042,False,-1,-1
+19841214074599I,"['BRAKES', None, None]","['Q1534839', None, None]",Aircraft,4698564,False,-1,-1
+19841214074599I,"['BRAKES', None, None]","['Q1534839', None, None]",Fence,1404586,False,-1,-1
+19841214074599I,"['BRAKES', None, None]","['Q1534839', None, None]",Lil Pump,38002101,False,-1,-1
+19841214074599I,"['BRAKES', None, None]","['Q1534839', None, None]",Breaker,849252,False,-1,-1
+19841214074599I,"['BRAKES', None, None]","['Q1534839', None, None]",OPEN,7072818,False,-1,-1
+19841214074599I,"['2 AIRCRAFT', 'AIRCRAFT', None]","[None, 'Q11436', None]",steering,18891017,False,-1,-1
+19841214074599I,"['2 AIRCRAFT', 'AIRCRAFT', None]","[None, 'Q11436', None]",Brakes,4956042,False,-1,-1
+19841214074599I,"['2 AIRCRAFT', 'AIRCRAFT', None]","[None, 'Q11436', None]",Aircraft,4698564,False,-1,-1
+19841214074599I,"['2 AIRCRAFT', 'AIRCRAFT', None]","[None, 'Q11436', None]",Fence,1404586,False,-1,-1
+19841214074599I,"['2 AIRCRAFT', 'AIRCRAFT', None]","[None, 'Q11436', None]",Lil Pump,38002101,False,-1,-1
+19841214074599I,"['2 AIRCRAFT', 'AIRCRAFT', None]","[None, 'Q11436', None]",Breaker,849252,False,-1,-1
+19841214074599I,"['2 AIRCRAFT', 'AIRCRAFT', None]","[None, 'Q11436', None]",OPEN,7072818,False,-1,-1
+19841214074599I,"['2', None, None]","['Q200', None, None]",steering,18891017,False,-1,-1
+19841214074599I,"['2', None, None]","['Q200', None, None]",Brakes,4956042,False,-1,-1
+19841214074599I,"['2', None, None]","['Q200', None, None]",Aircraft,4698564,False,-1,-1
+19841214074599I,"['2', None, None]","['Q200', None, None]",Fence,1404586,False,-1,-1
+19841214074599I,"['2', None, None]","['Q200', None, None]",Lil Pump,38002101,False,-1,-1
+19841214074599I,"['2', None, None]","['Q200', None, None]",Breaker,849252,False,-1,-1
+19841214074599I,"['2', None, None]","['Q200', None, None]",OPEN,7072818,False,-1,-1
+19841214074599I,"['CIRCUIT BREAKER HYDRAULIC PUMP', 'HYDRAULIC PUMP', 'PUMP']","[None, 'Q1640143', 'Q134574']",steering,18891017,False,-1,-1
+19841214074599I,"['CIRCUIT BREAKER HYDRAULIC PUMP', 'HYDRAULIC PUMP', 'PUMP']","[None, 'Q1640143', 'Q134574']",Brakes,4956042,False,-1,-1
+19841214074599I,"['CIRCUIT BREAKER HYDRAULIC PUMP', 'HYDRAULIC PUMP', 'PUMP']","[None, 'Q1640143', 'Q134574']",Aircraft,4698564,False,-1,-1
+19841214074599I,"['CIRCUIT BREAKER HYDRAULIC PUMP', 'HYDRAULIC PUMP', 'PUMP']","[None, 'Q1640143', 'Q134574']",Fence,1404586,False,-1,-1
+19841214074599I,"['CIRCUIT BREAKER HYDRAULIC PUMP', 'HYDRAULIC PUMP', 'PUMP']","[None, 'Q1640143', 'Q134574']",Lil Pump,38002101,False,-1,-1
