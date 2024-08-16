@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 # Load the CSV file
-csv_file_path = '../../OMIN_dataset/data/FAA_data/Maintenance_Text_data_nona.csv'
+csv_file_path = '../../OMIn_dataset/data/FAA_data/Maintenance_Text_data_nona.csv'
 df = pd.read_csv(csv_file_path)
 
 # Extract the necessary columns

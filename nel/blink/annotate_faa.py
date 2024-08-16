@@ -33,7 +33,7 @@ def _annotate(ner_model, input_sentences, idoc, c5):
 
 if __name__=="__main__":
     
-    data = pd.read_csv("../../OMIN_dataset/data/FAA_data/Maintenance_Text_data_nona.csv")
+    data = pd.read_csv("../../OMIn_dataset/data/FAA_data/Maintenance_Text_data_nona.csv")
     text = list(data["c119"])
     
     # initialize jsonl_output

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use the OMIN Dataset, please cite it as below."
+message: "If you use the OMIn Dataset, please cite it as below."
 authors:
 - family-names: "Mealey"
   given-names: "Kathleen"
@@ -23,7 +23,7 @@ authors:
   given-names: "Charles"
   orcid: "https://orcid.org/0000-0003-4091-6059"
 
-title: "Operations and Maintenance Intelligence (OMIN) Dataset"
+title: "Operations and Maintenance Intelligence (OMIn) Dataset"
 type: dataset
 version: 0.1.0
 doi: 10.5281/zenodo.1234

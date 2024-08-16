@@ -19,9 +19,9 @@ EQ: IMPROPER OPERATION EMEG/EQUIP\
 II: INADEQUATE INSP OF AC PREFLT\
 ME: FAIL/INCORRECT USE MISC EQUIP
 
-See [preprocessing/select_maint_records.py](../OMIN_dataset/data_processing/preprocessing/select_maint_records.py) for code for the concatenation and selection. This script outputs the Maintenance_Text_Data.csv found here.
+See [preprocessing/select_maint_records.py](../OMIn_dataset/data_processing/preprocessing/select_maint_records.py) for code for the concatenation and selection. This script outputs the Maintenance_Text_Data.csv found here.
 
-Then, we remove the rows in that data with empty natural language description entries (column c119) in [preprocessing/remove_na.py](../OMIN_dataset/data_processing/preprocessing/remove_na.py) and outputs Maintenance_Text_Data_nona.csv.
+Then, we remove the rows in that data with empty natural language description entries (column c119) in [preprocessing/remove_na.py](../OMIn_dataset/data_processing/preprocessing/remove_na.py) and outputs Maintenance_Text_Data_nona.csv.
 
 **Current State of FAA Data Access**\
 The link at the top (https://av-info.faa.gov/dd_sublevel.asp?Folder=%5CAID) does not work as of at least Feb 2024. However, it is available at the [Aviation Safety Information Analysis and Sharing (ASIAS) website](https://www.asias.faa.gov/apex/f?p=100:189:::NO).

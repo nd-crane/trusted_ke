@@ -20,12 +20,12 @@ Setup:
 
 Example:
 
-python rebel_pipe.py --dataset_path ../../OMIN_dataset/data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_pipe.csv
+python rebel_pipe.py --dataset_path ../../OMIn_dataset/data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_pipe.csv
 
-python rebel_main.py --dataset_path ../../OMIN_dataset/data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_main.csv
+python rebel_main.py --dataset_path ../../OMIn_dataset/data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_main.csv
 
 You may also specify hyperparameters in the rebel_main.py script:\
-python rebel_main.py --dataset_path ../../OMIN_dataset/data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_main.csv --max_length 128 --length_penalty -1 --num_beams 5 --num_return_sentences 3
+python rebel_main.py --dataset_path ../../OMIn_dataset/data/FAA_data/Maintenance_Text_Data_nona.csv --text_col c119 -id_col c5 -output_path ../../tool_results/rebel/rebel_main.csv --max_length 128 --length_penalty -1 --num_beams 5 --num_return_sentences 3
 
 The defaults for these hyperparameters is as follows:
 * max_length 256

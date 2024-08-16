@@ -38,7 +38,7 @@ def process_row(sentence_model_tuple):
     return result
 
 def output_results(row_limit=None, batch_size=100):  # Run all in one batch
-    df = pd.read_csv('../../OMIN_dataset/data/FAA_data/FAA_sample_100.csv')
+    df = pd.read_csv('../../OMIn_dataset/data/FAA_data/FAA_sample_100.csv')
 
     # Apply row limit if specified
     if row_limit is not None:

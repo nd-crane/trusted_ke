@@ -425,7 +425,7 @@ if __name__=='__main__':
         '-g', '--gs_path',
         type=str,
         required=False,
-        default="../../OMIN_dataset/gold_standard/processed/nel.csv",
+        default="../../OMIn_dataset/gold_standard/processed/nel.csv",
         help='Path to NEL gold standard'
     )
 
