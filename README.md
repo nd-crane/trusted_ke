@@ -10,10 +10,19 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
 [![Paul Brenner ORCID](https://img.shields.io/badge/Paul%20Brenner-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0002-2568-9786)
 [![Charles Vardeman II ORCID](https://img.shields.io/badge/Charles%20Vardeman%20II-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0003-4091-6059)
 
+### Dataset's Authors
+[![Kate Mealey ORCID](https://img.shields.io/badge/Kate%20Mealey-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0008-1534-2587)
+[![Jonathan Karr ORCID](https://img.shields.io/badge/Jonathan%20Karr-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0000-1600-6122)
+[![Priscila Saboia Moreira ORCID](https://img.shields.io/badge/Priscila%20Saboia%20Moreira-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0001-6047-385X)
+[![Danny Finch ORCID](https://img.shields.io/badge/Danny%20Finch-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0001-2410-9890)
+[![Alyssa Riter ORCID](https://img.shields.io/badge/Alyssa%20Riter-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0003-4319-4394)
+[![Paul Brenner ORCID](https://img.shields.io/badge/Paul%20Brenner-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0002-2568-9786)
+[![Charles Vardeman II ORCID](https://img.shields.io/badge/Charles%20Vardeman%20II-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0003-4091-6059)
+
 ## Table of Contents
-1. [Operations and Maintenance Intelligence (OMIn) Dataset](#omin-dataset)
+1. [Operations and Maintenance Intelligence (OMIn) Dataset](#OMIn-dataset)
    
-2. Evaluation of the NLP tools over the OMIN Dataset
+2. Evaluation of the NLP tools over the OMIn Dataset
     - [Quantitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/quantitative/README.md)
     - [Quanlitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/qualitative/README.md)
       
@@ -43,40 +52,30 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
       - [PL-Marker (SciERC)](#plmarker_re)
 
 ---
-<a name="omin-dataset"></a>
+<a name="OMIn-dataset"></a>
 
 ![FAA Example](figs/faa_example.png)
 
-## Operations and Maintenance Intelligence (OMIN) Dataset   
+## Operations and Maintenance Intelligence (OMIn) Dataset   
 
-We present the **Operations and Maintenance Intelligence (OMIN) Dataset**, based on raw FAA Accident/Incident data. 
-OMIN is curated for KE in operations and maintenance, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand. 
-We release the [gold standards](https://github.com/nd-crane/trusted_ke/blob/main/OMIN_dataset/gold_standard/README.md) prepared for NER, CR, and NEL as part of OMIN. This baseline expands the portfolio in the operation and maintenance domains, since it offers records on a variety of subject matters, long enough to provide context and valuable information for extraction. OMIN is the first open-source dataset curated for KE in the operation and maintenance domains. It also contains structured data, such as details of the aircraft, failure codes, and dates. The structured data can be used in future work alongside the natural language text to develop an integrated and mutually validating KE approach. While OMIN is currently based on aviation maintenance incident data, this data has qualities common to many sets of records or logs in the operation and maintenance domains, making it a valuable baseline. By publicizing this dataset, we offer it to the community in the maintenance and manufacturing domain and invite collaboration toward a robust, open-source KE dataset for the domain.
+We present the **Operations and Maintenance Intelligence (OMIn) Dataset**, based on raw FAA Accident/Incident data. 
+OMIn is curated for KE in operations and maintenance, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand. 
+We release the [gold standards](https://github.com/nd-crane/trusted_ke/blob/main/OMIn_dataset/gold_standard/README.md) prepared for NER, CR, and NEL as part of OMIn. This baseline expands the portfolio in the operation and maintenance domains, since it offers records on a variety of subject matters, long enough to provide context and valuable information for extraction. OMIn is the first open-source dataset curated for KE in the operation and maintenance domains. It also contains structured data, such as details of the aircraft, failure codes, and dates. The structured data can be used in future work alongside the natural language text to develop an integrated and mutually validating KE approach. While OMIn is currently based on aviation maintenance incident data, this data has qualities common to many sets of records or logs in the operation and maintenance domains, making it a valuable baseline. By publicizing this dataset, we offer it to the community in the maintenance and manufacturing domain and invite collaboration toward a robust, open-source KE dataset for the domain.
 
 ### Key Features:
 - **Textual Descriptions**: Contains maintenance incident reports, including mentions of aircraft systems and domain-specific jargon.
-- **[Gold Standards](OMIN_dataset/gold_standard/README.md)**: Prepared for Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL).
+- **[Gold Standards](OMIn_dataset/gold_standard/README.md)**: Prepared for Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL).
 - **Structured Data**: Includes details such as aircraft specifics, failure codes, and incident dates, which can be used alongside the natural language text for integrated KE approaches.
 - **Domain-Relevance**: While currently focused on aviation, the data has qualities common to other operation and maintenance records/logs, making it a valuable baseline for KE in these domains.
 
 By publicizing this dataset, we aim to provide a resource for the maintenance and manufacturing community and encourage collaboration toward a robust, open-source KE dataset for this domain.
-
-### Dataset's Authors
-[![Kate Mealey ORCID](https://img.shields.io/badge/Kate%20Mealey-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0008-1534-2587)
-[![Jonathan Karr ORCID](https://img.shields.io/badge/Jonathan%20Karr-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0000-1600-6122)
-[![Priscila Saboia Moreira ORCID](https://img.shields.io/badge/Priscila%20Saboia%20Moreira-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0001-6047-385X)
-[![Danny Finch ORCID](https://img.shields.io/badge/Danny%20Finch-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0001-2410-9890)
-[![Alyssa Riter ORCID](https://img.shields.io/badge/Alyssa%20Riter-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0003-4319-4394)
-[![Paul Brenner ORCID](https://img.shields.io/badge/Paul%20Brenner-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0002-2568-9786)
-[![Charles Vardeman II ORCID](https://img.shields.io/badge/Charles%20Vardeman%20II-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0003-4091-6059)
-
 
 ##  Knowledge extraction tools<a name="nlp-tool-evaluation"></a>
 
 The survey of knowledge extraction tools for maintenance data includes tools for Named Entity Recognition (NER), Coreference Resolution (CR), Named Entity Linking (NEL), and Relation Extraction (RE). 
 It provides an overview of each tool's methodology, base model, and relation set, where applicable. 
 
-The survey also includes a comparison of the tools' outputs with the [Gold Standard Data](OMIN_dataset/gold_standard/README.md), a subset of the Complete Set of FAA data created to evaluate the tools' correctness regarding NER, CR, and NEL tasks. There are two types of correctness evaluations: **[quantitative](evaluations/quantitative/README.md)** and **[qualitative](evaluations/qualitative/README.md)**.
+The survey also includes a comparison of the tools' outputs with the [Gold Standard Data](OMIn_dataset/gold_standard/README.md), a subset of the Complete Set of FAA data created to evaluate the tools' correctness regarding NER, CR, and NEL tasks. There are two types of correctness evaluations: **[quantitative](evaluations/quantitative/README.md)** and **[qualitative](evaluations/qualitative/README.md)**.
 
 KE tools at a glance:
 
