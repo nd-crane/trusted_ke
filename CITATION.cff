@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use the OMIn Dataset, please cite it as below."
+authors:
+- family-names: "Mealey"
+  given-names: "Kathleen"
+  orcid: "https://orcid.org/0009-0008-1534-2587"
+- family-names: "Karr"
+  given-names: "Jonathan"
+  orcid: "https://orcid.org/0009-0000-1600-6122"
+- family-names: "Saboia Moreira"
+  given-names: "Priscila"
+  orcid: "https://orcid.org/0009-0001-6047-385X"
+- family-names: "Finch"
+  given-names: "Danny"
+  orcid: "https://orcid.org/0009-0001-2410-9890"
+- family-names: "Riter"
+  given-names: "Alyssa"
+  orcid: "https://orcid.org/0009-0003-4319-4394"
+- family-names: "Brenner"
+  given-names: "Paul"
+  orcid: "https://orcid.org/0000-0002-2568-9786"
+- family-names: "Vardeman II"
+  given-names: "Charles"
+  orcid: "https://orcid.org/0000-0003-4091-6059"
+
+title: "Operations and Maintenance Intelligence (OMIn) Dataset"
+type: dataset
+version: 1.0.0
+doi: 10.5281/zenodo.13333825
+date-released: 2024-08-16
+url: "https://github.com/nd-crane/trusted_ke"
