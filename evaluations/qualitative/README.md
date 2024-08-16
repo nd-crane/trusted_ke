@@ -1,4 +1,4 @@
-# Relation Extraction Manual Evaluation
+# Relation Extraction Qualitative Evaluation
 
 The excel sheets in this folder are initially created via the select_sample.py, then downloaded for manual evaluation and reuploaded. The evaluation metrics and guidelines are described in [evaluations](../README.md).
 
