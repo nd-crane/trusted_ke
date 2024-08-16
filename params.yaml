@@ -2,8 +2,8 @@
 ner:
   name: 'Named Entity Recognition'
   gold_standard: 
-    raw_file: 'gold_standard/raw/ner.csv'
-    processed_file: 'gold_standard/processed/ner.csv'
+    raw_file: 'OMIN_dataset/gold_standard/raw/ner.csv'
+    processed_file: 'OMIN_dataset/gold_standard/processed/ner.csv'
   tools:
     flair:
       name: 'flair'
@@ -24,8 +24,8 @@ ner:
 nel:
   name: 'Named Entity Linking'
   gold_standard: 
-    raw_file: 'gold_standard/raw/nel.csv'
-    processed_file: 'gold_standard/processed/nel.csv'
+    raw_file: 'OMIN_dataset/gold_standard/raw/nel.csv'
+    processed_file: 'OMIN_dataset/gold_standard/processed/nel.csv'
   tools:
     spacy:
       name: 'spacy'
@@ -38,8 +38,8 @@ nel:
 re:
   name: 'Relation Extraction'
   gold_standard: 
-    raw_file: 'gold_standard/raw/re.csv'
-    processed_file: 'gold_standard/processed/nel.csv'
+    raw_file: 'OMIN_dataset/gold_standard/raw/re.csv'
+    processed_file: 'OMIN_dataset/gold_standard/processed/nel.csv'
   tools:
     spacy:
       name: 'spacy'

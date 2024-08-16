@@ -45,7 +45,7 @@ if __name__=='__main__':
         '-s', '--sample_path',
         type=str,
         required=False,
-        default="../../data/FAA_data/FAA_sample_100.csv",
+        default="../../OMIN_dataset/data/FAA_data/FAA_sample_100.csv",
         help='Path to sample data'
     )
     parser.add_argument(

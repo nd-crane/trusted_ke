@@ -1,0 +1,1 @@
+For an explanation of where the FAA data comes from, and how these preprocessing scripts transform it into the data in the FAA_data folder, see the [README.md](../../data/FAA_data/README.md) in the FAA_data folder.

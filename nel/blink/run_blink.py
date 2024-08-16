@@ -77,7 +77,7 @@ result = run(args, logger, *models, test_data=samples)
 biencoder_predictions = result[5]
 
 ## Store results
-og_data = pd.read_csv("../../data/FAA_data/Maintenance_Text_data_nona.csv")
+og_data = pd.read_csv("../../OMIN_dataset/data/FAA_data/Maintenance_Text_data_nona.csv")
 
 results_dict = {"doc_idx":[], "c5_id":[], "sent_idx":[], "original_sentence":[], "input":[], "mentions":[], "bi_pred_entity":[], "bi_qid":[], "bi_desc":[], "cross_pred_entity":[], "cross_qid":[],"cross_desc":[]}
 

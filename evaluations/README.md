@@ -22,9 +22,9 @@ We follow SemEval
 
 We provide two F1 metrics for NER evaluation: a strong-matching and a weak-matching. The strong-matching evaluation counts a predicted entity as correct only if it exactly matches a gold standard entity. In the weak-matching evaluation, a predicted entity is counted correct if it contains any substring of the gold standard entity, or if the gold standard entity contains any substring of the predicted entity.
 
-We do not evaluate correctness of entity labels when evaluating against the [un-typed NER GS](../gold_standard/processed/ner.csv).
+We do not evaluate correctness of entity labels when evaluating against the [un-typed NER GS](../OMIN_dataset/gold_standard/processed/ner.csv).
 
-We evaluate each NER tool against each GS: the [un-typed UTFAA](../gold_standard/processed/ner.csv), and the benchmark-annotated [CoNLLFAA](../gold_standard/processed/ner_conll.csv), [ACE1FAA](../gold_standard/processed/ner_ace_nltk.csv), [ACE05FAA](../gold_standard/processed/ner_ace.csv), and [ONFAA](../gold_standard/processed/ner_on.csv).
+We evaluate each NER tool against each GS: the [un-typed UTFAA](../OMIN_dataset/gold_standard/processed/ner.csv), and the benchmark-annotated [CoNLLFAA](../OMIN_dataset/gold_standard/processed/ner_conll.csv), [ACE1FAA](../OMIN_dataset/gold_standard/processed/ner_ace_nltk.csv), [ACE05FAA](../OMIN_dataset/gold_standard/processed/ner_ace.csv), and [ONFAA](../OMIN_dataset/gold_standard/processed/ner_on.csv).
 
 For UTFAA, we evaluate just entity spans and ignore labels. We report an F1 score with strong-matching and one with weak-matching. In strong-matching, a predicted entity is correct only if it exactly matches a gold standard entity. In weak-matching, a predicted entity is counted correctly if it contains any substring of the gold standard entity, or if the gold standard entity contains any substring of the predicted entity.
 
@@ -69,7 +69,7 @@ For the OT metrics, we evaluate the intersection of entities in the gold and pre
 
 For each metric, we also implement three evaluation strategies: strong-matching, weak-matching, and flexible. Strong and weak matching follow the definitions described above for NER. The type of matching affects which predicted entities are included in the evaluation set.
 
-Flexible evaluation makes use of the secondary and tertiary links in the [NEL GS](../gold_standard/processed/nel.csv). In Flexible evaluation, if a predicted linked entity exactly matches either the primary, secondary, or tertiary link, it is correct. Flexible evaluation utilizes strong-matching.
+Flexible evaluation makes use of the secondary and tertiary links in the [NEL GS](../OMIN_dataset/gold_standard/processed/nel.csv). In Flexible evaluation, if a predicted linked entity exactly matches either the primary, secondary, or tertiary link, it is correct. Flexible evaluation utilizes strong-matching.
 
 Example: ``"Forward cargo door opened as aircraft took off. Objects dropped out. Returned. Failed to see warning light."``
 

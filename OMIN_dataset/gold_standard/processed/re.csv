@@ -1,0 +1,39 @@
+id,subject,subject_type,relation,relation_type,object,object_type
+19990213001379A,Aircraft,Object/Subject,was performing,Activity/Operation,Taxiing for Take Off,Activity/Operation
+19990213001379A,Aircraft,Object/Subject,lost,Negative Outcome,Control,Incident Description
+19990213001379A,Aircraft,Object/Subject,ran into,Collision,Ditch,Object/Obstacle
+19990213001379A,Aircraft,Object/Subject,struck,Collision,Tree,Object/Obstacle
+19990213001379A,Other Circumstances,Contextual Information,status,Condition,Unknown,Status/Detail Type
+19800217031649I,Engine,Component,quit after,Temporal,Takeoff,Phase/Operation
+19800217031649I,Wing Fuel Tank Sumps,Component,were not drained during,Condition/Action,Preflight,Phase/Operation
+19800217031649I,Wing Fuel Tank Sumps,Component,condition,Condition,Frozen,Condition
+19800217031649I,Drained,Action,prevented by,Causal,Frozen,Condition
+19790720021329A,Helicopter,Aircraft type,took off with,Action,Sling Load,Cargo
+19790720021329A,Helicopter,Aircraft type,crashed due to,Causal,Load Wedged in Trees,Incident Cause
+19790720021329A,Crash,Incident,caused by,Causal,Improper Preflight,Condition
+19841214074599I,Taxiing,Phase/Operation,lost,Negative Outcome,Nosewheel Steering,Component
+19841214074599I,Taxiing,Phase/Operation,lost,Negative Outcome,Brakes,Component
+19841214074599I,Aircraft,Object,struck,Collision,Fence,Object
+19841214074599I,Circuit Breaker Hydraulic Pump,Component,status,Condition,Open,Condition
+19860128014289I,Forward Cargo Door,Component,opened during,Temporal,Takeoff,Phase/Operation
+19860128014289I,Objects,Object,dropped out from,Action,Forward Cargo Door,Component
+19860128014289I,Aircraft,Object,returned after,Temporal,Objects dropped out,Event
+19860128014289I,,,,,,
+20000215010329A,MR. TIMOTHY ALLEN WELLS,Person,acting as,Role,PILOT IN COMMAND,Role
+20000215010329A,MR. TIMOTHY ALLEN WELLS,Person,was pilot of,Association,BELL HELICOPTER MODEL BHT-47-G5,Aircraft Model
+20000215010329A,BELL HELICOPTER MODEL BHT-47-G5,Aircraft Model,has registration,Attribute,N4754R,Aircraft Registration
+19801116083749I,Forced Landing,Event,occurred after,Temporal,Engine Quit,State
+19801116083749I,Ice,Condition,found in,Spatial,Auxiliary Fuel System,Component
+19850315007389A,Pilot,Person,descending due to,Causal,Icing,Condition
+19850315007389A,Pilot,Person,experienced,Event,Lost Control,Event
+19850315007389A,Altimeter,Component,not,Certification,IFR Certified,Certification
+19850315007389A,Icing,Condition,was forecasted,Temporal,Icing Forecast,Event
+20070630826079I,Aircraft,Object,departed from,Spatial,Ray Airport,Location
+20070630826079I,Aircraft,Object,entered phase,Temporal,Takeoff,Phase
+20070630826079I,Aircraft,Object,entered phase,Temporal,Climb,Phase
+20070630826079I,Engine,Component,started to have,State Change,Problems,Condition
+19900425011659A,Fuel,Resource,ran out during,Causal,Ferry Flight,Operation
+19900425011659A,Left Pontoon,Component,separated during,Event,Landing,Action
+19900425011659A,Left Pontoon,Component,landed in,Spatial,Pond,Location
+19900425011659A,Fuel Cap,Component,not secured,State,Fuel,Resource
+19900425011659A,Fuel siphoned,incident,caused by,Causal, Fuel Cap not Secured,State

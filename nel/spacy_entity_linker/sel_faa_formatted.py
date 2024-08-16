@@ -60,7 +60,7 @@ if __name__ == '__main__':
         '-d', '--dataset_path',
         type=str,
         required=False,
-        default="../../data/FAA_data/Maintenance_Text_data_nona.csv",
+        default="../../OMIN_dataset/data/FAA_data/Maintenance_Text_data_nona.csv",
         help='path/to/input/dataset.csv'
     )
     parser.add_argument(

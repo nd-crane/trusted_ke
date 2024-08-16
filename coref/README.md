@@ -2,7 +2,7 @@
 
 ### ASP:
 
-**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../data_processing/conll_12_format_processing), and the final faa.conll file [here](../data/FAA_data/faa.conll)\
+**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../OMIN_dataset/data_processing/conll_12_format_processing), and the final faa.conll file [here](../OMIN_dataset/data/FAA_data/faa.conll)\
 The CoNLL-12 formatted data is then processed into jsonlines by a script provided in the ASP remote repo, ASP/data/t5minimize_coref.py. The result of this script is available at [asp/minimized_data](asp/minimized_data).
 
 Sample of minimized jsonl data: \
@@ -30,7 +30,7 @@ Note that the number attached to each coreference in the resolved sentence corre
 
 ### s2e-coref:
 
-**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../data/conll_12_format_processing), and the final faa.conll file [here](../data/FAA_data/faa.conll)\
+**Input:** CoNLL-12 formatted data. See our process for transforming and annotating the FAA data to follow CoNLL-12 format [here](../OMIN_dataset/data/conll_12_format_processing), and the final faa.conll file [here](../OMIN_dataset/data/FAA_data/faa.conll)\
 Like ASP, s2e-coref also has a minimize.py script which transforms the CoNLL-12 formatted data to jsonlines. See [s2e-coref/data](s2e-coref/data) for both formats of data. 
 
 s2e-coref sees each record separately and may create coreferences across multiple sentences in a record.

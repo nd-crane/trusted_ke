@@ -68,7 +68,7 @@ Note that we can't eval pl-marker's SciERC NER unless we make a SciERC GS, which
 
 Usage:\
 python cr_eval.py -d path/to/results/to/evaluate.csv -i id_col -c corefs_col -g gold/standard/to/use.csv\
-The last three options are optional, and default to c5_id, corefs, and ../../gold_standard/gold/coref_gold.csv. Make sure to specify the id_col if it is something other than c5_id, like c5_unique_id\
+The last three options are optional, and default to c5_id, corefs, and ../../OMIN_dataset/gold_standard/gold/coref_gold.csv. Make sure to specify the id_col if it is something other than c5_id, like c5_unique_id\
 Note that the environment requirements are listed on the top of the script in a comment.
 
 To evaluate CR tools:
@@ -99,7 +99,7 @@ ASP t0-3b and flant5-large do in fact have different output across the entire FA
 
 Usage:\
 python nel_eval.py -d path/to/results/to/evaluate.csv -i id_col -e ent_col -q qid_col -g gold/standard/to/use.csv\
-The last four options are optional, and default to c5_id, entities, qids, and ../../gold_standard/processed/nel.csv. Make sure to specify the column names if you want to use something different.\
+The last four options are optional, and default to c5_id, entities, qids, and ../../OMIN_dataset/gold_standard/processed/nel.csv. Make sure to specify the column names if you want to use something different.\
 **Important Note:** Blink and SpacyEntity Linker list entities as their Wikidata titles, and have seperate mentions columns that contain the literal mention from the text that was recognized as an entity. Therefore, when processing these, ent_col should be set to mentions, since the gold standard NEL entities use text mentions. ReFinED and GENRE list the actual mention from the text as the entity and have a title column with the Wikidata title, so their ent_col is the default, entities.
 
 To evaluate NEL tools:

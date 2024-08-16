@@ -32,7 +32,7 @@ ace_tags = ['PER','ORG','LOC','FAC','GPE','VEHICLE','WEAPON']
 scierc_tags = ['OtherScientificTerm', 'Method', 'Task', 'Material', 'Generic', 'Metric','ORG'] # have to add 'org' so that it works with untyped eval, where 'org' is the dummy label for the gold ents
 on_tags = ['PER','ORG','LOC','FAC','GPE','PRODUCT','NORP','QUANTITY','EVENT','WORK_OF_ART','CARDINAL','DATE','PERCENT','TIME','ORDINAL','MONEY','LAW','LANGUAGE']
 type2tags = {'conll03':conll_tags, 'ace05':ace_tags,'ace05_nltk':ace_nltk_tags, 'scierc':scierc_tags,'ontonotes':on_tags}
-path_to_gs = '../../gold_standard/processed/'
+path_to_gs = '../../OMIN_dataset/gold_standard/processed/'
 type2gspath = {'untyped':path_to_gs+'ner.csv','conll03':path_to_gs+'ner_conll.csv', 'ace05':path_to_gs+'ner_ace.csv','ace05_nltk':path_to_gs+'ner_ace_nltk.csv','ontonotes':path_to_gs+'ner_on.csv'}
 
 def print_results_typed(tool_name, results):
@@ -66,7 +66,7 @@ def print_results_untyped(tool_name, results):
 
 def get_faa_tokenized():
     # Get FAA data in format {c5_id:{0: word0, 1: word1, ..., n: wordn}} using word tokenization from faa.conll    
-    with open('../../data/FAA_data/faa.conll') as f:
+    with open('../../OMIN_dataset/data/FAA_data/faa.conll') as f:
         text = f.read()
     faa = {}
     docs = text.split('#begin document ')

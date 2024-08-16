@@ -12,7 +12,7 @@ else
 fi
 
 # Paths for the source and destination files
-source_file="../../data/FAA_data/faa.conll"
+source_file="../../OMIN_dataset/data/FAA_data/faa.conll"
 dest1="$DATA_DIR/dev.english.v4_gold_conll"
 dest2="$DATA_DIR/train.english.v4_gold_conll"
 dest3="$DATA_DIR/test.english.v4_gold_conll"
