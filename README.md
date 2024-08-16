@@ -2,14 +2,16 @@
 # Trusted Knowledge Extraction for Maintenance and Manufacturing Intelligence
 
 University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI  
-**Authors**: Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Saboia Moreira, Eli Phillips, Paul Brenner, Charles Vardeman
+**Authors**: Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Saboia Moreira, Eli Phillips, Paul Brenner, Charles Vardeman II
 
 ## Table of Contents
 1. [Operations and Maintenance Intelligence (OMIN) Dataset](#omin-dataset)
+   
 2. Evaluation of the NLP tools over the OMIN Dataset
     - [Quantitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/quantitative)
     - [Quanlitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/qualitative)
-5. [NLP Evaluated Tools](#nlp-tool-evaluation)
+      
+3. [NLP Evaluated Tools](#nlp-tool-evaluation)
     - [Named Entity Recognition (NER)](#ner)
       - [spaCy EntityRecognizer](#spacy_ner)
       - [flair NER](#flair_ner)
@@ -33,16 +35,21 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
       - [UniRel](#unirel_re)
       - [DeepStruct](#deepstruct_re)
       - [PL-Marker (SciERC)](#plmarker_re)
-   
+
+---
+<a name="omin-dataset"></a>
+
 ![FAA Example](faa_example.png)
 
-## Operations and Maintenance Intelligence (OMIN) Dataset <a name="omin-dataset"></a>
+## Operations and Maintenance Intelligence (OMIN) Dataset 
 
-We present the **Operations and Maintenance Intelligence (OMIN) Dataset**, which is based on raw FAA Accident/Incident data. The OMIN dataset is curated specifically for knowledge extraction (KE) in operations and maintenance, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand.
+We present the **Operations and Maintenance Intelligence (OMIN) Dataset**, based on raw FAA Accident/Incident data. 
+OMIN is curated for KE in operations and maintenance, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand. 
+We release the [gold standards](https://github.com/nd-crane/trusted_ke/blob/main/gold_standard/README.md) prepared for NER, CR, and NEL as part of OMIN. This baseline expands the portfolio in the operation and maintenance domains, since it offers records on a variety of subject matters, long enough to provide context and valuable information for extraction. OMIN is the first open-source dataset curated for KE in the operation and maintenance domains. It also contains structured data, such as details of the aircraft, failure codes, and dates. The structured data can be used in future work alongside the natural language text to develop an integrated and mutually validating KE approach. While OMIN is currently based on aviation maintenance incident data, this data has qualities common to many sets of records or logs in the operation and maintenance domains, making it a valuable baseline. By publicizing this dataset, we offer it to the community in the maintenance and manufacturing domain and invite collaboration toward a robust, open-source KE dataset for the domain.
 
 ### Key Features:
 - **Textual Descriptions**: Contains maintenance incident reports, including mentions of aircraft systems and domain-specific jargon.
-- **Gold Standards**: Prepared for Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL).
+- **[Gold Standards](https://github.com/nd-crane/trusted_ke/blob/main/gold_standard/README.md)**: Prepared for Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL).
 - **Structured Data**: Includes details such as aircraft specifics, failure codes, and incident dates, which can be used alongside the natural language text for integrated KE approaches.
 - **Domain-Relevance**: While currently focused on aviation, the data has qualities common to other operation and maintenance records/logs, making it a valuable baseline for KE in these domains.
 
@@ -63,7 +70,7 @@ By publicizing this dataset, we aim to provide a resource for the maintenance an
 The survey of knowledge extraction tools for maintenance data includes tools for Named Entity Recognition (NER), Coreference Resolution (CR), Named Entity Linking (NEL), and Relation Extraction (RE). 
 It provides an overview of each tool's methodology, base model, and relation set, where applicable. 
 
-The survey also includes a comparison of the tools' outputs with the [Gold Standard Data](gold_standard/README.md), a subset of the Complete Set of FAA data created to evaluate the tools' correctness regarding NER, CR, and NEL tasks. There are two types of correctness evaluations: **quantitative** and **qualitative**. For more details on the correctness evaluations, please refer to the [Correctness Evaluation](evaluations/README.md).
+The survey also includes a comparison of the tools' outputs with the [Gold Standard Data](gold_standard/README.md), a subset of the Complete Set of FAA data created to evaluate the tools' correctness regarding NER, CR, and NEL tasks. There are two types of correctness evaluations: **[quantitative](evaluations/quantitative/README.md)** and **[qualitative](evaluations/qualitative/README.md)**.
 
 KE tools at a glance:
 
@@ -93,7 +100,7 @@ The label sets used by our NER tools are detailed below:
 \* see RE for PL-Marker
 
 #### [spaCy EntityRecognizer]<a name="spacy_ner"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/ner/spacy)
 [![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://spacy.io/api/entityrecognizer)
 
 
@@ -104,7 +111,7 @@ Model: en_core_web_sm, en_core_web_lg, and other spaCy models
 _Used by:_ Our implementation of CoNLL-2012 format processing
 
 #### [flair NER]<a name="flair_ner"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/ner/flair)
 [![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://flairnlp.github.io/docs/intro)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/flairNLP/flair)
 
@@ -116,7 +123,7 @@ Model: flair/ner-english, flair/ner-english-ontonotes. Others available on [Hugg
 _Used by:_ BLINK
 
 #### [stanza NERProcessor]<a name="stanza_ner"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke)
 [![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://stanfordnlp.github.io/stanza/ner.html)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/stanfordnlp/stanza/tree/main)
 
@@ -128,7 +135,7 @@ Models: Default model is ontonotes-ww-multi_charlm, see [HuggingFace](https://hu
 Not used by any other tools in the pipeline.
 
 #### [NLTK ne_chunk]<a name="nlkt_ner"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/ner/nltk)
 [![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://www.nltk.org/api/nltk.chunk.ne_chunk.html) 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/nltk/nltk/tree/develop/nltk/chunk)
 
@@ -140,7 +147,7 @@ Not used by any other tools in the pipeline.
 ### Coreference Resolution (CR) tools<a name="cr"></a>
 
 #### [ASP: Autoregressive Structured Prediction with Language Models]<a name="asp_cr"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/coref/asp)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2210.14698.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/lyutyuh/ASP)
 
@@ -149,7 +156,7 @@ The Autoregressive Structured Prediction (ASP) framework utilizes a conditional 
 Base Model: T5
 
 #### [coref_mt5: Coreference Resolution through a seq2seq Transition-Based System]<a name="corefmt5_cr"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/coref/coref_mt5)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2211.12142v1.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/google-research/google-research/tree/master/coref_mt5)
 
@@ -158,7 +165,7 @@ coref_mt5's methodology for coreference resolution uses a seq2seq approach, wher
 Base Model: mT5
 
 #### [s2e-coref: Start-To-End Coreference Resolution]<a name="s2s_cr"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/coref/s2e-coref)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://aclanthology.org/2021.acl-short.3.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/yuvalkirstain/s2e-coref)
 
@@ -168,7 +175,7 @@ Instead, it uses the boundaries of spans to computes mention and antecedent scor
 Base Model: longformer-large
 
 #### [neuralcoref]<a name="neuralcoref_cr"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/coref/ncoref)
 [![Blog Post](https://img.shields.io/badge/Blog%20Post-Read%20Now-orange?logo=medium)](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/huggingface/neuralcoref)
 
@@ -179,7 +186,7 @@ Base Model: en_core_web_sm, en_core_web_lg, and other spaCy models
 ### Named Entity Linking (NEL) Tools<a name="nel"></a>
 
 #### [BLINK: Scalable Zero-shot Entity Linking with Dense Entity Retrieval]<a name="blink_nel"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/nel/blink)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/1911.03814.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/facebookresearch/BLINK)
 
@@ -189,7 +196,7 @@ Uses Flair for NER: https://github.com/flairNLP/flair \
 Base Model: BERT
 
 #### [spaCy EntityLinker]<a name="spacy_nel"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/nel/spacy_entity_linker)
 [![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://spacy.io/api/entitylinker)
 
 
@@ -198,7 +205,7 @@ spaCy EntityLinker is spaCy's NEL pipeline component. It uses the InMemoryLookup
 Model: en_core_web_sm, en_core_web_lg, and other spaCy models
 
 #### [GENRE: Generative ENtity REtrieval]<a name="genre_nel"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/nel/genre)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2010.00904.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/facebookresearch/GENRE)
 
@@ -207,7 +214,7 @@ GENRE utilizes a sequence-to-sequence model to autoregressively generate textual
 Base Model: BART
 
 #### [ReFinED: Representation and Fine-grained typing for Entity Disambiguation]<a name="refined_nel"></a>
-
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/nel/ReFinED)
 [![Papers](https://img.shields.io/badge/Papers-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2207.04108.pdf), [![Papers](https://img.shields.io/badge/Papers-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2207.04106.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/amazon-science/ReFinED)
 
@@ -221,6 +228,7 @@ Models: wikipedia_model, wikipedia_model_with_numbers, aida_model
 ## Relation Extraction (RE) Tools<a name="re"></a>
 
 ### [REBEL: Relation Extraction By End-to-end Language Generation]<a name="rebel_re"></a>
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/re/rebel)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://aclanthology.org/2021.findings-emnlp.204.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Babelscape/rebel)
 
@@ -231,6 +239,7 @@ Base Model: BART-large
 Relation set: Subset of 220 relations from Wikidata properties, found here: https://github.com/Babelscape/rebel/blob/main/data/relations_count.tsv
 
 ### [UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction]<a name="unirel_re"></a>
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/re/UniRel)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2211.09039.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/wtangdev/UniRel/tree/main)
 
@@ -243,8 +252,9 @@ Relation set: 25 relations from the NYT dataset, found here: https://github.com/
 ['/business/company/advisors','/business/company/founders','/business/company/industry','/business/company/major_shareholders','/business/company/place_founded','business/company_shareholder/major_shareholder_of','/business/person/company','/location/administrative_division/country','/location/country/administrative_divisions','location/country/capital','/location/location/contains',   '/location/neighborhood/neighborhood_of','/people/deceased_person/place_of_death','/people/ethnicity/geographic_distribution','/people/ethnicity/people','/people/person/children','/people/person/ethnicity','/people/person/nationality','/people/person/place_lived','/people/person/place_of_birth','/people/person/profession','/people/person/religion','/sports/sports_team/location','/sports/sports_team_location/teams']
 
 ### [DeepStruct]<a name="deepstruct_re"></a>
+[![setup and general analysis](https://img.shields.io/badge/setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/re/deepstruct)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2205.10475.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/wang-research-lab/deepstruct)
+[![GitHub](https://img.shields.io/badge/GitHub-DeepStruct-black?logo=github)](https://github.com/wang-research-lab/deepstruct)
 
 DEEPSTRUCT's methodology for relation extraction involves a sequence-to-sequence extraction approach using augmented natural languages. It formulates the task as two unit tasks: entity prediction to generate entities and relation prediction to generate relations, with a focus on generating triples for a wide set of structure prediction tasks in an end-to-end fashion. This approach decomposes structure prediction tasks into a collection of triple generation tasks, providing a unified representation for various structure prediction tasks without the need for introducing new data augmentation.
 
@@ -258,8 +268,10 @@ Base Model: GLM
 | ACE05 | ['PER-SOC', 'ART', 'ORG-AFF', 'GEN-AFF', 'PHYS', 'PART-WHOLE'] |
 
 ### [PL-Marker: Packed Levitated Marker for Entity and Relation Extraction]<a name="plmarker_re"></a>
+
+[![setup and general analysis](https://img.shields.io/badge/setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/blob/main/re/pl-marker/README.md)
 [![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2109.06067.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/thunlp/PL-Marker/tree/master?tab=readme-ov-file)
+[![GitHub](https://img.shields.io/badge/GitHub-PLMarker-black?logo=github)](https://github.com/thunlp/PL-Marker/tree/master?tab=readme-ov-file)
 
 PL-Marker is a method for entity and relation extraction. The key innovation is the strategic use of levitated markers in the encoding phase to model the interrelation between spans and span pairs. Levitated markers are pairs of markers associated with a span, sharing the same position embedding with the start and end tokens of the corresponding span. They are used to classify multiple pairs of entities simultaneously and accelerate the inference process. The document also introduces neighborhood-oriented and subject-oriented packing strategies to consider the interrelation between spans and span pairs, enhancing the modeling of entity boundary information and the interrelation between same-subject span pairs.
 
@@ -270,6 +282,8 @@ PL-Marker uses different models for each dataset among ACE 2004, ACE2005, and Sc
 | ACE04 | albert-xxlarge-v1 or bert-base-uncased | ['PER-SOC', 'OTHER-AFF', 'ART', 'GPE-AFF', 'EMP-ORG', 'PHYS'] |
 | ACE05 | albert-xxlarge-v1 or bert-base-uncased | ['PER-SOC', 'ART', 'ORG-AFF', 'GEN-AFF', 'PHYS', 'PART-WHOLE'] |
 | SciERC | scibert_scivocab_uncased | ['PART-OF', 'USED-FOR', 'FEATURE-OF', 'CONJUNCTION', 'EVALUATE-FOR', 'HYPONYM-OF', 'COMPARE'] |
+
+
 
 ---
 
