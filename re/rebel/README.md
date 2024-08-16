@@ -1,8 +1,7 @@
 ### REBEL Setup
 
-Github: https://github.com/Babelscape/rebel
-
-Paper: https://aclanthology.org/2021.findings-emnlp.204.pdf
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://aclanthology.org/2021.findings-emnlp.204.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Babelscape/rebel)
 
 Setup:
 

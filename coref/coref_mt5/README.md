@@ -1,8 +1,7 @@
 ### Coref_MT5 Setup
 
-Github: [https://github.com/google-research/google-research/tree/master/coref_mt5](https://github.com/google-research/google-research/tree/master/coref_mt5)
-
-Paper: [https://aclanthology.org/2023.tacl-1.13.pdf](https://aclanthology.org/2023.tacl-1.13.pdf)
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2211.12142v1.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/google-research/google-research/tree/master/coref_mt5)
 
 If you look at `colabs/coreference_decoder.ipyn` in the **coref_mt5** repo, you will see that the function to load the model and run inferences is not implemented. 
 We found a very helpful repository created by ianporada on Github, [https://github.com/ianporada/mt5_coref_pytorch](https://github.com/ianporada/mt5_coref_pytorch), which organizes the code in the notebook and fills in the missing model implementation in Pytorch.

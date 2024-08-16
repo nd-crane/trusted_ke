@@ -1,6 +1,6 @@
 ### ReFinED Setup
-Github: https://github.com/amazon-science/ReFinED
-Papers: https://arxiv.org/pdf/2207.04108.pdf, https://arxiv.org/pdf/2207.04106.pdf
+[![Papers](https://img.shields.io/badge/Papers-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2207.04108.pdf) [![Papers](https://img.shields.io/badge/Papers-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2207.04106.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/amazon-science/ReFinED)
 
 1. Get ReFinED
     1. `git clone git@github.com:amazon-science/ReFinED.git`

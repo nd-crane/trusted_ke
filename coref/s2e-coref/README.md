@@ -1,8 +1,7 @@
 ### s2e-coref Setup
 
-Github: https://github.com/yuvalkirstain/s2e-coref
-
-Paper: https://aclanthology.org/2021.acl-short.3.pdf
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://aclanthology.org/2021.acl-short.3.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/yuvalkirstain/s2e-coref)
 
 1. git submodule add git@github.com:yuvalkirstain/s2e-coref.git
 

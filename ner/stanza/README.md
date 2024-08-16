@@ -1,6 +1,7 @@
 ### Stanza Setup
 
-Documentation: https://stanfordnlp.github.io/stanza/ner.html
+[![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://stanfordnlp.github.io/stanza/ner.html) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/stanfordnlp/stanza/tree/main)
 
 1. Install stanza in a virtual environment
 

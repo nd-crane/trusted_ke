@@ -1,7 +1,8 @@
 ### NLTK Setup
 
-Documentation: https://www.nltk.org/api/nltk.chunk.ne_chunk.html \
-Documentation for chunk package: https://www.nltk.org/api/nltk.chunk.html
+[![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://www.nltk.org/api/nltk.chunk.ne_chunk.html) \
+[![Documentation for Chunk Package](https://img.shields.io/badge/Documentation%20for%20chunk%20package-View%20Here-blue?logo=readthedocs)](https://www.nltk.org/api/nltk.chunk.ne_chunk.html) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/nltk/nltk/tree/develop/nltk/chunk)
 
 1. Install nltk in a virtual environment
 

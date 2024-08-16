@@ -128,7 +128,7 @@ Model: flair/ner-english, flair/ner-english-ontonotes. Others available on [Hugg
 _Used by:_ BLINK
 
 #### [stanza NERProcessor]<a name="stanza_ner"></a>
-[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke)
+[![Setup and general analysis](https://img.shields.io/badge/Setup%20and%20general%20analysis-View%20Here-blue?logo=github)](https://github.com/nd-crane/trusted_ke/tree/main/ner/spacy)
 [![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://stanfordnlp.github.io/stanza/ner.html)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/stanfordnlp/stanza/tree/main)
 

@@ -1,8 +1,7 @@
 ### ASP Setup
 
-Github: https://github.com/lyutyuh/ASP
-
-Paper: https://arxiv.org/pdf/2210.14698.pdf
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2210.14698.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/lyutyuh/ASP)
 
 1. git submodule add git@github.com:lyutyuh/ASP.git
 

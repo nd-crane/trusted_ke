@@ -1,7 +1,7 @@
 # DeepStruct Setup
 
-### GitHub Repository
-Explore the full setup process on our [GitHub repository](https://github.com/wang-research-lab/deepstruct).
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2205.10475.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-DeepStruct-black?logo=github)](https://github.com/wang-research-lab/deepstruct)
 
 ### Overview
 

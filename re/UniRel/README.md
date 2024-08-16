@@ -1,8 +1,7 @@
 ### UniRel Setup
   
-Github: https://github.com/wtangdev/UniRel/tree/main
-
-Paper: https://arxiv.org/pdf/2211.09039.pdf
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2211.09039.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/wtangdev/UniRel/tree/main)
 
 Setup:
 

@@ -1,7 +1,7 @@
 ### Flair Setup
 
-Github: https://github.com/flairNLP/flair \
-Documentation: https://flairnlp.github.io/docs/intro
+[![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://flairnlp.github.io/docs/intro) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/flairNLP/flair)
 
 1. Simply run pip install flair in a virtual environment
 

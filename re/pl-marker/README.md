@@ -1,8 +1,7 @@
 ### Setup Process
 
-Github: https://github.com/thunlp/PL-Marker/tree/master?tab=readme-ov-file
-
-Paper: https://arxiv.org/pdf/2109.06067.pdf
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2109.06067.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-PLMarker-black?logo=github)](https://github.com/thunlp/PL-Marker/tree/master?tab=readme-ov-file)
 
 1. Create a python virtual environment inside pl-marker and activate
 

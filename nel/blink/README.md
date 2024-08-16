@@ -1,7 +1,7 @@
 ### Setup Process
 
-Github: https://github.com/facebookresearch/BLINK?tab=readme-ov-file
-Paper: https://arxiv.org/pdf/1911.03814.pdf
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/1911.03814.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/facebookresearch/BLINK)
 
 1. Create a new conda environment named blink6, activate it, and run: conda env update --file environment.yml -n blink6
 

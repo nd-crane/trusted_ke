@@ -1,5 +1,6 @@
 ### GENRE Setup
-GitHub: https://github.com/facebookresearch/GENRE
+[![Paper](https://img.shields.io/badge/Paper-Read%20Now-brightgreen?logo=academia)](https://arxiv.org/pdf/2010.00904.pdf) \
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/facebookresearch/GENRE)
 
 0. If not already in the genre directory:
     1. `mkdir genre`

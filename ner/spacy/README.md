@@ -1,7 +1,7 @@
 ### spaCy EntityRecognizer Setup
 
-Documentation: https://spacy.io/api/entityrecognizer \
-Pipeline documentation: https://spacy.io/usage/processing-pipelines
+[![Documentation](https://img.shields.io/badge/Documentation-View%20Here-blue?logo=readthedocs)](https://spacy.io/api/entityrecognizer) \
+[![Pipeline Documentation](https://img.shields.io/badge/Pipeline%20Documentation-View%20Here-blue?logo=readthedocs)](https://spacy.io/usage/processing-pipelines)
 
 1. Install spacy in a virtual environment
 
