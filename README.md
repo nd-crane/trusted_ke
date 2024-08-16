@@ -2,11 +2,14 @@
 # Trusted Knowledge Extraction for Maintenance and Manufacturing Intelligence
 
 University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI  
-**Authors**: Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Moreira, Eli Phillips, Paul Brenner, Charles Vardeman
+**Authors**: Kate Mealey, Jonathan Karr, Danny Finch, Alyssa Riter, Priscila Saboia Moreira, Eli Phillips, Paul Brenner, Charles Vardeman
 
 ## Table of Contents
 1. [Operations and Maintenance Intelligence (OMIN) Dataset](#omin-dataset)
-2. [NLP Evaluated Tools](#nlp-tool-evaluation)
+2. Evaluation of the NLP tools over the OMIN Dataset
+    - [Quantitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/quantitative)
+    - [Quanlitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/qualitative)
+5. [NLP Evaluated Tools](#nlp-tool-evaluation)
     - [Named Entity Recognition (NER)](#ner)
       - [spaCy EntityRecognizer](#spacy_ner)
       - [flair NER](#flair_ner)
@@ -31,7 +34,8 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
       - [DeepStruct](#deepstruct_re)
       - [PL-Marker (SciERC)](#plmarker_re)
    
-   
+![FAA Example](faa_example.png)
+
 ## Operations and Maintenance Intelligence (OMIN) Dataset <a name="omin-dataset"></a>
 
 We present the **Operations and Maintenance Intelligence (OMIN) Dataset**, which is based on raw FAA Accident/Incident data. The OMIN dataset is curated specifically for knowledge extraction (KE) in operations and maintenance, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand.
@@ -44,8 +48,14 @@ We present the **Operations and Maintenance Intelligence (OMIN) Dataset**, which
 
 By publicizing this dataset, we aim to provide a resource for the maintenance and manufacturing community and encourage collaboration toward a robust, open-source KE dataset for this domain.
 
-### Example:
-![FAA Example](faa_example.png)
+### Dataset's Authors
+[![Kate Mealey ORCID](https://img.shields.io/badge/Kate%20Mealey-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0008-1534-2587)
+[![Jonathan Karr ORCID](https://img.shields.io/badge/Jonathan%20Karr-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0000-1600-6122)
+[![Priscila Saboia Moreira ORCID](https://img.shields.io/badge/Priscila%20Saboia%20Moreira-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0001-6047-385X)
+[![Danny Finch ORCID](https://img.shields.io/badge/Danny%20Finch-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0001-2410-9890)
+[![Alyssa Riter ORCID](https://img.shields.io/badge/Alyssa%20Riter-ORCID-a6ce39?logo=orcid)](https://orcid.org/0009-0003-4319-4394)
+[![Paul Brenner ORCID](https://img.shields.io/badge/Paul%20Brenner-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0002-2568-9786)
+[![Charles Vardeman II ORCID](https://img.shields.io/badge/Charles%20Vardeman%20II-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0003-4091-6059)
 
 
 ##  Survey knowledge extraction tools for maintenance data <a name="nlp-tool-evaluation"></a>
