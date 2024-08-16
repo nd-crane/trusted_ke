@@ -1,6 +1,5 @@
 
 # Trusted Knowledge Extraction for Operations and Maintenance Intelligence
-
 University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI  
 
 ### Paper's Authors
@@ -19,14 +18,17 @@ University of Notre Dame | Center for Research Computing | NSWC Crane Trusted AI
 [![Paul Brenner ORCID](https://img.shields.io/badge/Paul%20Brenner-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0002-2568-9786)
 [![Charles Vardeman II ORCID](https://img.shields.io/badge/Charles%20Vardeman%20II-ORCID-a6ce39?logo=orcid)](https://orcid.org/0000-0003-4091-6059)
 
+### Dataset [![DOI](https://zenodo.org/badge/669778163.svg)](https://zenodo.org/doi/10.5281/zenodo.13333824)
+
 ## Table of Contents
 1. [Operations and Maintenance Intelligence (OMIn) Dataset](#OMIn-dataset)
-   
-2. Evaluation of the NLP tools over the OMIn Dataset
+    - [Key Features](#key_features)
+    - [How to Cite](#cite_dataset)
+3. Evaluation of the NLP tools over the OMIn Dataset
     - [Quantitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/quantitative/README.md)
     - [Quanlitative](https://github.com/nd-crane/trusted_ke/tree/main/evaluations/qualitative/README.md)
       
-3. [Knowledge extraction tools](#nlp-tool-evaluation)
+4. [Knowledge extraction tools](#nlp-tool-evaluation)
     - [Named Entity Recognition (NER)](#ner)
       - [spaCy EntityRecognizer](#spacy_ner)
       - [flair NER](#flair_ner)
@@ -62,13 +64,26 @@ We present the **Operations and Maintenance Intelligence (OMIn) Dataset**, based
 OMIn is curated for KE in operations and maintenance, featuring textual descriptions of maintenance incidents characterized by mentions of aircraft systems and domain-specific shorthand. 
 We release the [gold standards](https://github.com/nd-crane/trusted_ke/blob/main/OMIn_dataset/gold_standard/README.md) prepared for NER, CR, and NEL as part of OMIn. This baseline expands the portfolio in the operation and maintenance domains, since it offers records on a variety of subject matters, long enough to provide context and valuable information for extraction. OMIn is the first open-source dataset curated for KE in the operation and maintenance domains. It also contains structured data, such as details of the aircraft, failure codes, and dates. The structured data can be used in future work alongside the natural language text to develop an integrated and mutually validating KE approach. While OMIn is currently based on aviation maintenance incident data, this data has qualities common to many sets of records or logs in the operation and maintenance domains, making it a valuable baseline. By publicizing this dataset, we offer it to the community in the maintenance and manufacturing domain and invite collaboration toward a robust, open-source KE dataset for the domain.
 
-### Key Features:
+### Key Features:<a name="key_features"></a>
 - **Textual Descriptions**: Contains maintenance incident reports, including mentions of aircraft systems and domain-specific jargon.
 - **[Gold Standards](OMIn_dataset/gold_standard/README.md)**: Prepared for Named Entity Recognition (NER), Coreference Resolution (CR), and Named Entity Linking (NEL).
 - **Structured Data**: Includes details such as aircraft specifics, failure codes, and incident dates, which can be used alongside the natural language text for integrated KE approaches.
 - **Domain-Relevance**: While currently focused on aviation, the data has qualities common to other operation and maintenance records/logs, making it a valuable baseline for KE in these domains.
 
 By publicizing this dataset, we aim to provide a resource for the maintenance and manufacturing community and encourage collaboration toward a robust, open-source KE dataset for this domain.
+
+### How to Cite<a name="cite_dataset"></a>
+
+```bibtex
+@misc{Mealey_Operations_and_Maintenance_2024,
+author = {Mealey, Kathleen and Karr, Jonathan and Saboia Moreira, Priscila and Finch, Danny and Riter, Alyssa and Brenner, Paul and Vardeman II, Charles},
+doi = {10.5281/zenodo.13333825},
+month = aug,
+title = {{Operations and Maintenance Intelligence (OMIn) Dataset}},
+url = {https://zenodo.org/doi/10.5281/zenodo.13333824},
+year = {2024}
+}
+```
 
 ##  Knowledge extraction tools<a name="nlp-tool-evaluation"></a>
 
